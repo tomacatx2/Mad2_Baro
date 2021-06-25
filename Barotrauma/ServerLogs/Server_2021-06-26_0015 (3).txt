@@ -1,0 +1,104 @@
+﻿[6/25/2021 11:37:08 PM]
+  Starting the server...
+[6/25/2021 11:37:08 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[6/25/2021 11:37:09 PM]
+  Server started
+[6/25/2021 11:37:45 PM]
+  tomacatx1 has joined the server.
+[6/25/2021 11:37:45 PM]
+  Saving client permissions
+[6/25/2021 11:37:47 PM]
+  Gamemode changed to Campaign
+[6/25/2021 11:38:22 PM]
+  Starting a new round...
+[6/25/2021 11:38:32 PM]
+  Game mode: Campaign
+[6/25/2021 11:38:32 PM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/25/2021 11:38:32 PM]
+  Level seed: Anid
+[6/25/2021 11:38:32 PM]
+  Kerry Reynolds equipped Wrench
+[6/25/2021 11:38:32 PM]
+  Kerry Reynolds unequipped Wrench
+[6/25/2021 11:38:32 PM]
+  Kerry Reynolds equipped Screwdriver
+[6/25/2021 11:38:32 PM]
+  Lamont Radice equipped Wrench
+[6/25/2021 11:38:32 PM]
+  Lamont Radice unequipped Wrench
+[6/25/2021 11:38:32 PM]
+  Lamont Radice equipped Screwdriver
+[6/25/2021 11:38:33 PM]
+  Candace Hampton equipped Wrench
+[6/25/2021 11:38:33 PM]
+  Candace Hampton unequipped Wrench
+[6/25/2021 11:38:33 PM]
+  Candace Hampton equipped Screwdriver
+[6/25/2021 11:38:33 PM]
+  Devin Ram equipped Wrench
+[6/25/2021 11:38:33 PM]
+  Devin Ram unequipped Wrench
+[6/25/2021 11:38:33 PM]
+  Devin Ram equipped Screwdriver
+[6/25/2021 11:38:33 PM]
+  Devin Ram unequipped Screwdriver
+[6/25/2021 11:38:33 PM]
+  Devin Ram equipped Crowbar
+[6/25/2021 11:38:33 PM]
+  Lauren Hefner equipped Wrench
+[6/25/2021 11:38:33 PM]
+  Lauren Hefner unequipped Wrench
+[6/25/2021 11:38:33 PM]
+  Lauren Hefner equipped Screwdriver
+[6/25/2021 11:38:33 PM]
+  Thea Robertson equipped Screwdriver
+[6/25/2021 11:38:33 PM]
+  Arturo Rhymer equipped Screwdriver
+[6/25/2021 11:38:33 PM]
+  Kathy Huber equipped Wrench
+[6/25/2021 11:38:33 PM]
+  Claire Frye equipped Screwdriver
+[6/25/2021 11:38:33 PM]
+  Round started.
+[6/25/2021 11:38:34 PM]
+  Arturo Rhymer unequipped Screwdriver
+[6/25/2021 11:38:34 PM]
+  Claire Frye unequipped Screwdriver
+[6/25/2021 11:38:34 PM]
+  Kerry Reynolds unequipped Screwdriver
+[6/25/2021 11:38:34 PM]
+  Devin Ram unequipped Crowbar
+[6/25/2021 11:38:34 PM]
+  Kathy Huber unequipped Wrench
+[6/25/2021 11:38:35 PM]
+  Thea Robertson unequipped Screwdriver
+[6/25/2021 11:38:43 PM]
+  Claire Frye: Nice to see a friendly face! We don't get too many visitors around these parts.
+[6/25/2021 11:38:59 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/25/2021 11:39:20 PM]
+  Lauren Hefner: I read an old sailor's manual the other day.
+[6/25/2021 11:39:24 PM]
+  Lauren Hefner: Couldn't wrap my head around some parts because of all the weird, ancient terminology.
+[6/25/2021 11:39:25 PM]
+  Lamont Radice unequipped Screwdriver
+[6/25/2021 11:39:29 PM]
+  Lauren Hefner: For instance, what the hell is a starboard?
+[6/25/2021 11:39:56 PM]
+  Candace Hampton unequipped Screwdriver
+[6/25/2021 11:40:58 PM]
+  Client "tomacatx1" ended the round.
+[6/25/2021 11:40:59 PM]
+  Ending the round...
+[6/25/2021 11:40:59 PM]
+  Round ended.
+[6/25/2021 11:41:08 PM]
+  Gamemode changed to Sandbox
+[6/26/2021 12:15:50 AM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[6/26/2021 12:15:57 AM]
+  Saving banlist
+[6/26/2021 12:15:57 AM]
+  Shutting down the server...

@@ -65,9 +65,6 @@
       name="Vanilla 0.9" />
     <regular>
       <package
-        name="BOScore"
-        enabled="true" />
-      <package
         name="EK Gunnery"
         enabled="true" />
       <package
@@ -78,6 +75,48 @@
         enabled="true" />
       <package
         name="EK Armory"
+        enabled="true" />
+      <package
+        name="EK Dockyard"
+        enabled="true" />
+      <package
+        name="Remora-Pirate"
+        enabled="true" />
+      <package
+        name="MoreHeadgear"
+        enabled="true" />
+      <package
+        name="Seated Operators"
+        enabled="true" />
+      <package
+        name="Deep Sea Alcohol"
+        enabled="true" />
+      <package
+        name="Malborasek"
+        enabled="true" />
+      <package
+        name="Alto saxophone"
+        enabled="true" />
+      <package
+        name="Electric Guitar"
+        enabled="true" />
+      <package
+        name="BetterCharacterHeadFixed"
+        enabled="true" />
+      <package
+        name="ChessSet"
+        enabled="true" />
+      <package
+        name="MedOverhaul"
+        enabled="true" />
+      <package
+        name="CheckersSet"
+        enabled="true" />
+      <package
+        name="[BOS]Muisc"
+        enabled="true" />
+      <package
+        name="BOScore"
         enabled="true" />
       <package
         name="EKM_Myrith_Mk-I" />
@@ -126,50 +165,11 @@
       <package
         name="Thalassophobia" />
       <package
-        name="EK Dockyard"
-        enabled="true" />
-      <package
-        name="Remora-Pirate"
-        enabled="true" />
-      <package
         name="Pirate Kastrull" />
       <package
         name="Berilia pirate" />
       <package
         name="FreddyMod" />
-      <package
-        name="MoreHeadgear"
-        enabled="true" />
-      <package
-        name="Seated Operators"
-        enabled="true" />
-      <package
-        name="Deep Sea Alcohol"
-        enabled="true" />
-      <package
-        name="Malborasek"
-        enabled="true" />
-      <package
-        name="Alto saxophone"
-        enabled="true" />
-      <package
-        name="Electric Guitar"
-        enabled="true" />
-      <package
-        name="BetterCharacterHeadFixed"
-        enabled="true" />
-      <package
-        name="ChessSet"
-        enabled="true" />
-      <package
-        name="MedOverhaul"
-        enabled="true" />
-      <package
-        name="CheckersSet"
-        enabled="true" />
-      <package
-        name="[BOS]Muisc"
-        enabled="true" />
     </regular>
   </contentpackages>
   <keymapping
@@ -245,12 +245,12 @@
     </jobpreferences>
   </gameplay>
   <player
-    name="The Supreme Gentleman"
-    headindex="6"
+    name="tomacatx1"
+    headindex="3"
     gender="Male"
-    race="Asian"
-    hairindex="2"
-    beardindex="0"
+    race="White"
+    hairindex="1"
+    beardindex="1"
     moustacheindex="0"
     faceattachmentindex="0" />
   <tutorials />

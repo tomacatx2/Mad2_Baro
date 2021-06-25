@@ -1,0 +1,76 @@
+﻿[6/25/2021 11:34:04 PM]
+  Saving client permissions
+[6/25/2021 11:34:09 PM]
+  Gamemode changed to Campaign
+[6/25/2021 11:34:18 PM]
+  Starting a new round...
+[6/25/2021 11:34:36 PM]
+  Game mode: Campaign
+[6/25/2021 11:34:36 PM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/25/2021 11:34:36 PM]
+  Level seed: Anid
+[6/25/2021 11:34:36 PM]
+  Kerry Reynolds equipped Wrench
+[6/25/2021 11:34:36 PM]
+  Kerry Reynolds unequipped Wrench
+[6/25/2021 11:34:36 PM]
+  Kerry Reynolds equipped Screwdriver
+[6/25/2021 11:34:36 PM]
+  Lamont Radice equipped Wrench
+[6/25/2021 11:34:36 PM]
+  Lamont Radice unequipped Wrench
+[6/25/2021 11:34:36 PM]
+  Lamont Radice equipped Screwdriver
+[6/25/2021 11:34:36 PM]
+  Candace Hampton equipped Wrench
+[6/25/2021 11:34:37 PM]
+  Candace Hampton unequipped Wrench
+[6/25/2021 11:34:37 PM]
+  Candace Hampton equipped Screwdriver
+[6/25/2021 11:34:37 PM]
+  Devin Ram equipped Wrench
+[6/25/2021 11:34:37 PM]
+  Devin Ram unequipped Wrench
+[6/25/2021 11:34:37 PM]
+  Devin Ram equipped Screwdriver
+[6/25/2021 11:34:37 PM]
+  Devin Ram unequipped Screwdriver
+[6/25/2021 11:34:37 PM]
+  Devin Ram equipped Crowbar
+[6/25/2021 11:34:37 PM]
+  Lauren Hefner equipped Wrench
+[6/25/2021 11:34:37 PM]
+  Lauren Hefner unequipped Wrench
+[6/25/2021 11:34:37 PM]
+  Lauren Hefner equipped Screwdriver
+[6/25/2021 11:34:38 PM]
+  Thea Robertson equipped Screwdriver
+[6/25/2021 11:34:38 PM]
+  Arturo Rhymer equipped Screwdriver
+[6/25/2021 11:34:38 PM]
+  Kathy Huber equipped Wrench
+[6/25/2021 11:34:38 PM]
+  Claire Frye equipped Screwdriver
+[6/25/2021 11:34:38 PM]
+  Round started.
+[6/25/2021 11:34:38 PM]
+  Thea Robertson unequipped Screwdriver
+[6/25/2021 11:34:38 PM]
+  Kathy Huber unequipped Wrench
+[6/25/2021 11:34:38 PM]
+  Kerry Reynolds unequipped Screwdriver
+[6/25/2021 11:34:38 PM]
+  Arturo Rhymer unequipped Screwdriver
+[6/25/2021 11:34:38 PM]
+  Claire Frye unequipped Screwdriver
+[6/25/2021 11:34:38 PM]
+  Devin Ram unequipped Crowbar
+[6/25/2021 11:34:38 PM]
+  Thea Robertson: Nice to see a friendly face! We don't get too many visitors around these parts.
+[6/25/2021 11:34:46 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/25/2021 11:35:12 PM]
+  Candace Hampton unequipped Screwdriver
+[6/25/2021 11:35:15 PM]
+  Candace Hampton: Do you think we should get some plants around here?

@@ -1,0 +1,168 @@
+﻿[6/25/2021 11:24:22 PM]
+  Saving client permissions
+[6/25/2021 11:24:22 PM]
+  Saving client permissions
+[6/25/2021 11:24:26 PM]
+  Gamemode changed to Campaign
+[6/25/2021 11:24:26 PM]
+  Gamemode changed to Campaign
+[6/25/2021 11:24:34 PM]
+  Starting a new round...
+[6/25/2021 11:25:00 PM]
+  Game mode: Campaign
+[6/25/2021 11:25:00 PM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/25/2021 11:25:00 PM]
+  Level seed: Anid
+[6/25/2021 11:25:00 PM]
+  Kerry Reynolds equipped Wrench
+[6/25/2021 11:25:00 PM]
+  Kerry Reynolds unequipped Wrench
+[6/25/2021 11:25:00 PM]
+  Kerry Reynolds equipped Screwdriver
+[6/25/2021 11:25:00 PM]
+  Lamont Radice equipped Wrench
+[6/25/2021 11:25:00 PM]
+  Lamont Radice unequipped Wrench
+[6/25/2021 11:25:00 PM]
+  Lamont Radice equipped Screwdriver
+[6/25/2021 11:25:00 PM]
+  Candace Hampton equipped Wrench
+[6/25/2021 11:25:02 PM]
+  Candace Hampton unequipped Wrench
+[6/25/2021 11:25:02 PM]
+  Candace Hampton equipped Screwdriver
+[6/25/2021 11:25:02 PM]
+  Devin Ram equipped Wrench
+[6/25/2021 11:25:02 PM]
+  Devin Ram unequipped Wrench
+[6/25/2021 11:25:02 PM]
+  Devin Ram equipped Screwdriver
+[6/25/2021 11:25:02 PM]
+  Devin Ram unequipped Screwdriver
+[6/25/2021 11:25:02 PM]
+  Devin Ram equipped Crowbar
+[6/25/2021 11:25:02 PM]
+  Lauren Hefner equipped Wrench
+[6/25/2021 11:25:02 PM]
+  Lauren Hefner unequipped Wrench
+[6/25/2021 11:25:02 PM]
+  Lauren Hefner equipped Screwdriver
+[6/25/2021 11:25:03 PM]
+  Thea Robertson equipped Screwdriver
+[6/25/2021 11:25:03 PM]
+  Arturo Rhymer equipped Screwdriver
+[6/25/2021 11:25:03 PM]
+  Kathy Huber equipped Wrench
+[6/25/2021 11:25:03 PM]
+  Claire Frye equipped Screwdriver
+[6/25/2021 11:25:03 PM]
+  Round started.
+[6/25/2021 11:25:03 PM]
+  Muoi Maynard equipped Wrench
+[6/25/2021 11:25:03 PM]
+  Thea Robertson unequipped Screwdriver
+[6/25/2021 11:25:03 PM]
+  Kathy Huber unequipped Wrench
+[6/25/2021 11:25:03 PM]
+  Muoi Maynard unequipped Wrench
+[6/25/2021 11:25:03 PM]
+  Claire Frye unequipped Screwdriver
+[6/25/2021 11:25:04 PM]
+  Kerry Reynolds unequipped Screwdriver
+[6/25/2021 11:25:04 PM]
+  Devin Ram unequipped Crowbar
+[6/25/2021 11:25:04 PM]
+  Arturo Rhymer unequipped Screwdriver
+[6/25/2021 11:25:11 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/25/2021 11:25:16 PM]
+  Client "The Supreme Gentleman" ended the round.
+[6/25/2021 11:25:16 PM]
+  Ending the round...
+[6/25/2021 11:25:16 PM]
+  Round ended.
+[6/25/2021 11:25:41 PM]
+  Gamemode changed to Sandbox
+[6/25/2021 11:25:48 PM]
+  Player The Supreme Gentleman has changed their name to tomacatx1.
+[6/25/2021 11:26:47 PM]
+  Gamemode changed to Campaign
+[6/25/2021 11:26:52 PM]
+  Starting a new round...
+[6/25/2021 11:27:08 PM]
+  Game mode: Campaign
+[6/25/2021 11:27:08 PM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/25/2021 11:27:08 PM]
+  Level seed: Anid
+[6/25/2021 11:27:08 PM]
+  Kerry Reynolds equipped Wrench
+[6/25/2021 11:27:08 PM]
+  Kerry Reynolds unequipped Wrench
+[6/25/2021 11:27:08 PM]
+  Kerry Reynolds equipped Screwdriver
+[6/25/2021 11:27:08 PM]
+  Lamont Radice equipped Wrench
+[6/25/2021 11:27:08 PM]
+  Lamont Radice unequipped Wrench
+[6/25/2021 11:27:08 PM]
+  Lamont Radice equipped Screwdriver
+[6/25/2021 11:27:08 PM]
+  Candace Hampton equipped Wrench
+[6/25/2021 11:27:08 PM]
+  Candace Hampton unequipped Wrench
+[6/25/2021 11:27:08 PM]
+  Candace Hampton equipped Screwdriver
+[6/25/2021 11:27:08 PM]
+  Devin Ram equipped Wrench
+[6/25/2021 11:27:08 PM]
+  Devin Ram unequipped Wrench
+[6/25/2021 11:27:08 PM]
+  Devin Ram equipped Screwdriver
+[6/25/2021 11:27:08 PM]
+  Devin Ram unequipped Screwdriver
+[6/25/2021 11:27:08 PM]
+  Devin Ram equipped Crowbar
+[6/25/2021 11:27:08 PM]
+  Lauren Hefner equipped Wrench
+[6/25/2021 11:27:08 PM]
+  Lauren Hefner unequipped Wrench
+[6/25/2021 11:27:08 PM]
+  Lauren Hefner equipped Screwdriver
+[6/25/2021 11:27:09 PM]
+  Thea Robertson equipped Screwdriver
+[6/25/2021 11:27:09 PM]
+  Arturo Rhymer equipped Screwdriver
+[6/25/2021 11:27:09 PM]
+  Kathy Huber equipped Wrench
+[6/25/2021 11:27:09 PM]
+  Claire Frye equipped Screwdriver
+[6/25/2021 11:27:09 PM]
+  Round started.
+[6/25/2021 11:27:09 PM]
+  Margaret Cluck equipped Screwdriver
+[6/25/2021 11:27:09 PM]
+  Kerry Reynolds unequipped Screwdriver
+[6/25/2021 11:27:09 PM]
+  Margaret Cluck unequipped Screwdriver
+[6/25/2021 11:27:09 PM]
+  Devin Ram unequipped Crowbar
+[6/25/2021 11:27:09 PM]
+  Thea Robertson unequipped Screwdriver
+[6/25/2021 11:27:10 PM]
+  Arturo Rhymer unequipped Screwdriver
+[6/25/2021 11:27:10 PM]
+  Claire Frye unequipped Screwdriver
+[6/25/2021 11:27:10 PM]
+  Kathy Huber unequipped Wrench
+[6/25/2021 11:27:10 PM]
+  Arturo Rhymer: Oh, we've got visitors again.
+[6/25/2021 11:27:17 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/25/2021 11:27:31 PM]
+  Candace Hampton unequipped Screwdriver
+[6/25/2021 11:27:47 PM]
+  Ulof Fleig: Is it just me or is the sound of water really loud here?
+[6/25/2021 11:27:52 PM]
+  Arturo Rhymer: Are you sure you're not just hearing things?

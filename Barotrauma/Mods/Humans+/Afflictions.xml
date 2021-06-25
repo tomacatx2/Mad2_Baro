@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Afflictions>
+  <Affliction
+    name="Hunger"
+    identifier="hunger"
+	description="Food Necessity."
+    type="hunger"
+	causeofdeathdescription="Starved."
+	selfcauseofdeathdescription="You've starved."
+    limbspecific="false"
+    indicatorlimb="Torso"
+    showiconthreshold="0"
+    karmachangeonapplied="0"
+    maxstrength="200">
+    <!-- Slow the player down -->
+    <Effect minstrength="0" maxstrength="30"
+      strengthchange="0.03">
+    </Effect>
+    <Effect minstrength="30" maxstrength="50"
+	  dialogflag="Hungry"
+      strengthchange="0.02"
+      minscreendistort="0.0"
+      maxscreendistort="0.1"
+      minscreenblur="0.0"
+      maxscreenblur="0.1">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.8"/>
+    </Effect>
+    <Effect minstrength="50" maxstrength="70"
+	  dialogflag="Hungry"
+      strengthchange="0.02"
+      minscreendistort="0.1"
+      maxscreendistort="0.2"
+      minscreenblur="0.1"
+      maxscreenblur="0.2">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.7"/>
+    </Effect>
+    <Effect minstrength="70" maxstrength="80"
+	  dialogflag="Very Hungry"
+      strengthchange="0.02"
+      minscreendistort="0.2"
+      maxscreendistort="0.3"
+      minscreenblur="0.2"
+      maxscreenblur="0.3">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.6"/>
+    </Effect>
+    <Effect minstrength="90" maxstrength="100"
+	  dialogflag="Very Hungry"
+      strengthchange="0.02"
+      minscreendistort="0.3"
+      maxscreendistort="0.4"
+      minscreenblur="0.3"
+      maxscreenblur="0.4">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.5"/>
+    </Effect>
+    <Effect minstrength="100" maxstrength="200" multiplybymaxvitality="true"
+	  dialogflag="Starving"
+	  minvitalitydecrease="0"
+	  maxvitalitydecrease="1"
+      strengthchange="0.02"
+      minscreendistort="0.4"
+      maxscreendistort="0.5"
+      minscreenblur="0.4"
+      maxscreenblur="0.5">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.5"/>
+    </Effect>
+    <icon texture="Mods/Humans+/HungerIcon.png" sourcerect="0,0,128,128" color="0,255,0,255" origin="0,0"/>
+  </Affliction>
+  <Affliction
+    name="Thirst"
+    identifier="thirst"
+	description="Drink Necessity."
+    type="thirst"
+	causeofdeathdescription="Died of thirst."
+	selfcauseofdeathdescription="You've died of thirst."
+    limbspecific="false"
+    indicatorlimb="Head"
+    showiconthreshold="0"
+    karmachangeonapplied="0"
+    maxstrength="150">
+    <!-- Slow the player down -->
+    <Effect minstrength="0" maxstrength="30"
+      strengthchange="0.04">
+    </Effect>
+    <Effect minstrength="30" maxstrength="50"
+	  dialogflag="Thirsty"
+      strengthchange="0.03"
+      minscreenblur="0.0"
+      maxscreenblur="0.1">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.9"/>
+    </Effect>
+    <Effect minstrength="50" maxstrength="70"
+	  dialogflag="Thirsty"
+      strengthchange="0.03"
+      minscreenblur="0.1"
+      maxscreenblur="0.2">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.8"/>
+    </Effect>
+    <Effect minstrength="70" maxstrength="80"
+	  dialogflag="Very Thirsty"
+      strengthchange="0.03"
+      minscreenblur="0.2"
+      maxscreenblur="0.3">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.7"/>
+    </Effect>
+    <Effect minstrength="90" maxstrength="100"
+	  dialogflag="Very Thirsty"
+      strengthchange="0.03"
+      minscreenblur="0.3"
+      maxscreenblur="0.4">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.6"/>
+    </Effect>
+    <Effect minstrength="100" maxstrength="150" multiplybymaxvitality="true"
+	  dialogflag="Withering"
+	  minvitalitydecrease="0"
+	  maxvitalitydecrease="1"
+      strengthchange="0.03"
+      minscreenblur="0.4"
+      maxscreenblur="0.5">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.5"/>
+    </Effect>
+    <icon texture="Mods/Humans+/ThirstIcon.png" sourcerect="0,0,128,128" color="0,255,0,255" origin="0,0"/>
+  </Affliction>
+</Afflictions>

@@ -1,0 +1,206 @@
+﻿[6/24/2021 5:36:18 PM]
+  Saving client permissions
+[6/24/2021 5:36:18 PM]
+  Saving client permissions
+[6/24/2021 5:36:23 PM]
+  Gamemode changed to Campaign
+[6/24/2021 5:36:23 PM]
+  Gamemode changed to Campaign
+[6/24/2021 5:36:29 PM]
+  The Supreme Gentleman is ready to start the game.
+[6/24/2021 5:36:30 PM]
+  Starting a new round...
+[6/24/2021 5:36:30 PM]
+  The Supreme Gentleman is not ready to start the game.
+[6/24/2021 5:36:47 PM]
+  Game mode: Campaign
+[6/24/2021 5:36:47 PM]
+  Submarine: ECS. Hammerhead var A v1 re-5
+[6/24/2021 5:36:47 PM]
+  Level seed: Couwola
+[6/24/2021 5:36:47 PM]
+  Bennie Basnett equipped Wrench
+[6/24/2021 5:36:47 PM]
+  Bennie Basnett unequipped Wrench
+[6/24/2021 5:36:47 PM]
+  Bennie Basnett equipped Screwdriver
+[6/24/2021 5:36:47 PM]
+  Lauren Bergman equipped Wrench
+[6/24/2021 5:36:47 PM]
+  Lauren Bergman unequipped Wrench
+[6/24/2021 5:36:47 PM]
+  Lauren Bergman equipped Screwdriver
+[6/24/2021 5:36:47 PM]
+  Leanne Dews equipped Wrench
+[6/24/2021 5:36:47 PM]
+  Leanne Dews unequipped Wrench
+[6/24/2021 5:36:47 PM]
+  Leanne Dews equipped Screwdriver
+[6/24/2021 5:36:47 PM]
+  Lamont Stein equipped Wrench
+[6/24/2021 5:36:47 PM]
+  Lamont Stein unequipped Wrench
+[6/24/2021 5:36:47 PM]
+  Lamont Stein equipped Screwdriver
+[6/24/2021 5:36:47 PM]
+  Lamont Stein unequipped Screwdriver
+[6/24/2021 5:36:47 PM]
+  Lamont Stein equipped Crowbar
+[6/24/2021 5:36:47 PM]
+  Priscilla Bergman equipped Wrench
+[6/24/2021 5:36:47 PM]
+  Priscilla Bergman unequipped Wrench
+[6/24/2021 5:36:47 PM]
+  Priscilla Bergman equipped Screwdriver
+[6/24/2021 5:36:49 PM]
+  Alvaro Blakley equipped Wrench
+[6/24/2021 5:36:49 PM]
+  Quincy Graves equipped Crowbar
+[6/24/2021 5:36:49 PM]
+  Alan Larsen equipped Crowbar
+[6/24/2021 5:36:49 PM]
+  Neal Gallardo equipped Wrench
+[6/24/2021 5:36:49 PM]
+  Round started.
+[6/24/2021 5:36:49 PM]
+  Sergei Basnett equipped Screwdriver
+[6/24/2021 5:36:49 PM]
+  Marcy Lavey equipped Wrench
+[6/24/2021 5:36:49 PM]
+  Alvaro Blakley unequipped Wrench
+[6/24/2021 5:36:49 PM]
+  Lamont Stein unequipped Crowbar
+[6/24/2021 5:36:49 PM]
+  Quincy Graves unequipped Crowbar
+[6/24/2021 5:36:50 PM]
+  Sergei Basnett unequipped Screwdriver
+[6/24/2021 5:36:50 PM]
+  Marcy Lavey unequipped Wrench
+[6/24/2021 5:36:50 PM]
+  Neal Gallardo unequipped Wrench
+[6/24/2021 5:36:50 PM]
+  Bennie Basnett unequipped Screwdriver
+[6/24/2021 5:36:50 PM]
+  Alan Larsen unequipped Crowbar
+[6/24/2021 5:36:50 PM]
+  Quincy Graves: Can I put all my annoying problems inside a decoy?
+[6/24/2021 5:37:09 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 5:37:14 PM]
+  Client "The Supreme Gentleman" ended the round.
+[6/24/2021 5:37:14 PM]
+  Ending the round...
+[6/24/2021 5:37:14 PM]
+  Round ended.
+[6/24/2021 5:37:29 PM]
+  Gamemode changed to Sandbox
+[6/24/2021 5:37:35 PM]
+  Gamemode changed to Campaign
+[6/24/2021 5:37:35 PM]
+  Gamemode changed to Campaign
+[6/24/2021 5:37:35 PM]
+  Gamemode changed to Campaign
+[6/24/2021 5:37:35 PM]
+  Gamemode changed to Campaign
+[6/24/2021 5:37:40 PM]
+  The Supreme Gentleman is ready to start the game.
+[6/24/2021 5:37:40 PM]
+  The Supreme Gentleman is not ready to start the game.
+[6/24/2021 5:37:43 PM]
+  Starting a new round...
+[6/24/2021 5:38:01 PM]
+  Game mode: Campaign
+[6/24/2021 5:38:01 PM]
+  Submarine: ECS. Hammerhead var A v1 re-6
+[6/24/2021 5:38:01 PM]
+  Level seed: Zamoroska
+[6/24/2021 5:38:01 PM]
+  Bell Box equipped Wrench
+[6/24/2021 5:38:01 PM]
+  Bell Box unequipped Wrench
+[6/24/2021 5:38:01 PM]
+  Bell Box equipped Screwdriver
+[6/24/2021 5:38:01 PM]
+  Seth Bushman equipped Wrench
+[6/24/2021 5:38:01 PM]
+  Seth Bushman unequipped Wrench
+[6/24/2021 5:38:01 PM]
+  Seth Bushman equipped Screwdriver
+[6/24/2021 5:38:01 PM]
+  Jerald Hutchinson equipped Wrench
+[6/24/2021 5:38:01 PM]
+  Jerald Hutchinson unequipped Wrench
+[6/24/2021 5:38:01 PM]
+  Jerald Hutchinson equipped Screwdriver
+[6/24/2021 5:38:01 PM]
+  Todd Stalvey equipped Wrench
+[6/24/2021 5:38:01 PM]
+  Todd Stalvey unequipped Wrench
+[6/24/2021 5:38:01 PM]
+  Todd Stalvey equipped Screwdriver
+[6/24/2021 5:38:01 PM]
+  Todd Stalvey unequipped Screwdriver
+[6/24/2021 5:38:01 PM]
+  Todd Stalvey equipped Crowbar
+[6/24/2021 5:38:01 PM]
+  Reed Mansfield equipped Wrench
+[6/24/2021 5:38:01 PM]
+  Reed Mansfield unequipped Wrench
+[6/24/2021 5:38:01 PM]
+  Reed Mansfield equipped Screwdriver
+[6/24/2021 5:38:02 PM]
+  Creola Lozano equipped Crowbar
+[6/24/2021 5:38:02 PM]
+  Seth Severance equipped Wrench
+[6/24/2021 5:38:02 PM]
+  David Linares equipped Screwdriver
+[6/24/2021 5:38:02 PM]
+  Round started.
+[6/24/2021 5:38:02 PM]
+  Antony Keller equipped Wrench
+[6/24/2021 5:38:02 PM]
+  Tod Graves equipped Screwdriver
+[6/24/2021 5:38:02 PM]
+  Keri Stanley equipped Wrench
+[6/24/2021 5:38:02 PM]
+  Criselda Mead equipped Screwdriver
+[6/24/2021 5:38:02 PM]
+  Antony Keller unequipped Wrench
+[6/24/2021 5:38:02 PM]
+  Criselda Mead unequipped Screwdriver
+[6/24/2021 5:38:04 PM]
+  Todd Stalvey unequipped Crowbar
+[6/24/2021 5:38:04 PM]
+  Seth Severance unequipped Wrench
+[6/24/2021 5:38:04 PM]
+  Bell Box unequipped Screwdriver
+[6/24/2021 5:38:04 PM]
+  Tod Graves unequipped Screwdriver
+[6/24/2021 5:38:04 PM]
+  David Linares unequipped Screwdriver
+[6/24/2021 5:38:04 PM]
+  Keri Stanley unequipped Wrench
+[6/24/2021 5:38:04 PM]
+  Creola Lozano unequipped Crowbar
+[6/24/2021 5:38:04 PM]
+  Dorsey Vaughn: What do you think about the outpost design around here?
+[6/24/2021 5:38:04 PM]
+  Jaida Knowles: It's not any less of a tin can just because it doesn't move.
+[6/24/2021 5:38:24 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 5:38:26 PM]
+  Console command "freecam" executed by The Supreme Gentleman.
+[6/24/2021 5:38:41 PM]
+  Console command "control "The Supreme Gentleman"" executed by The Supreme Gentleman.
+[6/24/2021 5:38:44 PM]
+  Console command "enablecheats" executed by The Supreme Gentleman.
+[6/24/2021 5:38:46 PM]
+  Console command "control "The Supreme Gentleman"" executed by The Supreme Gentleman.
+[6/24/2021 5:40:17 PM]
+  Client "The Supreme Gentleman" ended the round.
+[6/24/2021 5:40:17 PM]
+  Ending the round...
+[6/24/2021 5:40:17 PM]
+  Round ended.
+[6/24/2021 5:40:34 PM]
+  Gamemode changed to Sandbox

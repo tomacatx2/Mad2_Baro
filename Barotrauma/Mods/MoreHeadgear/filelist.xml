@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="MoreHeadgear" path="Mods/MoreHeadgear/filelist.xml" corepackage="false" gameversion="0.11.0.10" steamworkshopid="2291500113" installtime="1610206619">
+  <Item file="Mods/MoreHeadgear/MoreHeadgear.xml" />
+  <None file="Mods/MoreHeadgear/MoreHeadgear.png" />
+  <Item file="Mods/MoreHeadgear/MoreMoreHeadgear.xml" />
+  <None file="Mods/MoreHeadgear/MoreMoreHeadgear.png" />
+  <Item file="Mods/MoreHeadgear/MoreMoreMoreHeadgear.xml" />
+  <None file="Mods/MoreHeadgear/MoreMoreMoreHeadgear.png" />
+  <Item file="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.xml" />
+  <None file="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" />
+  <Item file="Mods/MoreHeadgear/MoreMoreMoreMoreMoreHeadgear.xml" />
+  <None file="Mods/MoreHeadgear/MoreMoreMoreMoreMoreHeadgear.png" />
+</contentpackage>

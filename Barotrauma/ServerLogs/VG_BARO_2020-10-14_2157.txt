@@ -1,0 +1,10 @@
+﻿[10/14/2020 9:56:41 PM]
+  Starting the server...
+[10/14/2020 9:56:41 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[10/14/2020 9:56:42 PM]
+  Server started
+[10/14/2020 9:57:10 PM]
+  Saving banlist
+[10/14/2020 9:57:10 PM]
+  Shutting down the server...

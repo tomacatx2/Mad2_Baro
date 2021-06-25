@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Items>
+
+  <!-- Heavy Turret Weapons -->
+
+  <Item name="Heavy Turret Hardpoint" identifier="ekgunnery_newheavyhardpoint" 
+		description="An empty weapon station heavy turrets can be installed on."
+		Tags="ekgunnery_heavyturret,turret" category="Machine" linkable="true" allowedlinks="ekgunnery_heavyammosource" interactthroughwalls="true" Scale="0.5" interactdistance="10" spritecolor="255,255,255,255" >
+    <Sprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_heavyrailgun.png" depth="0.01" sourcerect="0,800,480,128" canflipy="false" />
+    <SwappableItem price="0" origin="240,104" swapidentifier="heavyturret">
+      <SchematicSprite texture="Mods/EK Gunnery/UI/ekgunnery_heavyturretschematics1.png" sourcerect="16,896,480,128" />
+      <SwapConnectedItem tag="periscope" swapto="blankperiscope" />
+      <!--<SwapConnectedItem tag="ekgunnery_heavyammosource" swapto="ekgunnery_newheavyblankloader" />-->
+      <SwapConnectedItem tag="ekgunnery_heavyammosource" swapto="blankloader" />
+    </SwappableItem>
+    <UpgradePreviewSprite scale="3.0" texture="Mods/EK Gunnery/UI/ekgunnery_heavyturretui1.png" sourcerect="0,208,80,32" origin="0.5,0.5" />
+    <StaticBody width="80" radius="80" />
+    <Turret canbeselected="false" characterusable="false" linkable="true" barrelpos="240,0" >
+      <LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="5120" IsOn="true" drawbehindsubs="true" ignorecontinuoustoggle="true">
+        <LightTexture texture="Content/Lights/alphaOne.png" />
+      </LightComponent>
+    </Turret>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="position_in" displayname="connection.turretaimingin" />
+      <input name="trigger_in" displayname="connection.turrettriggerin" />
+      <input name="toggle_light" displayname="connection.togglelight" />
+      <input name="set_light" displayname="connection.setlight" />
+    </ConnectionPanel>
+  </Item>
+
+  <Item name="Heavy Railgun" identifier="ekgunnery_newheavyrailgunturret" 
+  description="Large diameter railgun with formidable stopping power. Requires an even greater energy supply to fire than a standard railgun." 
+  Tags="ekgunnery_heavyrailgun,turret" category="Machine" interactthroughwalls="true" Scale="0.5" interactdistance="10" focusonselected="true" offsetonselected="1100" linkable="true" allowedlinks="railgunammosource,ekgunnery_heavyrailgunammosource,ekgunnery_heavyrailgunequipment">
+    <Sprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_heavyrailgun.png" depth="0.01" sourcerect="0,0,480,480" canflipy="false" />
+    <MinimapIcon name="Command_Weapons_EkGunnery_HeavyRailgun" texture="Mods/EK Gunnery/UI/ekgunnery_heavyturretui1.png" sourcerect="0,0,128,128" />
+    <SwappableItem price="7500" replacementonuninstall="ekgunnery_newheavyhardpoint" origin="240,448" swapidentifier="heavyturret">
+      <SchematicSprite texture="Mods/EK Gunnery/UI/ekgunnery_heavyturretschematics1.png" sourcerect="16,0,480,892" />
+      <SwapConnectedItem tag="periscope" swapto="periscope" />
+      <SwapConnectedItem tag="ekgunnery_heavyammosource" swapto="ekgunnery_newheavyrailgunloader" />
+    </SwappableItem>
+    <UpgradePreviewSprite scale="3.0" texture="Mods/EK Gunnery/UI/ekgunnery_heavyturretui1.png" sourcerect="0,136,112,72" origin="0.5,0.5" />
+    <StaticBody width="160" radius="160" />
+    <Turret canbeselected="false" characterusable="false" linkable="true" barrelpos="240,208" rotationlimits="180,360" powerconsumption="35000.0" showchargeindicator="true" showprojectileindicator="true" recoildistance="200" springstiffnesslowskill="2" springstiffnesshighskill="50" springdampinglowskill="0.5" springdampinghighskill="10" rotationspeedlowskill="0.5" rotationspeedhighskill="2.0"
+	firingoffset="0,-350" usefiringoffsetformuzzleflash="false" >
+      <sound file="Mods/EK Gunnery/Items/Weapons/railgunheavy1.ogg" range="10000" type="OnUse" />
+      <sound file="Mods/EK Gunnery/Items/Weapons/railgunheavy2.ogg" range="10000" type="OnUse" />
+      <sound file="Mods/EK Gunnery/Items/Weapons/railgunheavy3.ogg" range="10000" type="OnUse" />
+      <StatusEffect type="OnUse" target="This">
+        <Explosion range="5000.0" structuredamage="0" force="0.01" camerashake="10.0" flames="false" smoke="false" sparks="false" underwaterbubble="false" />
+      </StatusEffect>
+      <!--<RailSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_heavyrailgun.png" origin="0.5, 1" sourcerect="512,672,128,64" depth="0.009" />-->
+      <RailSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_heavyrailgun.png" origin="0.5, 0.7" sourcerect="0,480,480,320" depth="0.011" />
+      <BarrelSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_heavyrailgun.png" origin="0.5, 1.0" sourcerect="480,0,384,656" depth="0.012" />
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,0,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,0,256,256" />
+      <MoveSound file="Content/Items/Weapons/RailgunLoop.ogg" />
+      <StartMoveSound file="Content/Items/Weapons/RailgunStart.ogg" />
+      <EndMoveSound file="Content/Items/Weapons/RailgunStop.ogg" />
+      <RequiredSkill identifier="weapons" level="50" />
+      <LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="5120" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_verythin.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>
+      <ParticleEmitter particle="ekgunnerymuzzleflashrailgunheavy" particleamount="1" velocitymin="50" velocitymax="100" />
+	  <ParticleEmitter particle="ekgunnerymuzzlebreakrailgunheavy" particleamount="1" velocitymin="50" velocitymax="100" />
+    </Turret>
+    <aitarget maxsightrange="3000" maxsoundrange="10000" fadeouttime="5" />
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="position_in" displayname="connection.turretaimingin" />
+      <input name="trigger_in" displayname="connection.turrettriggerin" />
+      <input name="toggle_light" displayname="connection.togglelight"/>
+      <input name="set_light" displayname="connection.setlight" />
+    </ConnectionPanel>
+  </Item>
+
+</Items>

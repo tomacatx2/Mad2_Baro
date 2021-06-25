@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="[ENV] Beacons Extended" path="Mods/[ENV] Beacons Extended/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2389600483" installtime="1621241858">
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconEK1.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconEK2.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconMOR1.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconMS1.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconRAV1.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconRAV2.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconRD1.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconRD2.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconRD3.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSB1.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSB2.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSING1.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSING1B.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSING2.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSING3.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSING4.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSING5.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconSING6.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconDUC.sub" />
+  <BeaconStation file="Mods/[ENV] Beacons Extended/BeaconStations/BeaconCRO1.sub" />
+</contentpackage>

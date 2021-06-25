@@ -1,0 +1,8 @@
+<Charactervariant inherit="Mudraptor_unarmored" speciesname="Mudraptor_hatchling" speciestranslationoverride="Mudraptor" texture="Content/Characters/Variants/Mudraptor_hatchling/Mudraptorhatchling.png">
+  <health vitality="60"/>
+  <ragdoll scalemultiplier="0.5"/>
+  <attack damagemultiplier="0.25"/>
+  <animations folder="Content/Characters/Variants/Mudraptor_hatchling/Animations/"/>
+  <ai combatstrength="110"/>
+  <inventory/>
+</Charactervariant>

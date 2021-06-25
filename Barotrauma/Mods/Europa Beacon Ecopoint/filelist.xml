@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Europa Beacon Ecopoint" path="Mods/Europa Beacon Ecopoint/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2477861765" installtime="1620232280">
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 10.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 2.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 3.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 4.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 5.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 6.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 7.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 8.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa 9.sub" />
+  <BeaconStation file="Mods/Europa Beacon Ecopoint/Ecopoint Europa.sub" />
+</contentpackage>

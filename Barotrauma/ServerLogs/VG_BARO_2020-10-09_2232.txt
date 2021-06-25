@@ -1,0 +1,1608 @@
+﻿[10/9/2020 10:06:16 PM]
+  American Mcgee set the pumping speed of Pump to -80 %
+[10/9/2020 10:06:16 PM]
+  Bonethresher attacked by an unknown entity. Blunt force trauma: 0.4
+[10/9/2020 10:06:16 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Bonethresher.
+[10/9/2020 10:06:16 PM]
+  American Mcgee set the pumping speed of Pump to -20 %
+[10/9/2020 10:06:16 PM]
+  American Mcgee set the pumping speed of Pump to 30 %
+[10/9/2020 10:06:16 PM]
+  American Mcgee set the pumping speed of Pump to 50 %
+[10/9/2020 10:06:16 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 1 Bleeding: 1 Stun: 0.2
+[10/9/2020 10:06:16 PM]
+  an unknown entity used Diving Knife on Bonethresher.
+[10/9/2020 10:06:16 PM]
+  American Mcgee set the pumping speed of Pump to 60 %
+[10/9/2020 10:06:17 PM]
+  American Mcgee set the pumping speed of Pump to 10 %
+[10/9/2020 10:06:17 PM]
+  American Mcgee set the pumping speed of Pump to -90 %
+[10/9/2020 10:06:17 PM]
+  American Mcgee set the pumping speed of Pump to -100 %
+[10/9/2020 10:06:17 PM]
+  Bonethresher attacked by an unknown entity. Blunt force trauma: 4
+[10/9/2020 10:06:17 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Bonethresher.
+[10/9/2020 10:06:18 PM]
+  Bonethresher attacked by an unknown entity. Blunt force trauma: 4
+[10/9/2020 10:06:18 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Bonethresher.
+[10/9/2020 10:06:18 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/9/2020 10:06:18 PM]
+  an unknown entity used Diving Knife on Bonethresher.
+[10/9/2020 10:06:19 PM]
+  American Mcgee turned off Pump
+[10/9/2020 10:06:19 PM]
+  Bonethresher attacked by an unknown entity. Blunt force trauma: 4
+[10/9/2020 10:06:19 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Bonethresher.
+[10/9/2020 10:06:22 PM]
+  Bonethresher attacked by an unknown entity. Blunt force trauma: 4
+[10/9/2020 10:06:22 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Bonethresher.
+[10/9/2020 10:06:22 PM]
+  American Mcgee turned on Pump
+[10/9/2020 10:06:25 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell)
+[10/9/2020 10:06:25 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 13.5 Stun: 15
+[10/9/2020 10:06:25 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 13.5 Stun: 15
+[10/9/2020 10:06:25 PM]
+  Bonethresher attacked by an unknown entity. Blunt force trauma: 0.4
+[10/9/2020 10:06:25 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Bonethresher.
+[10/9/2020 10:06:27 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:06:31 PM]
+  Mudraptor attacked by an unknown entity. Blunt force trauma: 2
+[10/9/2020 10:06:31 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:06:31 PM]
+  Mudraptor attacked by an unknown entity. Lacerations: 1 Stun: 0.2
+[10/9/2020 10:06:31 PM]
+  an unknown entity used Diving Knife on Mudraptor.
+[10/9/2020 10:06:33 PM]
+  Bonethresher attacked by an unknown entity. Blunt force trauma: 4
+[10/9/2020 10:06:33 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Bonethresher.
+[10/9/2020 10:06:34 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 1 Bleeding: 1 Stun: 0.2
+[10/9/2020 10:06:34 PM]
+  an unknown entity used Diving Knife on Bonethresher.
+[10/9/2020 10:06:35 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:35 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:35 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:36 PM]
+  Bonethresher attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.1
+[10/9/2020 10:06:36 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:36 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:36 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:37 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:37 PM]
+  an unknown entity: im dead
+[10/9/2020 10:06:38 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:38 PM]
+  Mudraptor attacked by an unknown entity. Blunt force trauma: 4
+[10/9/2020 10:06:38 PM]
+  an unknown entity used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:06:38 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:38 PM]
+  Mudraptor attacked by an unknown entity. Lacerations: 1 Stun: 0.2
+[10/9/2020 10:06:38 PM]
+  an unknown entity used Diving Knife on Mudraptor.
+[10/9/2020 10:06:38 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:06:49 PM]
+  tomacatx1 picked up SMG
+[10/9/2020 10:06:54 PM]
+  American Mcgee: got the pump going out
+[10/9/2020 10:06:55 PM]
+  an unknown entity has died (Cause of death: Bite wounds)
+[10/9/2020 10:07:02 PM]
+  an unknown entity: fugg
+[10/9/2020 10:07:03 PM]
+  tomacatx1 closed Custom Door
+[10/9/2020 10:07:03 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:07:09 PM]
+  American Mcgee set the force of Large Engine to -30 %
+[10/9/2020 10:07:10 PM]
+  American Mcgee set the force of Large Engine to -20 %
+[10/9/2020 10:07:11 PM]
+  American Mcgee set the force of Large Engine to -10 %
+[10/9/2020 10:07:12 PM]
+  American Mcgee set the force of Large Engine to 0 %
+[10/9/2020 10:07:12 PM]
+  American Mcgee set the force of Large Engine to 10 %
+[10/9/2020 10:07:12 PM]
+  American Mcgee set the force of Large Engine to 20 %
+[10/9/2020 10:07:12 PM]
+  American Mcgee set the force of Large Engine to 30 %
+[10/9/2020 10:07:13 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:13 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:13 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:13 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/9/2020 10:07:13 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/9/2020 10:07:14 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/9/2020 10:07:14 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:14 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:14 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:15 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:15 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:15 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:15 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:15 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:07:15 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/9/2020 10:07:16 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/9/2020 10:07:18 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:18 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:18 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:18 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:18 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:18 PM]
+  Bonethresher has died (Cause of death: Gunshot wound)
+[10/9/2020 10:07:18 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:18 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:18 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:19 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:19 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:19 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:19 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:19 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:19 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:19 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:19 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:21 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:21 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:21 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:21 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:21 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:21 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:21 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:21 PM]
+  Bonethresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:07:26 PM]
+  an unknown entity attacked by tomacatx1. Gunshot wound: 9.6 Stun: 0.4
+[10/9/2020 10:07:38 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 3 Stun: 0.4
+[10/9/2020 10:07:41 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/9/2020 10:07:43 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 3 Stun: 0.4
+[10/9/2020 10:07:54 PM]
+  American Mcgee dropped Diving Mask
+[10/9/2020 10:07:58 PM]
+  American Mcgee picked up Diving Mask
+[10/9/2020 10:07:59 PM]
+  American Mcgee picked up Oxygen Tank
+[10/9/2020 10:08:01 PM]
+  American Mcgee placed Diving Mask in Supplies Cabinet (ID: 3227)
+[10/9/2020 10:08:06 PM]
+  Aero is a traitor and the current goals are:
+- Swap the welding fuel for oxygen tanks in at least 70% of the sub's welding tools. (In progress)
+
+[10/9/2020 10:08:07 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:08:07 PM]
+  tomacatx1 closed Custom Door
+[10/9/2020 10:08:09 PM]
+  Outer wall breached by Mudraptor
+[10/9/2020 10:08:10 PM]
+  Outer wall repaired by Aero
+[10/9/2020 10:08:16 PM]
+  tomacatx1 picked up Bandage
+[10/9/2020 10:08:19 PM]
+  tomacatx1 used item Bandage
+[10/9/2020 10:08:47 PM]
+  tomacatx1 placed Diving Mask in Aero
+[10/9/2020 10:08:49 PM]
+  tomacatx1 placed Oxygen Tank in Aero
+[10/9/2020 10:08:52 PM]
+  tomacatx1 placed Oxygen Tank in Aero
+[10/9/2020 10:08:52 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 2813)
+[10/9/2020 10:08:55 PM]
+  Inner wall breached by Mudraptor
+[10/9/2020 10:09:16 PM]
+  Outer wall repaired by tomacatx1
+[10/9/2020 10:09:28 PM]
+  American Mcgee placed Oxygen Tank in Plasma Cutter (ID: 3939)
+[10/9/2020 10:09:28 PM]
+  American Mcgee removed Oxygen Tank from Plasma Cutter (ID: 3939)
+[10/9/2020 10:09:32 PM]
+  tomacatx1 placed Revolver in Large Steel Cabinet (ID: 774)
+[10/9/2020 10:09:32 PM]
+  tomacatx1 removed Revolver from Large Steel Cabinet (ID: 774)
+[10/9/2020 10:09:32 PM]
+  tomacatx1 picked up Revolver
+[10/9/2020 10:09:34 PM]
+  American Mcgee placed Oxygen Tank in Diving Suit (ID: 2797)
+[10/9/2020 10:09:34 PM]
+  tomacatx1 placed Riot Shotgun in Large Steel Cabinet (ID: 774)
+[10/9/2020 10:09:34 PM]
+  tomacatx1 removed Revolver from Large Steel Cabinet (ID: 774)
+[10/9/2020 10:09:34 PM]
+  tomacatx1 picked up Revolver
+[10/9/2020 10:09:37 PM]
+  Aero picked up Welding Fuel Tank
+[10/9/2020 10:09:40 PM]
+  Aero placed Oxygen Tank in Welding Tool (ID: 3614)
+[10/9/2020 10:09:47 PM]
+  Aero picked up Oxygen Tank
+[10/9/2020 10:09:48 PM]
+  Aero placed Welding Fuel Tank in Welding Tool (ID: 3614)
+[10/9/2020 10:09:52 PM]
+  tomacatx1 picked up Harpoon Gun
+[10/9/2020 10:09:53 PM]
+  tomacatx1 placed SMG in Large Steel Cabinet (ID: 774)
+[10/9/2020 10:10:10 PM]
+  Inner wall repaired by Aero
+[10/9/2020 10:10:15 PM]
+  Inner wall breached by Mudraptor
+[10/9/2020 10:10:16 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[10/9/2020 10:10:17 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[10/9/2020 10:10:18 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[10/9/2020 10:10:19 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[10/9/2020 10:10:20 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[10/9/2020 10:10:21 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 3 Stun: 0.4
+[10/9/2020 10:10:22 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 3 Stun: 0.4
+[10/9/2020 10:10:23 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 3 Stun: 0.4
+[10/9/2020 10:10:24 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 3 Stun: 0.4
+[10/9/2020 10:10:26 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 3 Stun: 0.4
+[10/9/2020 10:10:27 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 3 Stun: 0.4
+[10/9/2020 10:10:31 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 8
+[10/9/2020 10:10:31 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:33 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 4
+[10/9/2020 10:10:33 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:34 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 4
+[10/9/2020 10:10:34 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:35 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 0.4
+[10/9/2020 10:10:35 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:35 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 0.4
+[10/9/2020 10:10:35 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:36 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 0.4
+[10/9/2020 10:10:36 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:38 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 0.4
+[10/9/2020 10:10:38 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:39 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 4
+[10/9/2020 10:10:39 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:40 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 0.4
+[10/9/2020 10:10:40 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:40 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 0.4
+[10/9/2020 10:10:40 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:41 PM]
+  Mudraptor attacked by tomacatx1. Blunt force trauma: 4
+[10/9/2020 10:10:41 PM]
+  tomacatx1 used Stun Baton (Battery Cell) on Mudraptor.
+[10/9/2020 10:10:56 PM]
+  tomacatx1 started fabricating Harpoon in Fabricator
+[10/9/2020 10:11:13 PM]
+  tomacatx1 picked up Harpoon Gun
+[10/9/2020 10:11:14 PM]
+  tomacatx1 placed Harpoon Gun in Large Steel Cabinet (ID: 774)
+[10/9/2020 10:11:23 PM]
+  American Mcgee placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/9/2020 10:11:25 PM]
+  American Mcgee placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/9/2020 10:11:28 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[10/9/2020 10:11:29 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[10/9/2020 10:11:31 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[10/9/2020 10:11:31 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 60 Lacerations: 60 Stun: 0.25
+[10/9/2020 10:11:34 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 2792)
+[10/9/2020 10:11:34 PM]
+  tomacatx1 removed Oxygen Tank from Oxygen Tank Shelf (ID: 2792)
+[10/9/2020 10:11:34 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 2804)
+[10/9/2020 10:11:37 PM]
+  American Mcgee placed Oxygen Tank in Plasma Cutter (ID: 3939)
+[10/9/2020 10:11:39 PM]
+  Inner wall repaired by tomacatx1
+[10/9/2020 10:11:46 PM]
+  Aero has died (Cause of death: Oxygen low)
+[10/9/2020 10:11:55 PM]
+  Dispatching the respawn shuttle.
+[10/9/2020 10:11:55 PM]
+  Respawning an unknown entity (STEAM_1:1:37541093) as Security Officer
+[10/9/2020 10:11:55 PM]
+  Respawning Aero (STEAM_1:0:191355786) as Medical Doctor
+[10/9/2020 10:12:21 PM]
+  an unknown entity: respawn shuttle
+[10/9/2020 10:12:23 PM]
+  tomacatx1 entered "on" on Terminal
+[10/9/2020 10:12:28 PM]
+  Aero: t
+[10/9/2020 10:12:34 PM]
+  Aero: Ride from the afterlife
+[10/9/2020 10:12:35 PM]
+  American Mcgee is a traitor and the current goals are:
+- Inspect the crew's livers. Find one that resembles a crawler's. (In progress)
+
+[10/9/2020 10:12:42 PM]
+  Aero picked up Underwater Scooter
+[10/9/2020 10:12:46 PM]
+  American Mcgee set the pumping speed of Small Pump to -80 %
+[10/9/2020 10:12:46 PM]
+  American Mcgee set the pumping speed of Small Pump to -60 %
+[10/9/2020 10:12:47 PM]
+  American Mcgee set the pumping speed of Small Pump to -30 %
+[10/9/2020 10:12:47 PM]
+  American Mcgee set the pumping speed of Small Pump to 0 %
+[10/9/2020 10:12:47 PM]
+  American Mcgee set the pumping speed of Small Pump to 10 %
+[10/9/2020 10:12:47 PM]
+  American Mcgee set the pumping speed of Small Pump to -20 %
+[10/9/2020 10:12:47 PM]
+  American Mcgee set the pumping speed of Small Pump to -100 %
+[10/9/2020 10:12:48 PM]
+  American Mcgee turned off Small Pump
+[10/9/2020 10:12:48 PM]
+  tomacatx1 closed Custom Door
+[10/9/2020 10:12:48 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:12:49 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:12:49 PM]
+  tomacatx1 closed Custom Door
+[10/9/2020 10:12:50 PM]
+  American Mcgee turned on Small Pump
+[10/9/2020 10:12:51 PM]
+  tomacatx1 closed Custom Door
+[10/9/2020 10:12:51 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:12:56 PM]
+  tomacatx1 picked up Oxygen Tank
+[10/9/2020 10:13:03 PM]
+  American Mcgee closed Custom Door
+[10/9/2020 10:13:09 PM]
+  tomacatx1 picked up Harmonica
+[10/9/2020 10:13:10 PM]
+  American Mcgee opened Custom Door
+[10/9/2020 10:13:11 PM]
+  tomacatx1 dropped Harmonica
+[10/9/2020 10:13:12 PM]
+  tomacatx1 picked up Duffel Bag
+[10/9/2020 10:13:14 PM]
+  American Mcgee closed Custom Door
+[10/9/2020 10:13:14 PM]
+  tomacatx1 dropped Duffel Bag
+[10/9/2020 10:13:15 PM]
+  Aero dropped Underwater Scooter
+[10/9/2020 10:13:50 PM]
+  tomacatx1 placed Oxygen Tank in Medium Steel Cabinet (ID: 2496)
+[10/9/2020 10:13:50 PM]
+  tomacatx1 removed Screwdriver from Medium Steel Cabinet (ID: 2496)
+[10/9/2020 10:13:50 PM]
+  tomacatx1 picked up Screwdriver
+[10/9/2020 10:13:52 PM]
+  tomacatx1 placed Diving Mask in Medium Steel Cabinet (ID: 2496)
+[10/9/2020 10:13:52 PM]
+  tomacatx1 removed Oxygen Tank from Medium Steel Cabinet (ID: 2496)
+[10/9/2020 10:13:52 PM]
+  tomacatx1 picked up Oxygen Tank
+[10/9/2020 10:14:07 PM]
+  American Mcgee adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/9/2020 10:14:07 PM]
+  an unknown entity: stop messing with the helm
+[10/9/2020 10:14:10 PM]
+  an unknown entity: reee
+[10/9/2020 10:14:11 PM]
+  American Mcgee adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/9/2020 10:14:13 PM]
+  tomacatx1 placed Screwdriver in Medium Windowed Steel Cabinet (ID: 752)
+[10/9/2020 10:14:13 PM]
+  tomacatx1 removed Flare from Medium Windowed Steel Cabinet (ID: 752)
+[10/9/2020 10:14:13 PM]
+  tomacatx1 picked up Flare
+[10/9/2020 10:14:14 PM]
+  tomacatx1 placed Stun Baton in Medium Windowed Steel Cabinet (ID: 752)
+[10/9/2020 10:14:14 PM]
+  tomacatx1 removed Screwdriver from Medium Windowed Steel Cabinet (ID: 752)
+[10/9/2020 10:14:14 PM]
+  tomacatx1 picked up Screwdriver
+[10/9/2020 10:14:17 PM]
+  tomacatx1 threw Flare
+[10/9/2020 10:14:19 PM]
+  an unknown entity: this thing has a limited battery
+[10/9/2020 10:14:24 PM]
+  American Mcgee started repairing Nuclear Reactor
+[10/9/2020 10:14:28 PM]
+  Aero: It's not on auto?
+[10/9/2020 10:14:29 PM]
+  an unknown entity: you fucka
+[10/9/2020 10:14:29 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:14:29 PM]
+  Aero: wtf
+[10/9/2020 10:14:35 PM]
+  an unknown entity placed Ballistic Helmet in Medium Windowed Steel Cabinet (ID: 28)
+[10/9/2020 10:14:35 PM]
+  an unknown entity removed Diving Mask from Medium Windowed Steel Cabinet (ID: 28)
+[10/9/2020 10:14:35 PM]
+  an unknown entity picked up Diving Mask
+[10/9/2020 10:14:36 PM]
+  Aero: what the hell
+[10/9/2020 10:14:37 PM]
+  an unknown entity picked up Ballistic Helmet
+[10/9/2020 10:14:38 PM]
+  Aero: what is this
+[10/9/2020 10:14:39 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:14:44 PM]
+  an unknown entity picked up Diving Suit
+[10/9/2020 10:14:47 PM]
+  American Mcgee failed to repair Nuclear Reactor
+[10/9/2020 10:14:48 PM]
+  Aero has died (Cause of death: Barotrauma)
+[10/9/2020 10:14:56 PM]
+  an unknown entity picked up Handheld Sonar
+[10/9/2020 10:14:57 PM]
+  an unknown entity placed Diving Mask in Medium Windowed Steel Cabinet (ID: 28)
+[10/9/2020 10:15:00 PM]
+  American Mcgee placed Oxygen Tank in Plasma Cutter (ID: 3939)
+[10/9/2020 10:15:00 PM]
+  American Mcgee removed Oxygen Tank from Plasma Cutter (ID: 3939)
+[10/9/2020 10:15:00 PM]
+  American Mcgee placed Oxygen Tank in Diving Suit (ID: 2797)
+[10/9/2020 10:15:02 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:15:03 PM]
+  an unknown entity picked up Underwater Scooter
+[10/9/2020 10:15:08 PM]
+  American Mcgee started repairing Nuclear Reactor
+[10/9/2020 10:15:11 PM]
+  tomacatx1 removed Fuel Rod from Nuclear Reactor (ID: 2395)
+[10/9/2020 10:15:14 PM]
+  tomacatx1 picked up Thorium Fuel Rod
+[10/9/2020 10:15:17 PM]
+  tomacatx1 placed Thorium Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/9/2020 10:15:32 PM]
+  an unknown entity closed Custom Door
+[10/9/2020 10:15:32 PM]
+  an unknown entity opened Custom Windowed Door
+[10/9/2020 10:15:32 PM]
+  American Mcgee dropped Screwdriver
+[10/9/2020 10:15:34 PM]
+  tomacatx1 picked up Duffel Bag
+[10/9/2020 10:15:37 PM]
+  American Mcgee picked up Screwdriver
+[10/9/2020 10:15:39 PM]
+  tomacatx1 picked up Medic's Fatigues
+[10/9/2020 10:15:41 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:15:43 PM]
+  tomacatx1 dropped Duffel Bag
+[10/9/2020 10:16:00 PM]
+  an unknown entity closed Custom Hatch
+[10/9/2020 10:16:02 PM]
+  an unknown entity opened Custom Door
+[10/9/2020 10:16:11 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:16:23 PM]
+  tomacatx1 placed Revolver in Large Steel Cabinet (ID: 774)
+[10/9/2020 10:16:25 PM]
+  tomacatx1 placed Revolver in Large Steel Cabinet (ID: 774)
+[10/9/2020 10:16:25 PM]
+  tomacatx1 placed Shotgun Shell in Riot Shotgun (ID: 2567)
+[10/9/2020 10:16:27 PM]
+  tomacatx1 placed Shotgun Shell in Riot Shotgun (ID: 2567)
+[10/9/2020 10:16:27 PM]
+  tomacatx1 placed Shotgun Shell in Riot Shotgun (ID: 2567)
+[10/9/2020 10:16:28 PM]
+  tomacatx1 placed Shotgun Shell in Riot Shotgun (ID: 2567)
+[10/9/2020 10:16:29 PM]
+  tomacatx1 placed Shotgun Shell in Riot Shotgun (ID: 2567)
+[10/9/2020 10:16:30 PM]
+  tomacatx1 placed Shotgun Shell in Riot Shotgun (ID: 2567)
+[10/9/2020 10:16:31 PM]
+  tomacatx1 picked up Riot Shotgun
+[10/9/2020 10:16:33 PM]
+  an unknown entity: autopilot on the sub sucks
+[10/9/2020 10:16:33 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:16:44 PM]
+  an unknown entity: aero
+[10/9/2020 10:16:45 PM]
+  an unknown entity: died
+[10/9/2020 10:16:48 PM]
+  American Mcgee failed to repair Junction Box
+[10/9/2020 10:16:51 PM]
+  Aero: rip
+[10/9/2020 10:16:57 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:16:57 PM]
+  tomacatx1 picked up Oxygen Tank
+[10/9/2020 10:16:59 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 2804)
+[10/9/2020 10:17:09 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:17:11 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:17:13 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:17:18 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:17:24 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:17:27 PM]
+  tomacatx1 placed Bandage in Medic's Fatigues (ID: 3948)
+[10/9/2020 10:17:46 PM]
+  tomacatx1 failed to repair Battery
+[10/9/2020 10:17:46 PM]
+  American Mcgee started repairing Small Pump
+[10/9/2020 10:17:48 PM]
+  The respawn shuttle is leaving.
+[10/9/2020 10:17:49 PM]
+  tomacatx1 started repairing Battery
+[10/9/2020 10:17:58 PM]
+  tomacatx1 failed to repair Junction Box
+[10/9/2020 10:18:06 PM]
+  tomacatx1 failed to repair Junction Box
+[10/9/2020 10:18:14 PM]
+  American Mcgee started repairing Small Pump
+[10/9/2020 10:18:15 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:18:18 PM]
+  The respawn shuttle has left.
+[10/9/2020 10:18:26 PM]
+  tomacatx1 used item Bandage
+[10/9/2020 10:18:37 PM]
+  American Mcgee started repairing Custom Door
+[10/9/2020 10:18:45 PM]
+  tomacatx1 used item Bandage
+[10/9/2020 10:18:50 PM]
+  tomacatx1 used item Bandage
+[10/9/2020 10:18:59 PM]
+  tomacatx1 picked up Antibiotic Glue
+[10/9/2020 10:19:00 PM]
+  an unknown entity picked up Diving Mask
+[10/9/2020 10:19:01 PM]
+  tomacatx1 used item Antibiotic Glue
+[10/9/2020 10:19:05 PM]
+  an unknown entity placed Diving Suit in Diving Suit Locker (ID: 2798)
+[10/9/2020 10:19:05 PM]
+  American Mcgee failed to repair Junction Box
+[10/9/2020 10:19:06 PM]
+  tomacatx1 placed Antibiotic Glue in Medicine Cabinet (ID: 1247)
+[10/9/2020 10:19:06 PM]
+  tomacatx1 removed Plastiseal from Medicine Cabinet (ID: 1247)
+[10/9/2020 10:19:06 PM]
+  tomacatx1 picked up Plastiseal
+[10/9/2020 10:19:09 PM]
+  tomacatx1 used item Plastiseal
+[10/9/2020 10:19:10 PM]
+  Tigerthresher has died (Cause of death: Bite wounds)
+[10/9/2020 10:19:13 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:19:18 PM]
+  tomacatx1 used item Plastiseal
+[10/9/2020 10:19:19 PM]
+  American Mcgee started repairing Junction Box
+[10/9/2020 10:19:21 PM]
+  Mudraptor has died (Cause of death: Bite wounds)
+[10/9/2020 10:19:36 PM]
+  American Mcgee placed Oxygen Tank in Welding Tool (ID: 3937)
+[10/9/2020 10:19:36 PM]
+  American Mcgee removed Welding Fuel Tank from Welding Tool (ID: 3937)
+[10/9/2020 10:19:36 PM]
+  American Mcgee placed Welding Fuel Tank in Diving Suit (ID: 2797)
+[10/9/2020 10:19:42 PM]
+  Mudraptor has died (Cause of death: Bite wounds)
+[10/9/2020 10:19:44 PM]
+  American Mcgee has died (Cause of death: Oxygen low)
+[10/9/2020 10:19:45 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:19:59 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[10/9/2020 10:20:01 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[10/9/2020 10:20:12 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:20:19 PM]
+  tomacatx1 dropped Diving Suit
+[10/9/2020 10:20:21 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:20:28 PM]
+  tomacatx1 started repairing Junction Box
+[10/9/2020 10:20:38 PM]
+  tomacatx1 is a traitor and the current goals are:
+- Dispose of at least 85 percent of all non-inventory Diving Mask on the sub. (In progress)
+
+[10/9/2020 10:20:42 PM]
+  Outer wall breached by Mudraptor
+[10/9/2020 10:20:50 PM]
+  Mudraptor has died (Cause of death: Bite wounds)
+[10/9/2020 10:20:53 PM]
+  Mudraptor has died (Cause of death: Bite wounds)
+[10/9/2020 10:20:55 PM]
+  Mudraptor has died (Cause of death: Unknown)
+[10/9/2020 10:20:58 PM]
+  Tigerthresher has died (Cause of death: Bite wounds)
+[10/9/2020 10:21:01 PM]
+  Outer wall breached by Mudraptor
+[10/9/2020 10:21:03 PM]
+  an unknown entity attacked by tomacatx1. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.2
+[10/9/2020 10:21:03 PM]
+  an unknown entity attacked by tomacatx1. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.2
+[10/9/2020 10:21:03 PM]
+  an unknown entity attacked by tomacatx1. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.2
+[10/9/2020 10:21:03 PM]
+  an unknown entity attacked by tomacatx1. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.2
+[10/9/2020 10:21:03 PM]
+  an unknown entity attacked by tomacatx1. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.2
+[10/9/2020 10:21:03 PM]
+  an unknown entity attacked by tomacatx1. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.2
+[10/9/2020 10:21:03 PM]
+  an unknown entity attacked by tomacatx1. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.2
+[10/9/2020 10:21:03 PM]
+  an unknown entity attacked by tomacatx1. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.2
+[10/9/2020 10:21:04 PM]
+  Outer wall breached by Mudraptor
+[10/9/2020 10:21:05 PM]
+  Ending round by votes (3/1)
+[10/9/2020 10:21:05 PM]
+  Ending the round...
+[10/9/2020 10:21:05 PM]
+  Round ended.
+[10/9/2020 10:21:22 PM]
+  an unknown entity: we need bots
+[10/9/2020 10:21:30 PM]
+  tomacatx1 is ready to start the game.
+[10/9/2020 10:21:33 PM]
+  an unknown entity: be a
+[10/9/2020 10:21:35 PM]
+  an unknown entity: engineer
+[10/9/2020 10:22:26 PM]
+  Client "tomacatx1" started the round.
+[10/9/2020 10:22:26 PM]
+  Starting a new round...
+[10/9/2020 10:22:28 PM]
+  Mission: Terminate a Swarm
+[10/9/2020 10:22:28 PM]
+  A small swarm of Crawler has been terrorizing vessels traveling between Versas Station and The city of Milda. A reward of 2,600 marks has been promised to any crew that can neutralize it.
+[10/9/2020 10:22:28 PM]
+  Game mode: Mission
+[10/9/2020 10:22:28 PM]
+  Submarine: Humpback
+[10/9/2020 10:22:28 PM]
+  Level seed: antagseed
+[10/9/2020 10:22:28 PM]
+  Mission: Terminate a Swarm
+[10/9/2020 10:22:29 PM]
+  Round started.
+[10/9/2020 10:22:45 PM]
+  American Mcgee picked up Fuel Rod
+[10/9/2020 10:22:46 PM]
+  tomacatx1 picked up Riot Shotgun
+[10/9/2020 10:22:47 PM]
+  tomacatx1 placed Harmonica in Large Steel Cabinet (ID: 774)
+[10/9/2020 10:22:50 PM]
+  American Mcgee placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/9/2020 10:22:52 PM]
+  Aero picked up Fuel Rod
+[10/9/2020 10:22:53 PM]
+  tomacatx1 picked up Diving Knife
+[10/9/2020 10:22:59 PM]
+  American Mcgee adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/9/2020 10:23:00 PM]
+  Aero adjusted reactor settings: Temperature: 583, Fission rate: 34, Turbine output: 0, Autotemp OFF
+[10/9/2020 10:23:01 PM]
+  Aero adjusted reactor settings: Temperature: 1583, Fission rate: 30, Turbine output: 0, Autotemp ON
+[10/9/2020 10:23:03 PM]
+  tomacatx1 picked up Diving Mask
+[10/9/2020 10:23:04 PM]
+  tomacatx1 picked up Welding Tool
+[10/9/2020 10:23:05 PM]
+  an unknown entity: touch the engine silly engie
+[10/9/2020 10:23:05 PM]
+  tomacatx1 picked up Bandage
+[10/9/2020 10:23:06 PM]
+  tomacatx1 picked up Blood Pack
+[10/9/2020 10:23:11 PM]
+  American Mcgee adjusted reactor settings: Temperature: 10000, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/9/2020 10:23:13 PM]
+  American Mcgee adjusted reactor settings: Temperature: 7783, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/9/2020 10:23:14 PM]
+  an unknown entity: you've doomed us all
+[10/9/2020 10:23:14 PM]
+  American Mcgee picked up Fuel Rod
+[10/9/2020 10:23:29 PM]
+  an unknown entity set the recharge speed of Battery to 10 %
+[10/9/2020 10:23:29 PM]
+  an unknown entity set the recharge speed of Battery to 20 %
+[10/9/2020 10:23:33 PM]
+  an unknown entity set the recharge speed of Battery to 10 %
+[10/9/2020 10:23:34 PM]
+  an unknown entity set the recharge speed of Battery to 20 %
+[10/9/2020 10:23:38 PM]
+  an unknown entity set the recharge speed of Battery to 10 %
+[10/9/2020 10:23:38 PM]
+  an unknown entity set the recharge speed of Battery to 20 %
+[10/9/2020 10:23:41 PM]
+  an unknown entity set the recharge speed of Battery to 10 %
+[10/9/2020 10:23:42 PM]
+  Aero placed Fuel Rod in Medium Steel Cabinet (ID: 2496)
+[10/9/2020 10:23:42 PM]
+  American Mcgee adjusted reactor settings: Temperature: 4969, Fission rate: 66, Turbine output: 56, Autotemp OFF
+[10/9/2020 10:23:42 PM]
+  an unknown entity set the recharge speed of Battery to 20 %
+[10/9/2020 10:23:55 PM]
+  Aero picked up Wrench
+[10/9/2020 10:23:59 PM]
+  American Mcgee placed Fuel Rod in Toolbox (ID: 4004)
+[10/9/2020 10:24:07 PM]
+  an unknown entity picked up Coilgun Ammunition Box
+[10/9/2020 10:24:13 PM]
+  an unknown entity dropped Coilgun Ammunition Box
+[10/9/2020 10:24:16 PM]
+  an unknown entity: a
+[10/9/2020 10:24:19 PM]
+  Aero: Can I have a gun
+[10/9/2020 10:24:20 PM]
+  an unknown entity: what do you need?
+[10/9/2020 10:24:21 PM]
+  an unknown entity: ok
+[10/9/2020 10:24:25 PM]
+  tomacatx1 attacked by American Mcgee. Blunt force trauma: 1
+[10/9/2020 10:24:25 PM]
+  American Mcgee used Toolbox (Wrench, Screwdriver, Fuel Rod, Fuel Rod) on tomacatx1.
+[10/9/2020 10:24:31 PM]
+  an unknown entity picked up Revolver
+[10/9/2020 10:24:37 PM]
+  an unknown entity dropped Revolver
+[10/9/2020 10:24:39 PM]
+  Aero picked up Revolver
+[10/9/2020 10:24:41 PM]
+  an unknown entity picked up Coilgun Ammunition Box
+[10/9/2020 10:24:48 PM]
+  an unknown entity dropped Coilgun Ammunition Box
+[10/9/2020 10:24:56 PM]
+  American Mcgee picked up Railgun Shell
+[10/9/2020 10:24:58 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:01 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:02 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:03 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:07 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:08 PM]
+  Aero picked up Welding Tool
+[10/9/2020 10:25:09 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:09 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:09 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:09 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:09 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:10 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:10 PM]
+  Aero picked up Diving Mask
+[10/9/2020 10:25:10 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:11 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:11 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:11 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:12 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:12 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:12 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:13 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:13 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:13 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:13 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:13 PM]
+  Outer wall repaired by tomacatx1
+[10/9/2020 10:25:14 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:14 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:14 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:15 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:25:15 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:15 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:15 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:15 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:15 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:15 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:15 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:16 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:16 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:16 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:16 PM]
+  Outer wall repaired by tomacatx1
+[10/9/2020 10:25:16 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:17 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:17 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:17 PM]
+  tomacatx1 closed Custom Door
+[10/9/2020 10:25:17 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:18 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:18 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:18 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:18 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:19 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:19 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:19 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:19 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:20 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:20 PM]
+  Outer wall repaired by tomacatx1
+[10/9/2020 10:25:20 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:20 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:20 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:20 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:21 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:21 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:21 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:21 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:22 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:23 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:23 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:23 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:23 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:23 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:24 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:24 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:25:24 PM]
+  American Mcgee launched Railgun (projectile: Railgun Shell)
+[10/9/2020 10:25:24 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:24 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:24 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:25 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:25 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/9/2020 10:25:25 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:25 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:25 PM]
+  tomacatx1 closed Custom Door
+[10/9/2020 10:25:25 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/9/2020 10:25:25 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:25 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:25 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:26 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:26 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:26 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:26 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/9/2020 10:25:26 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:26 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:27 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:27 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:27 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:27 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:27 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:27 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:28 PM]
+  American Mcgee is a traitor and the current goals are:
+- Find a Deliriumine in Lower fore side. (In progress)
+
+[10/9/2020 10:25:28 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:32 PM]
+  an unknown entity: hold off on the railgun shells
+[10/9/2020 10:25:33 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:34 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:34 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:34 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:35 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:35 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:35 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:35 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:35 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:35 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:35 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:36 PM]
+  Outer wall repaired by tomacatx1
+[10/9/2020 10:25:36 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:37 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:37 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:38 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:38 PM]
+  American Mcgee launched Railgun (projectile: Railgun Shell)
+[10/9/2020 10:25:38 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:38 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/9/2020 10:25:38 PM]
+  Crawler attacked by American Mcgee. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/9/2020 10:25:38 PM]
+  Crawler attacked by American Mcgee. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/9/2020 10:25:39 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:41 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:42 PM]
+  an unknown entity: ok nvm
+[10/9/2020 10:25:43 PM]
+  American Mcgee launched Railgun (projectile: Railgun Shell)
+[10/9/2020 10:25:43 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:44 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:44 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:45 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:45 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:45 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:45 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:46 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:46 PM]
+  Outer wall repaired by tomacatx1
+[10/9/2020 10:25:46 PM]
+  Outer wall repaired by tomacatx1
+[10/9/2020 10:25:46 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:48 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:48 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:48 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:25:48 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:49 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:49 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:50 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:25:50 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:50 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:25:51 PM]
+  Outer wall repaired by tomacatx1
+[10/9/2020 10:25:53 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:25:54 PM]
+  tomacatx1 closed Custom Door
+[10/9/2020 10:25:55 PM]
+  American Mcgee launched Railgun (projectile: Railgun Shell)
+[10/9/2020 10:26:06 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:06 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:07 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:07 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:26:07 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:07 PM]
+  Crawler has died (Cause of death: Bite wounds)
+[10/9/2020 10:26:07 PM]
+  Crawler attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:26:07 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:09 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:11 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:12 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 1.25 Bleeding: 0.1
+[10/9/2020 10:26:12 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:12 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:12 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:12 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:15 PM]
+  Aero adjusted reactor settings: Temperature: 4980, Fission rate: 65, Turbine output: 56, Autotemp ON
+[10/9/2020 10:26:17 PM]
+  an unknown entity: THRESHEr
+[10/9/2020 10:26:19 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:26:19 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:19 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:26:19 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:19 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:20 PM]
+  an unknown entity launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:26:28 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:26:43 PM]
+  American Mcgee picked up Diving Mask
+[10/9/2020 10:26:45 PM]
+  American Mcgee picked up Flashlight
+[10/9/2020 10:26:47 PM]
+  tomacatx1 opened Custom Door
+[10/9/2020 10:26:47 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:26:49 PM]
+  an unknown entity picked up Railgun Shell
+[10/9/2020 10:26:54 PM]
+  an unknown entity placed Railgun Shell in Railgun Loader (ID: 2543)
+[10/9/2020 10:27:01 PM]
+  Aero picked up Clown Costume
+[10/9/2020 10:27:01 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:27:03 PM]
+  an unknown entity launched Railgun (projectile: Railgun Shell)
+[10/9/2020 10:27:03 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/9/2020 10:27:09 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:27:10 PM]
+  an unknown entity: i got it
+[10/9/2020 10:27:11 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:11 PM]
+  Tigerthresher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:27:11 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:11 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:11 PM]
+  Tigerthresher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:27:11 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:11 PM]
+  Tigerthresher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:27:12 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:12 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:12 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:13 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:13 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:13 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:13 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:27:13 PM]
+  Outer wall breached by tomacatx1
+[10/9/2020 10:27:13 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:13 PM]
+  Outer wall breached by tomacatx1
+[10/9/2020 10:27:14 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:14 PM]
+  Outer wall breached by tomacatx1
+[10/9/2020 10:27:14 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:14 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:14 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:16 PM]
+  Tigerthresher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:27:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:17 PM]
+  Bonethresher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:27:18 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:18 PM]
+  Bonethresher attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.1
+[10/9/2020 10:27:18 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:18 PM]
+  Bonethresher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:27:18 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:18 PM]
+  Bonethresher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[10/9/2020 10:27:18 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:18 PM]
+  Bonethresher attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.1
+[10/9/2020 10:27:20 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/9/2020 10:27:21 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:21 PM]
+  Outer wall breached by tomacatx1
+[10/9/2020 10:27:22 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:22 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[10/9/2020 10:27:23 PM]
+  American Mcgee picked up Diving Suit
+[10/9/2020 10:27:26 PM]
+  an unknown entity launched Railgun (projectile: Railgun Shell)
+[10/9/2020 10:27:26 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/9/2020 10:27:26 PM]
+  Bonethresher has died (Cause of death: Lacerations)
+[10/9/2020 10:27:26 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/9/2020 10:27:26 PM]
+  Bonethresher attacked by an unknown entity. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/9/2020 10:27:26 PM]
+  Tigerthresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:27:26 PM]
+  Tigerthresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:27:26 PM]
+  Tigerthresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:27:26 PM]
+  Tigerthresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:27:26 PM]
+  Tigerthresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:27:26 PM]
+  Tigerthresher attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/9/2020 10:27:30 PM]
+  tomacatx1 attacked by an unknown entity. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.125
+[10/9/2020 10:27:34 PM]
+  Tigerthresher attacked by an unknown entity. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/9/2020 10:27:34 PM]
+  an unknown entity used Diving Knife on Tigerthresher.
+[10/9/2020 10:27:35 PM]
+  Tigerthresher attacked by an unknown entity. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/9/2020 10:27:35 PM]
+  an unknown entity used Diving Knife on Tigerthresher.
+[10/9/2020 10:27:36 PM]
+  Tigerthresher attacked by an unknown entity. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/9/2020 10:27:36 PM]
+  an unknown entity used Diving Knife on Tigerthresher.
+[10/9/2020 10:27:37 PM]
+  tomacatx1 attacked by an unknown entity. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[10/9/2020 10:27:37 PM]
+  an unknown entity used Diving Knife on tomacatx1.
+[10/9/2020 10:27:40 PM]
+  American Mcgee picked up Welding Tool
+[10/9/2020 10:27:43 PM]
+  American Mcgee picked up Flashlight
+[10/9/2020 10:27:46 PM]
+  Tigerthresher has died (Cause of death: Lacerations)
+[10/9/2020 10:27:46 PM]
+  Tigerthresher attacked by an unknown entity. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:27:47 PM]
+  tomacatx1 has died (Cause of death: Blood loss)
+[10/9/2020 10:27:50 PM]
+  American Mcgee placed Welding Tool in Railgun Shell (ID: 2836)
+[10/9/2020 10:27:53 PM]
+  American Mcgee dropped Railgun Shell
+[10/9/2020 10:28:03 PM]
+  Aero picked up Railgun Shell
+[10/9/2020 10:28:06 PM]
+  Inner wall breached by Crawler
+[10/9/2020 10:28:10 PM]
+  an unknown entity: captains down!
+[10/9/2020 10:28:12 PM]
+  tomacatx1 attacked by an unknown entity. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.125
+[10/9/2020 10:28:13 PM]
+  Inner wall breached by Crawler
+[10/9/2020 10:28:13 PM]
+  Crawler attacked by an unknown entity. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/9/2020 10:28:20 PM]
+  Aero dropped Railgun Shell
+[10/9/2020 10:28:27 PM]
+  American Mcgee picked up Welding Tool
+[10/9/2020 10:28:29 PM]
+  Aero picked up Morphine
+[10/9/2020 10:28:31 PM]
+  Inner wall breached by Crawler
+[10/9/2020 10:28:36 PM]
+  an unknown entity has died (Cause of death: Blood loss)
+[10/9/2020 10:28:43 PM]
+  American Mcgee set the pumping speed of Pump to -20 %
+[10/9/2020 10:28:43 PM]
+  American Mcgee turned off Pump
+[10/9/2020 10:28:44 PM]
+  American Mcgee turned on Pump
+[10/9/2020 10:28:45 PM]
+  an unknown entity: fug
+[10/9/2020 10:28:45 PM]
+  tomacatx1: did you see him
+[10/9/2020 10:28:48 PM]
+  tomacatx1: rip you to shreds
+[10/9/2020 10:28:50 PM]
+  tomacatx1: he actually ate you
+[10/9/2020 10:28:54 PM]
+  an unknown entity: yeah
+[10/9/2020 10:28:54 PM]
+  Outer wall repaired by Aero
+[10/9/2020 10:28:55 PM]
+  tomacatx1: based
+[10/9/2020 10:28:57 PM]
+  Inner wall repaired by Aero
+[10/9/2020 10:29:00 PM]
+  Inner wall repaired by Aero
+[10/9/2020 10:29:05 PM]
+  tomacatx1: aeros rushing past crawlers
+[10/9/2020 10:29:10 PM]
+  Crawler attacked by Aero. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/9/2020 10:29:11 PM]
+  an unknown entity: managed to kill the tresher
+[10/9/2020 10:29:13 PM]
+  Inner wall breached by Crawler
+[10/9/2020 10:29:16 PM]
+  Crawler attacked by Aero. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/9/2020 10:29:17 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[10/9/2020 10:29:17 PM]
+  Crawler attacked by Aero. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/9/2020 10:29:19 PM]
+  Crawler attacked by Aero. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/9/2020 10:29:21 PM]
+  Crawler attacked by Aero. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/9/2020 10:29:24 PM]
+  tomacatx1: yeah we just need you to be on guns constantly
+[10/9/2020 10:29:26 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:26 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:27 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:27 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:28 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:28 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:30 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:30 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:31 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:31 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:32 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:32 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:34 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:34 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:34 PM]
+  an unknown entity: i gotta split after this
+[10/9/2020 10:29:36 PM]
+  Crawler has died (Cause of death: Blood loss)
+[10/9/2020 10:29:36 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:36 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:37 PM]
+  Crawler attacked by Aero. Blunt force trauma: 4
+[10/9/2020 10:29:37 PM]
+  Aero used Wrench on Crawler.
+[10/9/2020 10:29:39 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:29:40 PM]
+  an unknown entity: gonna go grab me a bite to eat
+[10/9/2020 10:29:42 PM]
+  Crawler attacked by American Mcgee. Blunt force trauma: 2
+[10/9/2020 10:29:42 PM]
+  American Mcgee used Toolbox (Wrench, Screwdriver, Fuel Rod, Fuel Rod) on Crawler.
+[10/9/2020 10:29:43 PM]
+  tomacatx1: aye
+[10/9/2020 10:29:47 PM]
+  an unknown entity: but if we could get more people on this
+[10/9/2020 10:29:50 PM]
+  an unknown entity: this will be a blast
+[10/9/2020 10:29:53 PM]
+  Aero has died (Cause of death: Bite wounds)
+[10/9/2020 10:29:59 PM]
+  tomacatx1: 5 people is the average round for "fun"
+[10/9/2020 10:30:00 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:30:02 PM]
+  tomacatx1: as ive seen
+[10/9/2020 10:30:04 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:30:14 PM]
+  tomacatx1: but the larger subs can go as high up as 10, the kestrul is very fun with like 8
+[10/9/2020 10:30:21 PM]
+  Aero: Bros I can't see the breaches
+[10/9/2020 10:30:23 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:30:26 PM]
+  an unknown entity: bro
+[10/9/2020 10:30:28 PM]
+  tomacatx1: >he cant see
+[10/9/2020 10:30:28 PM]
+  an unknown entity: you are dead
+[10/9/2020 10:30:34 PM]
+  tomacatx1: welcome to deadchat
+[10/9/2020 10:30:36 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:30:37 PM]
+  an unknown entity: but alsod
+[10/9/2020 10:30:40 PM]
+  Aero: I mean when I'm alive
+[10/9/2020 10:30:41 PM]
+  an unknown entity: thereshers fucking shit up
+[10/9/2020 10:30:44 PM]
+  American Mcgee picked up Wrench
+[10/9/2020 10:30:45 PM]
+  American Mcgee placed Flashlight in Toolbox (ID: 4004)
+[10/9/2020 10:30:45 PM]
+  American Mcgee removed Screwdriver from Toolbox (ID: 4004)
+[10/9/2020 10:30:45 PM]
+  American Mcgee picked up Screwdriver
+[10/9/2020 10:30:48 PM]
+  American Mcgee started repairing Navigation Terminal
+[10/9/2020 10:30:49 PM]
+  an unknown entity: look for the broken hull
+[10/9/2020 10:30:50 PM]
+  tomacatx1: wait we got a shuttle
+[10/9/2020 10:30:52 PM]
+  an unknown entity: and shit like that
+[10/9/2020 10:30:56 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:30:57 PM]
+  tomacatx1: lets try to evac our last crewmember
+[10/9/2020 10:30:58 PM]
+  an unknown entity: i gotta bounce actually
+[10/9/2020 10:30:59 PM]
+  tomacatx1: with the escape shuttle
+[10/9/2020 10:31:02 PM]
+  American Mcgee started repairing Navigation Terminal
+[10/9/2020 10:31:06 PM]
+  an unknown entity: cya
+[10/9/2020 10:31:08 PM]
+  tomacatx1: good luck
+[10/9/2020 10:31:13 PM]
+  Aero: Cya
+[10/9/2020 10:31:17 PM]
+  an unknown entity: tell me when you're doing this againa
+[10/9/2020 10:31:18 PM]
+  tomacatx1: oh god
+[10/9/2020 10:31:21 PM]
+  tomacatx1: there goes the potass
+[10/9/2020 10:31:23 PM]
+  American Mcgee started repairing Supercapacitor
+[10/9/2020 10:31:24 PM]
+  Outer wall breached by Crawler
+[10/9/2020 10:31:26 PM]
+  an unknown entity has left the server. Reason: an unknown entity has disconnected.
+[10/9/2020 10:31:32 PM]
+  Outer wall breached by Bonethresher
+[10/9/2020 10:31:42 PM]
+  Aero: Should we try making a public lobby?
+[10/9/2020 10:31:48 PM]
+  tomacatx1: pubbies are autistic
+[10/9/2020 10:31:53 PM]
+  American Mcgee started repairing Supercapacitor
+[10/9/2020 10:31:53 PM]
+  tomacatx1: i think ill split too
+[10/9/2020 10:31:57 PM]
+  tomacatx1: this was more of a testrun, shit works
+[10/9/2020 10:31:58 PM]
+  American Mcgee placed Oxygen Tank in Welding Tool (ID: 3723)
+[10/9/2020 10:31:58 PM]
+  American Mcgee removed Welding Fuel Tank from Welding Tool (ID: 3723)
+[10/9/2020 10:31:58 PM]
+  American Mcgee placed Welding Fuel Tank in Diving Suit (ID: 2811)
+[10/9/2020 10:32:00 PM]
+  Aero: Ok
+[10/9/2020 10:32:01 PM]
+  American Mcgee placed Oxygen Tank in Welding Tool (ID: 3723)
+[10/9/2020 10:32:01 PM]
+  American Mcgee removed Oxygen Tank from Welding Tool (ID: 3723)
+[10/9/2020 10:32:01 PM]
+  American Mcgee placed Oxygen Tank in Diving Mask (ID: 3767)
+[10/9/2020 10:32:05 PM]
+  tomacatx1: we can try to organize longer games in the future
+[10/9/2020 10:32:09 PM]
+  Aero: Maybe we can try again another day
+[10/9/2020 10:32:09 PM]
+  American Mcgee has died (Cause of death: Oxygen low)
+[10/9/2020 10:32:10 PM]
+  tomacatx1: vg standard friday baro game
+[10/9/2020 10:32:15 PM]
+  Aero: Hell yeah
+[10/9/2020 10:32:18 PM]
+  American Mcgee: LMAO
+[10/9/2020 10:32:23 PM]
+  tomacatx1: howd you die?
+[10/9/2020 10:32:26 PM]
+  Client "tomacatx1" ended the round.
+[10/9/2020 10:32:26 PM]
+  Ending the round...

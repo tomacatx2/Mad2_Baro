@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Research Station A" path="Mods/Research Station A/filelist.xml" corepackage="false" gameversion="0.11.0.10" steamworkshopid="1933061305" installtime="1611539760">
+  <Submarine file="Mods/Research Station A/Research Station A.sub" />
+  <Submarine file="Mods/Research Station A/Research Station B.sub" />
+</contentpackage>

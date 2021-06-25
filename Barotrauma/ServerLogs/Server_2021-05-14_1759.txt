@@ -1,0 +1,1600 @@
+﻿[5/14/2021 5:27:51 PM]
+  Starting the server...
+[5/14/2021 5:27:51 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[5/14/2021 5:27:57 PM]
+  Server started
+[5/14/2021 5:28:28 PM]
+  tomacatx1 has joined the server.
+[5/14/2021 5:28:28 PM]
+  Saving client permissions
+[5/14/2021 5:29:46 PM]
+  tomacatx1 is ready to start the game.
+[5/14/2021 5:29:49 PM]
+  Client "tomacatx1" started the round.
+[5/14/2021 5:29:49 PM]
+  Starting a new round...
+[5/14/2021 5:29:54 PM]
+  Romeo Hebert equipped Wrench
+[5/14/2021 5:29:54 PM]
+  Romeo Hebert unequipped Wrench
+[5/14/2021 5:29:54 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:29:54 PM]
+  Jc Banks equipped Wrench
+[5/14/2021 5:29:54 PM]
+  Jc Banks unequipped Wrench
+[5/14/2021 5:29:54 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:29:54 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:29:54 PM]
+  Jc Banks equipped Crowbar
+[5/14/2021 5:29:54 PM]
+  Mission: Pirate Vessel
+[5/14/2021 5:29:54 PM]
+  Seek out the pirate vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[5/14/2021 5:29:54 PM]
+  Game mode: Mission
+[5/14/2021 5:29:54 PM]
+  Submarine: HumpbackPirate2.0
+[5/14/2021 5:29:54 PM]
+  Level seed: IBfxyeOn
+[5/14/2021 5:29:54 PM]
+  Mission: Pirate Vessel
+[5/14/2021 5:29:55 PM]
+  Mechislav Patel equipped Toolbelt
+[5/14/2021 5:29:55 PM]
+  Summer Maynard equipped Toolbelt
+[5/14/2021 5:29:55 PM]
+  Round started.
+[5/14/2021 5:29:56 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:29:57 PM]
+  Jc Banks unequipped Crowbar
+[5/14/2021 5:30:00 PM]
+  Tera Linares: I saw a crawler the other day. Horrible creatures.
+[5/14/2021 5:30:27 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[5/14/2021 5:30:33 PM]
+  tomacatx1: I'll set the course onwards!
+[5/14/2021 5:30:46 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[5/14/2021 5:30:47 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 51, Fission rate: 2, Turbine output: 0, Autotemp ON
+[5/14/2021 5:31:24 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:31:32 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:32:09 PM]
+  tomacatx1 picked up SMG
+[5/14/2021 5:32:10 PM]
+  tomacatx1 placed Captain's Pipe in Large Steel Cabinet (ID: 728)
+[5/14/2021 5:32:10 PM]
+  tomacatx1 placed Revolver in Large Steel Cabinet (ID: 728)
+[5/14/2021 5:32:14 PM]
+  tomacatx1 picked up Riot Shotgun
+[5/14/2021 5:32:15 PM]
+  tomacatx1 picked up Riot Shotgun
+[5/14/2021 5:32:33 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell)
+[5/14/2021 5:32:34 PM]
+  Watcher attacked by tomacatx1. Lacerations: 15 Stun: 15
+[5/14/2021 5:32:40 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell)
+[5/14/2021 5:32:41 PM]
+  Watcher attacked by tomacatx1. Lacerations: 150 Bleeding: 100 Stun: 15
+[5/14/2021 5:32:46 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[5/14/2021 5:32:48 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[5/14/2021 5:32:52 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[5/14/2021 5:32:52 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[5/14/2021 5:32:53 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[5/14/2021 5:32:53 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[5/14/2021 5:32:54 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[5/14/2021 5:32:56 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 516)
+[5/14/2021 5:32:57 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 515)
+[5/14/2021 5:32:58 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 514)
+[5/14/2021 5:33:03 PM]
+  Console command "spawnitem Haloperidol inventory" executed by tomacatx1.
+[5/14/2021 5:33:05 PM]
+  tomacatx1 used item Haloperidol
+[5/14/2021 5:33:12 PM]
+  tomacatx1 equipped Railgun Shell
+[5/14/2021 5:33:12 PM]
+  tomacatx1 picked up Railgun Shell
+[5/14/2021 5:33:13 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 223)
+[5/14/2021 5:33:17 PM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 899)
+[5/14/2021 5:33:24 PM]
+  tomacatx1 equipped Railgun Shell
+[5/14/2021 5:33:24 PM]
+  tomacatx1 picked up Railgun Shell
+[5/14/2021 5:33:25 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 224)
+[5/14/2021 5:33:32 PM]
+  Console command "spawnitem "Body Armor" inventory" executed by tomacatx1.
+[5/14/2021 5:33:34 PM]
+  Watcher has died (Cause of death: Deep tissue injury)
+[5/14/2021 5:33:36 PM]
+  Console command "spawnitem "Ballistic Helmet" inventory" executed by tomacatx1.
+[5/14/2021 5:33:38 PM]
+  tomacatx1 placed Veteran's Cap in Large Steel Cabinet (ID: 728)
+[5/14/2021 5:33:59 PM]
+  Wilford Danko: Romeo Hebert, take care of broken devices!
+[5/14/2021 5:34:00 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:34:04 PM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 899)
+[5/14/2021 5:34:04 PM]
+  tomacatx1 removed Railgun Shell from Railgun Loader (ID: 899)
+[5/14/2021 5:34:04 PM]
+  tomacatx1 picked up Railgun Shell
+[5/14/2021 5:34:04 PM]
+  Wilford Danko: Jc Banks, repair damaged systems!
+[5/14/2021 5:34:05 PM]
+  tomacatx1 dropped Railgun Shell
+[5/14/2021 5:34:06 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:34:07 PM]
+  Romeo Hebert started repairing Battery
+[5/14/2021 5:34:08 PM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 899)
+[5/14/2021 5:34:08 PM]
+  Jc Banks failed to repair Battery
+[5/14/2021 5:34:12 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:34:15 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:34:19 PM]
+  Jc Banks equipped Bandage
+[5/14/2021 5:34:21 PM]
+  Jc Banks unequipped Bandage
+[5/14/2021 5:34:21 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:34:21 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:34:22 PM]
+  Jc Banks failed to repair Battery
+[5/14/2021 5:34:22 PM]
+  Romeo Hebert failed to repair Battery
+[5/14/2021 5:34:27 PM]
+  Console command "spawnitem Toolbelt" executed by tomacatx1.
+[5/14/2021 5:34:28 PM]
+  Romeo Hebert started repairing Battery
+[5/14/2021 5:34:29 PM]
+  Console command "spawnitem Toolbelt inventory" executed by tomacatx1.
+[5/14/2021 5:34:29 PM]
+  tomacatx1 equipped Toolbelt
+[5/14/2021 5:34:30 PM]
+  Console command "spawnitem Toolbelt inventory" executed by tomacatx1.
+[5/14/2021 5:34:33 PM]
+  Jc Banks started repairing Junction Box
+[5/14/2021 5:34:34 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 533)
+[5/14/2021 5:34:39 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 5362)
+[5/14/2021 5:34:39 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 5362)
+[5/14/2021 5:34:39 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 5362)
+[5/14/2021 5:34:39 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 5362)
+[5/14/2021 5:34:39 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 5362)
+[5/14/2021 5:34:39 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:34:39 PM]
+  Romeo Hebert equipped Bandage
+[5/14/2021 5:34:41 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5362)
+[5/14/2021 5:34:41 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5362)
+[5/14/2021 5:34:42 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:34:42 PM]
+  Jc Banks equipped Plastiseal
+[5/14/2021 5:34:43 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 5362)
+[5/14/2021 5:34:43 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 5362)
+[5/14/2021 5:34:43 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 5362)
+[5/14/2021 5:34:43 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 5362)
+[5/14/2021 5:34:45 PM]
+  tomacatx1 placed Fentanyl in Toolbelt (ID: 5362)
+[5/14/2021 5:34:45 PM]
+  tomacatx1 placed Fentanyl in Toolbelt (ID: 5362)
+[5/14/2021 5:34:45 PM]
+  tomacatx1 placed Fentanyl in Toolbelt (ID: 5362)
+[5/14/2021 5:34:53 PM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by tomacatx1.
+[5/14/2021 5:34:53 PM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by tomacatx1.
+[5/14/2021 5:34:53 PM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by tomacatx1.
+[5/14/2021 5:34:54 PM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by tomacatx1.
+[5/14/2021 5:34:59 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 5362)
+[5/14/2021 5:34:59 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 5362)
+[5/14/2021 5:34:59 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 5362)
+[5/14/2021 5:34:59 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 5362)
+[5/14/2021 5:35:04 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:35:04 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:35:07 PM]
+  tomacatx1 picked up Welding Tool
+[5/14/2021 5:35:08 PM]
+  tomacatx1 picked up Diving Mask
+[5/14/2021 5:35:09 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5362)
+[5/14/2021 5:35:12 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5362)
+[5/14/2021 5:35:14 PM]
+  Romeo Hebert started repairing Battery
+[5/14/2021 5:35:14 PM]
+  Jc Banks started repairing Battery
+[5/14/2021 5:35:15 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:35:19 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:35:30 PM]
+  Console command "spawn Engineer cursor" executed by tomacatx1.
+[5/14/2021 5:35:34 PM]
+  Console command "spawn mechanic cursor" executed by tomacatx1.
+[5/14/2021 5:35:39 PM]
+  Console command "spawn engineer cursor" executed by tomacatx1.
+[5/14/2021 5:35:49 PM]
+  tomacatx1: Joyce Rios, power up the reactor!
+[5/14/2021 5:35:50 PM]
+  Joyce Rios: Aye aye!
+[5/14/2021 5:35:51 PM]
+  tomacatx1: Jackie Jones, take care of mechanical devices!
+[5/14/2021 5:35:52 PM]
+  Jackie Jones: Sure thing!
+[5/14/2021 5:35:53 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:35:53 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:35:53 PM]
+  tomacatx1: Laurinda Reeves, repair electrical systems!
+[5/14/2021 5:35:54 PM]
+  Romeo Hebert failed to repair Battery
+[5/14/2021 5:35:54 PM]
+  Laurinda Reeves: Aye!
+[5/14/2021 5:35:55 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:35:58 PM]
+  Jc Banks started repairing Battery
+[5/14/2021 5:36:00 PM]
+  Laurinda Reeves started repairing Battery
+[5/14/2021 5:36:01 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:36:02 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:36:06 PM]
+  Laurinda Reeves started repairing Battery
+[5/14/2021 5:36:12 PM]
+  Laurinda Reeves started repairing Battery
+[5/14/2021 5:36:14 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:36:15 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:36:16 PM]
+  Romeo Hebert started repairing Junction Box
+[5/14/2021 5:36:16 PM]
+  Jc Banks started repairing Junction Box
+[5/14/2021 5:36:16 PM]
+  Laurinda Reeves started repairing Battery
+[5/14/2021 5:36:17 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:36:20 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:36:23 PM]
+  Laurinda Reeves started repairing Supercapacitor
+[5/14/2021 5:36:26 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:36:26 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:36:27 PM]
+  Laurinda Reeves started repairing Supercapacitor
+[5/14/2021 5:36:28 PM]
+  Romeo Hebert started repairing Supercapacitor
+[5/14/2021 5:36:30 PM]
+  Jc Banks started repairing Supercapacitor
+[5/14/2021 5:36:31 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:36:31 PM]
+  Laurinda Reeves started repairing Supercapacitor
+[5/14/2021 5:36:32 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:36:40 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:36:41 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:36:42 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:36:44 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:36:44 PM]
+  Jc Banks started repairing Supercapacitor
+[5/14/2021 5:36:47 PM]
+  Jc Banks started repairing Supercapacitor
+[5/14/2021 5:36:50 PM]
+  Romeo Hebert started repairing Junction Box
+[5/14/2021 5:36:54 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:36:55 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:37:17 PM]
+  Romeo Hebert equipped Wrench
+[5/14/2021 5:37:17 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:37:18 PM]
+  Jc Banks started repairing Junction Box
+[5/14/2021 5:37:21 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:37:21 PM]
+  Jc Banks equipped Wrench
+[5/14/2021 5:37:24 PM]
+  Romeo Hebert started repairing Oxygen Generator
+[5/14/2021 5:37:26 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:37:27 PM]
+  Jc Banks unequipped Wrench
+[5/14/2021 5:37:28 PM]
+  Romeo Hebert unequipped Wrench
+[5/14/2021 5:37:35 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:37:39 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:37:43 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:37:47 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:37:49 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:37:50 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:37:51 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:37:51 PM]
+  Jc Banks started repairing Junction Box
+[5/14/2021 5:37:55 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:37:55 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:38:00 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:38:00 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:38:09 PM]
+  Jc Banks started repairing Junction Box
+[5/14/2021 5:38:10 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:38:14 PM]
+  Romeo Hebert equipped Screwdriver
+[5/14/2021 5:38:25 PM]
+  Jackie Jones equipped Wrench
+[5/14/2021 5:38:27 PM]
+  Console command "spawnitem "Exploding Ammunition Box" cursor" executed by tomacatx1.
+[5/14/2021 5:38:27 PM]
+  Console command "spawnitem "Exploding Ammunition Box" cursor" executed by tomacatx1.
+[5/14/2021 5:38:29 PM]
+  tomacatx1 equipped Exploding Ammunition Box
+[5/14/2021 5:38:30 PM]
+  Jackie Jones started repairing Nuclear Reactor
+[5/14/2021 5:38:31 PM]
+  tomacatx1 placed Exploding Ammunition Box in Coilgun Loader (ID: 898)
+[5/14/2021 5:38:31 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 898)
+[5/14/2021 5:38:31 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[5/14/2021 5:38:31 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[5/14/2021 5:38:33 PM]
+  Jackie Jones unequipped Wrench
+[5/14/2021 5:38:36 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[5/14/2021 5:38:37 PM]
+  tomacatx1 equipped Exploding Ammunition Box
+[5/14/2021 5:38:38 PM]
+  tomacatx1 placed Exploding Ammunition Box in Coilgun Loader (ID: 765)
+[5/14/2021 5:38:38 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 765)
+[5/14/2021 5:38:38 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[5/14/2021 5:38:38 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[5/14/2021 5:38:40 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[5/14/2021 5:38:56 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:38:59 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:39:03 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:39:17 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/14/2021 5:39:19 PM]
+  Wilford Danko: Tera Linares, man the guns!
+[5/14/2021 5:39:20 PM]
+  Mission info: Pirates eliminated - Navigate the submarine to The city of Shinkonai to claim your reward.
+[5/14/2021 5:39:25 PM]
+  Wilford Danko: Williams Ramos, man the weapons!
+[5/14/2021 5:39:33 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[5/14/2021 5:39:34 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:39:36 PM]
+  Wilford Danko: Williams Ramos, man the weapons!
+[5/14/2021 5:39:43 PM]
+  Wilford Danko: Tera Linares, operate the weapons!
+[5/14/2021 5:39:43 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:39:47 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:39:48 PM]
+  Wilford Danko: Tera Linares, man the weapons!
+[5/14/2021 5:39:53 PM]
+  Wilford Danko: Tera Linares, operate the weapons!
+[5/14/2021 5:40:30 PM]
+  Wilford Danko: Tera Linares, operate the weapons!
+[5/14/2021 5:40:36 PM]
+  Wilford Danko: Tera Linares, operate the weapons!
+[5/14/2021 5:40:44 PM]
+  Wilford Danko: Tera Linares, man the guns!
+[5/14/2021 5:40:48 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[5/14/2021 5:40:49 PM]
+  Outer wall breached by tomacatx1
+[5/14/2021 5:40:49 PM]
+  Outer wall breached by tomacatx1
+[5/14/2021 5:40:49 PM]
+  Outer wall breached by tomacatx1
+[5/14/2021 5:40:49 PM]
+  Outer wall breached by tomacatx1
+[5/14/2021 5:40:50 PM]
+  Wilford Danko: Romeo Hebert, start fixing leaks!
+[5/14/2021 5:40:53 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[5/14/2021 5:40:54 PM]
+  Outer wall breached by tomacatx1
+[5/14/2021 5:40:55 PM]
+  Wilford Danko: Williams Ramos, repair damaged systems!
+[5/14/2021 5:40:57 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:40:57 PM]
+  Laurinda Reeves started repairing Battery
+[5/14/2021 5:41:01 PM]
+  Wilford Danko: Tera Linares, take care of broken devices!
+[5/14/2021 5:41:01 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:41:04 PM]
+  Jackie Jones equipped Wrench
+[5/14/2021 5:41:15 PM]
+  Jackie Jones started repairing Oxygen Generator
+[5/14/2021 5:41:17 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:41:17 PM]
+  Laurinda Reeves started repairing Supercapacitor
+[5/14/2021 5:41:19 PM]
+  Tera Linares equipped Wrench
+[5/14/2021 5:41:19 PM]
+  Jackie Jones unequipped Wrench
+[5/14/2021 5:41:21 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:41:25 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:41:27 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/14/2021 5:41:33 PM]
+  Romeo Hebert unequipped Screwdriver
+[5/14/2021 5:41:33 PM]
+  Romeo Hebert equipped Welding Tool
+[5/14/2021 5:41:34 PM]
+  Wilford Danko: Tera Linares, man the weapons!
+[5/14/2021 5:41:42 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:41:42 PM]
+  Jc Banks equipped Wrench
+[5/14/2021 5:41:44 PM]
+  Jc Banks unequipped Wrench
+[5/14/2021 5:41:44 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:41:46 PM]
+  Outer wall repaired by Romeo Hebert
+[5/14/2021 5:41:47 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[5/14/2021 5:41:50 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:41:51 PM]
+  Jackie Jones equipped Wrench
+[5/14/2021 5:41:51 PM]
+  Jc Banks started repairing Supercapacitor
+[5/14/2021 5:41:56 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:41:57 PM]
+  Jackie Jones failed to repair Large Engine
+[5/14/2021 5:41:57 PM]
+  Console command "spawn mechanic cursor" executed by tomacatx1.
+[5/14/2021 5:41:58 PM]
+  Outer wall repaired by Romeo Hebert
+[5/14/2021 5:41:59 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:42:01 PM]
+  Tera Linares unequipped Wrench
+[5/14/2021 5:42:02 PM]
+  tomacatx1: Austin Blackwell, start fixing leaks!
+[5/14/2021 5:42:03 PM]
+  Jackie Jones unequipped Wrench
+[5/14/2021 5:42:03 PM]
+  Austin Blackwell: Got it!
+[5/14/2021 5:42:09 PM]
+  Tera Linares launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:42:10 PM]
+  Jc Banks started repairing Junction Box
+[5/14/2021 5:42:10 PM]
+  Outer wall breached by Tera Linares
+[5/14/2021 5:42:10 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:42:10 PM]
+  Laurinda Reeves started repairing Battery
+[5/14/2021 5:42:13 PM]
+  Laurinda Reeves started repairing Battery
+[5/14/2021 5:42:14 PM]
+  Outer wall repaired by Romeo Hebert
+[5/14/2021 5:42:15 PM]
+  Williams Ramos has died (Cause of death: Oxygen low)
+[5/14/2021 5:42:17 PM]
+  Console command "spawnitem "Combat Diving Suit" cursor" executed by tomacatx1.
+[5/14/2021 5:42:17 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:42:19 PM]
+  tomacatx1 picked up Combat Diving Suit
+[5/14/2021 5:42:20 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:42:20 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:42:20 PM]
+  Laurinda Reeves started repairing Battery
+[5/14/2021 5:42:23 PM]
+  tomacatx1 placed Oxygen Tank in Combat Diving Suit (ID: 5423)
+[5/14/2021 5:42:24 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:42:25 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:42:26 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:42:27 PM]
+  Jc Banks started repairing Supercapacitor
+[5/14/2021 5:42:29 PM]
+  tomacatx1 placed Body Armor in Medium Windowed Steel Cabinet (ID: 712)
+[5/14/2021 5:42:31 PM]
+  tomacatx1 picked up Underwater Scooter
+[5/14/2021 5:42:31 PM]
+  Wilford Danko equipped Screwdriver
+[5/14/2021 5:42:31 PM]
+  Wilford Danko started repairing Junction Box
+[5/14/2021 5:42:31 PM]
+  Jc Banks started repairing Supercapacitor
+[5/14/2021 5:42:32 PM]
+  Wilford Danko started repairing Junction Box
+[5/14/2021 5:42:32 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:42:32 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:42:33 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:42:34 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:42:36 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:42:36 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:42:37 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:42:37 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:42:40 PM]
+  tomacatx1 opened Custom Hatch
+[5/14/2021 5:42:43 PM]
+  tomacatx1 closed Custom Hatch
+[5/14/2021 5:42:44 PM]
+  Jc Banks started repairing Supercapacitor
+[5/14/2021 5:42:44 PM]
+  tomacatx1 equipped Underwater Scooter
+[5/14/2021 5:42:45 PM]
+  tomacatx1 equipped SMG
+[5/14/2021 5:42:50 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:42:51 PM]
+  Outer wall repaired by Romeo Hebert
+[5/14/2021 5:42:52 PM]
+  Wilford Danko started repairing Junction Box
+[5/14/2021 5:42:53 PM]
+  Wilford Danko: Romeo Hebert, man the weapons!
+[5/14/2021 5:42:54 PM]
+  Outer wall repaired by Romeo Hebert
+[5/14/2021 5:42:54 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:42:57 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:42:57 PM]
+  Jc Banks equipped Wrench
+[5/14/2021 5:42:58 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:43:01 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:43:03 PM]
+  Wilford Danko started repairing Junction Box
+[5/14/2021 5:43:03 PM]
+  Jc Banks failed to repair Coilgun Loader
+[5/14/2021 5:43:03 PM]
+  Jc Banks started repairing Coilgun Loader
+[5/14/2021 5:43:06 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:43:09 PM]
+  Laurinda Reeves started repairing Supercapacitor
+[5/14/2021 5:43:10 PM]
+  Wilford Danko started repairing Junction Box
+[5/14/2021 5:43:11 PM]
+  Console command "spawnitem "Plasma Cutter" inventory" executed by tomacatx1.
+[5/14/2021 5:43:12 PM]
+  Laurinda Reeves started repairing Supercapacitor
+[5/14/2021 5:43:13 PM]
+  tomacatx1 placed Oxygen Tank in Plasma Cutter (ID: 5353)
+[5/14/2021 5:43:13 PM]
+  Wilford Danko started repairing Junction Box
+[5/14/2021 5:43:14 PM]
+  tomacatx1 equipped Plasma Cutter
+[5/14/2021 5:43:16 PM]
+  Laurinda Reeves started repairing Navigation Terminal
+[5/14/2021 5:43:18 PM]
+  Wilford Danko: Tera Linares, man the guns!
+[5/14/2021 5:43:18 PM]
+  Jc Banks unequipped Wrench
+[5/14/2021 5:43:18 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:43:19 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:43:22 PM]
+  tomacatx1 equipped Oxygen Tank
+[5/14/2021 5:43:22 PM]
+  Romeo Hebert unequipped Welding Tool
+[5/14/2021 5:43:23 PM]
+  Jc Banks started repairing Navigation Terminal
+[5/14/2021 5:43:23 PM]
+  Wilford Danko: Tera Linares, man the guns!
+[5/14/2021 5:43:29 PM]
+  Wilford Danko: Tera Linares, man the weapons!
+[5/14/2021 5:43:34 PM]
+  Wilford Danko: Tera Linares, man the weapons!
+[5/14/2021 5:43:36 PM]
+  Wilford Danko unequipped Screwdriver
+[5/14/2021 5:43:36 PM]
+  Wilford Danko equipped Wrench
+[5/14/2021 5:43:36 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:43:36 PM]
+  Jc Banks equipped Wrench
+[5/14/2021 5:43:41 PM]
+  Wilford Danko: Tera Linares, man the weapons!
+[5/14/2021 5:43:41 PM]
+  Jc Banks started repairing Coilgun Loader
+[5/14/2021 5:43:42 PM]
+  Wilford Danko failed to repair Large Engine
+[5/14/2021 5:43:42 PM]
+  Wilford Danko failed to repair Large Engine
+[5/14/2021 5:43:42 PM]
+  Wilford Danko started repairing Large Engine
+[5/14/2021 5:43:46 PM]
+  Wilford Danko: Tera Linares, operate the weapons!
+[5/14/2021 5:43:49 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:43:53 PM]
+  Wilford Danko: Tera Linares, man the guns!
+[5/14/2021 5:43:56 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:43:59 PM]
+  Wilford Danko: Tera Linares, operate the weapons!
+[5/14/2021 5:43:59 PM]
+  Jc Banks unequipped Wrench
+[5/14/2021 5:43:59 PM]
+  Jc Banks equipped Screwdriver
+[5/14/2021 5:44:00 PM]
+  Laurinda Reeves unequipped Screwdriver
+[5/14/2021 5:44:00 PM]
+  Tera Linares attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:00 PM]
+  Tera Linares equipped SMG
+[5/14/2021 5:44:00 PM]
+  Tera Linares attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:00 PM]
+  Tera Linares attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:00 PM]
+  Williams Ramos attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 5:44:00 PM]
+  Williams Ramos attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 5:44:01 PM]
+  Tera Linares attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:01 PM]
+  Romeo Hebert equipped Revolver
+[5/14/2021 5:44:01 PM]
+  Jc Banks unequipped Screwdriver
+[5/14/2021 5:44:01 PM]
+  Jc Banks equipped Crowbar
+[5/14/2021 5:44:01 PM]
+  Tera Linares attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:01 PM]
+  Tera Linares attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:01 PM]
+  Jc Banks attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:02 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:02 PM]
+  Jc Banks attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:03 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:03 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:03 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:03 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:04 PM]
+  tomacatx1 equipped Riot Shotgun
+[5/14/2021 5:44:04 PM]
+  Wilford Danko: Romeo Hebert, start fixing leaks!
+[5/14/2021 5:44:04 PM]
+  Wilford Danko unequipped Wrench
+[5/14/2021 5:44:04 PM]
+  Wilford Danko equipped Screwdriver
+[5/14/2021 5:44:05 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:05 PM]
+  Jc Banks attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:05 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:05 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:05 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:05 PM]
+  Jc Banks attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:06 PM]
+  Wilford Danko unequipped Screwdriver
+[5/14/2021 5:44:06 PM]
+  Wilford Danko equipped Wrench
+[5/14/2021 5:44:06 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:06 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:06 PM]
+  Jc Banks attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:08 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:08 PM]
+  Romeo Hebert attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:08 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:08 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:08 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:08 PM]
+  Romeo Hebert attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:08 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:08 PM]
+  Wilford Danko unequipped Wrench
+[5/14/2021 5:44:08 PM]
+  Wilford Danko equipped Screwdriver
+[5/14/2021 5:44:11 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:11 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:15 PM]
+  Wilford Danko unequipped Screwdriver
+[5/14/2021 5:44:15 PM]
+  Wilford Danko equipped Welding Tool
+[5/14/2021 5:44:15 PM]
+  Romeo Hebert unequipped Revolver
+[5/14/2021 5:44:17 PM]
+  tomacatx1 placed Underwater Scooter in Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:44:17 PM]
+  tomacatx1 removed SMG from Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:44:17 PM]
+  tomacatx1 picked up SMG
+[5/14/2021 5:44:20 PM]
+  tomacatx1 placed SMG in Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:44:20 PM]
+  tomacatx1 removed Underwater Scooter from Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:44:20 PM]
+  tomacatx1 picked up Underwater Scooter
+[5/14/2021 5:44:20 PM]
+  tomacatx1 equipped SMG
+[5/14/2021 5:44:23 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:23 PM]
+  Romeo Hebert equipped Revolver
+[5/14/2021 5:44:23 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:24 PM]
+  Wilford Danko unequipped Welding Tool
+[5/14/2021 5:44:24 PM]
+  Wilford Danko equipped Revolver
+[5/14/2021 5:44:25 PM]
+  Romeo Hebert attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:26 PM]
+  Romeo Hebert attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:26 PM]
+  Wilford Danko attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:26 PM]
+  Wilford Danko attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 3.6000001 Stun: 0.15
+[5/14/2021 5:44:27 PM]
+  Romeo Hebert unequipped Revolver
+[5/14/2021 5:44:27 PM]
+  Romeo Hebert equipped Welding Tool
+[5/14/2021 5:44:27 PM]
+  Romeo Hebert attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:27 PM]
+  Wilford Danko attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:27 PM]
+  Romeo Hebert attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:27 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:27 PM]
+  Romeo Hebert attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:28 PM]
+  Romeo Hebert attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 5:44:29 PM]
+  Joyce Rios: Loading more fuel to the reactor!
+[5/14/2021 5:44:30 PM]
+  Joyce Rios equipped Fuel Rod
+[5/14/2021 5:44:36 PM]
+  tomacatx1 used item Blood Pack
+[5/14/2021 5:44:37 PM]
+  tomacatx1 used item Morphine
+[5/14/2021 5:44:37 PM]
+  Austin Blackwell equipped Fuel Rod
+[5/14/2021 5:44:39 PM]
+  tomacatx1 used item Morphine
+[5/14/2021 5:44:39 PM]
+  Jc Banks has died (Cause of death: Gunshot wound)
+[5/14/2021 5:44:40 PM]
+  tomacatx1 used item Anabolic Steroids
+[5/14/2021 5:44:42 PM]
+  tomacatx1 equipped Riot Shotgun
+[5/14/2021 5:44:42 PM]
+  Wilford Danko unequipped Revolver
+[5/14/2021 5:44:42 PM]
+  Wilford Danko equipped Welding Tool
+[5/14/2021 5:44:43 PM]
+  Tera Linares attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:43 PM]
+  Tera Linares attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:44 PM]
+  Wilford Danko attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:44 PM]
+  Wilford Danko attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:44 PM]
+  Wilford Danko attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:44 PM]
+  Wilford Danko attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:44 PM]
+  Wilford Danko attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:44 PM]
+  Wilford Danko attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:44 PM]
+  Wilford Danko attacked by tomacatx1. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:44 PM]
+  Wilford Danko attacked by tomacatx1. Gunshot wound: 3.2 Stun: 0.2
+[5/14/2021 5:44:49 PM]
+  tomacatx1 used item Plastiseal
+[5/14/2021 5:44:51 PM]
+  tomacatx1 used item Plastiseal
+[5/14/2021 5:44:54 PM]
+  Laurinda Reeves: Have any of you heard of labor unions?
+[5/14/2021 5:45:07 PM]
+  Laurinda Reeves equipped Screwdriver
+[5/14/2021 5:45:07 PM]
+  Laurinda Reeves started repairing Junction Box
+[5/14/2021 5:45:16 PM]
+  tomacatx1 removed Pirate Captain Hat from Wilford Danko
+[5/14/2021 5:45:19 PM]
+  tomacatx1 picked up Pirate Costume
+[5/14/2021 5:45:24 PM]
+  tomacatx1 picked up Pirate Captain Hat
+[5/14/2021 5:45:31 PM]
+  Romeo Hebert has died (Cause of death: Gunshot wound)
+[5/14/2021 5:45:47 PM]
+  Tera Linares has died (Cause of death: Oxygen low)
+[5/14/2021 5:45:49 PM]
+  Wilford Danko has died (Cause of death: Gunshot wound)
+[5/14/2021 5:46:27 PM]
+  tomacatx1 placed Riot Shotgun in Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:46:27 PM]
+  tomacatx1 removed Riot Shotgun from Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:46:27 PM]
+  tomacatx1 picked up Riot Shotgun
+[5/14/2021 5:46:28 PM]
+  tomacatx1 placed Riot Shotgun in Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:46:28 PM]
+  tomacatx1 removed Riot Shotgun from Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:46:28 PM]
+  tomacatx1 picked up Riot Shotgun
+[5/14/2021 5:46:32 PM]
+  tomacatx1 placed SMG Magazine in Large Steel Cabinet (ID: 1804)
+[5/14/2021 5:47:08 PM]
+  tomacatx1 opened Custom Hatch
+[5/14/2021 5:47:10 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:47:10 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:47:14 PM]
+  tomacatx1 closed Custom Hatch
+[5/14/2021 5:47:16 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:47:16 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:47:18 PM]
+  tomacatx1 dropped Combat Diving Suit
+[5/14/2021 5:47:25 PM]
+  tomacatx1 placed Oxygen Tank in Medium Windowed Steel Cabinet (ID: 712)
+[5/14/2021 5:47:25 PM]
+  tomacatx1 placed Oxygen Tank in Medium Windowed Steel Cabinet (ID: 712)
+[5/14/2021 5:47:25 PM]
+  tomacatx1 placed Oxygen Tank in Medium Windowed Steel Cabinet (ID: 712)
+[5/14/2021 5:47:25 PM]
+  tomacatx1 placed Oxygen Tank in Medium Windowed Steel Cabinet (ID: 712)
+[5/14/2021 5:47:25 PM]
+  tomacatx1 placed Oxygen Tank in Medium Windowed Steel Cabinet (ID: 712)
+[5/14/2021 5:47:55 PM]
+  tomacatx1 placed Veteran's Jacket in Large Steel Cabinet (ID: 851)
+[5/14/2021 5:47:56 PM]
+  tomacatx1 placed Ballistic Helmet in Large Steel Cabinet (ID: 851)
+[5/14/2021 5:47:57 PM]
+  tomacatx1 placed SMG in Large Steel Cabinet (ID: 851)
+[5/14/2021 5:47:57 PM]
+  tomacatx1 placed Underwater Scooter in Large Steel Cabinet (ID: 851)
+[5/14/2021 5:47:58 PM]
+  tomacatx1 placed Riot Shotgun in Large Steel Cabinet (ID: 851)
+[5/14/2021 5:48:02 PM]
+  Console command "spawnitem Haloperidol inventory" executed by tomacatx1.
+[5/14/2021 5:48:05 PM]
+  tomacatx1 used item Haloperidol
+[5/14/2021 5:48:10 PM]
+  tomacatx1 picked up Combat Diving Suit
+[5/14/2021 5:48:12 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 187)
+[5/14/2021 5:48:12 PM]
+  tomacatx1 removed Oxygen Tank from Oxygen Tank Shelf (ID: 187)
+[5/14/2021 5:48:12 PM]
+  tomacatx1 placed Oxygen Tank in Combat Diving Suit (ID: 5423)
+[5/14/2021 5:48:13 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:48:13 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:48:15 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:48:15 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:48:18 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:48:18 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:48:19 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:48:19 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:48:21 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:21 PM]
+  tomacatx1 placed Oxygen Tank in Plasma Cutter (ID: 5353)
+[5/14/2021 5:48:21 PM]
+  tomacatx1 dropped Plasma Cutter
+[5/14/2021 5:48:23 PM]
+  tomacatx1 unequipped Plasma Cutter
+[5/14/2021 5:48:26 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 187)
+[5/14/2021 5:48:26 PM]
+  tomacatx1 removed Oxygen Tank from Oxygen Tank Shelf (ID: 187)
+[5/14/2021 5:48:26 PM]
+  tomacatx1 placed Oxygen Tank in Plasma Cutter (ID: 5353)
+[5/14/2021 5:48:29 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:29 PM]
+  tomacatx1 dropped Oxygen Tank
+[5/14/2021 5:48:29 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 187)
+[5/14/2021 5:48:31 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:31 PM]
+  tomacatx1 dropped Oxygen Tank
+[5/14/2021 5:48:31 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 187)
+[5/14/2021 5:48:32 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 187)
+[5/14/2021 5:48:34 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:34 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:34 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:34 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:34 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:34 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:34 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:48:37 PM]
+  tomacatx1 picked up Underwater Scooter
+[5/14/2021 5:48:40 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:48:40 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:48:41 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:48:41 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:48:41 PM]
+  tomacatx1 opened Custom Hatch
+[5/14/2021 5:48:44 PM]
+  tomacatx1 closed Custom Hatch
+[5/14/2021 5:49:00 PM]
+  tomacatx1 picked up Pirate Costume
+[5/14/2021 5:49:03 PM]
+  tomacatx1 picked up Pirate Costume
+[5/14/2021 5:49:13 PM]
+  tomacatx1 picked up Pirate Costume
+[5/14/2021 5:49:15 PM]
+  tomacatx1 picked up Pirate Bandana
+[5/14/2021 5:49:21 PM]
+  tomacatx1 placed Pirate Costume in Toolbelt (ID: 5362)
+[5/14/2021 5:49:23 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 5:49:24 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 5:49:34 PM]
+  tomacatx1 opened Custom Hatch
+[5/14/2021 5:49:36 PM]
+  tomacatx1 closed Custom Hatch
+[5/14/2021 5:49:37 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:49:37 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:49:38 PM]
+  tomacatx1 opened Custom Door
+[5/14/2021 5:49:38 PM]
+  tomacatx1 closed Custom Door
+[5/14/2021 5:49:40 PM]
+  tomacatx1 dropped Combat Diving Suit
+[5/14/2021 5:49:46 PM]
+  Austin Blackwell: Broken devices in engineering!
+[5/14/2021 5:49:50 PM]
+  tomacatx1 placed Pirate Costume in Toolbelt (ID: 5362)
+[5/14/2021 5:49:50 PM]
+  tomacatx1 removed Pirate Costume from Toolbelt (ID: 5362)
+[5/14/2021 5:49:50 PM]
+  tomacatx1 picked up Pirate Costume
+[5/14/2021 5:49:54 PM]
+  tomacatx1 equipped Oxygen Tank
+[5/14/2021 5:50:05 PM]
+  Austin Blackwell: Need someone to repair devices in engineering!
+[5/14/2021 5:50:27 PM]
+  Client "tomacatx1" ended the round.
+[5/14/2021 5:50:27 PM]
+  Ending the round...
+[5/14/2021 5:50:28 PM]
+  Round ended.
+[5/14/2021 5:50:49 PM]
+  tomacatx1 is ready to start the game.
+[5/14/2021 5:50:50 PM]
+  Client "tomacatx1" started the round.
+[5/14/2021 5:50:50 PM]
+  Starting a new round...
+[5/14/2021 5:50:54 PM]
+  Sherry Whitely equipped Wrench
+[5/14/2021 5:50:54 PM]
+  Sherry Whitely unequipped Wrench
+[5/14/2021 5:50:54 PM]
+  Sherry Whitely equipped Screwdriver
+[5/14/2021 5:50:55 PM]
+  Jina Meisner equipped Wrench
+[5/14/2021 5:50:55 PM]
+  Jina Meisner unequipped Wrench
+[5/14/2021 5:50:55 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 5:50:55 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 5:50:55 PM]
+  Jina Meisner equipped Crowbar
+[5/14/2021 5:50:55 PM]
+  Mission: Pirate Vessel
+[5/14/2021 5:50:55 PM]
+  Seek out the pirate vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[5/14/2021 5:50:55 PM]
+  Game mode: Mission
+[5/14/2021 5:50:55 PM]
+  Submarine: DugongPulseLaser
+[5/14/2021 5:50:55 PM]
+  Level seed: x8zDX9uu
+[5/14/2021 5:50:55 PM]
+  Mission: Pirate Vessel
+[5/14/2021 5:50:56 PM]
+  Round started.
+[5/14/2021 5:50:57 PM]
+  Jina Meisner unequipped Crowbar
+[5/14/2021 5:50:57 PM]
+  Sherry Whitely unequipped Screwdriver
+[5/14/2021 5:51:01 PM]
+  David Ouellette: Did you hear that?
+[5/14/2021 5:51:03 PM]
+  Sherry Whitely: Hear what?
+[5/14/2021 5:51:04 PM]
+  David Ouellette: Some deep groaning sound from the outside.
+[5/14/2021 5:51:08 PM]
+  Sherry Whitely: The Crabmen. I've told you.
+[5/14/2021 5:51:18 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[5/14/2021 5:51:21 PM]
+  tomacatx1: I'll set the course onwards!
+[5/14/2021 5:51:27 PM]
+  Console command "spawn engineer cursor" executed by tomacatx1.
+[5/14/2021 5:51:28 PM]
+  Console command "spawn engineer cursor" executed by tomacatx1.
+[5/14/2021 5:51:30 PM]
+  Console command "spawn mechanic cursor" executed by tomacatx1.
+[5/14/2021 5:51:31 PM]
+  Console command "spawn mechanic cursor" executed by tomacatx1.
+[5/14/2021 5:51:35 PM]
+  tomacatx1: Edison Basnett, power up the reactor!
+[5/14/2021 5:51:36 PM]
+  Edison Basnett: Copy that.
+[5/14/2021 5:51:37 PM]
+  tomacatx1: Amira Lawson, repair electrical systems!
+[5/14/2021 5:51:38 PM]
+  Amira Lawson: Got it!
+[5/14/2021 5:51:38 PM]
+  tomacatx1: Lane Cluck, take care of any leaks!
+[5/14/2021 5:51:39 PM]
+  Lane Cluck: Aye aye!
+[5/14/2021 5:51:40 PM]
+  tomacatx1: Mechelle Quinn, take care of mechanical devices!
+[5/14/2021 5:51:41 PM]
+  Mechelle Quinn: Yes, sir!
+[5/14/2021 5:51:54 PM]
+  tomacatx1 picked up Body Armor
+[5/14/2021 5:51:55 PM]
+  tomacatx1 removed Gunner's Helmet from Medium Windowed Steel Cabinet (ID: 335)
+[5/14/2021 5:51:58 PM]
+  tomacatx1 picked up Gunner's Helmet
+[5/14/2021 5:51:59 PM]
+  tomacatx1 placed Veteran's Cap in Medium Windowed Steel Cabinet (ID: 335)
+[5/14/2021 5:52:00 PM]
+  tomacatx1 placed Captain's Pipe in Medium Windowed Steel Cabinet (ID: 335)
+[5/14/2021 5:52:04 PM]
+  tomacatx1 picked up SMG
+[5/14/2021 5:52:05 PM]
+  tomacatx1 picked up Riot Shotgun
+[5/14/2021 5:52:06 PM]
+  tomacatx1 placed Revolver in Secure Steel Cabinet (ID: 308)
+[5/14/2021 5:52:09 PM]
+  tomacatx1 picked up SMG
+[5/14/2021 5:52:16 PM]
+  Console command "spawnitem Toolbelt inventory" executed by tomacatx1.
+[5/14/2021 5:52:16 PM]
+  tomacatx1 equipped Toolbelt
+[5/14/2021 5:52:23 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 7136)
+[5/14/2021 5:52:23 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 7136)
+[5/14/2021 5:52:23 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 7136)
+[5/14/2021 5:52:23 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 7136)
+[5/14/2021 5:52:23 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 7136)
+[5/14/2021 5:52:23 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 7136)
+[5/14/2021 5:52:24 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 7136)
+[5/14/2021 5:52:24 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 7136)
+[5/14/2021 5:52:24 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 7136)
+[5/14/2021 5:52:26 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 7136)
+[5/14/2021 5:52:26 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 7136)
+[5/14/2021 5:52:26 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 7136)
+[5/14/2021 5:52:26 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 7136)
+[5/14/2021 5:52:26 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 7136)
+[5/14/2021 5:52:31 PM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by tomacatx1.
+[5/14/2021 5:52:32 PM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by tomacatx1.
+[5/14/2021 5:52:32 PM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by tomacatx1.
+[5/14/2021 5:52:34 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 7136)
+[5/14/2021 5:52:34 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 7136)
+[5/14/2021 5:52:34 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 7136)
+[5/14/2021 5:52:37 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 7136)
+[5/14/2021 5:52:40 PM]
+  tomacatx1 removed Welding Tool from Supplies Cabinet (ID: 476)
+[5/14/2021 5:52:43 PM]
+  tomacatx1 picked up Diving Mask
+[5/14/2021 5:52:54 PM]
+  Console command "spawnitem "Combat Diving Suit" cursor" executed by tomacatx1.
+[5/14/2021 5:52:56 PM]
+  tomacatx1 picked up Combat Diving Suit
+[5/14/2021 5:52:59 PM]
+  tomacatx1 picked up Diving Suit
+[5/14/2021 5:52:59 PM]
+  tomacatx1 dropped Combat Diving Suit
+[5/14/2021 5:52:59 PM]
+  tomacatx1 placed Combat Diving Suit in Diving Suit Locker (ID: 436)
+[5/14/2021 5:53:01 PM]
+  tomacatx1 placed Oxygen Tank in Combat Diving Suit (ID: 7140)
+[5/14/2021 5:53:02 PM]
+  tomacatx1 dropped Diving Suit
+[5/14/2021 5:53:18 PM]
+  tomacatx1 launched Pulse Laser (projectile: Pulse Laser Bolt)
+[5/14/2021 5:53:20 PM]
+  tomacatx1 launched Pulse Laser (projectile: Pulse Laser Bolt)
+[5/14/2021 5:54:22 PM]
+  tomacatx1 launched Pulse Laser (projectile: Pulse Laser Bolt)
+[5/14/2021 5:54:24 PM]
+  Watcher has died (Cause of death: Gunshot wound)
+[5/14/2021 5:54:24 PM]
+  tomacatx1 launched Pulse Laser (projectile: Pulse Laser Bolt)
+[5/14/2021 5:54:32 PM]
+  Lane Cluck: Leak in medbay!
+[5/14/2021 5:54:33 PM]
+  Lane Cluck equipped Welding Tool
+[5/14/2021 5:54:33 PM]
+  Outer wall repaired by Lane Cluck
+[5/14/2021 5:54:33 PM]
+  Lane Cluck: One leak fixed in armory!
+[5/14/2021 5:54:34 PM]
+  Lane Cluck unequipped Welding Tool
+[5/14/2021 5:54:49 PM]
+  Lane Cluck: Need to find a diving suit!
+[5/14/2021 5:54:51 PM]
+  Lane Cluck: Leak in ballast tank b!
+[5/14/2021 5:54:52 PM]
+  Lane Cluck equipped Welding Tool
+[5/14/2021 5:54:54 PM]
+  Mechelle Quinn: Need to find a diving suit!
+[5/14/2021 5:54:58 PM]
+  Amira Lawson equipped Welding Tool
+[5/14/2021 5:54:58 PM]
+  Amira Lawson: Need to find a diving suit!
+[5/14/2021 5:55:18 PM]
+  Lane Cluck unequipped Welding Tool
+[5/14/2021 5:55:20 PM]
+  Amira Lawson unequipped Welding Tool
+[5/14/2021 5:55:48 PM]
+  David Ouellette: Sherry Whitely, take care of broken devices!
+[5/14/2021 5:55:49 PM]
+  Sherry Whitely equipped Screwdriver
+[5/14/2021 5:55:51 PM]
+  Sherry Whitely failed to repair Battery
+[5/14/2021 5:55:55 PM]
+  David Ouellette: Jina Meisner, repair damaged systems!
+[5/14/2021 5:55:56 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 5:55:57 PM]
+  Sherry Whitely started repairing Battery
+[5/14/2021 5:55:58 PM]
+  Jina Meisner started repairing Junction Box
+[5/14/2021 5:56:02 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 5:56:03 PM]
+  Console command "spawnitem "Pulse Laser Fuel Box"freecam" executed by tomacatx1.
+[5/14/2021 5:56:04 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 5:56:06 PM]
+  Sherry Whitely started repairing Supercapacitor
+[5/14/2021 5:56:06 PM]
+  Jina Meisner started repairing Supercapacitor
+[5/14/2021 5:56:07 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/14/2021 5:56:10 PM]
+  Sherry Whitely started repairing Junction Box
+[5/14/2021 5:56:11 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 5:56:13 PM]
+  Jina Meisner started repairing Junction Box
+[5/14/2021 5:56:14 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 5:56:14 PM]
+  Amira Lawson started repairing Battery
+[5/14/2021 5:56:18 PM]
+  Sherry Whitely unequipped Screwdriver
+[5/14/2021 5:56:18 PM]
+  Sherry Whitely equipped Bandage
+[5/14/2021 5:56:18 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 5:56:20 PM]
+  Console command "fixhulls" executed by tomacatx1.
+[5/14/2021 5:56:22 PM]
+  Sherry Whitely equipped Screwdriver
+[5/14/2021 5:56:23 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 5:56:28 PM]
+  Sherry Whitely failed to repair Battery
+[5/14/2021 5:56:31 PM]
+  Jina Meisner started repairing Battery
+[5/14/2021 5:56:32 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 5:56:33 PM]
+  Amira Lawson started repairing Battery
+[5/14/2021 5:56:37 PM]
+  Jina Meisner started repairing Supercapacitor
+[5/14/2021 5:56:37 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 5:56:41 PM]
+  Jina Meisner started repairing Supercapacitor
+[5/14/2021 5:56:41 PM]
+  Sherry Whitely started repairing Battery
+[5/14/2021 5:56:45 PM]
+  Sherry Whitely failed to repair Battery
+[5/14/2021 5:56:48 PM]
+  Console command "teleportsub " executed by tomacatx1.
+[5/14/2021 5:56:50 PM]
+  Jina Meisner started repairing Battery
+[5/14/2021 5:56:51 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[5/14/2021 5:56:59 PM]
+  Sherry Whitely started repairing Junction Box
+[5/14/2021 5:57:01 PM]
+  Jina Meisner started repairing Junction Box
+[5/14/2021 5:57:04 PM]
+  Sherry Whitely unequipped Screwdriver
+[5/14/2021 5:57:05 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 5:57:10 PM]
+  tomacatx1 picked up Underwater Scooter
+[5/14/2021 5:57:11 PM]
+  tomacatx1 picked up Plasma Cutter
+[5/14/2021 5:57:15 PM]
+  David Ouellette: Kerry Gears, man the guns!
+[5/14/2021 5:57:16 PM]
+  tomacatx1 placed Battery Cell in Toolbelt (ID: 7136)
+[5/14/2021 5:57:18 PM]
+  tomacatx1 picked up Handheld Sonar
+[5/14/2021 5:57:22 PM]
+  David Ouellette: Tod Mason, operate the weapons!
+[5/14/2021 5:57:23 PM]
+  tomacatx1 equipped Diving Suit
+[5/14/2021 5:57:23 PM]
+  tomacatx1 picked up Diving Suit
+[5/14/2021 5:57:24 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 6)
+[5/14/2021 5:57:25 PM]
+  Sherry Whitely equipped Screwdriver
+[5/14/2021 5:57:25 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 5:57:26 PM]
+  tomacatx1 equipped Combat Diving Suit
+[5/14/2021 5:57:26 PM]
+  tomacatx1 picked up Combat Diving Suit
+[5/14/2021 5:57:28 PM]
+  tomacatx1 dropped Combat Diving Suit
+[5/14/2021 5:57:30 PM]
+  tomacatx1 picked up Combat Diving Suit
+[5/14/2021 5:57:30 PM]
+  Outer wall breached by Mudraptor
+[5/14/2021 5:57:31 PM]
+  Sherry Whitely failed to repair Junction Box
+[5/14/2021 5:57:35 PM]
+  Jina Meisner started repairing Junction Box
+[5/14/2021 5:57:36 PM]
+  tomacatx1 dropped Body Armor
+[5/14/2021 5:57:37 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:57:38 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:57:38 PM]
+  David Ouellette: Kerry Gears, operate the weapons!
+[5/14/2021 5:57:38 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:57:38 PM]
+  Sherry Whitely unequipped Screwdriver
+[5/14/2021 5:57:39 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 5:57:40 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:57:41 PM]
+  Tod Mason launched Railgun (projectile: Railgun Shell)
+[5/14/2021 5:57:41 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:57:41 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:57:42 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 5:57:42 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:57:42 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:57:43 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:57:43 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 7136)
+[5/14/2021 5:57:43 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 7136)
+[5/14/2021 5:57:43 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 7136)
+[5/14/2021 5:57:43 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 7136)
+[5/14/2021 5:57:43 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 7136)
+[5/14/2021 5:57:43 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 7136)
+[5/14/2021 5:57:44 PM]
+  David Ouellette: Kerry Gears, man the weapons!
+[5/14/2021 5:57:45 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 5:57:45 PM]
+  Amira Lawson started repairing Supercapacitor
+[5/14/2021 5:57:46 PM]
+  Tod Mason launched Railgun (projectile: Railgun Shell)
+[5/14/2021 5:57:49 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 5:57:50 PM]
+  David Ouellette: Kerry Gears, operate the weapons!
+[5/14/2021 5:57:51 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:57:51 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:57:52 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:57:52 PM]
+  Tod Mason launched Railgun (projectile: Railgun Shell)
+[5/14/2021 5:57:52 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 5:57:53 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[5/14/2021 5:57:53 PM]
+  Kerry Gears: I think I got it!
+[5/14/2021 5:57:53 PM]
+  Tod Mason: I think I got it!
+[5/14/2021 5:57:55 PM]
+  tomacatx1 equipped Underwater Scooter
+[5/14/2021 5:58:07 PM]
+  Mission info: Pirates eliminated - Navigate the submarine to Molovsk Outpost to claim your reward.
+[5/14/2021 5:58:12 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 5:58:13 PM]
+  Amira Lawson equipped Diving Suit
+[5/14/2021 5:58:18 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 5:58:21 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 5:58:25 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 5:58:28 PM]
+  Amira Lawson started repairing Supercapacitor
+[5/14/2021 5:58:30 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 5:58:31 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 5:58:31 PM]
+  Sherry Whitely equipped Screwdriver
+[5/14/2021 5:58:31 PM]
+  tomacatx1 equipped Handheld Sonar
+[5/14/2021 5:58:32 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 5:58:33 PM]
+  Jina Meisner started repairing Junction Box
+[5/14/2021 5:58:36 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 5:58:36 PM]
+  Amira Lawson started repairing Junction Box
+[5/14/2021 5:58:36 PM]
+  Sherry Whitely unequipped Screwdriver
+[5/14/2021 5:58:37 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 5:58:40 PM]
+  tomacatx1 equipped SMG
+[5/14/2021 5:58:40 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 5:58:43 PM]
+  David Ouellette: Tod Mason, operate the weapons!
+[5/14/2021 5:58:48 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 5:58:54 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 5:58:59 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 5:59:05 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 5:59:11 PM]
+  David Ouellette: Tod Mason, operate the weapons!
+[5/14/2021 5:59:15 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 5:59:15 PM]
+  Sherry Whitely equipped Screwdriver
+[5/14/2021 5:59:16 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 5:59:21 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 5:59:23 PM]
+  Jina Meisner failed to repair Junction Box
+[5/14/2021 5:59:23 PM]
+  Sherry Whitely started repairing Junction Box
+[5/14/2021 5:59:27 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 5:59:28 PM]
+  Sherry Whitely unequipped Screwdriver
+[5/14/2021 5:59:29 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 5:59:30 PM]
+  Sherry Whitely equipped Screwdriver
+[5/14/2021 5:59:31 PM]
+  Sherry Whitely started repairing Junction Box
+[5/14/2021 5:59:32 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 5:59:32 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 5:59:33 PM]
+  Mechelle Quinn equipped Wrench
+[5/14/2021 5:59:33 PM]
+  Jina Meisner started repairing Junction Box
+[5/14/2021 5:59:34 PM]
+  Mechelle Quinn failed to repair Oxygen Generator
+[5/14/2021 5:59:36 PM]
+  Sherry Whitely unequipped Screwdriver
+[5/14/2021 5:59:39 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 5:59:39 PM]
+  Jina Meisner equipped Bandage
+[5/14/2021 5:59:39 PM]
+  Mechelle Quinn unequipped Wrench
+[5/14/2021 5:59:39 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 5:59:43 PM]
+  Jina Meisner equipped Bandage
+[5/14/2021 5:59:44 PM]
+  Jina Meisner unequipped Bandage
+[5/14/2021 5:59:45 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 5:59:47 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/14/2021 5:59:52 PM]
+  David Ouellette: Tod Mason, operate the weapons!
+[5/14/2021 5:59:56 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 5:59:57 PM]
+  Amira Lawson started repairing Junction Box
+[5/14/2021 5:59:57 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 5:59:58 PM]
+  Console command "teleport" executed by tomacatx1.

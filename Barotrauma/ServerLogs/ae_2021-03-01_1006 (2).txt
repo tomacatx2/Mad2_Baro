@@ -1,0 +1,186 @@
+﻿[3/1/2021 10:02:11 AM]
+  Saving client permissions
+[3/1/2021 10:02:18 AM]
+  tomacatx1 is ready to start the game.
+[3/1/2021 10:02:18 AM]
+  Client "tomacatx1" started the round.
+[3/1/2021 10:02:18 AM]
+  Starting a new round...
+[3/1/2021 10:02:41 AM]
+  Game mode: Sandbox
+[3/1/2021 10:02:41 AM]
+  Submarine: Humpback v1.03 re-1
+[3/1/2021 10:02:41 AM]
+  Level seed: gLj0McZo
+[3/1/2021 10:02:41 AM]
+  Round started.
+[3/1/2021 10:02:47 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/1/2021 10:02:57 AM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[3/1/2021 10:02:58 AM]
+  tomacatx1 adjusted reactor settings: Temperature: 51, Fission rate: 2, Turbine output: 0, Autotemp ON
+[3/1/2021 10:03:07 AM]
+  Console command "spawn miner cursor" executed by tomacatx1.
+[3/1/2021 10:03:18 AM]
+  Console command "spawn miner cursor" executed by tomacatx1.
+[3/1/2021 10:03:23 AM]
+  Console command "spawn mercenar cursor" executed by tomacatx1.
+[3/1/2021 10:03:28 AM]
+  Console command "spawn marine cursor" executed by tomacatx1.
+[3/1/2021 10:03:34 AM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[3/1/2021 10:03:40 AM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[3/1/2021 10:03:47 AM]
+  Console command "spawn explorer cursor" executed by tomacatx1.
+[3/1/2021 10:03:55 AM]
+  Console command "spawn explorer cursor" executed by tomacatx1.
+[3/1/2021 10:04:03 AM]
+  Console command "control "Tommie Gould"" executed by tomacatx1.
+[3/1/2021 10:04:04 AM]
+  Tommie Gould set the value "Channel" of the item "Headset" to "0".
+[3/1/2021 10:04:06 AM]
+  Tommie Gould placed Battery Cell in Long Range Radio (ID: 3685)
+[3/1/2021 10:04:06 AM]
+  Tommie Gould placed Battery Cell in Long Range Radio (ID: 3685)
+[3/1/2021 10:04:07 AM]
+  Tommie Gould placed Headset in Long Range Radio (ID: 3685)
+[3/1/2021 10:04:09 AM]
+  Tommie Gould set the value "Channel" of the item "Long Range Radio" to "0".
+[3/1/2021 10:04:14 AM]
+  Tommie Gould placed Flare Gun in Renegade Combat Undershirt (ID: 3678)
+[3/1/2021 10:04:16 AM]
+  Tommie Gould placed Flare Cartridge in Renegade Combat Undershirt (ID: 3678)
+[3/1/2021 10:04:16 AM]
+  Tommie Gould placed Flare Cartridge in Renegade Combat Undershirt (ID: 3678)
+[3/1/2021 10:04:16 AM]
+  Tommie Gould placed Flare Cartridge in Renegade Combat Undershirt (ID: 3678)
+[3/1/2021 10:04:16 AM]
+  Tommie Gould placed Flare Cartridge in Renegade Combat Undershirt (ID: 3678)
+[3/1/2021 10:04:17 AM]
+  Tommie Gould placed Advanced Sonar Beacon in Renegade Combat Undershirt (ID: 3678)
+[3/1/2021 10:04:18 AM]
+  Tommie Gould placed Advanced Sonar Beacon in Renegade Combat Undershirt (ID: 3678)
+[3/1/2021 10:04:37 AM]
+  Console command "control "Lily Thompkins"" executed by tomacatx1.
+[3/1/2021 10:04:38 AM]
+  Lily Thompkins set the value "Channel" of the item "Headset" to "0".
+[3/1/2021 10:04:40 AM]
+  Lily Thompkins equipped Marine Battle Rifle
+[3/1/2021 10:04:48 AM]
+  Laurinda Malone: Help, I'm bleeding!
+[3/1/2021 10:04:53 AM]
+  Laurinda Malone: Ow, what was that for?
+[3/1/2021 10:04:57 AM]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[3/1/2021 10:05:00 AM]
+  Tommie Gould: Stop it!
+[3/1/2021 10:05:03 AM]
+  Lily Thompkins placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 3647)
+[3/1/2021 10:05:03 AM]
+  Lily Thompkins removed 5.56x45mm Magazine from Marine Battle Rifle (ID: 3647)
+[3/1/2021 10:05:03 AM]
+  Lily Thompkins picked up 5.56x45mm Magazine
+[3/1/2021 10:05:04 AM]
+  Tommie Gould: I'm losing blood!
+[3/1/2021 10:05:07 AM]
+  Chuck Severance: Need a medic in command room!
+[3/1/2021 10:05:08 AM]
+  Chuck Severance: Why are you doing this?
+[3/1/2021 10:05:09 AM]
+  Chuck Severance: I'm losing blood!
+[3/1/2021 10:05:09 AM]
+  Melba Shah: Ow, what was that for?
+[3/1/2021 10:05:09 AM]
+  Chuck Severance equipped Laser Pistol
+[3/1/2021 10:05:10 AM]
+  Melba Shah equipped Flare Gun
+[3/1/2021 10:05:11 AM]
+  Melba Shah unequipped Flare Gun
+[3/1/2021 10:05:11 AM]
+  Chuck Severance opened Custom Door
+[3/1/2021 10:05:11 AM]
+  Melba Shah equipped Flare Gun
+[3/1/2021 10:05:12 AM]
+  Melba Shah unequipped Flare Gun
+[3/1/2021 10:05:12 AM]
+  Melba Shah equipped Flare Gun
+[3/1/2021 10:05:12 AM]
+  tomacatx1 has died (Cause of death: Blood loss)
+[3/1/2021 10:05:13 AM]
+  Melba Shah: I'm bleeding out!
+[3/1/2021 10:05:14 AM]
+  Lily Thompkins equipped Handgun
+[3/1/2021 10:05:15 AM]
+  Chuck Severance unequipped Laser Pistol
+[3/1/2021 10:05:15 AM]
+  Chuck Severance equipped Electric Drill
+[3/1/2021 10:05:17 AM]
+  Chuck Severance unequipped Electric Drill
+[3/1/2021 10:05:17 AM]
+  Chuck Severance equipped Laser Pistol
+[3/1/2021 10:05:20 AM]
+  Chuck Severance unequipped Laser Pistol
+[3/1/2021 10:05:21 AM]
+  Laurinda Malone: I'm losing blood!
+[3/1/2021 10:05:28 AM]
+  Lily Thompkins picked up Blood Pack
+[3/1/2021 10:05:29 AM]
+  Lily Thompkins picked up Bandage
+[3/1/2021 10:05:34 AM]
+  Lily Thompkins used item Bandage
+[3/1/2021 10:05:34 AM]
+  Melba Shah has died (Cause of death: Blood loss)
+[3/1/2021 10:05:38 AM]
+  Lily Thompkins placed Blood Pack in Supplies Cabinet (ID: 478)
+[3/1/2021 10:05:53 AM]
+  Laurinda Malone: I'm bleeding out!
+[3/1/2021 10:05:54 AM]
+  Chuck Severance has died (Cause of death: Blood loss)
+[3/1/2021 10:06:06 AM]
+  Laurinda Malone: Hey! What do you think you're doing?
+[3/1/2021 10:06:10 AM]
+  Lily Thompkins picked up 9mm Magazine
+[3/1/2021 10:06:10 AM]
+  Lily Thompkins dropped 9mm Magazine
+[3/1/2021 10:06:10 AM]
+  Lily Thompkins placed 9mm Magazine in Handgun (ID: 3650)
+[3/1/2021 10:06:10 AM]
+  Laurinda Malone closed Custom Door
+[3/1/2021 10:06:10 AM]
+  Laurinda Malone opened Custom Door
+[3/1/2021 10:06:10 AM]
+  Tommie Gould has died (Cause of death: Blood loss)
+[3/1/2021 10:06:16 AM]
+  Lily Thompkins opened Custom Door
+[3/1/2021 10:06:16 AM]
+  Lily Thompkins closed Custom Door
+[3/1/2021 10:06:18 AM]
+  Lily Thompkins closed Custom Door
+[3/1/2021 10:06:18 AM]
+  Lily Thompkins opened Custom Door
+[3/1/2021 10:06:20 AM]
+  Lily Thompkins opened Custom Door
+[3/1/2021 10:06:20 AM]
+  Lily Thompkins closed Custom Door
+[3/1/2021 10:06:22 AM]
+  Laurinda Malone closed Custom Door
+[3/1/2021 10:06:22 AM]
+  Laurinda Malone opened Custom Door
+[3/1/2021 10:06:25 AM]
+  Laurinda Malone equipped Marine SMG
+[3/1/2021 10:06:25 AM]
+  Laurinda Malone opened Custom Door
+[3/1/2021 10:06:25 AM]
+  Laurinda Malone closed Custom Door
+[3/1/2021 10:06:28 AM]
+  Laurinda Malone: Help, I'm bleeding!
+[3/1/2021 10:06:29 AM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/1/2021 10:06:29 AM]
+  Laurinda Malone unequipped Marine SMG
+[3/1/2021 10:06:29 AM]
+  Laurinda Malone equipped Handgun
+[3/1/2021 10:06:29 AM]
+  Laurinda Malone unequipped Handgun

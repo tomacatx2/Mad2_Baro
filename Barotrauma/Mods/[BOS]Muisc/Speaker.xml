@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <Item name="便携音响" identifier="speaker" category="Misc" Tags="bigitem" scale="0.4" description="便携的音乐播放设备，需要电池，按住播放键使用" price="300" isshootable="true">
+    <Price baseprice="300" soldeverywhere="false">
+    <PreferredContainer primary="crewcab" spawnprobability="0.01"/>
+    <PreferredContainer primary="abandonedcrewcab" spawnprobability="0.01"/>
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="1" minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1"/>
+    </Price>
+    <InventoryIcon texture="Speaker.png" sourcerect="2,5,110,172" origin="0.5,0.5" />
+    <Sprite texture="Speaker.png" sourcerect="2,5,110,172" depth="0.5" origin="0.5,0.58" />
+    <Body radius="40" height="50" density="12" />
+    <Holdable slots="RightHand+LeftHand" controlpose="true" aimpos="40,-20" handle1="10,100" handle2="10,50" swingamount="10,5" swingspeed="0" swingwhenusing="false" msg="ItemMsgPickUpSelect">
+      <StatusEffect type="OnUse" target="Contained" Condition="-0.25">
+        <RequiredItem items="batterycell" type="Contained" />
+		  <Conditional HasStatusTag="!equals clown" />
+	<sound file="Mods/BOScore/music/xbydns.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
+	<sound file="Mods/BOScore/music/hrtg.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
+		  <sound file="Mods/BOScore/music/lpg.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
+		  <sound file="Mods/BOScore/music/ftsq.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
+		  <sound file="Mods/BOScore/music/bws.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
+		  <sound file="Mods/BOScore/music/bro.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
+      </StatusEffect>
+      <StatusEffect type="OnUse" target="Contained" Condition="-0.125">
+        <RequiredItem items="fulguriumbatterycell" type="Contained" />
+		   <Conditional HasStatusTag="!equals clown" />
+	<sound file="Mods/BOScore/music/xbydns.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
+	<sound file="Mods/BOScore/music/hrtg.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
+		  <sound file="Mods/BOScore/music/lpg.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
+		  <sound file="Mods/BOScore/music/ftsq.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
+		  <sound file="Mods/BOScore/music/bws.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
+		  <sound file="Mods/BOScore/music/bro.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
+      </StatusEffect>
+	</Holdable>
+	 <ItemContainer capacity="1" maxstacksize="1" hideitems="true" containedstateindicatorstyle="battery">
+      <Containable items="mobilebattery" />
+  </ItemContainer>
+  </Item> 

@@ -1,0 +1,482 @@
+﻿[10/8/2020 1:15:34 AM]
+  Saving client permissions
+[10/8/2020 1:15:34 AM]
+  Saving client permissions
+[10/8/2020 1:15:36 AM]
+  Gamemode changed to Campaign
+[10/8/2020 1:16:03 AM]
+  Starting a new round...
+[10/8/2020 1:16:11 AM]
+  Game mode: Campaign
+[10/8/2020 1:16:11 AM]
+  Submarine: Dugong
+[10/8/2020 1:16:11 AM]
+  Level seed: Zamoroska
+[10/8/2020 1:16:11 AM]
+  Round started.
+[10/8/2020 1:16:16 AM]
+  Kristeen Knowles: Our previous captain sometimes made us perform what he called the “kamikaze dive manoeuvre”.
+[10/8/2020 1:16:21 AM]
+  Kristeen Knowles: “Everything is a ballast if you're brave enough”, he'd say.
+[10/8/2020 1:16:26 AM]
+  Kristeen Knowles: Sadly, he's no longer with us. I think he may have been a bit too brave for his own good.
+[10/8/2020 1:16:31 AM]
+  Simon Lee: You people look like you could use some rest.
+[10/8/2020 1:16:55 AM]
+  Console command "enablecheats" executed by e.
+[10/8/2020 1:17:01 AM]
+  Console command "spawnitem "Military Hardsuit" cursor" executed by e.
+[10/8/2020 1:17:05 AM]
+  e picked up Military Hardsuit
+[10/8/2020 1:17:11 AM]
+  Console command "spawnitem "Oxygenite Tank" inventory" executed by e.
+[10/8/2020 1:17:13 AM]
+  e placed Oxygenite Tank in Military Hardsuit (ID: 1185)
+[10/8/2020 1:17:18 AM]
+  e picked up Underwater Scooter
+[10/8/2020 1:17:18 AM]
+  e placed Captain's Pipe in Medium Windowed Steel Cabinet (ID: 2297)
+[10/8/2020 1:17:20 AM]
+  e picked up Handheld Sonar
+[10/8/2020 1:17:21 AM]
+  e placed Revolver in Medium Windowed Steel Cabinet (ID: 2297)
+[10/8/2020 1:17:27 AM]
+  Console command "spawnitem "Torpedo Rifle" inventory" executed by e.
+[10/8/2020 1:17:32 AM]
+  Console command "spawnitem "Torpedo Rifle (Sonarscope)" inventory" executed by e.
+[10/8/2020 1:17:37 AM]
+  e picked up Sonar Beacon
+[10/8/2020 1:17:37 AM]
+  e dropped Torpedo Rifle
+[10/8/2020 1:17:37 AM]
+  e placed Torpedo Rifle in Medium Windowed Steel Cabinet (ID: 2297)
+[10/8/2020 1:18:09 AM]
+  Console command "spawnitem "Microtorpedo (Short Fuse)" inventory" executed by e.
+[10/8/2020 1:18:13 AM]
+  Console command "spawnitem "Microtorpedo (Slug)" inventory" executed by e.
+[10/8/2020 1:18:18 AM]
+  Console command "spawnitem Microtorpedo inventory" executed by e.
+[10/8/2020 1:18:29 AM]
+  Console command "spawnitem "Microtorpedo (Shock Pulse)" inventory" executed by e.
+[10/8/2020 1:18:36 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:18:51 AM]
+  Console command "spawnitem "Microtorpedo Crate" cursor" executed by e.
+[10/8/2020 1:18:53 AM]
+  e picked up Microtorpedo Crate
+[10/8/2020 1:18:54 AM]
+  e dropped Microtorpedo Crate
+[10/8/2020 1:19:08 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:19:36 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:41 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:48 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:19:51 AM]
+  Outer wall breached by Crawler
+[10/8/2020 1:19:51 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:19:52 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:19:53 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:19:53 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:54 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:54 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:54 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:54 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:55 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:55 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:19:55 AM]
+  Console command "spawn cralwer cursor" executed by e.
+[10/8/2020 1:20:01 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:20:01 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:20:02 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:20:02 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:20:02 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:20:08 AM]
+  Console command "control e" executed by e.
+[10/8/2020 1:20:19 AM]
+  Console command "spawnitem "Marine Battle Rifle" inventory" executed by e.
+[10/8/2020 1:20:20 AM]
+  Outer wall breached by Crawler
+[10/8/2020 1:20:25 AM]
+  e dropped Handheld Sonar
+[10/8/2020 1:20:25 AM]
+  e dropped Underwater Scooter
+[10/8/2020 1:20:27 AM]
+  e picked up Microtorpedo Crate
+[10/8/2020 1:20:27 AM]
+  e dropped Microtorpedo Crate
+[10/8/2020 1:20:28 AM]
+  e picked up Underwater Scooter
+[10/8/2020 1:20:29 AM]
+  e dropped Sonar Beacon
+[10/8/2020 1:20:32 AM]
+  e placed Microtorpedo (Slug) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:20:34 AM]
+  e placed Microtorpedo (Short Fuse) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:20:47 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 1:20:48 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 1:21:02 AM]
+  Outer wall breached by Crawler
+[10/8/2020 1:21:03 AM]
+  Console command "spawnitem "Marine Combat Undershirt" inventory" executed by e.
+[10/8/2020 1:21:07 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1213)
+[10/8/2020 1:21:07 AM]
+  Outer wall breached by Crawler
+[10/8/2020 1:21:08 AM]
+  e placed 5.56x45mm Magazine in Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:21:09 AM]
+  e dropped Veteran's Jacket
+[10/8/2020 1:22:00 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:22:09 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:22:09 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:22:10 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:22:10 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:22:11 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:22:11 AM]
+  Crawler has died (Cause of death: Gunshot wound)
+[10/8/2020 1:22:11 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:22:11 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:22:18 AM]
+  Console command "spawnitem "Welding Tool" inventory" executed by e.
+[10/8/2020 1:22:21 AM]
+  Console command "spawnitem "Welding Fuel Tank" inventory" executed by e.
+[10/8/2020 1:22:22 AM]
+  e placed Welding Fuel Tank in Welding Tool (ID: 1219)
+[10/8/2020 1:22:25 AM]
+  Outer wall repaired by e
+[10/8/2020 1:22:32 AM]
+  e placed 5.56x45mm Magazine in Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:22:33 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1213)
+[10/8/2020 1:22:39 AM]
+  Outer wall breached by Crawler
+[10/8/2020 1:22:41 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 1:22:42 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 1:22:45 AM]
+  e placed 5.56x45mm Magazine in Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:22:46 AM]
+  e placed 5.56x45mm Magazine in Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:22:52 AM]
+  Console command "fixhulls" executed by e.
+[10/8/2020 1:22:57 AM]
+  Outer wall breached by Crawler
+[10/8/2020 1:22:59 AM]
+  Console command "fixhulls" executed by e.
+[10/8/2020 1:23:02 AM]
+  Outer wall breached by Crawler
+[10/8/2020 1:23:17 AM]
+  Console command "fixhulls" executed by e.
+[10/8/2020 1:23:22 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:23:24 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:23:24 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:23:24 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:23:24 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:23:25 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:23:25 AM]
+  Crawler has died (Cause of death: Gunshot wound)
+[10/8/2020 1:23:25 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:23:25 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:23:46 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:23:58 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:23:59 AM]
+  Console command "spawn crawler cursor" executed by e.
+[10/8/2020 1:23:59 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:23:59 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:24:00 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:24:00 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:24:02 AM]
+  Console command "control e" executed by e.
+[10/8/2020 1:24:21 AM]
+  Crawler has died (Cause of death: Blunt force trauma)
+[10/8/2020 1:24:22 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:24:22 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:24:24 AM]
+  Crawler attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:24:27 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:24:31 AM]
+  Crawler has died (Cause of death: Internal damage)
+[10/8/2020 1:24:35 AM]
+  e placed Microtorpedo (Shock Pulse) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:24:49 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:24:55 AM]
+  Console command "spawn endworm cursor" executed by e.
+[10/8/2020 1:24:58 AM]
+  Console command "control e" executed by e.
+[10/8/2020 1:25:07 AM]
+  Console command "spawnitem "IC-4 Block" inventory" executed by e.
+[10/8/2020 1:25:10 AM]
+  e placed Microtorpedo in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:25:11 AM]
+  e dropped IC-4 Block
+[10/8/2020 1:25:19 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:25:20 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:25:20 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:25:21 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:25:22 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:25:23 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:25:37 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:25:38 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:26:03 AM]
+  Console command "heal e" executed by e.
+[10/8/2020 1:26:07 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:26:08 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:26:13 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:26:14 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:26:17 AM]
+  e placed 5.56x45mm Magazine in Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:26:17 AM]
+  e removed 5.56x45mm Magazine from Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:26:17 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1213)
+[10/8/2020 1:26:31 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:31 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:31 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:31 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:32 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:32 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:32 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:32 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:32 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:32 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:32 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:32 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:33 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:33 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:33 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:36 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:37 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:37 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:37 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:37 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:37 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:37 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:37 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:37 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:38 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:38 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:38 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:38 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:38 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:38 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:38 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:43 AM]
+  Console command "heal e" executed by e.
+[10/8/2020 1:26:46 AM]
+  e placed 5.56x45mm Magazine in Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:26:46 AM]
+  e removed 5.56x45mm Magazine from Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:26:46 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1213)
+[10/8/2020 1:26:46 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:46 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:46 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:47 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:47 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:47 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:47 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:47 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:47 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:47 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:47 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:48 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:49 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:50 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:50 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:53 AM]
+  e placed 5.56x45mm Magazine in Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:26:53 AM]
+  e removed 5.56x45mm Magazine from Marine Combat Undershirt (ID: 1218)
+[10/8/2020 1:26:53 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1213)
+[10/8/2020 1:26:54 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:54 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:54 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:54 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:54 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:55 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:56 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:56 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:26:56 AM]
+  Endworm attacked by e. Bleeding: 15 Gunshot wound: 8
+[10/8/2020 1:27:00 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:27:01 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:27:01 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:27:01 AM]
+  Console command "spawnitem "Microtorpedo (Physicorium)" inventory" executed by e.
+[10/8/2020 1:27:04 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:27:04 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:27:26 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:27:27 AM]
+  e placed Microtorpedo (Physicorium) in Torpedo Rifle (Sonarscope) (ID: 1188)
+[10/8/2020 1:27:33 AM]
+  Console command "heal e" executed by e.
+[10/8/2020 1:27:39 AM]
+  Console command "freecam" executed by e.

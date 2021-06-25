@@ -1,0 +1,24 @@
+﻿[6/23/2021 9:34:45 PM]
+  Saving client permissions
+[6/23/2021 9:34:45 PM]
+  Saving client permissions
+[6/23/2021 9:36:12 PM]
+  Gamemode changed to Sandbox
+[6/23/2021 9:36:13 PM]
+  Client "The Supreme Gentleman" started the round.
+[6/23/2021 9:36:13 PM]
+  Starting a new round...
+[6/23/2021 9:36:50 PM]
+  Game mode: Sandbox
+[6/23/2021 9:36:50 PM]
+  Submarine: ECS. Hammerhead v1 re-1
+[6/23/2021 9:36:50 PM]
+  Level seed: zqMaxME2
+[6/23/2021 9:36:50 PM]
+  Round started.
+[6/23/2021 9:36:56 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/23/2021 9:37:10 PM]
+  superhands has joined the server.
+[6/23/2021 9:37:10 PM]
+  Saving client permissions

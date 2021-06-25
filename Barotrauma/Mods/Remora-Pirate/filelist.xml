@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Remora-Pirate" path="Mods/Remora-Pirate/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2492991694" installtime="1624578704">
+  <EnemySubmarine file="Mods/Remora-Pirate/Remora-Pirate.sub" />
+  <Submarine file="Mods/Remora-Pirate/RemoraDrone-Pirate.sub" />
+  <Submarine file="Mods/Remora-Pirate/KastrullDrone-Pirate.sub" />
+  <EnemySubmarine file="Mods/Remora-Pirate/Orca-Pirate.sub" />
+  <Missions file="Mods/Remora-Pirate/Spawn Coding.xml" />
+  <None file="Mods/Remora-Pirate/Remora-Pirate (Stable).sub" />
+  <EnemySubmarine file="Mods/Remora-Pirate/Kastrull-Pirate.sub" />
+  <EnemySubmarine file="Mods/Remora-Pirate/Berilia pirate.sub" />
+</contentpackage>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EK_Kira_Mk-II" path="Mods/EK_Kira_Mk-II/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2519724605" installtime="1624070386">
+  <Submarine file="Mods/EK_Kira_Mk-II/EK_Kira_Mk-II.sub" />
+</contentpackage>

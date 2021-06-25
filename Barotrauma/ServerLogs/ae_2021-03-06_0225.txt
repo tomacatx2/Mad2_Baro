@@ -1,0 +1,608 @@
+﻿[3/6/2021 2:09:15 AM]
+  Saving client permissions
+[3/6/2021 2:09:27 AM]
+  Client "tomacatx1" started the round.
+[3/6/2021 2:09:27 AM]
+  Starting a new round...
+[3/6/2021 2:09:41 AM]
+  Mission: Chemical shipment
+[3/6/2021 2:09:41 AM]
+  Researchers of Udaeus Linea Mining Claim need someone to deliver some dangerous chemicals to Kimju for a reward of 1,500 marks.
+[3/6/2021 2:09:41 AM]
+  Game mode: Mission
+[3/6/2021 2:09:41 AM]
+  Submarine: Kastrull v2.0 re-4
+[3/6/2021 2:09:41 AM]
+  Level seed: BgsDdM1Z
+[3/6/2021 2:09:41 AM]
+  Mission: Chemical shipment
+[3/6/2021 2:09:41 AM]
+  Round started.
+[3/6/2021 2:09:43 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:09:58 AM]
+  Console command "spawn Engineer cursor" executed by tomacatx1.
+[3/6/2021 2:10:02 AM]
+  tomacatx1: Carson Pickett, power up the reactor!
+[3/6/2021 2:10:03 AM]
+  Carson Pickett: Got it!
+[3/6/2021 2:10:05 AM]
+  Console command "spawn miner cursor" executed by tomacatx1.
+[3/6/2021 2:10:09 AM]
+  tomacatx1: Harry Price, stay where you are!
+[3/6/2021 2:10:10 AM]
+  Harry Price: Aye!
+[3/6/2021 2:10:21 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:10:23 AM]
+  Harry Price set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:10:28 AM]
+  tomacatx1: tomacatx1, maintain position!
+[3/6/2021 2:10:33 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 2:10:34 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:10:39 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:10:40 AM]
+  Harry Price set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:10:47 AM]
+  Harry Price placed Battery Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:47 AM]
+  Harry Price placed Battery Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:47 AM]
+  Harry Price placed Battery Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:47 AM]
+  Harry Price placed Battery Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:47 AM]
+  Harry Price placed Battery Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:47 AM]
+  Harry Price placed Battery Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:47 AM]
+  Harry Price placed Battery Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:47 AM]
+  Harry Price placed Battery Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:49 AM]
+  Harry Price picked up Underwater Scooter
+[3/6/2021 2:10:50 AM]
+  Harry Price picked up Sonar Beacon
+[3/6/2021 2:10:52 AM]
+  Harry Price placed Electric Drill in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:53 AM]
+  Harry Price placed Laser Pistol Cell in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:57 AM]
+  Harry Price picked up Flare Gun
+[3/6/2021 2:10:58 AM]
+  Harry Price placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:58 AM]
+  Harry Price placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:58 AM]
+  Harry Price placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:58 AM]
+  Harry Price placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:58 AM]
+  Harry Price placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:58 AM]
+  Harry Price placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:58 AM]
+  Harry Price placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:58 AM]
+  Harry Price placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:59 AM]
+  Harry Price placed Flare Cartridge in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:59 AM]
+  Harry Price placed Flare Cartridge in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:59 AM]
+  Harry Price placed Flare Cartridge in Mining Backpack (ID: 4348)
+[3/6/2021 2:10:59 AM]
+  Harry Price placed Flare Cartridge in Mining Backpack (ID: 4348)
+[3/6/2021 2:11:07 AM]
+  Harry Price placed Diving Knife in Mining Backpack (ID: 4348)
+[3/6/2021 2:11:12 AM]
+  Harry Price picked up Handheld Sonar
+[3/6/2021 2:11:15 AM]
+  Harry Price equipped Sonar Beacon
+[3/6/2021 2:11:23 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 2:11:24 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:11:28 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:11:29 AM]
+  Harry Price set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:11:31 AM]
+  Harry Price picked up Utility Mk-I Hardsuit
+[3/6/2021 2:11:35 AM]
+  Harry Price (as ???) equipped Handheld Sonar
+[3/6/2021 2:11:36 AM]
+  Harry Price (as ???) equipped Underwater Scooter
+[3/6/2021 2:12:03 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 2:12:03 AM]
+  Harry Price: I need diving gear!
+[3/6/2021 2:12:04 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:12:12 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:12:14 AM]
+  Harry Price set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:12:26 AM]
+  Console command "spawnitem "Advanced Sonar Beacon" inventory" executed by tomacatx1.
+[3/6/2021 2:12:29 AM]
+  Harry Price (as ???) placed Battery Cell in Advanced Sonar Beacon (ID: 4355)
+[3/6/2021 2:12:32 AM]
+  Harry Price (as ???) placed Sonar Beacon in Mining Backpack (ID: 4348)
+[3/6/2021 2:12:33 AM]
+  Harry Price (as ???) equipped Advanced Sonar Beacon
+[3/6/2021 2:12:37 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 2:12:38 AM]
+  Harry Price (as ???) unequipped Advanced Sonar Beacon
+[3/6/2021 2:12:38 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:12:38 AM]
+  Harry Price: I need diving gear!
+[3/6/2021 2:12:48 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:12:49 AM]
+  Harry Price set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:13:11 AM]
+  Harry Price (as ???) equipped Advanced Sonar Beacon
+[3/6/2021 2:13:14 AM]
+  Harry Price (as ???) placed Utility Mk-I Hardsuit in Large Diving Suit Locker (ID: 425)
+[3/6/2021 2:13:16 AM]
+  Harry Price placed Advanced Sonar Beacon in Mining Backpack (ID: 4348)
+[3/6/2021 2:13:31 AM]
+  Harry Price picked up Diving Mask
+[3/6/2021 2:13:34 AM]
+  Harry Price placed Bandage in Mining Backpack (ID: 4348)
+[3/6/2021 2:13:34 AM]
+  Harry Price placed Bandage in Mining Backpack (ID: 4348)
+[3/6/2021 2:13:34 AM]
+  Harry Price placed Bandage in Mining Backpack (ID: 4348)
+[3/6/2021 2:13:34 AM]
+  Harry Price placed Bandage in Mining Backpack (ID: 4348)
+[3/6/2021 2:13:36 AM]
+  Harry Price placed Blood Pack in Mining Backpack (ID: 4348)
+[3/6/2021 2:13:40 AM]
+  Harry Price placed Handheld Sonar in Mining Backpack (ID: 4348)
+[3/6/2021 2:13:42 AM]
+  Harry Price placed Underwater Scooter in Mining Backpack (ID: 4348)
+[3/6/2021 2:13:51 AM]
+  Console command "enablecrewai" executed by tomacatx1.
+[3/6/2021 2:13:56 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 2:13:57 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:14:01 AM]
+  Console command "spawn mechanic cursor" executed by tomacatx1.
+[3/6/2021 2:14:05 AM]
+  Console command "spawn engineer cursor" executed by tomacatx1.
+[3/6/2021 2:14:10 AM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[3/6/2021 2:14:13 AM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[3/6/2021 2:14:20 AM]
+  tomacatx1: Melany Blakley, man the weapons!
+[3/6/2021 2:14:21 AM]
+  Melany Blakley: Copy that.
+[3/6/2021 2:14:24 AM]
+  tomacatx1: Rowena Atterbury, man the guns!
+[3/6/2021 2:14:25 AM]
+  Rowena Atterbury: Sure thing!
+[3/6/2021 2:14:29 AM]
+  tomacatx1: Britt Elliott, repair electrical systems!
+[3/6/2021 2:14:30 AM]
+  Britt Elliott: Sure thing!
+[3/6/2021 2:14:31 AM]
+  tomacatx1: Rupert Rolfe, take care of mechanical devices!
+[3/6/2021 2:14:32 AM]
+  Rupert Rolfe: Yes, sir!
+[3/6/2021 2:14:35 AM]
+  Britt Elliott: There's nothing to repair.
+[3/6/2021 2:14:37 AM]
+  Rupert Rolfe: There's nothing to repair.
+[3/6/2021 2:16:06 AM]
+  Console command "freecam" executed by tomacatx1.
+[3/6/2021 2:16:06 AM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/6/2021 2:16:16 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 2:17:26 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:17:28 AM]
+  Harry Price set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 2:17:44 AM]
+  Harry Price placed Ion Pulse Cutter in Mining Backpack (ID: 4348)
+[3/6/2021 2:17:48 AM]
+  Rupert Rolfe equipped Wrench
+[3/6/2021 2:17:48 AM]
+  Harry Price picked up Utility Mk-I Hardsuit
+[3/6/2021 2:17:52 AM]
+  Harry Price (as ???) picked up Advanced Sonar Beacon
+[3/6/2021 2:17:53 AM]
+  Rupert Rolfe started repairing Oxygen Generator
+[3/6/2021 2:17:56 AM]
+  Rupert Rolfe unequipped Wrench
+[3/6/2021 2:18:04 AM]
+  Harry Price (as ???) equipped Laser Pistol
+[3/6/2021 2:18:09 AM]
+  Harry Price (as ???) picked up Underwater Scooter
+[3/6/2021 2:18:33 AM]
+  Harry Price (as ???) picked up Handheld Sonar
+[3/6/2021 2:19:07 AM]
+  Harry Price (as ???) picked up Ion Pulse Cutter
+[3/6/2021 2:19:08 AM]
+  Harry Price (as ???) picked up Electric Drill
+[3/6/2021 2:19:31 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:19:33 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:19:34 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:19:35 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:19:37 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:19:38 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:06 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:08 AM]
+  Console command "freecam" executed by tomacatx1.
+[3/6/2021 2:20:08 AM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/6/2021 2:20:15 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:20:18 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:19 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:19 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:19 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:19 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:19 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:20 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:20 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:20 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:20 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:21 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:21 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:23 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:23 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:23 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:23 AM]
+  Britt Elliott equipped Screwdriver
+[3/6/2021 2:20:23 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:24 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:24 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:24 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:24 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:25 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:20:26 AM]
+  Console command "control "Harry Price"" executed by tomacatx1.
+[3/6/2021 2:20:27 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:28 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:28 AM]
+  Britt Elliott failed to repair Junction Box
+[3/6/2021 2:20:28 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:29 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:29 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:30 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:31 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:31 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:32 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:32 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:33 AM]
+  Console command "teleport" executed by tomacatx1.
+[3/6/2021 2:20:34 AM]
+  Britt Elliott unequipped Screwdriver
+[3/6/2021 2:20:45 AM]
+  Harry Price (as ???) equipped Ion Pulse Cutter
+[3/6/2021 2:20:52 AM]
+  Harry Price (as ???) picked up Iron Ore
+[3/6/2021 2:20:52 AM]
+  Harry Price (as ???) detached Iron Ore from a wall
+[3/6/2021 2:21:06 AM]
+  Harry Price (as ???) equipped Iron Ore
+[3/6/2021 2:21:06 AM]
+  Harry Price (as ???) equipped Electric Drill
+[3/6/2021 2:21:09 AM]
+  Harry Price (as ???) picked up Iron Ore
+[3/6/2021 2:21:09 AM]
+  Harry Price (as ???) detached Iron Ore from a wall
+[3/6/2021 2:21:10 AM]
+  Harry Price (as ???) picked up Iron Ore
+[3/6/2021 2:21:10 AM]
+  Harry Price (as ???) detached Iron Ore from a wall
+[3/6/2021 2:21:23 AM]
+  Harry Price (as ???) picked up Thorianite
+[3/6/2021 2:21:23 AM]
+  Harry Price (as ???) detached Thorianite from a wall
+[3/6/2021 2:21:24 AM]
+  Britt Elliott equipped Screwdriver
+[3/6/2021 2:21:30 AM]
+  Britt Elliott started repairing Junction Box
+[3/6/2021 2:21:34 AM]
+  Harry Price (as ???) picked up Thorianite
+[3/6/2021 2:21:34 AM]
+  Harry Price (as ???) detached Thorianite from a wall
+[3/6/2021 2:21:36 AM]
+  Harry Price (as ???) placed Thorianite in Mining Backpack (ID: 4348)
+[3/6/2021 2:21:37 AM]
+  Harry Price (as ???) placed Iron Ore in Mining Backpack (ID: 4348)
+[3/6/2021 2:21:37 AM]
+  Harry Price (as ???) placed Iron Ore in Mining Backpack (ID: 4348)
+[3/6/2021 2:21:40 AM]
+  Harry Price (as ???) placed Thorianite in Mining Backpack (ID: 4348)
+[3/6/2021 2:21:41 AM]
+  Harry Price (as ???) placed Iron Ore in Mining Backpack (ID: 4348)
+[3/6/2021 2:21:42 AM]
+  Britt Elliott started repairing Status Monitor
+[3/6/2021 2:21:47 AM]
+  Britt Elliott unequipped Screwdriver
+[3/6/2021 2:21:54 AM]
+  Console command "spawnitem "Laser Bore" inventory" executed by tomacatx1.
+[3/6/2021 2:21:57 AM]
+  Harry Price (as ???) placed Battery Cell in Laser Bore (ID: 4420)
+[3/6/2021 2:21:58 AM]
+  Harry Price (as ???) equipped Laser Bore
+[3/6/2021 2:22:13 AM]
+  Harry Price (as ???) picked up Amblygonite
+[3/6/2021 2:22:13 AM]
+  Harry Price (as ???) detached Amblygonite from a wall
+[3/6/2021 2:22:13 AM]
+  Harry Price (as ???) picked up Amblygonite
+[3/6/2021 2:22:13 AM]
+  Harry Price (as ???) detached Amblygonite from a wall
+[3/6/2021 2:22:14 AM]
+  Carson Pickett: Loading more fuel to the reactor!
+[3/6/2021 2:22:21 AM]
+  Harry Price (as ???) picked up Amblygonite
+[3/6/2021 2:22:21 AM]
+  Harry Price (as ???) detached Amblygonite from a wall
+[3/6/2021 2:22:24 AM]
+  Harry Price (as ???) placed Amblygonite in Mining Backpack (ID: 4348)
+[3/6/2021 2:22:24 AM]
+  Harry Price (as ???) placed Amblygonite in Mining Backpack (ID: 4348)
+[3/6/2021 2:22:25 AM]
+  Harry Price (as ???) placed Oxygen Tank in Mining Backpack (ID: 4348)
+[3/6/2021 2:22:27 AM]
+  Harry Price (as ???) placed Oxygen Tank in Utility Mk-I Hardsuit (ID: 433)
+[3/6/2021 2:22:54 AM]
+  Harry Price (as ???) placed Amblygonite in Mining Backpack (ID: 4348)
+[3/6/2021 2:22:55 AM]
+  Harry Price (as ???) picked up Titanite
+[3/6/2021 2:22:55 AM]
+  Harry Price (as ???) detached Titanite from a wall
+[3/6/2021 2:22:55 AM]
+  Harry Price (as ???) picked up Titanite
+[3/6/2021 2:22:56 AM]
+  Harry Price (as ???) detached Titanite from a wall
+[3/6/2021 2:22:56 AM]
+  Harry Price (as ???) picked up Titanite
+[3/6/2021 2:22:56 AM]
+  Harry Price (as ???) detached Titanite from a wall
+[3/6/2021 2:23:30 AM]
+  Harry Price (as ???) dropped Utility Mk-I Hardsuit
+[3/6/2021 2:23:36 AM]
+  Harry Price placed Titanite in Deconstructor (ID: 276)
+[3/6/2021 2:23:36 AM]
+  Harry Price placed Titanite in Deconstructor (ID: 276)
+[3/6/2021 2:23:36 AM]
+  Harry Price placed Titanite in Deconstructor (ID: 276)
+[3/6/2021 2:23:36 AM]
+  Melany Blakley: At times I feel like we're just puppets on a string.
+[3/6/2021 2:23:37 AM]
+  Harry Price placed Thorianite in Deconstructor (ID: 276)
+[3/6/2021 2:23:37 AM]
+  Harry Price placed Thorianite in Deconstructor (ID: 276)
+[3/6/2021 2:23:39 AM]
+  Harry Price placed Amblygonite in Deconstructor (ID: 276)
+[3/6/2021 2:23:39 AM]
+  Harry Price placed Amblygonite in Deconstructor (ID: 276)
+[3/6/2021 2:23:39 AM]
+  Harry Price placed Amblygonite in Deconstructor (ID: 276)
+[3/6/2021 2:23:39 AM]
+  Harry Price activated Deconstructor
+[3/6/2021 2:23:41 AM]
+  Melany Blakley: Dancing and dying for the amusement of the thing beyond the curtain.
+[3/6/2021 2:23:42 AM]
+  Harry Price placed Ion Pulse Cutter in Mining Backpack (ID: 4348)
+[3/6/2021 2:23:43 AM]
+  Harry Price placed Laser Bore in Mining Backpack (ID: 4348)
+[3/6/2021 2:23:44 AM]
+  Harry Price placed Electric Drill in Mining Backpack (ID: 4348)
+[3/6/2021 2:23:46 AM]
+  Carson Pickett: *sigh*
+[3/6/2021 2:23:48 AM]
+  Harry Price picked up Sodium
+[3/6/2021 2:23:48 AM]
+  Harry Price picked up Aluminum
+[3/6/2021 2:23:49 AM]
+  Harry Price picked up Lithium
+[3/6/2021 2:23:54 AM]
+  Harry Price equipped Chemical Crate
+[3/6/2021 2:23:54 AM]
+  Harry Price picked up Chemical Crate
+[3/6/2021 2:23:55 AM]
+  Harry Price placed Sodium in Chemical Crate (ID: 2062)
+[3/6/2021 2:23:55 AM]
+  Harry Price placed Sodium in Chemical Crate (ID: 2062)
+[3/6/2021 2:23:56 AM]
+  Harry Price placed Aluminum in Chemical Crate (ID: 2062)
+[3/6/2021 2:23:56 AM]
+  Harry Price placed Aluminum in Chemical Crate (ID: 2062)
+[3/6/2021 2:23:57 AM]
+  Harry Price placed Lithium in Chemical Crate (ID: 2062)
+[3/6/2021 2:23:57 AM]
+  Harry Price placed Lithium in Chemical Crate (ID: 2062)
+[3/6/2021 2:23:58 AM]
+  Harry Price placed Sodium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:00 AM]
+  Harry Price placed Aluminum in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:01 AM]
+  Harry Price placed Lithium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:01 AM]
+  Harry Price placed Thorium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:01 AM]
+  Harry Price placed Thorium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:06 AM]
+  Harry Price placed Thorium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:06 AM]
+  Harry Price placed Thorium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:12 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:12 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:12 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:12 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:17 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:17 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:17 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:17 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:20 AM]
+  Harry Price placed Iron Ore in Deconstructor (ID: 276)
+[3/6/2021 2:24:20 AM]
+  Harry Price placed Iron Ore in Deconstructor (ID: 276)
+[3/6/2021 2:24:20 AM]
+  Harry Price placed Iron Ore in Deconstructor (ID: 276)
+[3/6/2021 2:24:21 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:22 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:22 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:23 AM]
+  Harry Price activated Deconstructor
+[3/6/2021 2:24:24 AM]
+  Harry Price placed Titanium in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:29 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:29 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:29 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:29 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:34 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:34 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:34 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:34 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:38 AM]
+  Britt Elliott equipped Screwdriver
+[3/6/2021 2:24:39 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:39 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:39 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:39 AM]
+  Harry Price placed Iron in Chemical Crate (ID: 2062)
+[3/6/2021 2:24:43 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:43 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:43 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:43 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:43 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:43 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:43 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:43 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:44 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:44 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:44 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:44 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:44 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:44 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:44 AM]
+  Harry Price placed Iron in Fabricator (ID: 291)
+[3/6/2021 2:24:46 AM]
+  Britt Elliott started repairing Navigation Terminal
+[3/6/2021 2:24:48 AM]
+  Harry Price started fabricating Crate of Iron in Fabricator
+[3/6/2021 2:24:51 AM]
+  Britt Elliott started repairing Shuttle Navigation Terminal
+[3/6/2021 2:24:55 AM]
+  Britt Elliott unequipped Screwdriver
+[3/6/2021 2:24:55 AM]
+  Harry Price dropped Chemical Crate
+[3/6/2021 2:24:57 AM]
+  Harry Price equipped Crate of Iron
+[3/6/2021 2:24:57 AM]
+  Harry Price picked up Crate of Iron
+[3/6/2021 2:24:59 AM]
+  Rupert Rolfe equipped Lithium
+[3/6/2021 2:25:01 AM]
+  Harry Price started fabricating Crate of Iron in Fabricator
+[3/6/2021 2:25:05 AM]
+  Rupert Rolfe equipped Aluminum
+[3/6/2021 2:25:08 AM]
+  Harry Price unequipped Crate of Iron
+[3/6/2021 2:25:09 AM]
+  Harry Price equipped Crate of Iron
+[3/6/2021 2:25:09 AM]
+  Harry Price picked up Crate of Iron
+[3/6/2021 2:25:10 AM]
+  Rupert Rolfe equipped Sodium
+[3/6/2021 2:25:10 AM]
+  Harry Price started fabricating Crate of Iron in Fabricator
+[3/6/2021 2:25:15 AM]
+  Rupert Rolfe equipped Lithium
+[3/6/2021 2:25:19 AM]
+  Harry Price placed Crate of Iron in Large Steel Cabinet (ID: 269)
+[3/6/2021 2:25:20 AM]
+  Rupert Rolfe equipped Aluminum
+[3/6/2021 2:25:21 AM]
+  Harry Price picked up Chemical Crate

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Afflictions>
+ 
+
+  <Affliction
+    name="Scanned"
+    identifier="scanned"
+    description="This part of the body has been scanned, identifying the best place to inject biofoam."
+    type="resistance"
+    limbspecific="false"
+	isbuff="true"
+    indicatorlimb="Torso"
+    maxstrength="100">
+    <Effect minstrength="0" maxstrength="100"
+      strengthchange="-3"/>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="0,896,128,128" color="10,193,114,255" origin="0,0"/>
+  </Affliction>
+
+  <Affliction
+    name="OnBed"
+    identifier="onbed"
+    description="Patient is resting."
+    type="resistance"
+    showiconthreshold="1000"
+    showinhealthscannerthreshold="1000"
+    limbspecific="false"
+	isbuff="true"
+    maxstrength="100">
+    <Effect minstrength="0" maxstrength="100"
+      strengthchange="-50"/>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="0,896,128,128" color="10,193,114,255" origin="0,0"/>
+  </Affliction>   
+  
+  
+  
+  <Affliction
+    name="Splinted"
+    identifier="splint"
+    description="A splint has been applied to this limb. It must wear out before another splint can be applied."
+    type="resistance"
+    limbspecific="true"
+	isbuff="true"
+    maxstrength="100">
+    <Effect minstrength="0" maxstrength="100"
+      strengthchange="-1.67"/>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="0,896,128,128" color="10,193,114,255" origin="0,0"/>
+  </Affliction>
+<Affliction
+    name="Incision"
+    identifier="bleedingincision"
+    description="An incision made by a scalpel. Blood leaks from it. Can be closed with bandages."
+    causeofdeathdescription="Bled to death"
+    selfcauseofdeathdescription="You have bled to death."
+    limbspecific="false"
+    indicatorlimb="Torso"
+	type="bleeding"
+    maxstrength="100"
+    damageoverlayalpha="1">
+    <Effect minstrength="0" maxstrength="100"
+      minvitalitydecrease="0"
+      maxvitalitydecrease="10"
+      strengthchange="0"/>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="896,640,128,128" color="139,60,42,255" origin="0,0"/>
+  </Affliction>
+  
+  <Affliction
+    name="Opened Wound"
+    identifier="bleedingopened"
+    description="An opened incision made by a retractor. Blood flows freely from it. Can be closed with bandages."
+    causeofdeathdescription="Bled to death"
+    selfcauseofdeathdescription="You have bled to death."
+    limbspecific="false"
+    indicatorlimb="Torso"
+	type="bleeding"
+    maxstrength="100"
+    damageoverlayalpha="1">
+    <Effect minstrength="0" maxstrength="100"
+      minvitalitydecrease="0"
+      maxvitalitydecrease="10"
+      strengthchange="0"/>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="896,640,128,128" color="139,60,42,255" origin="0,0"/>
+  </Affliction>
+ 
+  <Affliction
+    name="Painkiller"
+    identifier="painkiller"
+    description="Lets you temporarily power through pain."
+    type="resistance"
+    isbuff="true"
+    limbspecific="false"
+    maxstrength="100">
+    <Effect minstrength="0" maxstrength="100"
+      strengthchange="-1"
+	  resistancefor="damage"
+      minresistance="0"
+      maxresistance="0.57"/>
+    <Effect minstrength="0" maxstrength="100"
+      strengthchange="-1"
+	  resistancefor="burn"
+      minresistance="0"
+      maxresistance="0.57"/>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="256,896,128,128" color="10,193,114,255" origin="0,0"/>
+  </Affliction>
+  
+  <Affliction
+    name="Painkiller"
+    identifier="painkiller2"
+    description="Lets you temporarily power through pain."
+    type="resistance"
+    isbuff="true"
+    limbspecific="false"
+    maxstrength="100">
+    <Effect minstrength="0" maxstrength="100"
+      strengthchange="-1"
+	  resistancefor="damage"
+      minresistance="0"
+      maxresistance="0.75"/>
+    <Effect minstrength="0" maxstrength="100"
+      strengthchange="-1"
+	  resistancefor="burn"
+      minresistance="0"
+      maxresistance="0.75"/>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="256,896,128,128" color="10,193,114,255" origin="0,0"/>
+  </Affliction>
+
+  <Affliction
+    name="Splint Resistance"
+    identifier="splintresist"
+    description="Lets you temporarily power through broken bones."
+    type="resistance"
+    isbuff="true"
+    showiconthreshold="1000"
+    showinhealthscannerthreshold="1000"
+    limbspecific="true"
+    maxstrength="100">
+    <Effect minstrength="0" maxstrength="100"
+      strengthchange="-50"
+	  resistancefor="blunttrauma"
+      minresistance="0"
+      maxresistance="0.66"/>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="256,896,128,128" color="10,193,114,255" origin="0,0"/>
+  </Affliction>
+  
+  <Affliction
+    name="Pain"
+    identifier="painstun"
+    type="stun"
+    limbspecific="false"
+    indicatorlimb="Torso"
+    showiconthreshold="1000"
+    showinhealthscannerthreshold="1000"
+    maxstrength="100">
+    <!-- Used incrementally -> apply a set amount of affliction per hit until value > 90, then wear off gradually. -->
+    <!-- Value above 90 equals stun. Each point over 90 equals one second of stun. -->
+    <!-- For example, 95 causes 5 seconds of stun, then target starts recovering. -->
+    <Effect minstrength="0" maxstrength="20"
+      minscreenblur="0"
+      maxscreenblur="0.2"
+      strengthchange="-10">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.8"/>
+    </Effect>
+    <Effect minstrength="20" maxstrength="40"
+      minscreenblur="0.2"
+      maxscreenblur="0.4"
+      strengthchange="-10">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.6"/>
+    </Effect>
+    <Effect minstrength="40" maxstrength="60"
+      minscreendistort="0"
+      maxscreendistort="0.2"
+      minscreenblur="0.4"
+      maxscreenblur="0.6"
+      strengthchange="-10">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.5"/>
+    </Effect>
+    <Effect minstrength="60" maxstrength="80"
+      minscreendistort="0.2"
+      maxscreendistort="0.4"
+      minscreenblur="0.6"
+      maxscreenblur="0.8"
+      strengthchange="-10">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.4"/>
+    </Effect>
+    <Effect minstrength="80" maxstrength="90"
+      minscreendistort="0.4"
+      maxscreendistort="0.6"
+      minscreenblur="0.8"
+      maxscreenblur="1"
+      minradialdistort="0"
+      maxradialdistort="0.2"
+      strengthchange="-10">
+      <StatusEffect target="Character" setvalue="true" SpeedMultiplier="0.3"/>
+    </Effect>
+    <Effect minstrength="90" maxstrength="100"
+      minscreendistort="0.6"
+      maxscreendistort="1"
+      minscreenblur="1"
+      maxscreenblur="1"
+      minradialdistort="0.2"
+      maxradialdistort="1"
+      strengthchange="-1">
+      <StatusEffect target="Character" setvalue="true">
+        <Affliction identifier="stun" amount="15" />
+        <Affliction identifier="nausea" amount="3" />
+      </StatusEffect>
+    </Effect>
+    <icon texture="Content/UI/MainIconsAtlas.png" sourcerect="640,640,128,128" color="0,255,0,255" origin="0,0"/>
+  </Affliction>
+
+</Afflictions>

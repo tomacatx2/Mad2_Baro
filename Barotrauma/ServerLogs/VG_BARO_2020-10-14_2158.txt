@@ -1,0 +1,28 @@
+﻿[10/14/2020 9:57:46 PM]
+  Starting the server...
+[10/14/2020 9:57:46 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[10/14/2020 9:57:47 PM]
+  Server started
+[10/14/2020 9:58:20 PM]
+  aeae has joined the server.
+[10/14/2020 9:58:20 PM]
+  Saving client permissions
+[10/14/2020 9:58:24 PM]
+  HOST: heh
+[10/14/2020 9:58:26 PM]
+  HOST: it worked
+[10/14/2020 9:58:28 PM]
+  aeae: kek nice
+[10/14/2020 9:58:33 PM]
+  HOST: okay so it works
+[10/14/2020 9:58:38 PM]
+  HOST: even if i host from my legit steam dir
+[10/14/2020 9:58:40 PM]
+  HOST: with a bit of fiddling
+[10/14/2020 9:58:49 PM]
+  HOST: okay nice, whenever you wanna game i can host
+[10/14/2020 9:58:51 PM]
+  Saving banlist
+[10/14/2020 9:58:51 PM]
+  Shutting down the server...

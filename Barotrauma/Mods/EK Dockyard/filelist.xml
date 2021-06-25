@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EK Dockyard" path="Mods/EK Dockyard/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2390137099" installtime="1623945020">
+  <Item file="Mods/EK Dockyard/Items/Containers/custom_storagecontainers.xml" />
+  <Item file="Mods/EK Dockyard/Items/Engine/thruster_engines.xml" />
+  <Item file="Mods/EK Dockyard/Items/Door/custom_doors.xml" />
+  <Item file="Mods/EK Dockyard/Items/Door/custom_dockingports.xml" />
+  <Item file="Mods/EK Dockyard/Items/Generator/generator.xml" />
+  <Item file="Mods/EK Dockyard/Items/Electricity/poweritem_variants.xml" />
+  <Item file="Mods/EK Dockyard/Items/Electricity/custom_devices.xml" />
+  <Item file="Mods/EK Dockyard/Items/Electricity/custom_lights.xml" />
+  <Item file="Mods/EK Dockyard/Items/Electricity/custom_cameras.xml" />
+  <Item file="Mods/EK Dockyard/Items/Electricity/custom_gauges.xml" />
+  <Item file="Mods/EK Dockyard/Items/Command/lazy_navterminal.xml" />
+  <Item file="Mods/EK Dockyard/Items/Searchlight/searchlight_custom.xml" />
+  <Item file="Mods/EK Dockyard/Items/Misc/dynamic_fins.xml" />
+  <Particles file="Mods/EK Dockyard/Particles/ParticlePrefabs.xml" />
+</contentpackage>

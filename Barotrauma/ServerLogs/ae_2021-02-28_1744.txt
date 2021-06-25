@@ -1,0 +1,270 @@
+﻿[2/28/2021 5:34:09 PM]
+  Starting the server...
+[2/28/2021 5:34:09 PM]
+  Using SteamP2P networking.
+[2/28/2021 5:34:09 PM]
+  Server started
+[2/28/2021 5:34:09 PM]
+  tomacatx1 has joined the server.
+[2/28/2021 5:34:09 PM]
+  Saving client permissions
+[2/28/2021 5:34:09 PM]
+  Saving client permissions
+[2/28/2021 5:34:26 PM]
+  Gamemode changed to Sandbox
+[2/28/2021 5:34:31 PM]
+  Client "tomacatx1" started the round.
+[2/28/2021 5:34:31 PM]
+  Starting a new round...
+[2/28/2021 5:34:35 PM]
+  Game mode: Sandbox
+[2/28/2021 5:34:35 PM]
+  Submarine: Humpback v1.03 re-1
+[2/28/2021 5:34:35 PM]
+  Level seed: uTXWiM3C
+[2/28/2021 5:34:35 PM]
+  Round started.
+[2/28/2021 5:34:56 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/28/2021 5:35:06 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[2/28/2021 5:35:08 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 98, Fission rate: 3, Turbine output: 1, Autotemp ON
+[2/28/2021 5:35:13 PM]
+  tomacatx1 entered "15" on Terminal
+[2/28/2021 5:35:14 PM]
+  tomacatx1 entered "off" on Terminal
+[2/28/2021 5:35:24 PM]
+  tomacatx1 equipped Crate of Plastiseal
+[2/28/2021 5:35:24 PM]
+  tomacatx1 picked up Crate of Plastiseal
+[2/28/2021 5:35:28 PM]
+  tomacatx1 picked up Plastiseal
+[2/28/2021 5:35:35 PM]
+  tomacatx1 placed Crate of Plastiseal in Medicine Cabinet (ID: 854)
+[2/28/2021 5:35:36 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/28/2021 5:35:48 PM]
+  tomacatx1 picked up Bandolier
+[2/28/2021 5:36:14 PM]
+  tomacatx1 placed Plastic in Bandolier (ID: 2565)
+[2/28/2021 5:36:14 PM]
+  tomacatx1 placed Plastic in Bandolier (ID: 2565)
+[2/28/2021 5:36:14 PM]
+  tomacatx1 placed Plastic in Bandolier (ID: 2565)
+[2/28/2021 5:36:15 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/28/2021 5:36:15 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/28/2021 5:36:15 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/28/2021 5:36:33 PM]
+  tomacatx1 picked up Electric Drill
+[2/28/2021 5:36:34 PM]
+  tomacatx1 equipped Electric Drill
+[2/28/2021 5:36:37 PM]
+  tomacatx1 placed Electric Drill in Medium Steel Cabinet (ID: 539)
+[2/28/2021 5:36:39 PM]
+  tomacatx1 picked up Arc Welder
+[2/28/2021 5:36:40 PM]
+  tomacatx1 equipped Arc Welder
+[2/28/2021 5:36:45 PM]
+  tomacatx1 placed Arc Welder in Medium Steel Cabinet (ID: 539)
+[2/28/2021 5:36:53 PM]
+  tomacatx1 picked up Status PDA
+[2/28/2021 5:36:56 PM]
+  tomacatx1 picked up Arc Welder
+[2/28/2021 5:36:57 PM]
+  tomacatx1 placed Battery Cell in Status PDA (ID: 2526)
+[2/28/2021 5:36:57 PM]
+  tomacatx1 equipped Status PDA
+[2/28/2021 5:37:02 PM]
+  tomacatx1 placed Status PDA in Medium Steel Cabinet (ID: 539)
+[2/28/2021 5:37:03 PM]
+  tomacatx1 placed Arc Welder in Medium Steel Cabinet (ID: 539)
+[2/28/2021 5:37:38 PM]
+  Console command "spawnitem "Utility Mk-I Hardsuit" cursor" executed by tomacatx1.
+[2/28/2021 5:37:45 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[2/28/2021 5:37:49 PM]
+  Console command "spawnitem "Utility Mk-I Hardsuit" cursor" executed by tomacatx1.
+[2/28/2021 5:37:51 PM]
+  tomacatx1 picked up Utility Mk-I Hardsuit
+[2/28/2021 5:37:53 PM]
+  tomacatx1 dropped Utility Mk-I Hardsuit
+[2/28/2021 5:37:56 PM]
+  tomacatx1 picked up Utility Mk-I Hardsuit
+[2/28/2021 5:38:01 PM]
+  tomacatx1 dropped Utility Mk-I Hardsuit
+[2/28/2021 5:38:02 PM]
+  tomacatx1 picked up Utility Mk-I Hardsuit
+[2/28/2021 5:38:04 PM]
+  tomacatx1 dropped Utility Mk-I Hardsuit
+[2/28/2021 5:38:06 PM]
+  tomacatx1 picked up Diving Mask
+[2/28/2021 5:38:07 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/28/2021 5:38:07 PM]
+  tomacatx1 placed Diving Mask in Supplies Cabinet (ID: 425)
+[2/28/2021 5:38:08 PM]
+  tomacatx1 picked up Utility Mk-I Hardsuit
+[2/28/2021 5:38:10 PM]
+  tomacatx1 placed Oxygen Tank in Utility Mk-I Hardsuit (ID: 2986)
+[2/28/2021 5:38:23 PM]
+  tomacatx1 dropped Utility Mk-I Hardsuit
+[2/28/2021 5:38:33 PM]
+  Console command "spawnitem "Laser Bore" cursor" executed by tomacatx1.
+[2/28/2021 5:38:35 PM]
+  tomacatx1 picked up Laser Bore
+[2/28/2021 5:38:36 PM]
+  tomacatx1 equipped Laser Bore
+[2/28/2021 5:38:44 PM]
+  tomacatx1 picked up Status PDA
+[2/28/2021 5:38:46 PM]
+  tomacatx1 placed Status PDA in Medium Steel Cabinet (ID: 539)
+[2/28/2021 5:38:58 PM]
+  tomacatx1 placed Battery Cell in Laser Bore (ID: 2987)
+[2/28/2021 5:39:08 PM]
+  Inner wall breached by tomacatx1
+[2/28/2021 5:39:13 PM]
+  tomacatx1 placed Laser Bore in Medium Steel Cabinet (ID: 901)
+[2/28/2021 5:39:29 PM]
+  Console command "spawnitem "Metal Crate" cursor" executed by tomacatx1.
+[2/28/2021 5:39:30 PM]
+  tomacatx1 equipped Metal Crate
+[2/28/2021 5:39:30 PM]
+  tomacatx1 picked up Metal Crate
+[2/28/2021 5:39:36 PM]
+  Console command "spawnitem "Hull Patching Kit" inventory" executed by tomacatx1.
+[2/28/2021 5:39:41 PM]
+  tomacatx1 placed Hull Patching Kit in Metal Crate (ID: 2988)
+[2/28/2021 5:39:50 PM]
+  Console command "spawnitem "Ion Pulse Cutter" inventory" executed by tomacatx1.
+[2/28/2021 5:39:52 PM]
+  tomacatx1 placed Ion Pulse Cutter in Metal Crate (ID: 2988)
+[2/28/2021 5:39:58 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:39:59 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:39:59 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:39:59 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:39:59 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:39:59 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:40:00 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:40:01 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:40:01 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:40:02 PM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by tomacatx1.
+[2/28/2021 5:40:04 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:04 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:04 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:04 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:04 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:04 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:04 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:04 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:05 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:05 PM]
+  tomacatx1 placed Fulgurium Battery Cell in Metal Crate (ID: 2988)
+[2/28/2021 5:40:14 PM]
+  Console command "spawnitem "Rebreather Unit" inventory" executed by tomacatx1.
+[2/28/2021 5:40:22 PM]
+  tomacatx1 placed Rebreather Unit in Metal Crate (ID: 2988)
+[2/28/2021 5:40:38 PM]
+  Console command "spawnitem "Engineering Headset" inventory" executed by tomacatx1.
+[2/28/2021 5:40:41 PM]
+  tomacatx1 placed Engineering Headset in Metal Crate (ID: 2988)
+[2/28/2021 5:41:13 PM]
+  Console command "spawnitem "Medical Scanner" inventory" executed by tomacatx1.
+[2/28/2021 5:41:16 PM]
+  tomacatx1 placed Medical Scanner in Metal Crate (ID: 2988)
+[2/28/2021 5:41:22 PM]
+  Console command "spawn human cursor" executed by tomacatx1.
+[2/28/2021 5:41:35 PM]
+  Console command "spawnitem Jetscooter inventory" executed by tomacatx1.
+[2/28/2021 5:41:39 PM]
+  tomacatx1 placed Jetscooter in Metal Crate (ID: 2988)
+[2/28/2021 5:41:52 PM]
+  Console command "spawnitem "Mining Backpack" inventory" executed by tomacatx1.
+[2/28/2021 5:41:57 PM]
+  tomacatx1 dropped Metal Crate
+[2/28/2021 5:41:59 PM]
+  tomacatx1 placed Bandolier in Medium Steel Cabinet (ID: 901)
+[2/28/2021 5:42:01 PM]
+  tomacatx1 picked up Bandolier
+[2/28/2021 5:42:03 PM]
+  tomacatx1 picked up Metal Crate
+[2/28/2021 5:42:05 PM]
+  tomacatx1 placed Bandolier in Medium Steel Cabinet (ID: 901)
+[2/28/2021 5:42:06 PM]
+  tomacatx1 dropped Metal Crate
+[2/28/2021 5:42:07 PM]
+  tomacatx1 picked up Mining Backpack
+[2/28/2021 5:42:13 PM]
+  Denisha Feinman equipped Fulgurium Battery Cell
+[2/28/2021 5:42:16 PM]
+  tomacatx1 dropped Mining Backpack
+[2/28/2021 5:42:17 PM]
+  Denisha Feinman equipped Fulgurium Battery Cell
+[2/28/2021 5:42:17 PM]
+  tomacatx1 picked up Metal Crate
+[2/28/2021 5:42:38 PM]
+  Console command "spawnitem "Hand Truck" cursor" executed by tomacatx1.
+[2/28/2021 5:42:40 PM]
+  tomacatx1 dropped Metal Crate
+[2/28/2021 5:42:40 PM]
+  tomacatx1 picked up Utility Mk-I Hardsuit
+[2/28/2021 5:42:43 PM]
+  tomacatx1 dropped Utility Mk-I Hardsuit
+[2/28/2021 5:42:44 PM]
+  tomacatx1 equipped Hand Truck
+[2/28/2021 5:42:44 PM]
+  tomacatx1 picked up Hand Truck
+[2/28/2021 5:42:46 PM]
+  Denisha Feinman equipped Fulgurium Battery Cell
+[2/28/2021 5:42:47 PM]
+  tomacatx1 dropped Hand Truck
+[2/28/2021 5:42:51 PM]
+  Denisha Feinman equipped Fulgurium Battery Cell
+[2/28/2021 5:42:53 PM]
+  tomacatx1 picked up Metal Crate
+[2/28/2021 5:43:03 PM]
+  tomacatx1 dropped Metal Crate
+[2/28/2021 5:43:04 PM]
+  tomacatx1 picked up Hand Truck
+[2/28/2021 5:43:08 PM]
+  tomacatx1 dropped Hand Truck
+[2/28/2021 5:43:10 PM]
+  Denisha Feinman equipped Fulgurium Battery Cell
+[2/28/2021 5:43:14 PM]
+  Denisha Feinman equipped Fulgurium Battery Cell
+[2/28/2021 5:43:18 PM]
+  Denisha Feinman equipped Fulgurium Battery Cell
+[2/28/2021 5:43:22 PM]
+  Denisha Feinman equipped Fulgurium Battery Cell
+[2/28/2021 5:43:47 PM]
+  Client "tomacatx1" ended the round.
+[2/28/2021 5:43:47 PM]
+  Ending the round...
+[2/28/2021 5:43:47 PM]
+  Round ended.
+[2/28/2021 5:44:08 PM]
+  Saving banlist
+[2/28/2021 5:44:08 PM]
+  Shutting down the server...

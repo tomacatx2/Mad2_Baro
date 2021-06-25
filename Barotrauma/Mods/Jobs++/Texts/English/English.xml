@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+
+<!-- Items -->
+
+<!-- Seeds -->
+
+<!-- Job Items -->
+
+<!--- Vanilla Jobs -->
+<jobname.captain>Captain</jobname.captain>
+<jobdescription.captain>The commanding officer is responsible for commanding the entirety of the crew and ensuring that everything is running smoothly.</jobdescription.captain>
+<jobname.engineer>Engineer</jobname.engineer>
+<jobdescription.engineer>Engineers are the backbone of a submarine's crew, complementing a mechanic's mechanical engineering skill with their knowledge of electrical engineering. They are capable of performing maintenance on the various electrical pieces of the submarine.</jobdescription.engineer>
+<jobname.mechanic>Mechanic</jobname.mechanic>
+<jobdescription.mechanic>Mechanics are capable of fixing various mechanical devices with their high mechanical engineering skill. Together with engineers they ensure a submarine is working to its fullest.</jobdescription.mechanic>
+<jobname.securityofficer>Security Officer</jobname.securityofficer>
+<jobdescription.securityofficer>Security Officers are responsible for keeping the submarine safe from threats, both external and internal. The creatures inhabiting the ocean aren't the only threat they need to worry about, as several of the renegade groups opposing the Europa Coalition are known to have sent infiltrators on board the vessels.</jobdescription.securityofficer>
+<jobname.medicaldoctor>Medical Doctor</jobname.medicaldoctor>
+<jobdescription.medicaldoctor>Although usually taken for granted, doctors play an important role on the submarine, possessing the required skill to treat injured or unconscious crew members. Their skills can also be useful for creating various non-medicinal chemicals.</jobdescription.medicaldoctor>
+<jobname.assistant>Assistant</jobname.assistant>
+<jobdescription.assistant>Assistants don't have any specific responsibilities or areas of expertise. This job is a good choice for newcomers who want to get a hang of working on board the submarine without taking up tasks that they aren't qualified for.</jobdescription.assistant>
+<jobname.watchman>Watchman</jobname.watchman>
+<jobdescription.watchman><!-- No data --></jobdescription.watchman>
+<jobdescription.captain1>A veteran of Europan seas, this captain either inspires loyalty in their crew or keeps them in line by force.</jobdescription.captain1>
+<jobdescription.captain2>Renegade captains are a thorn in the establishment's side. They use a combination of daring and aggressive maneuvers to keep the Coalition off balance.</jobdescription.captain2>
+<jobdescription.captain3>Captains of the Coalition adhere to a strict set of rules. That doesn't stop them from coming up with new innovations to hunt down their enemies.</jobdescription.captain3>
+<jobdescription.engineer1>Nuclear engineers are in charge of the sub's reactor. Occupational hazards require them to wear some protective gear against radiation.</jobdescription.engineer1>
+<jobdescription.engineer2>The submarine's fickle electrical systems need constant maintenance. The dubious honor of replacing fuses, hooking up devices with power and taking numerous electric shocks falls to electrical engineers.</jobdescription.engineer2>
+<jobdescription.securityofficer1>Commandos are a special breed of security officer. They only have a single purpose: destroy the enemy, whether it's at range or mano a mano.</jobdescription.securityofficer1>
+<jobdescription.securityofficer2>These peacekeepers are dedicated to keeping the peace at any cost. Preferably but not necessarily using non-lethal force.</jobdescription.securityofficer2>
+<jobdescription.securityofficer3>Submarine gunners are trained not only to shoot accurately with coil and railguns but also to keep them in working condition.</jobdescription.securityofficer3>
+<jobdescription.medicaldoctor1>Administering first aid often requires venturing into dangerous areas. These front-line medics have gear that offers them some protection against monsters and guns, while not compromising their mobility.</jobdescription.medicaldoctor1>
+<jobdescription.medicaldoctor2>These doctors are prepared to treat most, if not all, injuries that threaten the crew on lengthy trips underwater.</jobdescription.medicaldoctor2>
+<jobname.notfound>?</jobname.notfound>
+<jobdescription.notfound>?</jobdescription.notfound>
+
+<!-- Jobs -->
+<jobname.explorer>Explorer</jobname.explorer>
+<jobdescription.explorer>To defeat your enemy, you must know your enemy. Likewise, to defeat Europa, you must know it. And explorers are just the people for the job.</jobdescription.explorer>
+<jobname.chef>Chef</jobname.chef>
+<jobdescription.chef>Every ship needs a cook, the chef will cook up delicious meals that can help the crew complete various tasks. Yes Chef!</jobdescription.chef>
+<jobname.botanist>Botanist</jobname.botanist>
+<jobdescription.botanist>The botanist has the specialty and the tools to resupply the crew's rarer resources by growing them. The botanist is an important role for any long expedition.</jobdescription.botanist>
+<jobname.janitor>Janitor</jobname.janitor>
+<jobdescription.janitor>The janitor is responsible for taking care of garbage around the ship, and refilling important items like oxygen or canteens. It isn't a glamorous job, but someone has to do it...</jobdescription.janitor>
+<jobname.miner>Miner</jobname.miner>
+<jobdescription.miner>The material value of Europa must not be understated, and as such, the task of exploting these resources requires skilled personnel such as miners.</jobdescription.miner>
+<jobname.mercenary>Mercenary</jobname.mercenary>
+<jobdescription.mercenary>The seas of Europa are deep and cold. Its abyss teeming with those who would board your ship and cut your throat without a second thought. It is no surprise that various organizations offer their skilled mercenaries to the highest bidder.</jobdescription.mercenary>
+<jobname.explorer1>Explorer</jobname.explorer1>
+<jobdescription.explorer1>To defeat your enemy, you must know your enemy. Likewise, to defeat Europa, you must know it. And explorers are just the people for the job.</jobdescription.explorer1>
+<jobname.explorer2>Communications Officer</jobname.explorer2>
+<jobdescription.explorer2>The facilitation of long range communications requires specialized equipment and personnel. Comms officers are there to fit this niche.</jobdescription.explorer2>
+<jobname.mercenary1>Mercenary</jobname.mercenary1>
+<jobdescription.mercenary1>The seas of Europa are deep and cold. Its abyss teeming with those who would board your ship and cut your throat without a second thought. It is no surprise that various organizations offer their skilled mercenaries to the highest bidder.</jobdescription.mercenary1>
+<jobname.mercenary2>Marine</jobname.mercenary2>
+<jobdescription.mercenary2>OORAH OORAH MARINE CORPS MARINE CORPS</jobdescription.mercenary2>
+<jobname.fightercrew>Fighter Crew</jobname.fightercrew>
+<jobdescription.fightercrew>Fighters are a new take on the traditional doctrine of large line formations of big warships. Indeed, a well stocked and well crewed fleet carrier is able to project a great deal of might over much more vast distances.</jobdescription.fightercrew>
+<jobname.fightercrew1>Fighter Pilot</jobname.fightercrew1>
+<jobdescription.fightercrew1>Piloting fighters and gunshuttles attracts a certain breed. A pilot must have trigger like reflexes, the ability to make split second decisions under pressure and the acceptance that they are, indeed, piloting a much more expendable version of a tin can.</jobdescription.fightercrew1>
+<jobname.fightercrew2>Fighter Gunner</jobname.fightercrew2>
+<jobdescription.fightercrew2>At best a second rate submarine gunner, the humble fighter gunner is nonetheless neccesary for the day to day operation of a fleet carrier. Aiming while moving at break neck speeds requires a specific skillset and a certain degree of insanity.</jobdescription.fightercrew2>
+<jobname.fightercrew3>Fighter Technician</jobname.fightercrew3>
+<jobdescription.fightercrew3>Fighters, just like their bigger submarine counterparts, break down from time to time. Due to the doctrine of limiting access to fighters just to fighter crew, a specialist engineer-mechanic hybrid is needed in order to ensure the combat capability of a given fighter. </jobdescription.fightercrew3>
+<!-- Skills -->
+
+</infotexts>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Electric Guitar" path="Mods/Electric Guitar/filelist.xml" corepackage="false" gameversion="0.9.0.6" steamworkshopid="1771241226" installtime="1561052164">
+  <None file="Mods/Electric Guitar/EGuitar.png" />
+  <None file="Mods/Electric Guitar/Megalovania.ogg" />
+  <Item file="Mods/Electric Guitar/EGuitar.xml" />
+  <None file="Mods/Electric Guitar/Pirates Theme.ogg" />
+</contentpackage>

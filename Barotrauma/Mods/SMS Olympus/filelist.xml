@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="SMS Olympus" path="Mods/SMS Olympus/filelist.xml" corepackage="false" gameversion="0.12.0.3" steamworkshopid="2187915999" installtime="1614918634">
+  <Submarine file="Mods/SMS Olympus/[SMS] The Olympus.sub" />
+</contentpackage>

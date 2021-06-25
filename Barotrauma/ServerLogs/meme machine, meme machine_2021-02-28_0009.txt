@@ -1,0 +1,1600 @@
+﻿[2/27/2021 11:45:52 PM]
+  TornMap: always keep a grenade on your person
+[2/27/2021 11:45:58 PM]
+  TornMap: you never know when you need to Martyrdom
+[2/27/2021 11:46:06 PM]
+  Lester equipped Wrench
+[2/27/2021 11:46:09 PM]
+  Lester dropped Diving Suit
+[2/27/2021 11:46:11 PM]
+  THEGAMER300 started repairing Small Pump
+[2/27/2021 11:46:13 PM]
+  Lester equipped Screwdriver
+[2/27/2021 11:46:15 PM]
+  Lester started repairing Supercapacitor
+[2/27/2021 11:46:16 PM]
+  TornMap dropped Diving Suit
+[2/27/2021 11:46:17 PM]
+  HOST: proschaite, ya dernul kaltso....
+[2/27/2021 11:46:17 PM]
+  TornMap dropped Diving Mask
+[2/27/2021 11:46:18 PM]
+  THEGAMER300: dont be shy kill her kill her now
+[2/27/2021 11:46:20 PM]
+  TornMap picked up Diving Mask
+[2/27/2021 11:46:23 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:46:35 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:46:36 PM]
+  Lester failed to repair Supercapacitor
+[2/27/2021 11:46:37 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:46:39 PM]
+  Lester started repairing Supercapacitor
+[2/27/2021 11:46:45 PM]
+  TornMap: we need to Recharge some oxygen containers
+[2/27/2021 11:46:51 PM]
+  THEGAMER300: true!!!
+[2/27/2021 11:46:57 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:46:57 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:47:01 PM]
+  Lester started repairing Supercapacitor
+[2/27/2021 11:47:04 PM]
+  THEGAMER300: w
+[2/27/2021 11:47:13 PM]
+  TornMap dropped Oxygen Tank
+[2/27/2021 11:47:13 PM]
+  TornMap dropped Oxygen Tank
+[2/27/2021 11:47:14 PM]
+  Lester started repairing Supercapacitor
+[2/27/2021 11:47:17 PM]
+  THEGAMER300: i will kill you
+[2/27/2021 11:47:25 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:47:28 PM]
+  THEGAMER300 placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:47:32 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:47:37 PM]
+  TornMap equipped Coilgun Ammunition Box
+[2/27/2021 11:47:37 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/27/2021 11:47:44 PM]
+  TornMap dropped Coilgun Ammunition Box
+[2/27/2021 11:47:45 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:47:47 PM]
+  Lester placed Diving Mask in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:47:55 PM]
+  TornMap: do we have anymore ammunition
+[2/27/2021 11:47:55 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:47:57 PM]
+  Console command "spawn endworm cursor" executed by tomacatx1.
+[2/27/2021 11:48:04 PM]
+  THEGAMER300 placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:48:10 PM]
+  THEGAMER300: just fabricate some morea
+[2/27/2021 11:48:12 PM]
+  THEGAMER300: 4head
+[2/27/2021 11:48:21 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/27/2021 11:48:24 PM]
+  TornMap dropped Coilgun Ammunition Box
+[2/27/2021 11:48:27 PM]
+  Lester picked up Diving Mask
+[2/27/2021 11:48:28 PM]
+  THEGAMER300: ok
+[2/27/2021 11:48:32 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:48:33 PM]
+  THEGAMER300 placed Oxygen Tank in Diving Mask (ID: 431)
+[2/27/2021 11:48:35 PM]
+  Lester started repairing Junction Box
+[2/27/2021 11:48:49 PM]
+  TornMap placed Oxygen Tank in Diving Mask (ID: 378)
+[2/27/2021 11:48:52 PM]
+  Lester started repairing Junction Box
+[2/27/2021 11:48:58 PM]
+  TornMap picked up Diving Mask
+[2/27/2021 11:49:01 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:49:01 PM]
+  TornMap placed Diving Mask in Supplies Cabinet (ID: 377)
+[2/27/2021 11:49:11 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:49:15 PM]
+  Lester started repairing Fabricator
+[2/27/2021 11:49:17 PM]
+  THEGAMER300: mfwd
+[2/27/2021 11:49:25 PM]
+  THEGAMER300 started repairing Small Pump
+[2/27/2021 11:49:40 PM]
+  TornMap: is terc y'know Alive
+[2/27/2021 11:49:44 PM]
+  THEGAMER300: no
+[2/27/2021 11:49:48 PM]
+  TornMap: it says he's unconscious
+[2/27/2021 11:49:49 PM]
+  Lester started repairing Deconstructor
+[2/27/2021 11:49:50 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:49:51 PM]
+  TornMap: oh well
+[2/27/2021 11:49:53 PM]
+  THEGAMER300: he was a husk
+[2/27/2021 11:49:57 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:50:00 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:00 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:02 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:02 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:03 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:03 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:04 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:04 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:10 PM]
+  TornMap: i'll just stab him to death
+[2/27/2021 11:50:14 PM]
+  THEGAMER300: true
+[2/27/2021 11:50:14 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:14 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:15 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:15 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:16 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:16 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:17 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:17 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:18 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:18 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:19 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:19 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:20 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:20 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:21 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:21 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:22 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:22 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:23 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:23 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:24 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:24 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:25 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:25 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:26 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:26 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:29 PM]
+  TornMap: you know what would be funny
+[2/27/2021 11:50:33 PM]
+  TornMap: if we threw him outside of the ship
+[2/27/2021 11:50:51 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 2
+[2/27/2021 11:50:51 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:50:51 PM]
+  terc attacked by THEGAMER300. Lacerations: 2.5 Bleeding: 2
+[2/27/2021 11:50:51 PM]
+  THEGAMER300 used Screwdriver on terc.
+[2/27/2021 11:50:52 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 2
+[2/27/2021 11:50:52 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:50:53 PM]
+  terc attacked by THEGAMER300. Lacerations: 2.5 Bleeding: 2
+[2/27/2021 11:50:53 PM]
+  THEGAMER300 used Screwdriver on terc.
+[2/27/2021 11:50:54 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 2
+[2/27/2021 11:50:54 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:50:55 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 2
+[2/27/2021 11:50:55 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:50:55 PM]
+  TornMap attacked by THEGAMER300. Lacerations: 2.5 Bleeding: 2
+[2/27/2021 11:50:55 PM]
+  THEGAMER300 used Screwdriver on TornMap.
+[2/27/2021 11:50:57 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 2
+[2/27/2021 11:50:57 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:50:58 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 2
+[2/27/2021 11:50:58 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:50:59 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 2
+[2/27/2021 11:50:59 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:51:00 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 2
+[2/27/2021 11:51:00 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:51:04 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:51:09 PM]
+  THEGAMER300: ill repair
+[2/27/2021 11:51:10 PM]
+  THEGAMER300: xd
+[2/27/2021 11:51:13 PM]
+  TornMap picked up Blood Pack
+[2/27/2021 11:51:22 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:51:24 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:51:24 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:51:25 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:51:25 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:51:26 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:51:26 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:51:27 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/27/2021 11:51:27 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:51:27 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:51:28 PM]
+  terc has died (Cause of death: Gunshot wound)
+[2/27/2021 11:51:28 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:51:28 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:51:29 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:51:29 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:51:30 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/27/2021 11:51:30 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:51:30 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:51:31 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:51:31 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:51:31 PM]
+  THEGAMER300: ikr why do the oxygen generators just explode
+[2/27/2021 11:51:35 PM]
+  Mudraptor has died (Cause of death: Bite wounds)
+[2/27/2021 11:51:36 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:51:41 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/27/2021 11:51:45 PM]
+  THEGAMER300: i hear cancer
+[2/27/2021 11:51:45 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:45 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:45 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:45 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:46 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:51:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:46 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:46 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:51:46 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:46 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:48 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:49 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:49 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:49 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:49 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:50 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:50 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:51:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:50 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:50 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:51 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:51 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:51:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:51 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:51 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:51 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:52 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:52 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:52 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:53 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:54 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:55 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:55 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:55 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:55 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:56 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:56 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:56 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:51:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:57 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:57 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:57 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:58 PM]
+  Bonethresher attacked by TornMap. Lacerations: 25 Bleeding: 1
+[2/27/2021 11:51:58 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:58 PM]
+  THEGAMER300: ATTACKING O2 ROOM ROOF
+[2/27/2021 11:51:58 PM]
+  Bonethresher attacked by TornMap. Lacerations: 25 Bleeding: 1
+[2/27/2021 11:51:58 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:58 PM]
+  Bonethresher attacked by TornMap. Lacerations: 25 Bleeding: 1
+[2/27/2021 11:51:58 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:59 PM]
+  Bonethresher has died (Cause of death: Lacerations)
+[2/27/2021 11:51:59 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:59 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:51:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:51:59 PM]
+  Bonethresher attacked by TornMap. Lacerations: 25 Bleeding: 1
+[2/27/2021 11:52:00 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:00 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:00 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:01 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:01 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:01 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:02 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:02 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:02 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:52:02 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:02 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:03 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:03 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:03 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:03 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:03 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:04 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:04 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:04 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:04 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:06 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:06 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:07 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:07 PM]
+  Tigerthresher has died (Cause of death: Bite wounds)
+[2/27/2021 11:52:07 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:07 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:07 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:07 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:08 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:08 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:08 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:08 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:08 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:09 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:09 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:09 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:10 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:10 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:10 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:10 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:10 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:10 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:11 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:11 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:11 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:11 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:11 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:11 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:11 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:12 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:12 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:12 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:12 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:12 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:12 PM]
+  Tigerthresher has died (Cause of death: Lacerations)
+[2/27/2021 11:52:12 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:12 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:13 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:13 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:14 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:14 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:14 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:14 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:15 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:15 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:16 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:16 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:16 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:16 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:16 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:16 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:17 PM]
+  HOST: ITS A FUCKING MACHINEGUN TORN
+[2/27/2021 11:52:17 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:17 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:17 PM]
+  Tigerthresher has died (Cause of death: Lacerations)
+[2/27/2021 11:52:17 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:17 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:17 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:19 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:20 PM]
+  HOST: SPRAY IT
+[2/27/2021 11:52:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:22 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:22 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:25 PM]
+  THEGAMER300: NIGGS4RW42
+[2/27/2021 11:52:28 PM]
+  Tigerthresher has died (Cause of death: Bite wounds)
+[2/27/2021 11:52:31 PM]
+  TornMap: i'm SPAM CLICKING
+[2/27/2021 11:52:33 PM]
+  THEGAMER300: where do i get more welder fuel
+[2/27/2021 11:52:35 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:35 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:36 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:36 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:39 PM]
+  Outer wall breached by Tigerthresher
+[2/27/2021 11:52:39 PM]
+  Lester dropped Welding Fuel Tank
+[2/27/2021 11:52:39 PM]
+  Lester dropped Welding Fuel Tank
+[2/27/2021 11:52:39 PM]
+  Lester dropped Welding Fuel Tank
+[2/27/2021 11:52:39 PM]
+  Lester dropped Welding Fuel Tank
+[2/27/2021 11:52:39 PM]
+  Lester dropped Welding Fuel Tank
+[2/27/2021 11:52:39 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:40 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:41 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:41 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:42 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:44 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:52 PM]
+  THEGAMER300: where
+[2/27/2021 11:52:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:52 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:52:55 PM]
+  Outer wall breached by Tigerthresher
+[2/27/2021 11:52:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:57 PM]
+  THEGAMER300 picked up Welding Fuel Tank
+[2/27/2021 11:52:58 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:52:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:53:01 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:53:02 PM]
+  THEGAMER300: ok thanks
+[2/27/2021 11:53:03 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:53:04 PM]
+  THEGAMER300 placed Welding Fuel Tank in Toolbelt (ID: 4643)
+[2/27/2021 11:53:05 PM]
+  HOST: mmm foot welding fuel :)
+[2/27/2021 11:53:07 PM]
+  THEGAMER300 picked up Welding Fuel Tank
+[2/27/2021 11:53:07 PM]
+  TornMap: FUUUUUUUCK IT'S NOT WORKING
+[2/27/2021 11:53:08 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:53:08 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:53:08 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:53:08 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:53:09 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:53:10 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:53:10 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:53:11 PM]
+  THEGAMER300 picked up Welding Fuel Tank
+[2/27/2021 11:53:12 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:53:13 PM]
+  THEGAMER300 picked up Welding Fuel Tank
+[2/27/2021 11:53:13 PM]
+  THEGAMER300 picked up Welding Fuel Tank
+[2/27/2021 11:53:14 PM]
+  TornMap: IT'S SO DELAYED
+[2/27/2021 11:53:25 PM]
+  Tigerthresher has died (Cause of death: Internal damage)
+[2/27/2021 11:53:28 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:53:37 PM]
+  TornMap placed Blood Pack in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:53:43 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:53:53 PM]
+  THEGAMER300 placed Welding Fuel Tank in Toolbelt (ID: 4643)
+[2/27/2021 11:53:53 PM]
+  THEGAMER300 placed Welding Fuel Tank in Toolbelt (ID: 4643)
+[2/27/2021 11:53:53 PM]
+  THEGAMER300 placed Welding Fuel Tank in Toolbelt (ID: 4643)
+[2/27/2021 11:53:53 PM]
+  THEGAMER300 placed Welding Fuel Tank in Toolbelt (ID: 4643)
+[2/27/2021 11:53:55 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:53:55 PM]
+  THEGAMER300 dropped Oxygen Tank
+[2/27/2021 11:53:55 PM]
+  THEGAMER300 placed Oxygen Tank in Diving Mask (ID: 431)
+[2/27/2021 11:53:58 PM]
+  TornMap: blind spot
+[2/27/2021 11:54:05 PM]
+  THEGAMER300: SOMEONE IS ATTACKING THE LEFT BALLOST
+[2/27/2021 11:54:07 PM]
+  Outer wall breached by Tigerthresher
+[2/27/2021 11:54:13 PM]
+  TornMap removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[2/27/2021 11:54:14 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/27/2021 11:54:16 PM]
+  Outer wall breached by Tigerthresher
+[2/27/2021 11:54:17 PM]
+  TornMap placed Coilgun Ammunition Box in Coilgun Loader (ID: 778)
+[2/27/2021 11:54:18 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:19 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:19 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:19 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:19 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:19 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:20 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:20 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:20 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:21 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:21 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:21 PM]
+  THEGAMER300: dont worry bros im on the case
+[2/27/2021 11:54:24 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:29 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:29 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:30 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:30 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:30 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:31 PM]
+  Tigerthresher has died (Cause of death: Lacerations)
+[2/27/2021 11:54:31 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:31 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:32 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:32 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:32 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:32 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:33 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:33 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:34 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:54:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:35 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:54:38 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:54:38 PM]
+  Tigerthresher has died (Cause of death: Bite wounds)
+[2/27/2021 11:54:42 PM]
+  TornMap: out of ammo
+[2/27/2021 11:54:45 PM]
+  TornMap removed Coilgun Ammunition Box from Coilgun Loader (ID: 778)
+[2/27/2021 11:55:06 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:55:07 PM]
+  Lester failed to repair Navigation Terminal
+[2/27/2021 11:55:20 PM]
+  THEGAMER300 started repairing Status Monitor
+[2/27/2021 11:55:33 PM]
+  Outer wall repaired by TornMap
+[2/27/2021 11:55:39 PM]
+  TornMap started repairing Small Pump
+[2/27/2021 11:55:44 PM]
+  THEGAMER300 started repairing Nuclear Reactor
+[2/27/2021 11:55:46 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:55:50 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[2/27/2021 11:55:51 PM]
+  TornMap: so uhh
+[2/27/2021 11:55:51 PM]
+  THEGAMER300: :(
+[2/27/2021 11:55:53 PM]
+  Lester picked up Fuel Rod
+[2/27/2021 11:55:55 PM]
+  TornMap: what were we supposed to hunt agani
+[2/27/2021 11:55:57 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/27/2021 11:55:58 PM]
+  Lester picked up Fuel Rod
+[2/27/2021 11:56:01 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:56:02 PM]
+  Lester picked up Fuel Rod
+[2/27/2021 11:56:05 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:56:06 PM]
+  Outer wall breached by Tigerthresher
+[2/27/2021 11:56:06 PM]
+  Lester equipped Fuel Rod
+[2/27/2021 11:56:10 PM]
+  THEGAMER300: disaster
+[2/27/2021 11:56:10 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:56:10 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:56:11 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[2/27/2021 11:56:15 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[2/27/2021 11:56:17 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[2/27/2021 11:56:20 PM]
+  TornMap equipped Piercing Ammunition Box
+[2/27/2021 11:56:20 PM]
+  TornMap picked up Piercing Ammunition Box
+[2/27/2021 11:56:23 PM]
+  TornMap placed Piercing Ammunition Box in Coilgun Loader (ID: 913)
+[2/27/2021 11:56:24 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/27/2021 11:56:24 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/27/2021 11:56:24 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/27/2021 11:56:24 PM]
+  Tigerthresher has died (Cause of death: Lacerations)
+[2/27/2021 11:56:24 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/27/2021 11:56:24 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/27/2021 11:56:25 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/27/2021 11:56:25 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/27/2021 11:56:25 PM]
+  Tigerthresher attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/27/2021 11:56:28 PM]
+  Outer wall breached by TornMap
+[2/27/2021 11:56:33 PM]
+  THEGAMER300: THERES STILL A MONSTERR
+[2/27/2021 11:56:37 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:56:41 PM]
+  THEGAMER300: HES AT THE BALLAST W
+[2/27/2021 11:56:45 PM]
+  THEGAMER300: YOU'RE WRONG
+[2/27/2021 11:56:46 PM]
+  Lester equipped Riot Shotgun
+[2/27/2021 11:56:48 PM]
+  THEGAMER300: HES UNDER THE SHIP THO
+[2/27/2021 11:56:51 PM]
+  Lester picked up Diving Suit
+[2/27/2021 11:56:56 PM]
+  THEGAMER300: BALLOST BY THE ENGINE
+[2/27/2021 11:56:59 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:56:59 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:57:02 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:57:03 PM]
+  TornMap: i don't see anything
+[2/27/2021 11:57:08 PM]
+  TornMap picked up Diving Suit
+[2/27/2021 11:57:09 PM]
+  THEGAMER300: well its gone now but it was breaking da floors
+[2/27/2021 11:57:18 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:57:19 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:57:22 PM]
+  THEGAMER300 removed Welding Fuel Tank from Welding Tool (ID: 4064)
+[2/27/2021 11:57:25 PM]
+  Outer wall repaired by Lester
+[2/27/2021 11:57:26 PM]
+  Outer wall repaired by Lester
+[2/27/2021 11:57:32 PM]
+  THEGAMER300 placed Welding Fuel Tank in Welding Tool (ID: 4064)
+[2/27/2021 11:57:41 PM]
+  Lester dropped Diving Suit
+[2/27/2021 11:57:47 PM]
+  THEGAMER300 started repairing Medical Fabricator
+[2/27/2021 11:57:51 PM]
+  THEGAMER300: so we won right
+[2/27/2021 11:57:52 PM]
+  Console command "fixhulls" executed by tomacatx1.
+[2/27/2021 11:57:53 PM]
+  THEGAMER300 started repairing Medical Fabricator
+[2/27/2021 11:58:01 PM]
+  Lester picked up Fuel Rod
+[2/27/2021 11:58:03 PM]
+  THEGAMER300: heros
+[2/27/2021 11:58:04 PM]
+  TornMap dropped Diving Suit
+[2/27/2021 11:58:06 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:58:10 PM]
+  TornMap: but y'know it'd be nice if we came back
+[2/27/2021 11:58:10 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:58:26 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:58:39 PM]
+  TornMap started repairing Supercapacitor
+[2/27/2021 11:58:44 PM]
+  Console command "control mudraptor 4" executed by tomacatx1.
+[2/27/2021 11:58:46 PM]
+  Console command "control mudraptor 5" executed by tomacatx1.
+[2/27/2021 11:58:48 PM]
+  Console command "control mudraptor 5" executed by tomacatx1.
+[2/27/2021 11:58:49 PM]
+  Console command "control mudraptor 3" executed by tomacatx1.
+[2/27/2021 11:58:53 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:58:59 PM]
+  TornMap started repairing Supercapacitor
+[2/27/2021 11:59:03 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 11:59:05 PM]
+  THEGAMER300: kk
+[2/27/2021 11:59:19 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:59:26 PM]
+  TornMap started repairing Supercapacitor
+[2/27/2021 11:59:31 PM]
+  THEGAMER300: fixed
+[2/27/2021 11:59:34 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:59:36 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:59:47 PM]
+  THEGAMER300 placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:59:51 PM]
+  TornMap launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[2/27/2021 11:59:52 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:59:57 PM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:00:01 AM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/28/2021 12:00:01 AM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/28/2021 12:00:03 AM]
+  THEGAMER300: why do all 10 boxes in the fucking 02 generator have to break
+[2/28/2021 12:00:07 AM]
+  THEGAMER300: most tedious shit ever
+[2/28/2021 12:00:09 AM]
+  TornMap: there are Hostiles
+[2/28/2021 12:00:10 AM]
+  THEGAMER300 started repairing Junction Box
+[2/28/2021 12:00:25 AM]
+  TornMap equipped Piercing Ammunition Box
+[2/28/2021 12:00:25 AM]
+  TornMap picked up Piercing Ammunition Box
+[2/28/2021 12:00:27 AM]
+  TornMap placed Piercing Ammunition Box in Coilgun Loader (ID: 778)
+[2/28/2021 12:00:27 AM]
+  HOST: acschually, junction boxes break every 16-32 minutes
+[2/28/2021 12:00:28 AM]
+  THEGAMER300: torn u check and i fix o2 :DDD
+[2/28/2021 12:00:32 AM]
+  THEGAMER300 started repairing Battery
+[2/28/2021 12:00:35 AM]
+  TornMap: MY
+[2/28/2021 12:00:36 AM]
+  TornMap: ASS
+[2/28/2021 12:00:37 AM]
+  TornMap: IS
+[2/28/2021 12:00:38 AM]
+  HOST: its something to do with this ships power grid, everything overloads constantly
+[2/28/2021 12:00:38 AM]
+  TornMap: HEAVY
+[2/28/2021 12:00:39 AM]
+  Mudraptor has died (Cause of death: Unknown)
+[2/28/2021 12:00:44 AM]
+  HOST: chinese fucking shit
+[2/28/2021 12:00:47 AM]
+  THEGAMER300 started repairing Battery
+[2/28/2021 12:00:59 AM]
+  THEGAMER300: da happy meal ship
+[2/28/2021 12:01:03 AM]
+  Lester started repairing Navigation Terminal
+[2/28/2021 12:01:04 AM]
+  THEGAMER300 started repairing Junction Box
+[2/28/2021 12:01:06 AM]
+  HOST: literally
+[2/28/2021 12:01:11 AM]
+  Outer wall repaired by TornMap
+[2/28/2021 12:01:11 AM]
+  HOST: plastic toy submarine :)
+[2/28/2021 12:01:12 AM]
+  Outer wall repaired by TornMap
+[2/28/2021 12:01:17 AM]
+  THEGAMER300 started repairing Oxygen Generator
+[2/28/2021 12:01:23 AM]
+  THEGAMER300: disaster
+[2/28/2021 12:01:28 AM]
+  Lester picked up Fuel Rod
+[2/28/2021 12:01:29 AM]
+  THEGAMER300 started repairing Battery
+[2/28/2021 12:01:31 AM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/28/2021 12:01:32 AM]
+  Lester picked up Fuel Rod
+[2/28/2021 12:01:46 AM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/28/2021 12:01:47 AM]
+  THEGAMER300 picked up Oxygen Tank
+[2/28/2021 12:01:49 AM]
+  TornMap placed Oxygen Tank in Diving Mask (ID: 378)
+[2/28/2021 12:01:51 AM]
+  Console command "control mudraptor 5" executed by tomacatx1.
+[2/28/2021 12:01:51 AM]
+  THEGAMER300 placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/28/2021 12:01:52 AM]
+  Console command "control mudraptor 4" executed by tomacatx1.
+[2/28/2021 12:01:53 AM]
+  Console command "control mudraptor 3" executed by tomacatx1.
+[2/28/2021 12:01:54 AM]
+  THEGAMER300 placed Oxygen Tank in Diving Mask (ID: 386)
+[2/28/2021 12:02:08 AM]
+  THEGAMER300 started repairing Small Pump
+[2/28/2021 12:02:14 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:02:24 AM]
+  THEGAMER300 started repairing Junction Box
+[2/28/2021 12:02:30 AM]
+  THEGAMER300: ssad
+[2/28/2021 12:02:39 AM]
+  Outer wall repaired by TornMap
+[2/28/2021 12:02:48 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:02:49 AM]
+  THEGAMER300 started repairing Junction Box
+[2/28/2021 12:02:57 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:03:00 AM]
+  TornMap started repairing Large Engine
+[2/28/2021 12:03:11 AM]
+  THEGAMER300: just swim to the outpost 4head
+[2/28/2021 12:03:23 AM]
+  Outer wall repaired by TornMap
+[2/28/2021 12:03:30 AM]
+  Console command "freecam" executed by tomacatx1.
+[2/28/2021 12:03:33 AM]
+  Lester picked up Diving Suit
+[2/28/2021 12:03:44 AM]
+  THEGAMER300: DISASTER
+[2/28/2021 12:03:46 AM]
+  Console command "teleport mudraptor 3 cursor" executed by tomacatx1.
+[2/28/2021 12:03:55 AM]
+  Console command "teleport mudraptor 3" executed by tomacatx1.
+[2/28/2021 12:03:59 AM]
+  Outer wall repaired by THEGAMER300
+[2/28/2021 12:04:01 AM]
+  Console command "control mudraptor 3" executed by tomacatx1.
+[2/28/2021 12:04:06 AM]
+  TornMap picked up Welding Tool
+[2/28/2021 12:04:08 AM]
+  THEGAMER300: SOPMEBODY OPENED THE HAATHC
+[2/28/2021 12:04:08 AM]
+  TornMap picked up Diving Suit
+[2/28/2021 12:04:12 AM]
+  Mudraptor attacked by Lester. Gunshot wound: 3 Stun: 0.4
+[2/28/2021 12:04:13 AM]
+  Mudraptor attacked by Lester. Gunshot wound: 3 Stun: 0.4
+[2/28/2021 12:04:13 AM]
+  Mudraptor attacked by Lester. Gunshot wound: 3 Stun: 0.4
+[2/28/2021 12:04:14 AM]
+  Mudraptor attacked by Lester. Bleeding: 20 Gunshot wound: 15 Stun: 0.4
+[2/28/2021 12:04:14 AM]
+  Mudraptor attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/28/2021 12:04:15 AM]
+  Mudraptor attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/28/2021 12:04:15 AM]
+  Mudraptor attacked by Lester. Gunshot wound: 3 Stun: 0.4
+[2/28/2021 12:04:18 AM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[2/28/2021 12:04:19 AM]
+  TornMap equipped Welding Tool
+[2/28/2021 12:04:19 AM]
+  Mudraptor attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/28/2021 12:04:19 AM]
+  Mudraptor attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/28/2021 12:04:21 AM]
+  THEGAMER300: MAMA I DONT WANNA DIIIE
+[2/28/2021 12:04:38 AM]
+  THEGAMER300: POWERS OUT
+[2/28/2021 12:04:46 AM]
+  THEGAMER300: WE'RE OUT OF RODS
+[2/28/2021 12:04:48 AM]
+  THEGAMER300: I THINK
+[2/28/2021 12:04:50 AM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/28/2021 12:04:50 AM]
+  TornMap removed Oxygen Tank from Oxygen Generator (ID: 502)
+[2/28/2021 12:04:51 AM]
+  THEGAMER300 started repairing Junction Box
+[2/28/2021 12:04:55 AM]
+  Console command "spawnitem Thorium cursor" executed by tomacatx1.
+[2/28/2021 12:04:56 AM]
+  TornMap: oh MAN
+[2/28/2021 12:05:02 AM]
+  THEGAMER300: I HEAR SCARY NOISES
+[2/28/2021 12:05:04 AM]
+  Console command "spawnitem "Thorium Fuel Rod" cursor" executed by tomacatx1.
+[2/28/2021 12:05:11 AM]
+  TornMap placed Oxygen Tank in Diving Suit (ID: 204)
+[2/28/2021 12:05:11 AM]
+  THEGAMER300: guys i dont wanna jinx it but i think we're gonna die
+[2/28/2021 12:05:20 AM]
+  THEGAMER300: LESTER?D
+[2/28/2021 12:05:20 AM]
+  HOST: :)
+[2/28/2021 12:05:23 AM]
+  THEGAMER300: ARE YOU THERE?
+[2/28/2021 12:05:28 AM]
+  THEGAMER300: GROUND CONTROL TO MAJOR TOM
+[2/28/2021 12:05:28 AM]
+  TornMap: i'm here
+[2/28/2021 12:05:30 AM]
+  THEGAMER300: YOUR CIRCUITS DEAD
+[2/28/2021 12:05:33 AM]
+  THEGAMER300: THERES SOMETHING WRONG
+[2/28/2021 12:05:37 AM]
+  THEGAMER300: CAN YOU HEAR ME MAJOR TOM
+[2/28/2021 12:05:43 AM]
+  TornMap: dinkster
+[2/28/2021 12:05:43 AM]
+  tomacatx1: torn
+[2/28/2021 12:05:44 AM]
+  TornMap: come over here
+[2/28/2021 12:05:45 AM]
+  tomacatx1: our master medic
+[2/28/2021 12:05:47 AM]
+  THEGAMER300: torn its just oyu and me
+[2/28/2021 12:05:52 AM]
+  HOST: torn, our master medic
+[2/28/2021 12:05:55 AM]
+  THEGAMER300 picked up Diving Suit
+[2/28/2021 12:05:58 AM]
+  TornMap started repairing Custom Hatch
+[2/28/2021 12:06:02 AM]
+  THEGAMER300: TORN WAS THE BAD GUY?
+[2/28/2021 12:06:02 AM]
+  Lester has died (Cause of death: Oxygen low)
+[2/28/2021 12:06:02 AM]
+  Console command "heal Lester" executed by tomacatx1.
+[2/28/2021 12:06:05 AM]
+  TornMap started repairing Custom Hatch
+[2/28/2021 12:06:05 AM]
+  THEGAMER300: DUDE FUCK THAT
+[2/28/2021 12:06:07 AM]
+  THEGAMER300: M ESCAPI9NG
+[2/28/2021 12:06:13 AM]
+  THEGAMER300 picked up Oxygen Tank
+[2/28/2021 12:06:15 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:16 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:16 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:17 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:17 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:17 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:18 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:24 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:24 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:26 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:30 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:32 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:34 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:34 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:35 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:35 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:35 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:35 AM]
+  TornMap: GO AHEAD NIGGER
+[2/28/2021 12:06:36 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:37 AM]
+  TornMap: I'LL BE GAMING
+[2/28/2021 12:06:41 AM]
+  THEGAMER300 closed Custom Door
+[2/28/2021 12:06:41 AM]
+  THEGAMER300 opened Custom Door
+[2/28/2021 12:06:43 AM]
+  Outer wall repaired by TornMap
+[2/28/2021 12:06:43 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:44 AM]
+  Outer wall repaired by TornMap
+[2/28/2021 12:06:45 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:06:47 AM]
+  THEGAMER300 opened Custom Door
+[2/28/2021 12:06:47 AM]
+  THEGAMER300 closed Custom Door
+[2/28/2021 12:06:48 AM]
+  THEGAMER300 closed Custom Door
+[2/28/2021 12:06:48 AM]
+  THEGAMER300 opened Custom Door
+[2/28/2021 12:06:48 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:06:49 AM]
+  THEGAMER300 opened Custom Hatch
+[2/28/2021 12:06:50 AM]
+  THEGAMER300 opened Custom Door
+[2/28/2021 12:06:50 AM]
+  THEGAMER300 closed Custom Door
+[2/28/2021 12:06:53 AM]
+  THEGAMER300 closed Custom Door
+[2/28/2021 12:06:53 AM]
+  THEGAMER300 opened Custom Door
+[2/28/2021 12:06:54 AM]
+  THEGAMER300 closed Custom Hatch
+[2/28/2021 12:06:55 AM]
+  THEGAMER300 opened Custom Door
+[2/28/2021 12:06:55 AM]
+  THEGAMER300 closed Custom Door
+[2/28/2021 12:06:58 AM]
+  THEGAMER300: ;THERES A MONSTER
+[2/28/2021 12:07:00 AM]
+  THEGAMER300: I CANT ECPAE
+[2/28/2021 12:07:05 AM]
+  THEGAMER300: I CANJT FUCKING ECSCAPE
+[2/28/2021 12:07:11 AM]
+  THEGAMER300: IM TRAPPED IN HERE
+[2/28/2021 12:07:12 AM]
+  Outer wall repaired by TornMap
+[2/28/2021 12:07:12 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:07:16 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:07:19 AM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/28/2021 12:07:19 AM]
+  Outer wall breached by Mudraptor
+[2/28/2021 12:07:22 AM]
+  TornMap: Good.
+[2/28/2021 12:07:30 AM]
+  THEGAMER300 disconnected a wire from Door with Buttons (set_state) to Motion Detector (state_out)
+[2/28/2021 12:07:35 AM]
+  TornMap threw Frag Grenade
+[2/28/2021 12:07:40 AM]
+  Inner wall breached by Mudraptor
+[2/28/2021 12:07:42 AM]
+  Inner wall breached by Mudraptor
+[2/28/2021 12:07:46 AM]
+  Mudraptor has died (Cause of death: Deep tissue injury)
+[2/28/2021 12:07:46 AM]
+  Mudraptor attacked by TornMap. Lacerations: 20 Bleeding: 20 Stun: 0.2
+[2/28/2021 12:07:46 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:07:46 AM]
+  Mudraptor attacked by TornMap. Lacerations: 0.5
+[2/28/2021 12:07:46 AM]
+  TornMap used Screwdriver on Mudraptor.
+[2/28/2021 12:07:47 AM]
+  Inner wall breached by Mudraptor
+[2/28/2021 12:07:47 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:07:47 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:07:47 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:07:48 AM]
+  Mudraptor attacked by TornMap. Lacerations: 2.5 Bleeding: 1
+[2/28/2021 12:07:48 AM]
+  TornMap used Screwdriver on Mudraptor.
+[2/28/2021 12:07:48 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:07:48 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:07:49 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:07:51 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:07:51 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:07:52 AM]
+  THEGAMER300 picked up Oxygen Tank
+[2/28/2021 12:07:52 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:07:52 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:07:53 AM]
+  THEGAMER300 placed Oxygen Tank in Diving Suit (ID: 13)
+[2/28/2021 12:07:53 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:07:53 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:07:56 AM]
+  Inner wall breached by Mudraptor
+[2/28/2021 12:07:58 AM]
+  TornMap: BE BRAVE MOTHERFUCKERS
+[2/28/2021 12:08:00 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:08:01 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:08:01 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:08:04 AM]
+  THEGAMER300: IM A LIVING MAAN
+[2/28/2021 12:08:09 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:08:09 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:08:09 AM]
+  Console command "spawnitem "Frag Grenade" cursor" executed by tomacatx1.
+[2/28/2021 12:08:11 AM]
+  THEGAMER300 picked up Frag Grenade
+[2/28/2021 12:08:12 AM]
+  Inner wall breached by Mudraptor
+[2/28/2021 12:08:13 AM]
+  THEGAMER300 equipped Frag Grenade
+[2/28/2021 12:08:15 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:08:15 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:15 AM]
+  Mudraptor attacked by TornMap. Lacerations: 0.5
+[2/28/2021 12:08:15 AM]
+  TornMap used Screwdriver on Mudraptor.
+[2/28/2021 12:08:22 AM]
+  Mudraptor attacked by TornMap. Lacerations: 0.5
+[2/28/2021 12:08:22 AM]
+  TornMap used Screwdriver on Mudraptor.
+[2/28/2021 12:08:22 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:08:22 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:23 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:08:23 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:24 AM]
+  THEGAMER300: TORN IT DIDNT HAVE TO GO DOWN LIKE THIS
+[2/28/2021 12:08:24 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:08:24 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:24 AM]
+  Mudraptor attacked by TornMap. Lacerations: 0.5
+[2/28/2021 12:08:24 AM]
+  TornMap used Screwdriver on Mudraptor.
+[2/28/2021 12:08:25 AM]
+  Mudraptor attacked by TornMap. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/28/2021 12:08:25 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:26 AM]
+  Mudraptor attacked by TornMap. Lacerations: 5 Bleeding: 2
+[2/28/2021 12:08:26 AM]
+  TornMap used Screwdriver on Mudraptor.
+[2/28/2021 12:08:26 AM]
+  THEGAMER300 picked up Frag Grenade
+[2/28/2021 12:08:26 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:08:26 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:27 AM]
+  Mudraptor attacked by TornMap. Lacerations: 0.5
+[2/28/2021 12:08:27 AM]
+  TornMap used Screwdriver on Mudraptor.
+[2/28/2021 12:08:27 AM]
+  Mudraptor attacked by TornMap. Lacerations: 5 Bleeding: 5 Stun: 0.2
+[2/28/2021 12:08:27 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:28 AM]
+  Mudraptor attacked by TornMap. Lacerations: 2.5 Bleeding: 1
+[2/28/2021 12:08:28 AM]
+  TornMap used Screwdriver on Mudraptor.
+[2/28/2021 12:08:33 AM]
+  TornMap picked up Frag Grenade
+[2/28/2021 12:08:33 AM]
+  TornMap picked up Frag Grenade
+[2/28/2021 12:08:33 AM]
+  TornMap picked up Frag Grenade
+[2/28/2021 12:08:33 AM]
+  TornMap equipped Frag Grenade
+[2/28/2021 12:08:34 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:08:34 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:35 AM]
+  TornMap threw Frag Grenade
+[2/28/2021 12:08:35 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:08:35 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:35 AM]
+  THEGAMER300 equipped Frag Grenade
+[2/28/2021 12:08:37 AM]
+  TornMap equipped Frag Grenade
+[2/28/2021 12:08:37 AM]
+  TornMap threw Frag Grenade
+[2/28/2021 12:08:38 AM]
+  Mudraptor attacked by TornMap. Lacerations: 1 Stun: 0.2
+[2/28/2021 12:08:38 AM]
+  TornMap used Diving Knife on Mudraptor.
+[2/28/2021 12:08:38 AM]
+  TornMap has died (Cause of death: Deep tissue injury)
+[2/28/2021 12:08:38 AM]
+  Mudraptor has died (Cause of death: Deep tissue injury)
+[2/28/2021 12:08:38 AM]
+  Mudraptor has died (Cause of death: Deep tissue injury)
+[2/28/2021 12:08:38 AM]
+  Mudraptor has died (Cause of death: Burn)
+[2/28/2021 12:08:43 AM]
+  THEGAMER300 threw Frag Grenade
+[2/28/2021 12:08:54 AM]
+  TornMap: BASED
+[2/28/2021 12:08:56 AM]
+  THEGAMER300: OUT OF O2
+[2/28/2021 12:08:58 AM]
+  HOST: pull the pin
+[2/28/2021 12:08:59 AM]
+  THEGAMER300: OIM NOT GONNA MAKE IT
+[2/28/2021 12:08:59 AM]
+  HOST: do it
+[2/28/2021 12:09:01 AM]
+  HOST: martyr
+[2/28/2021 12:09:04 AM]
+  HOST: dont be shy
+[2/28/2021 12:09:10 AM]
+  THEGAMER300: ALLAAAH
+[2/28/2021 12:09:11 AM]
+  THEGAMER300 threw Frag Grenade
+[2/28/2021 12:09:14 AM]
+  Outer wall breached by THEGAMER300
+[2/28/2021 12:09:14 AM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/28/2021 12:09:18 AM]
+  Client "tomacatx1" ended the round.
+[2/28/2021 12:09:18 AM]
+  Ending the round...

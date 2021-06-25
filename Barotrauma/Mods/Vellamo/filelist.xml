@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Vellamo" path="Mods/Vellamo/filelist.xml" corepackage="false" gameversion="0.9.4.0" steamworkshopurl="http://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&amp;id=1888013883" installtime="1571961310">
+  <Submarine file="Mods/Vellamo/Vellamo.sub" />
+</contentpackage>

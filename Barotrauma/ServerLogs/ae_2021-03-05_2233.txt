@@ -1,0 +1,100 @@
+﻿[3/5/2021 10:28:14 PM]
+  Starting the server...
+[3/5/2021 10:28:14 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[3/5/2021 10:28:19 PM]
+  Server started
+[3/5/2021 10:28:59 PM]
+  tomacatx1 has joined the server.
+[3/5/2021 10:28:59 PM]
+  Saving client permissions
+[3/5/2021 10:29:11 PM]
+  Client "tomacatx1" started the round.
+[3/5/2021 10:29:11 PM]
+  Starting a new round...
+[3/5/2021 10:29:16 PM]
+  Game mode: Sandbox
+[3/5/2021 10:29:16 PM]
+  Submarine: Kastrull v2.0 re-1
+[3/5/2021 10:29:16 PM]
+  Level seed: pVBJyuQs
+[3/5/2021 10:29:17 PM]
+  Round started.
+[3/5/2021 10:29:31 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/5/2021 10:29:41 PM]
+  tomacatx1 picked up Fuel Rod
+[3/5/2021 10:29:41 PM]
+  tomacatx1 picked up Fuel Rod
+[3/5/2021 10:29:41 PM]
+  tomacatx1 picked up Fuel Rod
+[3/5/2021 10:29:41 PM]
+  tomacatx1 picked up Fuel Rod
+[3/5/2021 10:29:41 PM]
+  tomacatx1 picked up Fuel Rod
+[3/5/2021 10:29:41 PM]
+  tomacatx1 picked up Fuel Rod
+[3/5/2021 10:29:41 PM]
+  tomacatx1 picked up Fuel Rod
+[3/5/2021 10:29:41 PM]
+  tomacatx1 picked up Fuel Rod
+[3/5/2021 10:29:43 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[3/5/2021 10:29:44 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 128, Fission rate: 3, Turbine output: 1, Autotemp ON
+[3/5/2021 10:29:46 PM]
+  tomacatx1 placed Fuel Rod in Large Steel Cabinet (ID: 305)
+[3/5/2021 10:29:46 PM]
+  tomacatx1 placed Fuel Rod in Large Steel Cabinet (ID: 305)
+[3/5/2021 10:29:46 PM]
+  tomacatx1 placed Fuel Rod in Large Steel Cabinet (ID: 305)
+[3/5/2021 10:29:46 PM]
+  tomacatx1 placed Fuel Rod in Large Steel Cabinet (ID: 305)
+[3/5/2021 10:29:46 PM]
+  tomacatx1 placed Fuel Rod in Large Steel Cabinet (ID: 305)
+[3/5/2021 10:29:46 PM]
+  tomacatx1 placed Fuel Rod in Large Steel Cabinet (ID: 305)
+[3/5/2021 10:29:46 PM]
+  tomacatx1 placed Fuel Rod in Large Steel Cabinet (ID: 305)
+[3/5/2021 10:29:46 PM]
+  tomacatx1 placed Fuel Rod in Large Steel Cabinet (ID: 305)
+[3/5/2021 10:30:38 PM]
+  Console command "spawnitem Crowbar inventory" executed by tomacatx1.
+[3/5/2021 10:30:38 PM]
+  tomacatx1 equipped Crowbar
+[3/5/2021 10:31:34 PM]
+  Console command "teleport curs" executed by tomacatx1.
+[3/5/2021 10:31:38 PM]
+  Console command "teleport " executed by tomacatx1.
+[3/5/2021 10:31:42 PM]
+  tomacatx1 set the recharge speed of Battery to 70 %
+[3/5/2021 10:31:42 PM]
+  tomacatx1 set the recharge speed of Battery to 100 %
+[3/5/2021 10:31:43 PM]
+  tomacatx1 set the recharge speed of Battery to 60 %
+[3/5/2021 10:31:43 PM]
+  tomacatx1 set the recharge speed of Battery to 90 %
+[3/5/2021 10:31:43 PM]
+  tomacatx1 set the recharge speed of Battery to 100 %
+[3/5/2021 10:31:45 PM]
+  tomacatx1 set the recharge speed of Battery to 80 %
+[3/5/2021 10:31:47 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[3/5/2021 10:31:47 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 90 %
+[3/5/2021 10:31:48 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[3/5/2021 10:32:05 PM]
+  Console command "teleport" executed by tomacatx1.
+[3/5/2021 10:32:12 PM]
+  Client "tomacatx1" ended the round.
+[3/5/2021 10:32:12 PM]
+  Ending the round...
+[3/5/2021 10:32:12 PM]
+  Round ended.
+[3/5/2021 10:32:58 PM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[3/5/2021 10:33:02 PM]
+  Saving banlist
+[3/5/2021 10:33:02 PM]
+  Shutting down the server...

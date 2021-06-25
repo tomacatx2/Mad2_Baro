@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="DelgsModTraitor" path="Mods/DelgsModTraitor/filelist.xml" corepackage="false" gameversion="0.9.9.1" steamworkshopurl="http://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&amp;id=2092119426" installtime="1589141321">
+  <TraitorMissions file="Mods/DelgsModTraitor/TraitorMissionsDelg.xml" />
+</contentpackage>

@@ -1,0 +1,1602 @@
+﻿[2/22/2021 8:08:52 PM]
+  tomacatx1 picked up Diving Mask
+[2/22/2021 8:08:55 PM]
+  tomacatx1 picked up Welding Tool
+[2/22/2021 8:08:59 PM]
+  TornMap: Da Clicking
+[2/22/2021 8:09:04 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3880)
+[2/22/2021 8:09:04 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3880)
+[2/22/2021 8:09:04 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3880)
+[2/22/2021 8:09:05 PM]
+  F*ckingAdorable equipped Flashlight
+[2/22/2021 8:09:09 PM]
+  Lester: clicking bruh
+[2/22/2021 8:09:10 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3880)
+[2/22/2021 8:09:10 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3880)
+[2/22/2021 8:09:10 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3880)
+[2/22/2021 8:09:17 PM]
+  Lester: switch to push to talk, adorable
+[2/22/2021 8:09:20 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 3880)
+[2/22/2021 8:09:20 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 3880)
+[2/22/2021 8:09:21 PM]
+  F*ckingAdorable picked up Bike Horn
+[2/22/2021 8:09:22 PM]
+  tomacatx1 picked up Crowbar
+[2/22/2021 8:09:22 PM]
+  TornMap: It's in here :( 
+[2/22/2021 8:09:25 PM]
+  tomacatx1 picked up Screwdriver
+[2/22/2021 8:09:27 PM]
+  tomacatx1 placed Crowbar in Toolbelt (ID: 3880)
+[2/22/2021 8:09:27 PM]
+  tomacatx1 removed Wrench from Toolbelt (ID: 3880)
+[2/22/2021 8:09:27 PM]
+  tomacatx1 picked up Wrench
+[2/22/2021 8:09:30 PM]
+  F*ckingAdorable turned off Pump
+[2/22/2021 8:09:30 PM]
+  Lester placed SMG in Toolbelt (ID: 3877)
+[2/22/2021 8:09:31 PM]
+  F*ckingAdorable turned on Pump
+[2/22/2021 8:09:39 PM]
+  F*ckingAdorable equipped Bike Horn
+[2/22/2021 8:09:40 PM]
+  tomacatx1 picked up Harpoon Gun
+[2/22/2021 8:09:41 PM]
+  tomacatx1 picked up C-4 Block
+[2/22/2021 8:09:41 PM]
+  tomacatx1 picked up C-4 Block
+[2/22/2021 8:09:43 PM]
+  tomacatx1 placed Renegade's Hat in Large Steel Cabinet (ID: 741)
+[2/22/2021 8:09:43 PM]
+  tomacatx1 removed Ballistic Helmet from Large Steel Cabinet (ID: 741)
+[2/22/2021 8:09:43 PM]
+  tomacatx1 picked up Ballistic Helmet
+[2/22/2021 8:09:44 PM]
+  tomacatx1 picked up Body Armor
+[2/22/2021 8:09:52 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 521)
+[2/22/2021 8:09:53 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 520)
+[2/22/2021 8:10:02 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 778)
+[2/22/2021 8:10:03 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 8:10:04 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:10:05 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 778)
+[2/22/2021 8:10:06 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:10:07 PM]
+  Lester picked up Stun Baton
+[2/22/2021 8:10:08 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 8:10:09 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[2/22/2021 8:10:09 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 8:10:11 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[2/22/2021 8:10:11 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[2/22/2021 8:10:11 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 8:10:12 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[2/22/2021 8:10:12 PM]
+  terc dropped Guitar
+[2/22/2021 8:10:16 PM]
+  F*ckingAdorable equipped Welding Tool
+[2/22/2021 8:10:42 PM]
+  Lester equipped Stun Baton
+[2/22/2021 8:10:47 PM]
+  terc: soooo
+[2/22/2021 8:10:54 PM]
+  terc: if the output or fission rate
+[2/22/2021 8:10:58 PM]
+  tomacatx1 equipped Wrench
+[2/22/2021 8:10:59 PM]
+  terc: goes beyond RED
+[2/22/2021 8:11:02 PM]
+  Lester attacked by tomacatx1. Blunt force trauma: 0.32000002
+[2/22/2021 8:11:02 PM]
+  tomacatx1 used Wrench on Lester.
+[2/22/2021 8:11:03 PM]
+  terc: i shut the reactor off?
+[2/22/2021 8:11:11 PM]
+  tomacatx1 attacked by Lester. Blunt force trauma: 2
+[2/22/2021 8:11:11 PM]
+  Lester used Stun Baton (Battery Cell) on tomacatx1.
+[2/22/2021 8:11:13 PM]
+  tomacatx1 attacked by Lester. Blunt force trauma: 0.4
+[2/22/2021 8:11:13 PM]
+  Lester used Stun Baton (Battery Cell) on tomacatx1.
+[2/22/2021 8:11:21 PM]
+  Lester placed Stun Baton in Toolbelt (ID: 3877)
+[2/22/2021 8:11:27 PM]
+  F*ckingAdorable closed Custom Door
+[2/22/2021 8:11:27 PM]
+  F*ckingAdorable opened Custom Door
+[2/22/2021 8:11:31 PM]
+  F*ckingAdorable opened Custom Door
+[2/22/2021 8:11:31 PM]
+  F*ckingAdorable closed Custom Door
+[2/22/2021 8:11:31 PM]
+  F*ckingAdorable closed Custom Door
+[2/22/2021 8:11:31 PM]
+  F*ckingAdorable opened Custom Door
+[2/22/2021 8:11:32 PM]
+  F*ckingAdorable opened Custom Door
+[2/22/2021 8:11:32 PM]
+  F*ckingAdorable closed Custom Door
+[2/22/2021 8:11:40 PM]
+  terc adjusted reactor settings: Temperature: 3579, Fission rate: 67, Turbine output: 72, Autotemp OFF
+[2/22/2021 8:11:41 PM]
+  Lester: Broken devices in junction compartment!
+[2/22/2021 8:11:42 PM]
+  F*ckingAdorable opened Custom Hatch
+[2/22/2021 8:11:43 PM]
+  F*ckingAdorable closed Custom Door
+[2/22/2021 8:11:43 PM]
+  F*ckingAdorable opened Custom Door
+[2/22/2021 8:11:47 PM]
+  F*ckingAdorable closed Custom Hatch
+[2/22/2021 8:11:47 PM]
+  terc adjusted reactor settings: Temperature: 3560, Fission rate: 67, Turbine output: 72, Autotemp ON
+[2/22/2021 8:11:48 PM]
+  TornMap: fuuuuuuck
+[2/22/2021 8:11:49 PM]
+  F*ckingAdorable opened Custom Hatch
+[2/22/2021 8:11:52 PM]
+  Lester removed Stun Baton from Toolbelt (ID: 3877)
+[2/22/2021 8:11:52 PM]
+  F*ckingAdorable opened Custom Door
+[2/22/2021 8:11:52 PM]
+  F*ckingAdorable closed Custom Door
+[2/22/2021 8:11:54 PM]
+  Lester picked up Stun Baton
+[2/22/2021 8:12:03 PM]
+  Lester placed Battery Cell in Battery (ID: 933)
+[2/22/2021 8:12:05 PM]
+  terc set the recharge speed of Battery to 10 %
+[2/22/2021 8:12:05 PM]
+  terc set the recharge speed of Battery to 30 %
+[2/22/2021 8:12:05 PM]
+  terc set the recharge speed of Battery to 60 %
+[2/22/2021 8:12:06 PM]
+  F*ckingAdorable picked up Diving Suit
+[2/22/2021 8:12:06 PM]
+  terc set the recharge speed of Battery to 50 %
+[2/22/2021 8:12:06 PM]
+  terc set the recharge speed of Battery to 70 %
+[2/22/2021 8:12:06 PM]
+  terc set the recharge speed of Battery to 80 %
+[2/22/2021 8:12:06 PM]
+  terc set the recharge speed of Battery to 100 %
+[2/22/2021 8:12:07 PM]
+  terc set the recharge speed of Battery to 90 %
+[2/22/2021 8:12:07 PM]
+  terc set the recharge speed of Battery to 70 %
+[2/22/2021 8:12:07 PM]
+  terc set the recharge speed of Battery to 60 %
+[2/22/2021 8:12:07 PM]
+  terc set the recharge speed of Battery to 50 %
+[2/22/2021 8:12:08 PM]
+  terc set the recharge speed of Battery to 40 %
+[2/22/2021 8:12:08 PM]
+  terc set the recharge speed of Battery to 30 %
+[2/22/2021 8:12:08 PM]
+  terc set the recharge speed of Battery to 20 %
+[2/22/2021 8:12:14 PM]
+  terc set the recharge speed of Battery to 10 %
+[2/22/2021 8:12:14 PM]
+  terc set the recharge speed of Battery to 20 %
+[2/22/2021 8:12:19 PM]
+  terc set the recharge speed of Battery to 10 %
+[2/22/2021 8:12:19 PM]
+  terc set the recharge speed of Battery to 20 %
+[2/22/2021 8:12:19 PM]
+  F*ckingAdorable placed Potassium in Fabricator (ID: 867)
+[2/22/2021 8:12:19 PM]
+  F*ckingAdorable placed Potassium in Fabricator (ID: 867)
+[2/22/2021 8:12:21 PM]
+  F*ckingAdorable placed Tin in Fabricator (ID: 867)
+[2/22/2021 8:12:21 PM]
+  F*ckingAdorable placed Tin in Fabricator (ID: 867)
+[2/22/2021 8:12:23 PM]
+  F*ckingAdorable placed Titanium-Aluminum Alloy in Fabricator (ID: 867)
+[2/22/2021 8:12:23 PM]
+  F*ckingAdorable placed Titanium-Aluminum Alloy in Fabricator (ID: 867)
+[2/22/2021 8:12:25 PM]
+  F*ckingAdorable placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:12:25 PM]
+  F*ckingAdorable placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:12:25 PM]
+  F*ckingAdorable placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:12:26 PM]
+  F*ckingAdorable placed Rubber in Fabricator (ID: 867)
+[2/22/2021 8:12:26 PM]
+  F*ckingAdorable placed Rubber in Fabricator (ID: 867)
+[2/22/2021 8:12:27 PM]
+  TornMap: hey toma can i go afk 
+[2/22/2021 8:12:32 PM]
+  Lester placed Battery Cell in Stun Baton (ID: 3809)
+[2/22/2021 8:12:41 PM]
+  tomacatx1 equipped Screwdriver
+[2/22/2021 8:12:42 PM]
+  TornMap: yeah whatever 
+[2/22/2021 8:12:44 PM]
+  TornMap: i'm just gonna
+[2/22/2021 8:13:00 PM]
+  terc adjusted reactor settings: Temperature: 3872, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/22/2021 8:13:06 PM]
+  terc adjusted reactor settings: Temperature: 19, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/22/2021 8:13:08 PM]
+  TornMap: why are we going insane
+[2/22/2021 8:13:13 PM]
+  F*ckingAdorable started fabricating Harpoon in Fabricator
+[2/22/2021 8:13:16 PM]
+  tomacatx1 entered "щт" on Terminal
+[2/22/2021 8:13:18 PM]
+  tomacatx1 entered "on" on Terminal
+[2/22/2021 8:13:18 PM]
+  terc set the force of Large Engine to -70 %
+[2/22/2021 8:13:18 PM]
+  terc set the force of Large Engine to -60 %
+[2/22/2021 8:13:18 PM]
+  terc set the force of Large Engine to -30 %
+[2/22/2021 8:13:19 PM]
+  terc set the force of Large Engine to -20 %
+[2/22/2021 8:13:27 PM]
+  tomacatx1 equipped Welding Tool
+[2/22/2021 8:13:28 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 8:13:32 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 8:13:36 PM]
+  Lester dropped Body Armor
+[2/22/2021 8:13:37 PM]
+  Lester picked up Diving Suit
+[2/22/2021 8:13:39 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 8:13:40 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 8:13:41 PM]
+  Lester equipped Welding Tool
+[2/22/2021 8:13:42 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 8:13:44 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 8:14:07 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:07 PM]
+  Watcher attacked by Lester. Lacerations: 75 Bleeding: 1
+[2/22/2021 8:14:07 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:07 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:08 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 75 Bleeding: 1
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:08 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 75 Bleeding: 1
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:08 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 75 Bleeding: 1
+[2/22/2021 8:14:08 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:08 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:09 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:09 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:09 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:09 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:09 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:09 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:09 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:09 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:09 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:10 PM]
+  Watcher has died (Cause of death: Lacerations)
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:10 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:10 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:11 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:12 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:12 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:12 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:12 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:13 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:14 PM]
+  Outer wall breached by Lester
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:14 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:15 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:15 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:15 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:15 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:16 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:16 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:16 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:16 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:16 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:17 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:17 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:17 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:17 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:17 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:17 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:17 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:17 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:17 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:17 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:17 PM]
+  terc set the pumping speed of Pump to -80 %
+[2/22/2021 8:14:17 PM]
+  terc turned off Pump
+[2/22/2021 8:14:18 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:18 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:18 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:18 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:18 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:19 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:19 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:19 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:19 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:19 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:19 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:19 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:19 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:19 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:19 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:20 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:20 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:20 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:20 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:20 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:20 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:20 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:20 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:20 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:20 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:21 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:21 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:21 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:21 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:22 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:22 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:22 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:22 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:22 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:22 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:23 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:23 PM]
+  Watcher attacked by Lester. Lacerations: 1.5
+[2/22/2021 8:14:23 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:23 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:23 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:24 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:24 PM]
+  terc set the pumping speed of Pump to -100 %
+[2/22/2021 8:14:24 PM]
+  terc turned on Pump
+[2/22/2021 8:14:24 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:24 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:25 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:25 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:25 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:25 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:26 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:26 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:26 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:27 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:27 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:27 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:27 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:28 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:28 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:28 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:29 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:29 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:29 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:29 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:30 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:30 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:30 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:31 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:31 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:31 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:32 PM]
+  F*ckingAdorable equipped Crowbar
+[2/22/2021 8:14:38 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:38 PM]
+  terc turned off Pump
+[2/22/2021 8:14:38 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:38 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:38 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:38 PM]
+  Lester launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:14:39 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:39 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:39 PM]
+  terc turned on Pump
+[2/22/2021 8:14:39 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:39 PM]
+  Watcher attacked by Lester. Lacerations: 3
+[2/22/2021 8:14:40 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:40 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:40 PM]
+  Watcher attacked by Lester. Lacerations: 15 Bleeding: 1
+[2/22/2021 8:14:46 PM]
+  terc has died (Cause of death: Barotrauma)
+[2/22/2021 8:14:47 PM]
+  F*ckingAdorable equipped Screwdriver
+[2/22/2021 8:14:51 PM]
+  F*ckingAdorable started repairing Supercapacitor
+[2/22/2021 8:14:52 PM]
+  terc: im fucking dead
+[2/22/2021 8:14:56 PM]
+  terc: lol
+[2/22/2021 8:15:13 PM]
+  terc: im dead
+[2/22/2021 8:15:13 PM]
+  F*ckingAdorable started repairing Supercapacitor
+[2/22/2021 8:15:19 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 8:15:20 PM]
+  terc attacked by Lester. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[2/22/2021 8:15:20 PM]
+  terc attacked by Lester. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[2/22/2021 8:15:32 PM]
+  F*ckingAdorable started repairing Supercapacitor
+[2/22/2021 8:15:33 PM]
+  terc: whats that big thing 
+[2/22/2021 8:15:38 PM]
+  terc: arachnopod
+[2/22/2021 8:15:59 PM]
+  terc has died (Cause of death: Barotrauma)
+[2/22/2021 8:15:59 PM]
+  Console command "revive terc" executed by tomacatx1.
+[2/22/2021 8:16:01 PM]
+  Console command "heal terc" executed by tomacatx1.
+[2/22/2021 8:16:03 PM]
+  Console command "revive terc" executed by tomacatx1.
+[2/22/2021 8:16:23 PM]
+  terc: i uh
+[2/22/2021 8:16:23 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 8:16:23 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 8:16:28 PM]
+  terc: cant control myself
+[2/22/2021 8:16:30 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 8:16:32 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:16:37 PM]
+  terc: help
+[2/22/2021 8:16:42 PM]
+  terc: i know i cant move
+[2/22/2021 8:16:45 PM]
+  F*ckingAdorable equipped Fire Extinguisher
+[2/22/2021 8:16:45 PM]
+  F*ckingAdorable picked up Fire Extinguisher
+[2/22/2021 8:16:53 PM]
+  Console command "setclientcharacter terc terc" executed by tomacatx1.
+[2/22/2021 8:16:56 PM]
+  TornMap equipped Syringe Gun
+[2/22/2021 8:16:56 PM]
+  terc: ohp
+[2/22/2021 8:17:14 PM]
+  Lester equipped Steel Bar
+[2/22/2021 8:17:14 PM]
+  Lester equipped Steel Bar
+[2/22/2021 8:17:14 PM]
+  Lester picked up Steel Bar
+[2/22/2021 8:17:14 PM]
+  Lester picked up Steel Bar
+[2/22/2021 8:17:16 PM]
+  Lester placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:17:17 PM]
+  Lester placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:17:19 PM]
+  Lester placed Steel Bar in Fabricator (ID: 867)
+[2/22/2021 8:17:19 PM]
+  Lester placed Steel Bar in Fabricator (ID: 867)
+[2/22/2021 8:17:20 PM]
+  Lester started fabricating Harpoon in Fabricator
+[2/22/2021 8:17:20 PM]
+  terc picked up Screwdriver
+[2/22/2021 8:17:23 PM]
+  terc picked up Wrench
+[2/22/2021 8:17:26 PM]
+  F*ckingAdorable placed Fire Extinguisher in Fire Extinguisher Bracket (ID: 593)
+[2/22/2021 8:17:27 PM]
+  terc picked up Crowbar
+[2/22/2021 8:17:33 PM]
+  F*ckingAdorable equipped Screwdriver
+[2/22/2021 8:17:36 PM]
+  F*ckingAdorable started repairing Battery
+[2/22/2021 8:17:37 PM]
+  terc equipped Screwdriver
+[2/22/2021 8:17:38 PM]
+  Lester removed Diving Mask from Supplies Cabinet (ID: 437)
+[2/22/2021 8:17:41 PM]
+  terc equipped Wrench
+[2/22/2021 8:17:44 PM]
+  terc failed to repair Nuclear Reactor
+[2/22/2021 8:17:44 PM]
+  Lester dropped Stun Baton
+[2/22/2021 8:17:45 PM]
+  Lester picked up Diving Mask
+[2/22/2021 8:17:49 PM]
+  Lester placed Oxygen Tank in Diving Mask (ID: 438)
+[2/22/2021 8:17:49 PM]
+  Lester removed Oxygen Tank from Diving Mask (ID: 438)
+[2/22/2021 8:17:49 PM]
+  Lester placed Oxygen Tank in Diving Suit (ID: 204)
+[2/22/2021 8:17:52 PM]
+  Lester dropped Diving Mask
+[2/22/2021 8:17:55 PM]
+  Lester picked up Stun Baton
+[2/22/2021 8:17:56 PM]
+  F*ckingAdorable started repairing Battery
+[2/22/2021 8:17:58 PM]
+  terc: required skills
+[2/22/2021 8:18:00 PM]
+  TornMap started repairing Large Engine
+[2/22/2021 8:18:11 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 8:18:11 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 8:18:11 PM]
+  Lester dropped Diving Suit
+[2/22/2021 8:18:16 PM]
+  terc: i cant repair it
+[2/22/2021 8:18:17 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 8:18:17 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 8:18:22 PM]
+  TornMap equipped Guitar
+[2/22/2021 8:18:22 PM]
+  TornMap picked up Guitar
+[2/22/2021 8:18:23 PM]
+  tomacatx1 picked up Plasma Cutter
+[2/22/2021 8:18:27 PM]
+  F*ckingAdorable: uhh
+[2/22/2021 8:18:27 PM]
+  terc started repairing Nuclear Reactor
+[2/22/2021 8:18:32 PM]
+  TornMap dropped Guitar
+[2/22/2021 8:18:34 PM]
+  Lester removed Diving Suit from F*ckingAdorable
+[2/22/2021 8:18:51 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 3880)
+[2/22/2021 8:18:51 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 3880)
+[2/22/2021 8:19:07 PM]
+  tomacatx1 used item Anabolic Steroids
+[2/22/2021 8:19:17 PM]
+  terc: hi yes
+[2/22/2021 8:19:18 PM]
+  F*ckingAdorable picked up Diving Suit
+[2/22/2021 8:19:20 PM]
+  terc: quick question
+[2/22/2021 8:19:22 PM]
+  F*ckingAdorable removed Oxygen Tank from Diving Suit (ID: 188)
+[2/22/2021 8:19:25 PM]
+  F*ckingAdorable placed Oxygen Tank in Diving Suit (ID: 188)
+[2/22/2021 8:19:27 PM]
+  terc: what the fuck is that giant arthropod outside of our base
+[2/22/2021 8:19:34 PM]
+  F*ckingAdorable picked up Diving Mask
+[2/22/2021 8:19:34 PM]
+  F*ckingAdorable dropped Diving Mask
+[2/22/2021 8:19:34 PM]
+  F*ckingAdorable placed Diving Mask in Supplies Cabinet (ID: 478)
+[2/22/2021 8:19:37 PM]
+  terc: oooooh
+[2/22/2021 8:19:48 PM]
+  Lester picked up Body Armor
+[2/22/2021 8:19:51 PM]
+  terc equipped Crowbar
+[2/22/2021 8:19:53 PM]
+  terc started repairing Junction Box
+[2/22/2021 8:20:07 PM]
+  Lester equipped Stun Gun
+[2/22/2021 8:20:07 PM]
+  Lester picked up Stun Gun
+[2/22/2021 8:20:10 PM]
+  tomacatx1 equipped Plasma Cutter
+[2/22/2021 8:20:17 PM]
+  F*ckingAdorable started repairing Battery
+[2/22/2021 8:20:18 PM]
+  tomacatx1 attacked by Lester. Lacerations: 0.1 Stun: 5
+[2/22/2021 8:20:24 PM]
+  terc: nice
+[2/22/2021 8:20:26 PM]
+  Lester dropped Stun Gun
+[2/22/2021 8:20:32 PM]
+  F*ckingAdorable started repairing Battery
+[2/22/2021 8:20:34 PM]
+  terc started repairing Navigation Terminal
+[2/22/2021 8:20:39 PM]
+  Lester equipped Stun Grenade
+[2/22/2021 8:20:39 PM]
+  Lester equipped Stun Grenade
+[2/22/2021 8:20:39 PM]
+  Lester picked up Stun Grenade
+[2/22/2021 8:20:39 PM]
+  Lester picked up Stun Grenade
+[2/22/2021 8:20:42 PM]
+  Lester placed Stun Grenade in Large Steel Cabinet (ID: 741)
+[2/22/2021 8:20:43 PM]
+  Lester placed Stun Grenade in Large Steel Cabinet (ID: 741)
+[2/22/2021 8:20:52 PM]
+  F*ckingAdorable started repairing Battery
+[2/22/2021 8:20:58 PM]
+  tomacatx1 entered "off" on Terminal
+[2/22/2021 8:21:03 PM]
+  terc started repairing Junction Box
+[2/22/2021 8:21:13 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 8:21:15 PM]
+  F*ckingAdorable started repairing Junction Box
+[2/22/2021 8:21:15 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:21:17 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 8:21:19 PM]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 8:21:20 PM]
+  terc adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/22/2021 8:21:22 PM]
+  terc adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/22/2021 8:21:29 PM]
+  Lester placed Revolver Round in Revolver (ID: 3297)
+[2/22/2021 8:21:30 PM]
+  F*ckingAdorable failed to repair Junction Box
+[2/22/2021 8:21:32 PM]
+  Lester placed Revolver Round in Revolver (ID: 3298)
+[2/22/2021 8:21:36 PM]
+  terc: alright
+[2/22/2021 8:21:48 PM]
+  F*ckingAdorable dropped Diving Suit
+[2/22/2021 8:22:18 PM]
+  terc started repairing Junction Box
+[2/22/2021 8:22:19 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:20 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:20 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:20 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:21 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:21 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:21 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:21 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:21 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:22 PM]
+  Outer wall breached by F*ckingAdorable
+[2/22/2021 8:22:22 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:22 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:22 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:22 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:23 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:23 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:23 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:23 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:23 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:24 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:24 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:24 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:25 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:25 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:25 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:25 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:25 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:25 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:25 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:26 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:26 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:26 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:26 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:27 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:27 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:27 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:27 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:27 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:27 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:27 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:27 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:27 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:27 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:27 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:28 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:28 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:28 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:28 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:29 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:30 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:31 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:31 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:31 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:31 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:32 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:32 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:33 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:33 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:34 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:34 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:34 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:34 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:34 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:34 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:34 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:34 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:34 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:34 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:34 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:35 PM]
+  terc: roger
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:35 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:35 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:36 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:36 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:36 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:36 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:36 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:36 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:36 PM]
+  Outer wall breached by Moloch
+[2/22/2021 8:22:36 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:36 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:36 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:37 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:37 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:37 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:37 PM]
+  Outer wall breached by F*ckingAdorable
+[2/22/2021 8:22:37 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  Inner wall breached by F*ckingAdorable
+[2/22/2021 8:22:38 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:38 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:38 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:39 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:40 PM]
+  Outer wall breached by F*ckingAdorable
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:22:40 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:40 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:40 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:40 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:41 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:41 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:41 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:41 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:42 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:42 PM]
+  F*ckingAdorable launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:22:42 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:42 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:42 PM]
+  Moloch attacked by F*ckingAdorable. Lacerations: 1.5
+[2/22/2021 8:22:46 PM]
+  Lester placed Body Armor in Toolbelt (ID: 3877)
+[2/22/2021 8:22:47 PM]
+  Lester picked up Diving Suit
+[2/22/2021 8:22:50 PM]
+  Lester dropped Diving Suit
+[2/22/2021 8:22:51 PM]
+  Lester picked up Diving Suit
+[2/22/2021 8:22:53 PM]
+  Lester dropped Diving Suit
+[2/22/2021 8:22:58 PM]
+  Lester picked up Diving Suit
+[2/22/2021 8:23:00 PM]
+  tomacatx1 picked up Stun Gun
+[2/22/2021 8:23:00 PM]
+  Lester dropped Diving Suit
+[2/22/2021 8:23:03 PM]
+  terc started repairing Pump
+[2/22/2021 8:23:10 PM]
+  tomacatx1 placed Stun Gun in Large Steel Cabinet (ID: 741)
+[2/22/2021 8:23:14 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[2/22/2021 8:23:15 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 50 %
+[2/22/2021 8:23:15 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[2/22/2021 8:23:15 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 50 %
+[2/22/2021 8:23:16 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[2/22/2021 8:23:16 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 80 %
+[2/22/2021 8:23:16 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[2/22/2021 8:23:18 PM]
+  tomacatx1 removed Piercing Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 8:23:19 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:23:21 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 8:23:22 PM]
+  Lester picked up Diving Suit
+[2/22/2021 8:23:22 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:23:24 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 8:23:28 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/22/2021 8:23:28 PM]
+  Lester dropped Diving Suit
+[2/22/2021 8:23:30 PM]
+  Lester picked up Diving Suit
+[2/22/2021 8:23:32 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[2/22/2021 8:23:32 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 8:23:35 PM]
+  tomacatx1 placed Coilgun Ammunition Box in Coilgun Loader (ID: 778)
+[2/22/2021 8:23:35 PM]
+  terc failed to repair Junction Box
+[2/22/2021 8:23:38 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:38 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:38 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:39 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:39 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:39 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:23:39 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:23:39 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:39 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:39 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:23:39 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:23:39 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:23:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:23:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:23:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:40 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:23:41 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:41 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:41 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:41 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:41 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:41 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:41 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:23:41 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:41 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:42 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:42 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:23:43 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:43 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:23:43 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:23:43 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:23:43 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:23:43 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5

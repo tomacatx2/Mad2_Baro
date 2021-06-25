@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Jobs>
+  <Job identifier="chef"
+       maxnumber="2" minkarma="30"
+       uicolor="0.75,0.80,0.85"
+       vitalitymodifier="0">
+    <Jobicon>
+      <sprite texture="Mods/Jobs+/ChefIcon.png" sourcerect="0,0,128,128" origin="0.5,0.5"/>
+    </Jobicon>
+    <Skills>
+      <Skill identifier="medical" level="30,40"/>
+      <Skill identifier="weapons" level="15,25"/>
+      <Skill identifier="mechanical" level="15,25"/>
+      <Skill identifier="electrical" level="15,25"/>
+      <Skill identifier="helm" level="5,10"/>
+	  <Skill identifier="cooking" level="40,50"/>
+	  <Skill identifier="botany" level="25,35"/>
+      <Skill identifier="initiative" level="30,100"/>
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false"/>
+      <Item identifier="chefhat1" equip="true"/>
+      <Item identifier="chefuniform1" equip="true" outfit="true">
+        <Item identifier="rations"/>
+		<Item identifier="sodium"/>
+		<Item identifier="sodium"/>
+      </Item>
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false"/>
+      </Item>
+      <Item identifier="cleaver"/>
+      <Item identifier="canteen"/>
+      <PreviewSprites dims="120,109">
+        <sprite texture="Mods/Jobs+/JobGear/Chef/chef_torso_male_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Mods/Jobs+/JobGear/Chef/chef_torso_male_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Chef" texture="Mods/Jobs+/ChefPortrait.png" sheetindex="0,1"/>
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier ="1"/>
+      <Order identifier="rescue" prioritymodifier="1"/>
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="0.25"/>
+      <Order identifier="fixleaks" prioritymodifier="0.2"/>
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.2"/>
+    </AutonomousObjectives>
+    <AppropriateOrders>
+      <Order identifier="rescue"/>
+      <Order identifier="requestfirstaid"/>
+    </AppropriateOrders>
+  </Job>
+  
+  <Job identifier="botanist"
+       maxnumber="2" minkarma="30"
+       uicolor="0.20,0.85,0.35"
+       vitalitymodifier="0">
+    <Jobicon>
+      <sprite texture="Mods/Jobs+/BotanistIcon.png" sourcerect="0,0,128,128" origin="0.5,0.5"/>
+    </Jobicon>
+    <Skills>
+      <Skill identifier="medical" level="30,40"/>
+      <Skill identifier="weapons" level="5,10"/>
+      <Skill identifier="mechanical" level="5,10"/>
+      <Skill identifier="electrical" level="5,10"/>
+      <Skill identifier="helm" level="5,10"/>
+	  <Skill identifier="cooking" level="25,35"/>
+	  <Skill identifier="botany" level="40,50"/>
+      <Skill identifier="initiative" level="30,100"/>
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false"/>
+      <Item identifier="botanistclothes" equip="true" outfit="true"/>
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false"/>
+      </Item>
+	  <Item identifier="minicultivator"/>
+	  <Item identifier="minicultivator"/>
+      <PreviewSprites dims="120,109">
+        <sprite texture="Mods/Jobs+/JobGear/Botanist/botanist_torso_male_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Mods/Jobs+/JobGear/Botanist/botanist_torso_female_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Botanist" texture="Mods/Jobs+/BotanistPortrait.png" sheetindex="0,1"/>
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier ="1"/>
+      <Order identifier="rescue" prioritymodifier="1"/>
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="0.25"/>
+      <Order identifier="fixleaks" prioritymodifier="0.2"/>
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.2"/>
+    </AutonomousObjectives>
+    <AppropriateOrders>
+      <Order identifier="rescue"/>
+      <Order identifier="requestfirstaid"/>
+    </AppropriateOrders>
+  </Job>
+</Jobs>

@@ -1,0 +1,152 @@
+﻿[6/24/2021 10:47:41 PM]
+  Starting the server...
+[6/24/2021 10:47:41 PM]
+  Using SteamP2P networking.
+[6/24/2021 10:47:41 PM]
+  Server started
+[6/24/2021 10:47:41 PM]
+  The Supreme Gentleman has joined the server.
+[6/24/2021 10:47:41 PM]
+  Saving client permissions
+[6/24/2021 10:47:41 PM]
+  Saving client permissions
+[6/24/2021 10:47:48 PM]
+  Player The Supreme Gentleman has changed their name to (you).
+[6/24/2021 10:48:20 PM]
+  Gamemode changed to Sandbox
+[6/24/2021 10:49:16 PM]
+  superhands has joined the server.
+[6/24/2021 10:49:16 PM]
+  Saving client permissions
+[6/24/2021 10:49:37 PM]
+  (you) is ready to start the game.
+[6/24/2021 10:49:38 PM]
+  Client "(you)" started the round.
+[6/24/2021 10:49:38 PM]
+  Starting a new round...
+[6/24/2021 10:49:45 PM]
+  Game mode: Sandbox
+[6/24/2021 10:49:45 PM]
+  Submarine: ECS. Hammerhead var C v1 re-2
+[6/24/2021 10:49:45 PM]
+  Level seed: u4rKxwqu
+[6/24/2021 10:49:46 PM]
+  Round started.
+[6/24/2021 10:50:14 PM]
+  (you) set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 10:50:14 PM]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 10:50:45 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:50:45 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:50:45 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:50:49 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:50:50 PM]
+  (you) set the recharge speed of Battery to 60 %
+[6/24/2021 10:50:50 PM]
+  (you) set the recharge speed of Battery to 90 %
+[6/24/2021 10:50:50 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:50:52 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 50 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 70 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 90 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 50 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 90 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:51:06 PM]
+  (you) set the recharge speed of Battery to 30 %
+[6/24/2021 10:51:06 PM]
+  (you) set the recharge speed of Battery to 50 %
+[6/24/2021 10:51:07 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:51:07 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:51:18 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:23 PM]
+  Console command "fixhulls" executed by (you).
+[6/24/2021 10:51:26 PM]
+  Console command "enablecheats" executed by (you).
+[6/24/2021 10:51:27 PM]
+  Console command "fixhulls" executed by (you).
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:55 PM]
+  Saving client permissions
+[6/24/2021 10:51:55 PM]
+  Console command "giverank "superhands" Admin" executed by (you).
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:57 PM]
+  Console command "enablecheats" executed by (you).
+[6/24/2021 10:51:59 PM]
+  Console command "enablecheats" executed by (you).
+[6/24/2021 10:52:15 PM]
+  Saving client permissions
+[6/24/2021 10:52:15 PM]
+  Console command "giverank "superhands" Admin" executed by (you).
+[6/24/2021 10:52:21 PM]
+  Console command "freecam" executed by superhands.
+[6/24/2021 10:52:24 PM]
+  Client "(you)" ended the round.
+[6/24/2021 10:52:24 PM]
+  Ending the round...

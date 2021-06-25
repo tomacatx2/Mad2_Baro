@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Seated Operators" path="Mods/Seated Operators/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2234671530" installtime="1620545687">
+  <Item file="Mods/Seated Operators/Content/Items/Command/pilotgear.xml" />
+  <Item file="Mods/Seated Operators/Content/Items/Periscope/pilotweapon.xml" />
+  <Submarine file="Mods/Seated Operators/Content/Gunships/Torpedo Gunship.sub" />
+  <Submarine file="Mods/Seated Operators/Content/Gunships/Rocket Gunship.sub" />
+</contentpackage>

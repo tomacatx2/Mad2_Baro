@@ -1,0 +1,35 @@
+<Items>
+    <Item name="Biofoam Tank" identifier="biofoamtank" category="Equipment,Misc" description="A tank filled with biofoam, a miraculous healing material. Used in Biofoam Sprayers and Biofoam Injectors." maxstacksize="8" Tags="smallitem,biofoamfuel,medical,chem" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="suturegun,surgerygun,splintinggun,injector" spawnprobability="1"/>
+    <PreferredContainer primary="medcab" minamount="2" maxamount="5" />
+    <PreferredContainer primary="wreckmedcab,abandonedmedcab" minamount="0" maxamount="3" spawnprobability="0.5" />
+    <PreferredContainer primary="supplycab" minamount="0" maxamount="3" spawnprobability="0.25" />
+    <PreferredContainer primary="outposttrashcan" minamount="0" maxamount="1" spawnprobability="0.15" />
+    <Price baseprice="120" >
+      <Price locationtype="outpost" multiplier="1" minavailable="6" />
+      <Price locationtype="city" multiplier="0.9" minavailable="7" />
+      <Price locationtype="research" multiplier="1.25" minavailable="3" />
+      <Price locationtype="military" multiplier="1.25" minavailable="3" />
+      <Price locationtype="mine" multiplier="0.9" minavailable="15" />
+    </Price>
+    <Deconstruct time="10">
+      <Item identifier="opium" copycondition="true" mincondition="0.1" />
+      <Item identifier="opium" copycondition="true" mincondition="0.1" />
+	  <Item identifier="alienblood" copy="true" mincondition="0.1"/>
+    </Deconstruct>
+    <Fabricate suitablefabricators="medicalfabricator" requiredtime="10">
+      <RequiredSkill identifier="medical" level="40" />
+      <RequiredItem identifier="opium" />
+      <RequiredItem identifier="opium" />
+	  <RequiredItem identifier="alienblood"/>
+    </Fabricate>
+    <InventoryIcon texture="biofoamatlas.png" sourcerect="960,0,64,64" origin="0.5,0.5" />
+    <Sprite texture="biofoam.png" sourcerect="436,71,22,66" depth="0.55" />
+    <Body width="20" height="65" density="9.7" />
+    <Holdable canbecombined="true" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect">
+      <StatusEffect type="OnBroken" target="This" delay="1" stackable="false">
+      </StatusEffect>
+    </Holdable>
+    <Upgrade gameversion="0.10.0.0" scale="0.5" />
+  </Item>
+</Items>

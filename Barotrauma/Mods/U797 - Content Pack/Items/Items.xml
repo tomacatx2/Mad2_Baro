@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="" identifier="hazard_suit" description="" category="Equipment" tags="hazard_suit, divingsuit" scale="0.3" fireproof="true" impactsoundtag="impact_metal_heavy">
+    <!--Preis Liste-->
+    <Price locationtype="City" buyprice="300" />
+    <Price locationtype="Outpost" buyprice="300" />
+    <Price locationtype="Military" buyprice="200" />
+    <Price locationtype="Research" buyprice="200" />
+    <Price locationtype="Mine" buyprice="400" />
+    <Fabricate suitablefabricators="fabricator" requiredtime="30">
+      <RequiredSkill identifier="mechanical" level="40" />
+      <RequiredItem identifier="lead" />
+      <RequiredItem identifier="rubber" />
+      <RequiredItem identifier="rubber" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <!--Deconstruct-->
+    <Deconstruct time="40">
+      <Item identifier="rubber" />
+      <Item identifier="lead" />
+    </Deconstruct>
+    <!--Sprites-->
+    <Sprite name="Hazard Suit Item" texture="Mods/U797 - Content Pack/Items/AnzugItem.png" sourcerect="165,210,188,215" depth="0.55" origin="0.5212766,0.6465116" />
+    <InventoryIcon texture="Mods/U797 - Content Pack/Items/AnzugIcon.png" sourcerect="421,411,198,203" origin="0.5,0.5" />
+    <Body radius="60" width="100" density="30" />
+    <!--ContainerSprites-->
+    <ContainedSprite name="Hazard Suit In Vertical Locker" allowedcontainertags="divingsuitcontainervertical" texture="Mods/U797 - Content Pack/Items/AnzugContainer.png" sourcerect="465,217,121,290" depth="0.55" origin="0.5,0.5" />
+    <ContainedSprite name="Hazard Suit In Horizontal Locker" allowedcontainertags="divingsuitcontainerhorizontal" texture="Mods/U797 - Content Pack/Items/AnzugContainer.png" sourcerect="143,742,435,138" depth="0.55" origin="0.5422529,0.59652174" />
+    <!--Beim Tragen-->
+    <Wearable slots="OuterClothes" msg="ItemMsgEquipSelect">
+      <sprite name="Hazard Suit Head" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="209,55,93,90" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.4751211,0.42557186" />
+      <sprite name="Hazard Suit Torso" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="166,154,152,174" limb="Torso" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.6124401,0.47770804" />
+      <sprite name="Hazard Suit Waist" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="212,328,103,92" limb="Waist" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.39544037,0.5344696" />
+      <sprite name="Hazard Suit RightHand" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="57,315,54,102" limb="RightHand" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.30261132,0.41943398" />
+      <sprite name="Hazard Suit LeftHand" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="57,315,54,102" limb="LeftHand" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.29858115,0.41730034" />
+      <sprite name="Hazard Suit RightArm" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="64,111,57,99" limb="RightArm" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.29798824,0.4638957" />
+      <sprite name="Hazard Suit LeftArm" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="64,111,57,99" limb="LeftArm" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.29798824,0.45853153" />
+      <sprite name="Hazard Suit RightThigh" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="364,98,80,78" limb="RightThigh" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.4368516,0.4581286" />
+      <sprite name="Hazard Suit LeftThigh" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="364,98,80,78" limb="LeftThigh" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.44624305,0.4773931" />
+      <sprite name="Hazard Suit RightLeg" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="367,208,78,109" limb="RightLeg" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.5,0.6788991" />
+      <sprite name="Hazard Suit LeftLeg" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="367,208,78,109" limb="LeftLeg" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.5,0.66972476" />
+      <sprite name="Hazard Suit RightFoot" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="378,399,99,89" limb="RightFoot" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.5056503,0.47065517" />
+      <sprite name="Hazard Suit LeftFoot" texture="Mods/U797 - Content Pack/Items/Hazard Suit Body.png" sourcerect="378,399,99,89" limb="LeftFoot" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" origin="0.5056503,0.47065517" />
+      <StatusEffect type="OnWearing" target="Character" HideFace="true" ObstructVision="true" PressureProtection="0" SpeedMultiplier="0.6" LowPassMultiplier="0.2" setvalue="true" disabledeltatime="true">
+        <ReduceAffliction identifier="radiationsickness" amount="0.01" />
+      </StatusEffect>
+      <!--Sauerstoff-->
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1000.0" Condition="-0.1" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygentank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" Oxygen="-20.0" Condition="-0.5">
+        <Conditional IsDead="false" />
+        <RequiredItem items="weldingfueltank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" Oxygen="-20.0" Condition="-0.5">
+        <Conditional IsDead="false" />
+        <RequiredItem items="incendiumfueltank" type="Contained" />
+        <Affliction identifier="burn" amount="0.1" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1000.0" SpeedMultiplier="1.2" Condition="-0.2" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygeniteshard" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1500.0" SpeedMultiplier="1.3" Condition="-0.1" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygenitetank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="0.0" Condition="-50.0" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="huskeggs" type="Contained" />
+        <Affliction identifier="huskinfection" amount="0.01" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="0.0" Condition="-50.0" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="chloralhydrate" type="Contained" />
+        <Affliction identifier="stun" amount="30.0" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Character" OxygenAvailable="-100.0" />
+      <!--Schadenmodifier-->
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="damage" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="bleeding" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="radiationsickness" damagemultiplier="-1.0" probabilitymultiplier="-1.0" deflectprojectiles="true" />
+    </Wearable>
+    <!--Item Plätze-->
+    <ItemContainer capacity="1" hideitems="true">
+      <Containable items="oxygensource,weldingfuel,huskeggs,chloralhydrate" />
+    </ItemContainer>
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="med_scanner" description="" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,tool" scale="0.12" fireproof="true" impactsoundtag="impact_metal_light">
+    <!--Preis Liste-->
+    <Price locationtype="City" buyprice="150" />
+    <Price locationtype="Outpost" buyprice="150" />
+    <Price locationtype="Military" buyprice="150" />
+    <Price locationtype="Research" buyprice="100" />
+    <!--Deconstruct-->
+    <Deconstruct time="20">
+      <Item identifier="fpgacircuit" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="mechanical" level="30" />
+      <RequiredSkill identifier="medical" level="50" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <!--Sprites-->
+    <Sprite name="Scanner Item" texture="Mods/U797 - Content Pack/Items/ScannerItem.png" sourcerect="436,387,156,253" depth="0.55" origin="0.50905985,0.68969697" />
+    <InventoryIcon texture="Mods/U797 - Content Pack/Items/ScannerIcon.png" sourcerect="365,273,292,481" origin="0.5,0.5" />
+    <Body radius="60" width="100" density="30" />
+    <Holdable slots="Any,RightHand,LeftHand" holdpos="45,-10" aimpos="65,0" handle1="-20,-16" msg="ItemMsgPickUpSelect">
+      <!--<StatusEffect type="OnActive" targettype="Contained" targets="mobilebattery" Condition="-1.0">
+        <StatusHUD/>
+      </StatusEffect>-->
+      <StatusHUD drawhudwhenequipped="true" />
+    </Holdable>
+    <!--<ItemContainer capacity="1" hideitems="true">
+      <Containable items="mobilebattery" />
+    </ItemContainer>-->
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="zigarre" category="Misc" Tags="smallitem" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_soft" isshootable="true">
+    <Price locationtype="City" buyprice="35" />
+    <Price locationtype="Outpost" buyprice="30" />
+    <Price locationtype="Military" buyprice="25" />
+    <Price locationtype="Mine" buyprice="20" />
+    <InventoryIcon name="Zigarre icon" texture="cigar_u797 icon.png" sourcerect="0,0,40,40" origin="0.5,0.5" />
+    <Sprite name="Zigarre" texture="cigar_u797.png" sourcerect="0,-10,46,29" depth="0.55" origin="0.6118881,0.71175456" />
+    <Body width="58" height="20" />
+    <Holdable slots="Any,RightHand" aimable="false" aimpos="35,20" handle1="15,0" swingamount="0,0" swingspeed="0.5" swingwhenusing="true" msg="ItemMsgPickUpSelect">
+      <StatusEffect type="OnUse" target="This">
+        <ParticleEmitter particle="swirlysmoke" particlespersecond="2" scalemin="1" scalemax="3" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_box" category="Misc" tags="crate" scale="0.4" linkable="true" pickdistance="150" showcontentsintooltip="true" impactsoundtag="impact_metal_heavy">
+    <Price locationtype="City" buyprice="150" />
+    <Price locationtype="Outpost" buyprice="160" />
+    <Price locationtype="Military" buyprice="120" />
+    <Price locationtype="Research" buyprice="100" />
+    <Price locationtype="Mine" buyprice="180" />
+    <Deconstruct time="20">
+      <Item identifier="steel" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Sprite texture="box1_u797.png" depth="0.54" sourcerect="0,0,272,125" origin="0.5,0.5" />
+    <Body width="272" height="125" density="50" />
+    <Holdable slots="RightHand+LeftHand" holdpos="0,-80" handle1="-30,14" handle2="30,14" aimable="false" msg="ItemMsgPickUpSelect" />
+    <ItemContainer capacity="15" canbeselected="false" hideitems="true" keepopenwhenequipped="true" movableframe="true">
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_container1" category="Misc" tags="crate" scale="0.6" linkable="true" pickdistance="150" showcontentsintooltip="true" impactsoundtag="impact_metal_heavy">
+    <Price locationtype="City" buyprice="200" />
+    <Price locationtype="Military" buyprice="190" />
+    <Price locationtype="Research" buyprice="175" />
+    <Deconstruct time="20">
+      <Item identifier="steel" />
+      <Item identifier="steel" />
+    </Deconstruct>
+    <Sprite texture="container1_u797.png" depth="0.54" sourcerect="0,0,176,198" origin="0.5,0.5" />
+    <Body width="246" height="72" density="50" />
+    <Holdable slots="RightHand+LeftHand" holdpos="45,-10" handle1="-20,-16" handle2="30,14" aimable="false" msg="ItemMsgPickUpSelect" />
+    <ItemContainer capacity="16" canbeselected="false" hideitems="true" keepopenwhenequipped="true" movableframe="true">
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_container2" category="Misc" tags="crate" scale="0.6" linkable="true" pickdistance="150" showcontentsintooltip="true" impactsoundtag="impact_metal_heavy">
+    <Price locationtype="City" buyprice="200" />
+    <Price locationtype="Military" buyprice="190" />
+    <Price locationtype="Research" buyprice="175" />
+    <Deconstruct time="20">
+      <Item identifier="steel" />
+      <Item identifier="steel" />
+    </Deconstruct>
+    <Sprite texture="container2_u797.png" depth="0.54" sourcerect="0,0,246,72" origin="0.5,0.5" />
+    <Body width="246" height="72" density="50" />
+    <Holdable slots="RightHand+LeftHand" holdpos="0,-80" handle1="-30,14" handle2="30,14" aimable="false" msg="ItemMsgPickUpSelect" />
+    <ItemContainer capacity="20" canbeselected="false" hideitems="true" keepopenwhenequipped="true" movableframe="true">
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_items_sponge" category="Misc" tags="smallitem" scale="0.2" cargocontaineridentifier="metalcrate" linkable="false" pickdistance="150" showcontentsintooltip="true" impactsoundtag="impact_soft">
+    <Price locationtype="City" buyprice="30" />
+    <Price locationtype="Outpost" buyprice="30" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="Research" buyprice="50" />
+    <Fabricate suitablefabricators="fabricator" requiredtime="30">
+      <RequiredSkill identifier="mechanical" level="25" />
+      <RequiredItem identifier="calcium" />
+    </Fabricate>
+    <Deconstruct time="20"/>
+    <Sprite name="sponge" texture="sponge1_u797.png" depth="0.54" sourcerect="0,0,104,70" origin="0.5,0.5" />
+    <Body width="104" height="70" density="50" />
+    <!--<MeleeWeapon slots="Any,RightHand,LeftHand" aimpos="0,0" handle1="0,0" holdangle="90" reload="0.70" range="100" combatPriority="0" msg="ItemMsgPickUpSelect" />-->
+    <Holdable slots="Any,RightHand,LeftHand" holdpos="0,0" holdangle="90" aimpos="100,0" handle1="-26,0" handle2="-26,0" msg="ItemMsgPickUpSelect" />
+    <Sprayer barrelpos="34,8" spread="0" unskilledspread="0" drawhudwhenequipped="true" crosshairscale="0.1" spraystrength="6.0" range="35">
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,256,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,256,256,256" />
+      <ParticleEmitter particle="waterdrop" velocitymin="0.0" velocitymax="0.0" particlespersecond="35" />
+      <StatusEffect type="OnUse" target="Contained" Condition="0">
+        <RequiredItem items="ethanol" type="Contained" />
+      </StatusEffect>
+      <PaintColors>
+        <PaintColor paintitem="ethanol" color="200,200,200,0" />
+      </PaintColors>
+    </Sprayer>
+    <ItemContainer capacity="1" hideitems="true" itempos="8,-35" containedspritedepth="0.56">
+      <Containable items="ethanol" />
+    </ItemContainer>
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_items_broom" description="" category="Misc" scale="0.5" linkable="false" pickdistance="150" showcontentsintooltip="true" impactsoundtag="impact_soft">
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="50" />
+    <Price locationtype="Military" buyprice="70" />
+    <Price locationtype="Research" buyprice="75" />
+    <Sprite name="broom" texture="broom_u797.png" depth="0.54" sourcerect="0,0,211,220" origin="0.5,0.5" />
+    <Body width="211" height="220" density="50" />
+    <!--<MeleeWeapon slots="RightHand+LeftHand" aimpos="-20,-20" handle1="0,0" holdangle="270" reload="1" range="100" combatPriority="0" msg="ItemMsgPickUpSelect">
+      <Attack stun="0.1" targetimpulse="20" itemdamage="1">
+        <Affliction identifier="blunttrauma" strength="0.1" />
+      </Attack>
+    </MeleeWeapon>-->
+    <Holdable slots="RightHand+LeftHand" holdpos="80,-40" aimpos="100,0" handle1="-40,40" handle2="-40,40" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_items_cup" description="" category="Misc" cargocontaineridentifier="metalcrate" tags="smallitem" scale="0.5" fireproof="true" impactsoundtag="impact_metal_light">
+    <!--Preis Liste-->
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="Research" buyprice="50" />
+    <!--Sprites-->
+    <Sprite name="Cup" texture="cup_u797.png" sourcerect="0,0,35,33" depth="0.55" origin="0.49714285,0.5" />
+    <Body width="35" height="33" density="30" />
+    <Holdable slots="Any,RightHand,LeftHand" holdpos="45,-10" aimpos="65,0" handle1="0,0" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_items_basket" description="" category="Misc" tags="smallitem" scale="0.5" fireproof="true" impactsoundtag="impact_metal_light">
+    <!--Preis Liste-->
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="Research" buyprice="50" />
+    <Fabricate suitablefabricators="fabricator" requiredtime="30">
+      <RequiredSkill identifier="mechanical" level="25" />
+      <RequiredItem identifier="steel" />
+      <RequiredItem identifier="plastic" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <!--Sprites-->
+    <Sprite name="basket" texture="basket1_p_u797.png" sourcerect="0,0,69,95" depth="0.55" origin="0.49836498,0.49847612" />
+    <Body width="69" height="95" density="30" />
+    <Holdable slots="Any,RightHand,LeftHand" handle1="0,35" holdangle="90" />
+    <ItemContainer capacity="2" hideitems="true" keepopenwhenequipped="true">
+      <Containable items="u797_items_sponge" />
+    </ItemContainer>
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_items_ball" description="" category="Misc" tags="smallitem" scale="0.4" fireproof="false" impactsoundtag="impact_soft">
+    <!--Preis Liste-->
+    <Price locationtype="City" buyprice="10" />
+    <Price locationtype="Outpost" buyprice="10" />
+    <Price locationtype="Military" buyprice="10" />
+    <Price locationtype="Research" buyprice="10" />
+    <Price locationtype="Mine" buyprice="10" />
+    <!--Sprites-->
+    <Sprite name="Ball" texture="ball_u797.png" sourcerect="0,0,83,83" depth="0.55" origin="0.49836498,0.49847612" />
+    <Body width="83" height="83" sphere="90" density="1" />
+    <Throwable slots="Any,RightHand,LeftHand" holdpos="0,0" handle1="0,0" throwforce="3.0" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_underwaterscooter" category="Equipment" Tags="smallitem,provocative,light" cargocontaineridentifier="metalcrate" description="" Scale="0.32" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="divingcab" minamount="1" maxamount="3" spawnprobability="1" />
+    <Price locationtype="Research" buyprice="150" />
+    <Price locationtype="City" buyprice="150" />
+    <Price locationtype="Military" buyprice="150" />
+    <Price locationtype="Outpost" buyprice="200" />
+    <Deconstruct time="20">
+      <Item identifier="aluminium" />
+      <Item identifier="aluminium" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="30">
+      <RequiredSkill identifier="mechanical" level="30" />
+      <RequiredItem identifier="aluminium" />
+      <RequiredItem identifier="aluminium" />
+    </Fabricate>
+    <InventoryIcon texture="scooter_item.png" sourcerect="0,0,65,43" origin="0.5,0.5" />
+    <Sprite texture="Scooter_u797.png" depth="0.55" sourcerect="0,0,219,159" origin="0.5,0.5" />
+    <Body width="180" height="95" density="11" />
+    <Holdable slots="Any,RightHand+LeftHand" aimpos="90,0" handle1="-50,65" handle2="-54,69" msg="ItemMsgPickUpSelect" />
+    <Propulsion force="150" usablein="water" particles="bubbles">
+      <RequiredItems items="mobilebattery" type="Contained" msg="ItemMsgBatteryCellRequired" />
+      <StatusEffect type="OnUse" target="Contained" Condition="-0.25">
+        <RequiredItem items="batterycell" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnUse" target="Contained" Condition="-0.125">
+        <RequiredItem items="fulguriumbatterycell" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnUse" target="Contained" Condition="-0.25">
+        <RequiredItem excludedidentifiers="batterycell,fulguriumbatterycell" type="Contained" />
+      </StatusEffect>
+      <sound file="Content/Items/Diving/ScooterLoop.ogg" type="OnUse" range="500.0" loop="true" />
+      <LightComponent LightColor="1.0,1.0,1.0,0.8" range="1000">
+        <LightTexture texture="Content/Lights/lightcone.png" origin="-0.01, 0.5" size="1.0,1.0" />
+      </LightComponent>
+    </Propulsion>
+    <ItemContainer capacity="1" hideitems="true">
+      <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="1,70,107,31" />
+      <Containable items="mobilebattery" />
+    </ItemContainer>
+    <AiTarget soundrange="3000" maxsightrange="3000" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_divingsuit" category="Equipment" tags="diving,divingsuit,light" scale="0.5" fireproof="true" description="" impactsoundtag="impact_metal_heavy">
+    <Price locationtype="Research" buyprice="225" />
+    <Price locationtype="City" buyprice="225" />
+    <Price locationtype="Military" buyprice="225" />
+    <Price locationtype="Outpost" buyprice="300" />
+    <Deconstruct time="30">
+      <Item identifier="aluminium" />
+      <Item identifier="titanium" />
+      <Item identifier="rubber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="30">
+      <RequiredSkill identifier="mechanical" level="40" />
+      <RequiredItem identifier="titaniumaluminiumalloy" />
+      <RequiredItem identifier="rubber" />
+      <RequiredItem identifier="rubber" />
+    </Fabricate>
+    <InventoryIcon texture="divesuit_item.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
+    <Sprite name="Diving Suit Item" texture="DivingSuitLocker_u797.png" sourcerect="331,196,126,112" depth="0.55" origin="0.5,0.5" />
+    <ContainedSprite name="Diving Suit In Vertical Locker" allowedcontainertags="divingsuitcontainervertical" texture="DivingSuitLocker_u797.png" sourcerect="330,0,71,195" depth="0.55" origin="0.5,0.5" />
+    <ContainedSprite name="Diving Suit Behind Window" allowedcontainertags="divingsuitcontainerwindow" texture="divesuit_2.png" sourcerect="0,686,99,254" depth="0.55" origin="0,0" />
+    <ContainedSprite name="Diving Suit In Horizontal Locker" allowedcontainertags="divingsuitcontainerhorizontal" texture="DivingSuitLocker_u797.png" sourcerect="236,340,228,66" depth="0.55" origin="0.6,0.5" />
+    <Body radius="45" width="34" density="15" />
+    <Wearable slots="OuterClothes" msg="ItemMsgEquipSelect" displaycontainedstatus="true">
+      <sprite name="Diving Suit Helmet Wearable" texture="dive_helmet.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" sourcerect="0,0,92,96" origin="0.5,0.5">
+        <LightComponent range="200.0" lightcolor="250,224,165,255" powerconsumption="10" IsOn="true">
+          <StatusEffect type="OnWearing" target="This,Character" Voltage="1.0" setvalue="true">
+            <Conditional IsDead="false" />
+          </StatusEffect>
+          <LightTexture texture="Content/Lights/divinghelmetlight.png" origin="0.05, 0.5" size="1.0,1.0" />
+        </LightComponent>
+      </sprite>
+      <sprite texture="DivingSuit_Torso_u797.png" limb="Torso" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="Waist" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Torso_u797.png" limb="RightHand" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Torso_u797.png" limb="LeftHand" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Torso_u797.png" limb="RightArm" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Torso_u797.png" limb="LeftArm" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="RightThigh" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="LeftThigh" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="RightLeg" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="LeftLeg" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="RightFoot" sound="footstep_armor_heavy" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="LeftFoot" sound="footstep_armor_heavy" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <StatusEffect type="OnWearing" target="Character" HideFace="true" ObstructVision="true" PressureProtection="100.0" SpeedMultiplier="0.6" LowPassMultiplier="0.2" setvalue="true" disabledeltatime="true">
+        <Sound file="Content/Items/Diving/DivingSuitLoop1.ogg" range="500" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1000.0" Condition="-0.3" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygentank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" Oxygen="-20.0" Condition="-0.5">
+        <Conditional IsDead="false" />
+        <RequiredItem items="weldingfueltank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" Oxygen="-20.0" Condition="-0.5">
+        <Conditional IsDead="false" />
+        <RequiredItem items="incendiumfueltank" type="Contained" />
+        <Affliction identifier="burn" amount="0.1" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1000.0" Condition="-0.3" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygeniteshard" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1500.0" Condition="-0.1" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygenitetank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" SpeedMultiplier="1.2" setvalue="true" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygeniteshard" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" SpeedMultiplier="1.3" setvalue="true" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygenitetank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="0.0" Condition="-50.0" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="huskeggs" type="Contained" />
+        <Affliction identifier="huskinfection" amount="0.01" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="0.0" Condition="-50.0" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="chloralhydrate" type="Contained" />
+        <Affliction identifier="stun" amount="30.0" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Character" OxygenAvailable="-100.0" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="bitewounds,blunttrauma,lacerations,gunshotwound" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="bleeding" damagemultiplier="0.5" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.6" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="radiationsickness" damagemultiplier="0.0" damagesound="LimbArmor" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="huskinfection" damagemultiplier="0.5" probabilitymultiplier="0.5" damagesound="LimbArmor" />
+    </Wearable>
+    <ItemContainer capacity="1" hideitems="true">
+      <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="0,157,92,27" />
+      <Containable items="oxygensource,weldingfuel,huskeggs,chloralhydrate" />
+      <StatusEffect type="OnWearing" target="Contained">
+        <RequiredItem items="oxygensource" type="Contained" matchonempty="true" />
+        <Conditional condition="lt 5.0" />
+        <Sound file="Content/Items/WarningBeep.ogg" range="500" />
+      </StatusEffect>
+    </ItemContainer>
+    <aitarget maxsightrange="1500" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_divingsuit_tatrkdt" category="Equipment" tags="diving,divingsuit,light" scale="0.5" fireproof="true" description="" impactsoundtag="impact_metal_heavy">
+    <Price locationtype="Research" buyprice="255" />
+    <Price locationtype="City" buyprice="255" />
+    <Price locationtype="Military" buyprice="255" />
+    <Price locationtype="Outpost" buyprice="330" />
+    <Deconstruct time="35">
+      <Item identifier="aluminium" />
+      <Item identifier="titanium" />
+      <Item identifier="rubber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="35">
+      <RequiredSkill identifier="mechanical" level="40" />
+      <RequiredItem identifier="titaniumaluminiumalloy" />
+      <RequiredItem identifier="rubber" />
+      <RequiredItem identifier="rubber" />
+    </Fabricate>
+    <InventoryIcon texture="divesuit_kdt_item.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
+    <Sprite name="Diving Suit Item" texture="DivingSuitLocker_u797.png" sourcerect="331,196,126,112" depth="0.55" origin="0.5,0.5" />
+    <ContainedSprite name="Diving Suit In Vertical Locker kdt" allowedcontainertags="divingsuitcontainervertical" texture="DivingSuitLocker_kdt_u797.png" sourcerect="330,0,71,195" depth="0.55" origin="0.5,0.5" />
+    <ContainedSprite name="Diving Suit Behind Window kdt" allowedcontainertags="divingsuitcontainerwindow" texture="divesuit_2_kdt.png" sourcerect="0,686,99,254" depth="0.55" origin="0,0" />
+    <ContainedSprite name="Diving Suit In Horizontal Locker kdt" allowedcontainertags="divingsuitcontainerhorizontal" texture="DivingSuitLocker_kdt_u797.png" sourcerect="236,340,228,66" depth="0.55" origin="0.6,0.5" />
+    <Body radius="45" width="34" density="15" />
+    <Wearable slots="OuterClothes" msg="ItemMsgEquipSelect" displaycontainedstatus="true">
+      <sprite name="Diving Suit Helmet Wearable" texture="dive_helmet.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="true" hideotherwearables="true" sourcerect="0,0,92,96" origin="0.5,0.5">
+        <LightComponent range="200.0" lightcolor="250,224,165,255" powerconsumption="10" IsOn="true">
+          <StatusEffect type="OnWearing" target="This,Character" Voltage="1.0" setvalue="true">
+            <Conditional IsDead="false" />
+          </StatusEffect>
+          <LightTexture texture="Content/Lights/divinghelmetlight.png" origin="0.05, 0.5" size="1.0,1.0" />
+        </LightComponent>
+      </sprite>
+      <sprite texture="DivingSuit_Torso_TaTrKdt_u797.png" limb="Torso" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="Waist" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Torso_TaTrKdt_u797.png" limb="RightHand" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Torso_TaTrKdt_u797.png" limb="LeftHand" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Torso_TaTrKdt_u797.png" limb="RightArm" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Torso_TaTrKdt_u797.png" limb="LeftArm" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="RightThigh" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="LeftThigh" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="RightLeg" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="LeftLeg" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="RightFoot" sound="footstep_armor_heavy" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite texture="DivingSuit_Legs_u797.png" limb="LeftFoot" sound="footstep_armor_heavy" inheritlimbdepth="true" hidelimb="true" hideotherwearables="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <StatusEffect type="OnWearing" target="Character" HideFace="true" ObstructVision="true" PressureProtection="100.0" SpeedMultiplier="0.6" LowPassMultiplier="0.2" setvalue="true" disabledeltatime="true">
+        <Sound file="Content/Items/Diving/DivingSuitLoop1.ogg" range="500" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1000.0" Condition="-0.3" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygentank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" Oxygen="-20.0" Condition="-0.5">
+        <Conditional IsDead="false" />
+        <RequiredItem items="weldingfueltank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" Oxygen="-20.0" Condition="-0.5">
+        <Conditional IsDead="false" />
+        <RequiredItem items="incendiumfueltank" type="Contained" />
+        <Affliction identifier="burn" amount="0.1" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1000.0" Condition="-0.3" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygeniteshard" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1500.0" Condition="-0.1" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygenitetank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" SpeedMultiplier="1.2" setvalue="true" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygeniteshard" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" SpeedMultiplier="1.3" setvalue="true" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygenitetank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="0.0" Condition="-50.0" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="huskeggs" type="Contained" />
+        <Affliction identifier="huskinfection" amount="0.01" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="0.0" Condition="-50.0" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="chloralhydrate" type="Contained" />
+        <Affliction identifier="stun" amount="30.0" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Character" OxygenAvailable="-100.0" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="bitewounds,blunttrauma,lacerations,gunshotwound" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="bleeding" damagemultiplier="0.5" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.6" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="radiationsickness" damagemultiplier="0.0" damagesound="LimbArmor" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="huskinfection" damagemultiplier="0.5" probabilitymultiplier="0.5" damagesound="LimbArmor" />
+    </Wearable>
+    <ItemContainer capacity="1" hideitems="true">
+      <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="0,157,92,27" />
+      <Containable items="oxygensource,weldingfuel,huskeggs,chloralhydrate" />
+      <StatusEffect type="OnWearing" target="Contained">
+        <RequiredItem items="oxygensource" type="Contained" matchonempty="true" />
+        <Conditional condition="lt 5.0" />
+        <Sound file="Content/Items/WarningBeep.ogg" range="500" />
+      </StatusEffect>
+    </ItemContainer>
+    <aitarget maxsightrange="1500" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________ID Karten_____________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_3wo" category="Equipment" Tags="smallitem,idcard,3wo" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_3wo.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_3wo.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_sa" category="Equipment" Tags="smallitem,idcard,sa" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_sa.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_sa.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_bbtsm" category="Equipment" Tags="smallitem,idcard,bbtsm" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_bbtsm.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_bbtsm.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_co" category="Equipment" Tags="smallitem,idcard,co" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_co.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_co.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_li" category="Equipment" Tags="smallitem,idcard,li" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_li.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_li.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_lsa" category="Equipment" Tags="smallitem,idcard,lsa" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_lsa.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_lsa.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_mabe" category="Equipment" Tags="smallitem,idcard,mabe" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_mabe.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_mabe.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_om" category="Equipment" Tags="smallitem,idcard,om" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_om.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_om.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_san" category="Equipment" Tags="smallitem,idcard,san" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_san.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_san.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_seemp" category="Equipment" Tags="smallitem,idcard,seemp" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_seemp.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_seemp.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_techn" category="Equipment" Tags="smallitem,idcard,techn" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_techn.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_techn.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_vo" category="Equipment" Tags="smallitem,idcard,vo" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_vo.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_vo.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_wache" category="Equipment" Tags="smallitem,idcard,wache" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_wache.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_wache.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_waha" category="Equipment" Tags="smallitem,idcard,waha" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_waha.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_waha.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_wo" category="Equipment" Tags="smallitem,idcard,wo" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_wo.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_wo.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Items für Station's Personnal_________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_stk" category="Equipment" Tags="smallitem,idcard,stk" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_stk.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_stk.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="idcard_stp" category="Equipment" Tags="smallitem,idcard,stp" cargocontaineridentifier="metalcrate">
+    <InventoryIcon texture="ID_Karten\idcard_stp.png" sourcerect="0,0,29,29" origin="0.5,0.5" />
+    <Sprite texture="ID_Karten\idcard_item_stp.png" depth="0.8" sourcerect="0,0,16,16" origin="0.5,0.5" />
+    <Body width="16" height="16" density="20" />
+    <Pickable slots="Card,Any" msg="ItemMsgPickUpSelect" />
+  </Item>
+  
+</Items>

@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jobs>
+  <Job identifier="Kommander" minnumber="0" maxnumber="1" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="174,170,170">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_kapitaen_u797.png" sourcerect="0,0,123,86" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="30,40" />
+      <Skill identifier="mechanical" level="20,30" />
+      <Skill identifier="electrical" level="20,30" />
+      <Skill identifier="medical" level="30,40" />
+      <Skill identifier="helm" level="50,60" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="captainsuniform2" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="revolver" equip="false">
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+      </Item>
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Kapitaen" minnumber="0" maxnumber="1" minkarma="45" initialcount="1" vitalitymodifier="0" uicolor="174,170,170">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_kapitaen_u797.png" sourcerect="0,0,126,96" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="30,40" />
+      <Skill identifier="mechanical" level="20,30" />
+      <Skill identifier="electrical" level="20,30" />
+      <Skill identifier="medical" level="30,40" />
+      <Skill identifier="helm" level="60,70" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="captainsuniform1" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="revolver" equip="false">
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+        <Item identifier="revolverround" />
+      </Item>
+      <Item identifier="captainspipe" equip="false" />
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Wachoffizier" minnumber="0" maxnumber="2" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="174,170,170">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_sicherheit_u797.png" sourcerect="0,0,128,95" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="60,70" />
+      <Skill identifier="mechanical" level="20,30" />
+      <Skill identifier="electrical" level="20,30" />
+      <Skill identifier="medical" level="25,35" />
+      <Skill identifier="helm" level="20,30" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="securityuniform2" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="stunbaton">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="kleidung_hüte_helme_u797wache" equip="true" />
+      <Item identifier="bodyarmor" equip="true" />
+      <Item identifier="steroids" />
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Leitender_Ingenieur" minnumber="0" maxnumber="1" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="191,143,0">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_engi_u797.png" sourcerect="0,0,120,91" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="20,30" />
+      <Skill identifier="mechanical" level="70,80" />
+      <Skill identifier="electrical" level="70,80" />
+      <Skill identifier="medical" level="30,40" />
+      <Skill identifier="helm" level="20,30" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="orangejumpsuit1" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="toolbox">
+        <Item identifier="wrench" />
+        <Item identifier="screwdriver" />
+        <Item identifier="weldingtool">
+          <Item identifier="weldingfueltank" showpreview="false" />
+        </Item>
+      </Item>
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Materialbewirtschaftung" minnumber="0" maxnumber="2" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="191,143,0">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_materialbewirt_u797.png" sourcerect="0,0,118,89" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="20,30" />
+      <Skill identifier="mechanical" level="60,70" />
+      <Skill identifier="electrical" level="40,50" />
+      <Skill identifier="medical" level="10,20" />
+      <Skill identifier="helm" level="30,40" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="bluejumpsuit2" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="toolbox">
+        <Item identifier="wrench" />
+        <Item identifier="screwdriver" />
+      </Item>
+      <Item identifier="toolbox" />
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Leitender_Arzt" minnumber="0" maxnumber="1" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="48,84,150">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_sanitaeter_u797.png" sourcerect="0,0,123,94" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="20,30" />
+      <Skill identifier="mechanical" level="10,20" />
+      <Skill identifier="electrical" level="10,20" />
+      <Skill identifier="medical" level="60,70" />
+      <Skill identifier="helm" level="30,40" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="doctorsuniform1" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="healthscanner" />
+      <Item identifier="syringegun" />
+      <Item identifier="antibleeding2" />
+      <Item identifier="antidama2" />
+      <Item identifier="antibloodloss2" />
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Arzt" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="48,84,150">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_sanitaeter_u797.png" sourcerect="0,0,126,96" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="20,30" />
+      <Skill identifier="mechanical" level="10,20" />
+      <Skill identifier="electrical" level="10,20" />
+      <Skill identifier="medical" level="50,60" />
+      <Skill identifier="helm" level="20,30" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="doctorsuniform2" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="healthscanner" />
+      <Item identifier="antibleeding1" />
+      <Item identifier="antidama1" />
+      <Item identifier="antibloodloss1" />
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Brueckenbootsmann" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="112,48,160">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_matrose.png" sourcerect="0,0,126,96" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="30,40" />
+      <Skill identifier="mechanical" level="20,30" />
+      <Skill identifier="electrical" level="20,30" />
+      <Skill identifier="medical" level="20,30" />
+      <Skill identifier="helm" level="40,50" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="assistantclothes" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Technisches_Personal" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="131,60,12">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_engi_u797.png" sourcerect="0,0,126,96" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="20,30" />
+      <Skill identifier="mechanical" level="40,50" />
+      <Skill identifier="electrical" level="40,50" />
+      <Skill identifier="medical" level="10,20" />
+      <Skill identifier="helm" level="20,30" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="bluejumpsuit1" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="screwdriver" />
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Seemaennisches_Personal" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="55,86,35">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_wachoffizier_u797.png" sourcerect="0,0,126,96" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="40,50" />
+      <Skill identifier="mechanical" level="20,30" />
+      <Skill identifier="electrical" level="20,30" />
+      <Skill identifier="medical" level="30,40" />
+      <Skill identifier="helm" level="20,30" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="assistantclothes" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Medizinisches_Personal" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="0,176,240">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_arzt_u797.png" sourcerect="0,0,126,96" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="20,30" />
+      <Skill identifier="mechanical" level="10,20" />
+      <Skill identifier="electrical" level="10,20" />
+      <Skill identifier="medical" level="40,50" />
+      <Skill identifier="helm" level="15,25" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="assistantclothes" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <Item identifier="antidama1" />
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <Job identifier="Matrose" minkarma="45" initialcount="0" vitalitymodifier="0" uicolor="255,246,143">
+    <Jobicon>
+      <sprite texture="Mods/U797 - Content Pack/Jobs/outfit_matrose.png" sourcerect="0,0,126,96" origin="0.5,0.5" />
+    </Jobicon>
+    <Skills>
+      <Skill identifier="weapons" level="15,25" />
+      <Skill identifier="mechanical" level="15,25" />
+      <Skill identifier="electrical" level="15,25" />
+      <Skill identifier="medical" level="15,25" />
+      <Skill identifier="helm" level="15,25" />
+      <!--<Skill identifier="resolution" level="20,100"/>-->
+      <Skill identifier="initiative" level="65,100" />
+    </Skills>
+    <ItemSet>
+      <Item identifier="idcard" equip="true" showpreview="false" />
+      <Item identifier="assistantclothes" equip="true" outfit="true" />
+      <Item identifier="headset" equip="true" showpreview="false">
+        <Item identifier="batterycell" showpreview="false" />
+      </Item>
+      <PreviewSprites dims="120,109">
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="2,38,120,109" offset="0,0" />
+        <sprite texture="Content/Items/Jobgear/Assistant/assistant_torso_[GENDER]_1.png" sourcerect="121,0,76,80" offset="-20,15" />
+      </PreviewSprites>
+    </ItemSet>
+    <PortraitClothing>
+      <sprite name="Portrait Clothing Assistant" texture="Content/Items/Jobgear/PortraitClothing.png" sheetindex="0,2" />
+    </PortraitClothing>
+    <AutonomousObjectives>
+      <Order identifier="extinguishfires" prioritymodifier="1" />
+      <Order identifier="pumpwater" option="pumpout" prioritymodifier="1" />
+      <Order identifier="repairsystems" option="all" prioritymodifier="0.5" />
+      <Order identifier="fixleaks" prioritymodifier="0.5" />
+      <Order identifier="rescue" prioritymodifier="0.2" />
+    </AutonomousObjectives>
+  </Job>
+  <!--__________________________________________________________________________________________________________________________________________________________________-->
+  <!--_______________________________________________________________________________Station____________________________________________________________________________-->
+  <!--__________________________________________________________________________________________________________________________________________________________________-->
+  <!--<Job identifier="Station_Personal"
+       onlyjobspecificdialog="true"
+       minnumber="0" maxnumber="0" initialcount="0">
+    <ItemSet>
+      <Item identifier="watchmanclothes" equip="true"/>
+      <Item identifier="idcard" equip="true" showpreview="false"/>
+      <Item identifier="toolbox">
+        <Item identifier="wrench"/>
+        <Item identifier="screwdriver"/>
+      </Item>
+    </ItemSet>
+    <AutonomousObjectives>
+      <Order identifier="repairsystems" prioritymodifier="1"/>
+    </AutonomousObjectives>
+  </Job>-->
+  <!--__________________________________________________________________________________________________________________________________________________________________-->
+  <!--_______________________________________________________________________________Löschen alter Jobs_________________________________________________________________-->
+  <!--__________________________________________________________________________________________________________________________________________________________________-->
+  <override>
+    <Job identifier="Captain" minnumber="0" maxnumber="0" initialcount="0"></Job>
+  </override>
+  <override>
+    <Job identifier="engineer" minnumber="0" maxnumber="0" initialcount="0"></Job>
+  </override>
+  <override>
+    <Job identifier="mechanic" minnumber="0" maxnumber="0" initialcount="0"></Job>
+  </override>
+  <override>
+    <Job identifier="securityofficer" minnumber="0" maxnumber="0" initialcount="0"></Job>
+  </override>
+  <override>
+    <Job identifier="medicaldoctor" minnumber="0" maxnumber="0" initialcount="0"></Job>
+  </override>
+  <override>
+    <Job identifier="assistant" minnumber="0" maxnumber="0" initialcount="0"></Job>
+  </override>
+</Jobs>

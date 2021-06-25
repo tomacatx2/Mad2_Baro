@@ -1,0 +1,1600 @@
+﻿[2/22/2021 7:07:26 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:26 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:26 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:26 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:26 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:26 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:27 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:27 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:27 PM]
+  Lester placed Ethanol in Toolbelt (ID: 2763)
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:27 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:27 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:27 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:28 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:28 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:28 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:28 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:29 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:30 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:30 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:30 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:30 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:31 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:31 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:31 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:31 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:31 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:31 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:31 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:31 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:31 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:31 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:31 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:32 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:32 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:32 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:32 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:32 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:32 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:33 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:33 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:33 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:33 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:33 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:33 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:33 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:33 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:33 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:33 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:33 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:34 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:34 PM]
+  Lester placed Welding Fuel Tank in Medicine Cabinet (ID: 854)
+[2/22/2021 7:07:34 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:34 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:34 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:34 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:34 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:34 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:34 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:34 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:34 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:34 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:35 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:35 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:35 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:35 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:35 PM]
+  Lester placed Welding Fuel Tank in Welding Tool (ID: 2438)
+[2/22/2021 7:07:35 PM]
+  Outer wall breached by TornMap
+[2/22/2021 7:07:36 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:36 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:36 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:36 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:36 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:36 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:36 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:36 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:37 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:37 PM]
+  Lester placed Welding Fuel Tank in Medicine Cabinet (ID: 854)
+[2/22/2021 7:07:37 PM]
+  Lester placed Welding Fuel Tank in Medicine Cabinet (ID: 854)
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:37 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:37 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:37 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:38 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:38 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:38 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:38 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:38 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:39 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:39 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:39 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:39 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:39 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:39 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:39 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 7:07:39 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 7:07:39 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 7:07:39 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 7:07:39 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 7:07:39 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 7:07:39 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 7:07:39 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 7:07:39 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:39 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:39 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:39 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:39 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:40 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:40 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:40 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:40 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:40 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:40 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:40 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:40 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:40 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:40 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:41 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:41 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:41 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:41 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:41 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:41 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:41 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:41 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:41 PM]
+  Lester equipped Antibiotic Glue
+[2/22/2021 7:07:41 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:07:41 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:42 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:42 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:42 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:42 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:42 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:42 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:42 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:43 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:07:44 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:44 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:44 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:07:44 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:07:46 PM]
+  Lester used item Antibiotic Glue
+[2/22/2021 7:07:47 PM]
+  TornMap: out of ammo
+[2/22/2021 7:07:49 PM]
+  Lester used item Antibiotic Glue
+[2/22/2021 7:07:53 PM]
+  Lester used item Antibiotic Glue
+[2/22/2021 7:07:55 PM]
+  TornMap equipped Piercing Ammunition Box
+[2/22/2021 7:07:55 PM]
+  TornMap picked up Piercing Ammunition Box
+[2/22/2021 7:07:57 PM]
+  TornMap removed Piercing Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 7:07:59 PM]
+  TornMap placed Piercing Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 7:08:00 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 7:08:00 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 7:08:00 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 7:08:00 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 7:08:00 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 7:08:02 PM]
+  Lester picked up Bandage
+[2/22/2021 7:08:02 PM]
+  Lester picked up Bandage
+[2/22/2021 7:08:02 PM]
+  Lester picked up Bandage
+[2/22/2021 7:08:02 PM]
+  Lester picked up Bandage
+[2/22/2021 7:08:02 PM]
+  Lester picked up Bandage
+[2/22/2021 7:08:02 PM]
+  Lester picked up Bandage
+[2/22/2021 7:08:03 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:08:05 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:08:05 PM]
+  TornMap: WHERE IS IT
+[2/22/2021 7:08:06 PM]
+  Lester used item Bandage
+[2/22/2021 7:08:07 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:08:08 PM]
+  Lester used item Bandage
+[2/22/2021 7:08:10 PM]
+  Lester used item Bandage
+[2/22/2021 7:08:13 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 7:08:13 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 7:08:13 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 7:08:14 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:15 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:15 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:15 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:15 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:08:16 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:16 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:16 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:17 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:17 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:17 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:18 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:08:18 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:18 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:18 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:19 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:08:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:21 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:21 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:21 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:21 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:22 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:22 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:08:22 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:22 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:22 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:08:22 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:23 PM]
+  Moloch_m has died (Cause of death: Lacerations)
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:23 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:23 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:23 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:23 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:24 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:24 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:24 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:24 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:24 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 7:08:24 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:24 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:08:24 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:25 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:25 PM]
+  Moloch_m attacked by TornMap. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 7:08:25 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:25 PM]
+  Moloch_m attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 7:08:25 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:25 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:25 PM]
+  Moloch_m attacked by TornMap. Lacerations: 1.5
+[2/22/2021 7:08:29 PM]
+  Lester: nr
+[2/22/2021 7:08:34 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:08:36 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 7:08:50 PM]
+  Lester picked up Pomegrenade Extract
+[2/22/2021 7:08:50 PM]
+  Lester picked up Pomegrenade Extract
+[2/22/2021 7:08:50 PM]
+  Lester picked up Pomegrenade Extract
+[2/22/2021 7:08:50 PM]
+  tomacatx1 removed Piercing Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 7:08:52 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 7:08:53 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 7:08:53 PM]
+  Lester used item Pomegrenade Extract
+[2/22/2021 7:08:55 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 7:08:57 PM]
+  tomacatx1 placed Coilgun Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 7:08:58 PM]
+  Lester used item Pomegrenade Extract
+[2/22/2021 7:09:04 PM]
+  Lester used item Pomegrenade Extract
+[2/22/2021 7:09:17 PM]
+  TornMap: yes
+[2/22/2021 7:09:29 PM]
+  Lester: n
+[2/22/2021 7:09:45 PM]
+  TornMap failed to repair Supercapacitor
+[2/22/2021 7:09:52 PM]
+  TornMap failed to repair Supercapacitor
+[2/22/2021 7:09:59 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 7:10:09 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:14 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:14 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:17 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:19 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:19 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:10:19 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:20 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:10:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:21 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:21 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:10:25 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:29 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:10:33 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:34 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:10:34 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:10:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:38 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:39 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:40 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:40 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:10:41 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:10:41 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:42 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:42 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:43 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:10:43 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:43 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:44 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:44 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:10:44 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:10:44 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:10:45 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:46 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:10:46 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:10:52 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:10:52 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:53 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:10:53 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:55 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:10:56 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:11:02 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:03 PM]
+  Lester started repairing Battery
+[2/22/2021 7:11:08 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:12 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:17 PM]
+  TornMap: uh-oh
+[2/22/2021 7:11:19 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:11:20 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:11:20 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:22 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:24 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:11:29 PM]
+  Outer wall breached by TornMap
+[2/22/2021 7:11:30 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:11:31 PM]
+  Lester started repairing Battery
+[2/22/2021 7:11:33 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:34 PM]
+  TornMap equipped Revolver
+[2/22/2021 7:11:34 PM]
+  tomacatx1 started repairing Small Pump
+[2/22/2021 7:11:40 PM]
+  Lester picked up Diving Suit
+[2/22/2021 7:11:41 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:11:42 PM]
+  Lester dropped Diving Suit
+[2/22/2021 7:11:43 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:44 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:11:45 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:11:45 PM]
+  tomacatx1 failed to repair Small Pump
+[2/22/2021 7:11:45 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:47 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:11:51 PM]
+  Lester started repairing Battery
+[2/22/2021 7:11:54 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:11:57 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:11:59 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:12:00 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:02 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:03 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:04 PM]
+  TornMap started repairing Small Pump
+[2/22/2021 7:12:08 PM]
+  Lester started repairing Battery
+[2/22/2021 7:12:15 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:18 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:12:22 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:12:24 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:38 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 7:12:39 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:46 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:52 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:12:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:52 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:12:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:53 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:12:53 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:55 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:56 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:12:56 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:58 PM]
+  Lester started repairing Navigation Terminal
+[2/22/2021 7:13:04 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:05 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:05 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:05 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:05 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:06 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:06 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:13:07 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:11 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:13:11 PM]
+  Lester started repairing Status Monitor
+[2/22/2021 7:13:13 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:16 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:13:16 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:16 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:16 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:17 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:17 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:20 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:13:21 PM]
+  Lester started repairing Navigation Terminal
+[2/22/2021 7:13:31 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:13:52 PM]
+  tomacatx1 picked up Grenade Launcher
+[2/22/2021 7:13:53 PM]
+  tomacatx1 placed Wrench in Toolbelt (ID: 2809)
+[2/22/2021 7:13:54 PM]
+  tomacatx1 placed Screwdriver in Toolbelt (ID: 2809)
+[2/22/2021 7:13:56 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:13:57 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:59 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 7:14:02 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:03 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 7:14:03 PM]
+  Lester dropped Fuel Rod
+[2/22/2021 7:14:03 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 7:14:08 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 539)
+[2/22/2021 7:14:08 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:10 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 7:14:14 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:14:14 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/22/2021 7:14:15 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/22/2021 7:14:15 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:15 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/22/2021 7:14:16 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:17 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:14:17 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:14:18 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:14:18 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:14:19 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 7:14:19 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:27 PM]
+  tomacatx1 equipped Riot Shotgun
+[2/22/2021 7:14:29 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:14:30 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:30 PM]
+  tomacatx1 equipped Grenade Launcher
+[2/22/2021 7:14:31 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:34 PM]
+  Lester started repairing Small Pump
+[2/22/2021 7:14:35 PM]
+  tomacatx1 equipped Revolver
+[2/22/2021 7:14:35 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:36 PM]
+  Crawler attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:14:37 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[2/22/2021 7:14:37 PM]
+  Crawler attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:14:44 PM]
+  Crawler attacked by tomacatx1. Blunt force trauma: 5 Stun: 0.2
+[2/22/2021 7:14:44 PM]
+  Crawler has died (Cause of death: Deep tissue injury)
+[2/22/2021 7:14:47 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:48 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:14:48 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:14:48 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:14:48 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:14:50 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:14:56 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:14:57 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:15:16 PM]
+  Lester failed to repair Small Pump
+[2/22/2021 7:15:18 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 7:15:21 PM]
+  TornMap: awesome
+[2/22/2021 7:15:23 PM]
+  Lester started repairing Small Pump
+[2/22/2021 7:15:23 PM]
+  TornMap: we are not dead
+[2/22/2021 7:15:28 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 7:15:28 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:15:28 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:15:30 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:15:30 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:15:33 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 6)
+[2/22/2021 7:15:37 PM]
+  Lester: huh
+[2/22/2021 7:15:41 PM]
+  TornMap started repairing Navigation Terminal
+[2/22/2021 7:15:48 PM]
+  Lester started repairing Small Pump
+[2/22/2021 7:15:56 PM]
+  Lester started repairing Small Pump
+[2/22/2021 7:15:59 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 7:16:16 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 7:16:28 PM]
+  Lester equipped Guitar
+[2/22/2021 7:16:28 PM]
+  Lester picked up Guitar
+[2/22/2021 7:16:31 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 7:17:11 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:12 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:17 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:17:21 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:21 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:22 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:24 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 7:17:24 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:27 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:28 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:28 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:28 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:39 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:40 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:53 PM]
+  Lester dropped Guitar
+[2/22/2021 7:17:57 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 7:18:08 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,0,79".
+[2/22/2021 7:18:09 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,0,227".
+[2/22/2021 7:18:13 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,0,227".
+[2/22/2021 7:18:15 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "0,100,0,227".
+[2/22/2021 7:18:18 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "0,100,100,227".
+[2/22/2021 7:18:21 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "0,100,100,227".
+[2/22/2021 7:18:23 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "0,200,100,227".
+[2/22/2021 7:18:27 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "100,200,100,227".
+[2/22/2021 7:18:28 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "100,200,100,227".
+[2/22/2021 7:18:32 PM]
+  Lester: green :)
+[2/22/2021 7:18:40 PM]
+  TornMap: green whats your problem green
+[2/22/2021 7:18:43 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:18:43 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:18:45 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:46 PM]
+  Lester: speak of the devil eh
+[2/22/2021 7:18:47 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:47 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:47 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:48 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:51 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:53 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:54 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:55 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:55 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:58 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:18:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:59 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:19:00 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:19:03 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:15 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 7:19:16 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:18 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:18 PM]
+  TornMap: flooding
+[2/22/2021 7:19:22 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:24 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:28 PM]
+  Crawler attacked by TornMap. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:19:29 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:19:29 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:19:29 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:19:29 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[2/22/2021 7:19:29 PM]
+  Crawler attacked by TornMap. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:19:38 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:19:38 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:39 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:19:42 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:42 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:46 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:46 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:54 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:19:57 PM]
+  tomacatx1 used item Morphine
+[2/22/2021 7:19:59 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 7:20:01 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 7:20:04 PM]
+  tomacatx1 used item Anabolic Steroids
+[2/22/2021 7:20:05 PM]
+  TornMap: give me MORE MORPHINE
+[2/22/2021 7:20:07 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:09 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:11 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:14 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:16 PM]
+  TornMap: fuck no oxygen
+[2/22/2021 7:20:19 PM]
+  TornMap picked up Diving Mask
+[2/22/2021 7:20:23 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:23 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:24 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:29 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:30 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:31 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:20:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:31 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:20:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:42 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:43 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:45 PM]
+  Lester started repairing Deconstructor
+[2/22/2021 7:20:45 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:20:48 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:48 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:48 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:51 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:53 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:21:10 PM]
+  tomacatx1 placed Diving Mask in Supplies Cabinet (ID: 478)
+[2/22/2021 7:21:10 PM]
+  tomacatx1 removed Diving Mask from Supplies Cabinet (ID: 478)
+[2/22/2021 7:21:10 PM]
+  tomacatx1 picked up Diving Mask
+[2/22/2021 7:21:11 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:21:11 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:21:11 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:21:11 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:21:13 PM]
+  Lester closed Custom Door
+[2/22/2021 7:21:13 PM]
+  Lester opened Custom Door
+[2/22/2021 7:21:14 PM]
+  tomacatx1 placed Anabolic Steroids in Supplies Cabinet (ID: 478)
+[2/22/2021 7:21:15 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 2809)
+[2/22/2021 7:21:15 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 2809)
+[2/22/2021 7:21:21 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:21:22 PM]
+  Lester opened Custom Door
+[2/22/2021 7:21:22 PM]
+  Lester closed Custom Door
+[2/22/2021 7:21:26 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:21:27 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:21:29 PM]
+  Lester closed Custom Door
+[2/22/2021 7:21:29 PM]
+  Lester opened Custom Door
+[2/22/2021 7:21:33 PM]
+  Lester opened Custom Door
+[2/22/2021 7:21:33 PM]
+  Lester closed Custom Door
+[2/22/2021 7:21:33 PM]
+  tomacatx1 placed Welding Tool in Medium Steel Cabinet (ID: 539)
+[2/22/2021 7:21:33 PM]
+  tomacatx1 removed Welding Tool from Medium Steel Cabinet (ID: 539)
+[2/22/2021 7:21:33 PM]
+  tomacatx1 picked up Welding Tool
+[2/22/2021 7:21:37 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:21:38 PM]
+  Crawler attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:21:39 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[2/22/2021 7:21:39 PM]
+  Crawler attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:21:41 PM]
+  tomacatx1 equipped Welding Tool
+[2/22/2021 7:21:47 PM]
+  tomacatx1 has died (Cause of death: Oxygen low)
+[2/22/2021 7:21:50 PM]
+  tomacatx1: eyup moment
+[2/22/2021 7:21:50 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 7:21:54 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 7:21:57 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 7:22:00 PM]
+  TornMap started repairing Small Pump
+[2/22/2021 7:22:00 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 7:22:10 PM]
+  Inner wall repaired by Lester
+[2/22/2021 7:22:12 PM]
+  Console command "spawn" executed by tomacatx1.
+[2/22/2021 7:22:13 PM]
+  TornMap has died (Cause of death: Barotrauma)
+[2/22/2021 7:22:27 PM]
+  Lester removed Oxygen Tank from Diving Mask (ID: 378)
+[2/22/2021 7:22:28 PM]
+  Lester equipped Oxygen Tank
+[2/22/2021 7:22:30 PM]
+  Lester placed Oxygen Tank in Diving Mask (ID: 378)
+[2/22/2021 7:22:36 PM]
+  Console command "respawnnow" executed by tomacatx1.
+[2/22/2021 7:22:36 PM]
+  Lester: vibe check?
+[2/22/2021 7:22:55 PM]
+  tomacatx1: eyup.
+[2/22/2021 7:22:58 PM]
+  Lester picked up Diving Suit
+[2/22/2021 7:23:02 PM]
+  Lester picked up Underwater Scooter
+[2/22/2021 7:23:03 PM]
+  Lester equipped Underwater Scooter
+[2/22/2021 7:23:16 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:23:18 PM]
+  TornMap: fuck
+[2/22/2021 7:23:22 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:23:22 PM]
+  tomacatx1: thats how it be
+[2/22/2021 7:23:23 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:23:26 PM]
+  tomacatx1: paper thin internal hull
+[2/22/2021 7:23:31 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:23:35 PM]
+  Crawler attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:23:36 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[2/22/2021 7:23:36 PM]
+  Crawler attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:23:37 PM]
+  Crawler attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:23:39 PM]
+  Lester equipped SMG
+[2/22/2021 7:23:40 PM]
+  tomacatx1 attacked by Lester. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  tomacatx1 attacked by Lester. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:42 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:42 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:42 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:42 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:56 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:24:09 PM]
+  Console command "respawnnow" executed by tomacatx1.
+[2/22/2021 7:24:33 PM]
+  Console command "respawnnow" executed by tomacatx1.
+[2/22/2021 7:24:33 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 7:24:51 PM]
+  Lester failed to repair Large Engine
+[2/22/2021 7:24:53 PM]
+  Lester started repairing Large Engine
+[2/22/2021 7:25:04 PM]
+  Lester dropped Diving Mask
+[2/22/2021 7:25:05 PM]
+  Lester dropped Diving Suit
+[2/22/2021 7:25:06 PM]
+  Lester dropped Riot Helmet
+[2/22/2021 7:25:13 PM]
+  Lester picked up Diving Mask
+[2/22/2021 7:25:20 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/22/2021 7:25:22 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/22/2021 7:25:23 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/22/2021 7:25:23 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 7:25:24 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 7:25:25 PM]
+  TornMap: oh no
+[2/22/2021 7:25:27 PM]
+  TornMap: what are you doing
+[2/22/2021 7:25:30 PM]
+  Lester picked up Riot Helmet
+[2/22/2021 7:25:31 PM]
+  Lester picked up Diving Suit
+[2/22/2021 7:25:33 PM]
+  tomacatx1: mudrape :)
+[2/22/2021 7:25:33 PM]
+  Lester dropped Riot Helmet
+[2/22/2021 7:25:43 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 7:25:46 PM]
+  Inner wall breached by Mudraptor
+[2/22/2021 7:25:56 PM]
+  TornMap: make big enemy
+[2/22/2021 7:25:59 PM]
+  Inner wall breached by Mudraptor
+[2/22/2021 7:26:00 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 7:26:02 PM]
+  Inner wall breached by Mudraptor
+[2/22/2021 7:26:05 PM]
+  tomacatx1: yes sir
+[2/22/2021 7:26:06 PM]
+  Crawler attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:06 PM]
+  Lester used Diving Knife on Crawler.
+[2/22/2021 7:26:07 PM]
+  Crawler attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:07 PM]
+  Lester used Diving Knife on Crawler.
+[2/22/2021 7:26:08 PM]
+  Mudraptor attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:08 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:10 PM]
+  Mudraptor attacked by Lester. Lacerations: 20 Bleeding: 20 Stun: 0.2
+[2/22/2021 7:26:10 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:11 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:11 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:12 PM]
+  Mudraptor attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:12 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:13 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:13 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:15 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:15 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:17 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:17 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:19 PM]
+  Console command "spawn endworm cursor" executed by tomacatx1.
+[2/22/2021 7:26:21 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:21 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:22 PM]
+  Mudraptor attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:22 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:27 PM]
+  tomacatx1: hows that for a big enemy
+[2/22/2021 7:26:33 PM]
+  Mudraptor attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:33 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:34 PM]
+  Mudraptor attacked by Lester. Lacerations: 20 Bleeding: 20 Stun: 0.2
+[2/22/2021 7:26:34 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:37 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/22/2021 7:26:41 PM]
+  Lester has died (Cause of death: Bite wounds)
+[2/22/2021 7:26:43 PM]
+  Client "tomacatx1" ended the round.
+[2/22/2021 7:26:43 PM]
+  Ending the round...

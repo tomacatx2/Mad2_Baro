@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelGenerationParameters>
+  <Override>
+    <Biomes>
+      <Biome
+        identifier="coldcaverns"
+        name="Cold Caverns"
+        description=""
+        AllowedZones="1" />
+      <Biome
+        identifier="europanridge"
+        name="Europan Ridge"
+        description=""
+        AllowedZones="2" />
+      <Biome
+        identifier="theaphoticplateau"
+        name="The Aphotic Plateau"
+        description=""
+        AllowedZones="3" />
+      <Biome
+        identifier="thegreatsea"
+        oldidentifier="thegreatvoid"
+        name="The Great Sea"
+        description=""
+        AllowedZones="4" />
+      <Biome
+        identifier="hydrothermalwastes"
+        name="Hydrothermal Wastes"
+        description=""
+        AllowedZones="5" />
+      <Biome
+        identifier="endzone"
+        name="???"
+        description=""
+        AllowedZones="6"
+        endbiome="true" />
+    </Biomes>
+  </Override>
+</LevelGenerationParameters>

@@ -1,0 +1,48 @@
+<Items>
+
+  <Item name="Checkerboard" identifier="checkerboard" tags="smallitem,checkerboard" linkable="false" pickdistance="150" waterproof="true" scale="0.5" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="1" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="60" >
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Sprite texture="Checkerboard.png" depth="0.84" sourcerect="0,0,165,80" origin="0.5,0.5" />
+		<InventoryIcon texture="Checkerboard.png" sourcerect="0,0,165,80" />
+		<Body width="165" height="80" density="40" />
+		<Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="5.0" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true" />
+    <ItemContainer capacity="64" slotsperrow="8" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.35,0.7" anchor="Center" style="ItemUI" />
+      <Containable items="checkerpiece" />
+    </ItemContainer>
+  </Item>
+
+    <!-- Checker Pieces -->
+
+  <Item name="Black Checker" identifier="blackchecker" tags="smallitem,checkerpiece" maxstacksize="12" spritecolor="50,50,50,255" InventoryIconColor="50,50,50,255" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.0833" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="20" amount="12">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="CheckerPiece.png" sourcerect="0,0,40,40" origin="0.5,0.5" />
+    <Sprite texture="CheckerPiece.png" depth="0.83" sourcerect="0,0,40,40" origin="0.5,0.5" />
+		<Body width="40" height="40" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="Red Checker" identifier="redchecker" tags="smallitem,checkerpiece" maxstacksize="12" spritecolor="254,23,17,200" InventoryIconColor="254,23,17,200" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.0833" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="20" amount="12">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="CheckerPiece.png" sourcerect="0,0,40,40" origin="0.5,0.5" />
+    <Sprite texture="CheckerPiece.png" depth="0.83" sourcerect="0,0,40,40" origin="0.5,0.5" />
+		<Body width="40" height="40" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+</Items>

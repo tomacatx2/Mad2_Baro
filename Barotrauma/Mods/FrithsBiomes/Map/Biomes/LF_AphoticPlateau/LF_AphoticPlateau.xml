@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelGenerationParameters>
+ <Override>
+  <PlateauBasic
+    identifier="plateaubasic"
+    type="LocationConnection"
+    biomes="theaphoticplateau"
+    height="60000"
+    initialdepthmin="300000"
+    initialdepthmax="400000"
+    levelobjectamount="15000"
+    ambientlightcolor="0,8,15,255"
+    backgroundtexturecolor="240,240,240,255"
+    backgroundcolor="2,4,8,255"
+    wallcolor="255,255,255,255"
+    minwidth="180000"
+    maxwidth="250000"
+    voronoisiteinterval="2000,2000"
+    voronoisitevariance="800,800"
+    cellsubdivisionlength="1500"
+    cellroundingamount="0.5"
+    cellirregularity="0.1"
+    mainpathnodeintervalrange="10000,20000"
+    cavecount="3"
+    itemcount="400"
+    floatingicechunkcount="0"
+    seafloordepth="0"
+    seafloorvariance="500"
+    mountaincountmin="1"
+    mountaincountmax="2"
+    mountainheightmin="1000"
+    mountainheightmax="5000"
+    ruincount="1"
+    wreckcount="1"
+    thalamusprobability="0.25"
+    bottomholeprobability="0.9"
+    waterparticlescale="1"
+    startposition="0.05,0.05"
+    endposition="1,0"
+    createholenexttoend="True"
+    mintunnelradius="6500"
+    mincorpsecount="1"
+    maxcorpsecount="5"
+    wreckhullfloodingchance="0.5"
+    wreckfloodinghullminwaterpercentage="0.1"
+    wreckfloodinghullmaxwaterpercentage="1"
+    sidetunnelcount="1,1"
+    minsidetunnelradius="1000,3000"
+    icespirecount="0"
+	backgroundcreatureamount="160"
+    walltexturesize="512"
+    walledgetexturewidth="1024"
+    walledgeexpandoutwardsamount="128"
+    walledgeexpandinwardsamount="128"
+    islandcount="0"
+    sidetunnelvariance="0.5"
+    mainpathvariance="0.5"
+    resourceintervalrange="19200,38400"
+    caveresourceintervalrange="9600,19200"
+    resourceclustersizerange="2,8"
+    resourcespawnchance="0.3"
+    caveresourcespawnchance="0.6">
+    <!--
+    <Background
+      texture="Content/Map/iceBackgroundFade.png" />
+    <BackgroundTop
+      texture="Content/Map/iceBackground.png"
+      premultiplyalpha="false" />
+      -->
+    <WaterParticles
+      texture="Mods/FrithsBiomes/Map/Biomes/LF_AphoticPlateau/AP_BackgroundParticles.png" />
+    <Wall
+      texture="Mods/FrithsBiomes/Map/Biomes/LF_AphoticPlateau/AP_LevelWall.png"
+      premultiplyalpha="false" />
+    <WallEdge
+      texture="Mods/FrithsBiomes/Map/Biomes/LF_AphoticPlateau/AP_LevelWallEdge.png" />
+    <DestructibleWall
+      texture="Mods/FrithsBiomes/Map/Biomes/LF_AphoticPlateau/AP_DestructibleWall.png" />
+    <DestructibleWallEdge
+      texture="Mods/FrithsBiomes/Map/Biomes/LF_AphoticPlateau/AP_DestructibleWallEdge.png" />
+    <WallDestroyed
+      texture="Mods/FrithsBiomes/Map/Biomes/LF_AphoticPlateau/AP_DestroyedWall.png"
+      premultiplyalpha="false" />
+  </PlateauBasic>
+ </Override>
+</LevelGenerationParameters>

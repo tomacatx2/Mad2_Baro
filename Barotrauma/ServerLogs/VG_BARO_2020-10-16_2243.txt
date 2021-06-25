@@ -1,0 +1,444 @@
+﻿[10/16/2020 10:15:34 PM]
+  Starting the server...
+[10/16/2020 10:15:34 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[10/16/2020 10:15:37 PM]
+  Server started
+[10/16/2020 10:18:09 PM]
+  tomacatx1 has joined the server.
+[10/16/2020 10:18:09 PM]
+  Saving client permissions
+[10/16/2020 10:18:25 PM]
+  Aero has joined the server.
+[10/16/2020 10:18:25 PM]
+  Saving client permissions
+[10/16/2020 10:18:54 PM]
+  Saving client permissions
+[10/16/2020 10:20:11 PM]
+  F*ckingAdorable has joined the server.
+[10/16/2020 10:20:11 PM]
+  Saving client permissions
+[10/16/2020 10:20:42 PM]
+  Jovan has joined the server.
+[10/16/2020 10:20:42 PM]
+  Saving client permissions
+[10/16/2020 10:23:17 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:18 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:19 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:19 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:19 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:19 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:20 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:20 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:20 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:20 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:20 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:21 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:21 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:21 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:21 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:22 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:22 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:22 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:22 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:23 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:23 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:23 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:23 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:23:24 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:23:24 PM]
+  Jovan is ready to start the game.
+[10/16/2020 10:24:18 PM]
+  Aero is ready to start the game.
+[10/16/2020 10:24:19 PM]
+  Aero is not ready to start the game.
+[10/16/2020 10:26:17 PM]
+  F*ckingAdorable is ready to start the game.
+[10/16/2020 10:26:19 PM]
+  tomacatx1 is ready to start the game.
+[10/16/2020 10:26:19 PM]
+  tomacatx1 is not ready to start the game.
+[10/16/2020 10:26:19 PM]
+  tomacatx1 is ready to start the game.
+[10/16/2020 10:26:20 PM]
+  tomacatx1 is not ready to start the game.
+[10/16/2020 10:26:20 PM]
+  tomacatx1 is ready to start the game.
+[10/16/2020 10:26:21 PM]
+  tomacatx1 is not ready to start the game.
+[10/16/2020 10:27:03 PM]
+  F*ckingAdorable is not ready to start the game.
+[10/16/2020 10:27:58 PM]
+  Jovan is not ready to start the game.
+[10/16/2020 10:27:58 PM]
+  Player Jovan has changed their name to Dr. Nigger Doctor.
+[10/16/2020 10:28:22 PM]
+  HOST: sneed
+[10/16/2020 10:28:31 PM]
+  Player Dr. Nigger Doctor has changed their name to Dr. N.
+[10/16/2020 10:28:36 PM]
+  Player Dr. N has changed their name to N.
+[10/16/2020 10:28:39 PM]
+  Player N has changed their name to Jovan.
+[10/16/2020 10:28:59 PM]
+  Player F*ckingAdorable has changed their name to Guy Fieri.
+[10/16/2020 10:29:35 PM]
+  Player Jovan has changed their name to Pedoatritian.
+[10/16/2020 10:30:50 PM]
+  Player Pedoatritian has changed their name to DOOOOOOOC!!!.
+[10/16/2020 10:32:08 PM]
+  tomacatx1 is ready to start the game.
+[10/16/2020 10:32:13 PM]
+  Aero is ready to start the game.
+[10/16/2020 10:32:14 PM]
+  Guy Fieri is ready to start the game.
+[10/16/2020 10:32:15 PM]
+  DOOOOOOOC!!! is ready to start the game.
+[10/16/2020 10:32:16 PM]
+  Client "tomacatx1" started the round.
+[10/16/2020 10:32:16 PM]
+  Starting a new round...
+[10/16/2020 10:32:21 PM]
+  Mission: Aggressive Hammerheads
+[10/16/2020 10:32:21 PM]
+  According to our sources, there is a group of Hammerheads blocking the route from Cilicia Flexus Research Facility to Phineus Linea Institute of Astrobiology. Get rid of the creatures so that our vessels can continue traveling safely through the passage.
+[10/16/2020 10:32:21 PM]
+  Game mode: Mission
+[10/16/2020 10:32:21 PM]
+  Submarine: Kastrull
+[10/16/2020 10:32:21 PM]
+  Level seed: antagsneed
+[10/16/2020 10:32:21 PM]
+  Mission: Aggressive Hammerheads
+[10/16/2020 10:32:21 PM]
+  Round started.
+[10/16/2020 10:32:44 PM]
+  Guy Fieri picked up Screwdriver
+[10/16/2020 10:32:45 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 10:32:47 PM]
+  Guy Fieri picked up Blue Wire
+[10/16/2020 10:32:49 PM]
+  Aero picked up Welding Tool
+[10/16/2020 10:33:01 PM]
+  Aero picked up Welding Fuel Tank
+[10/16/2020 10:33:10 PM]
+  Aero picked up Plasma Cutter
+[10/16/2020 10:33:19 PM]
+  DOOOOOOOC!!! placed Morphine in Syringe Gun (ID: 4440)
+[10/16/2020 10:33:20 PM]
+  Aero placed Welding Fuel Tank in Toolbox (ID: 4411)
+[10/16/2020 10:33:21 PM]
+  DOOOOOOOC!!! picked up Morphine
+[10/16/2020 10:33:23 PM]
+  DOOOOOOOC!!! placed Syringe Gun in Medicine Cabinet (ID: 3058)
+[10/16/2020 10:33:29 PM]
+  DOOOOOOOC!!! placed Saline in Medicine Cabinet (ID: 3058)
+[10/16/2020 10:33:34 PM]
+  tomacatx1 picked up Welding Tool
+[10/16/2020 10:33:35 PM]
+  Guy Fieri set the force of Large Engine to 10 %
+[10/16/2020 10:33:35 PM]
+  Guy Fieri set the force of Large Engine to 30 %
+[10/16/2020 10:33:35 PM]
+  Guy Fieri set the force of Large Engine to 40 %
+[10/16/2020 10:33:35 PM]
+  Guy Fieri set the force of Large Engine to 50 %
+[10/16/2020 10:33:35 PM]
+  Guy Fieri set the force of Large Engine to 60 %
+[10/16/2020 10:33:35 PM]
+  Guy Fieri set the force of Large Engine to 70 %
+[10/16/2020 10:33:35 PM]
+  Guy Fieri set the force of Large Engine to 80 %
+[10/16/2020 10:33:35 PM]
+  Guy Fieri set the force of Large Engine to 90 %
+[10/16/2020 10:33:36 PM]
+  Guy Fieri set the force of Large Engine to 100 %
+[10/16/2020 10:34:30 PM]
+  Aero placed Plasma Cutter in Large Steel Cabinet (ID: 1776)
+[10/16/2020 10:34:54 PM]
+  DOOOOOOOC!!! placed Plastiseal in Doctor's Uniform (ID: 4433)
+[10/16/2020 10:34:55 PM]
+  Aero turned off Pump
+[10/16/2020 10:34:57 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/16/2020 10:34:58 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 98, Fission rate: 3, Turbine output: 1, Autotemp ON
+[10/16/2020 10:35:02 PM]
+  DOOOOOOOC!!! picked up Bandage
+[10/16/2020 10:35:04 PM]
+  DOOOOOOOC!!! picked up Tonic Liquid
+[10/16/2020 10:35:17 PM]
+  Aero turned on Pump
+[10/16/2020 10:35:20 PM]
+  DOOOOOOOC!!! placed Bandage in Medicine Cabinet (ID: 3058)
+[10/16/2020 10:35:45 PM]
+  DOOOOOOOC!!! picked up Diving Mask
+[10/16/2020 10:35:51 PM]
+  DOOOOOOOC!!! placed Tonic Liquid in Medicine Cabinet (ID: 3058)
+[10/16/2020 10:35:58 PM]
+  DOOOOOOOC!!! placed Naloxone in Medicine Cabinet (ID: 3058)
+[10/16/2020 10:36:15 PM]
+  tomacatx1 picked up Anabolic Steroids
+[10/16/2020 10:36:17 PM]
+  DOOOOOOOC!!! placed Morphine in Doctor's Uniform (ID: 4433)
+[10/16/2020 10:36:40 PM]
+  tomacatx1 picked up Steel Bar
+[10/16/2020 10:36:41 PM]
+  tomacatx1 picked up Steel Bar
+[10/16/2020 10:36:42 PM]
+  tomacatx1 placed Steel Bar in Fabricator (ID: 3104)
+[10/16/2020 10:36:43 PM]
+  tomacatx1 placed Steel Bar in Fabricator (ID: 3104)
+[10/16/2020 10:36:44 PM]
+  tomacatx1 picked up Steel Bar
+[10/16/2020 10:36:46 PM]
+  tomacatx1 placed Steel Bar in Fabricator (ID: 3104)
+[10/16/2020 10:36:47 PM]
+  tomacatx1 picked up Steel Bar
+[10/16/2020 10:36:49 PM]
+  tomacatx1 placed Steel Bar in Fabricator (ID: 3104)
+[10/16/2020 10:36:54 PM]
+  Aero started fabricating Toolbox in Fabricator
+[10/16/2020 10:36:58 PM]
+  tomacatx1 picked up Diving Mask
+[10/16/2020 10:37:12 PM]
+  tomacatx1 picked up Toolbox
+[10/16/2020 10:37:13 PM]
+  tomacatx1 placed Diving Mask in Toolbox (ID: 4357)
+[10/16/2020 10:37:14 PM]
+  tomacatx1 placed Welding Tool in Toolbox (ID: 4357)
+[10/16/2020 10:37:20 PM]
+  Aero started fabricating Toolbox in Fabricator
+[10/16/2020 10:37:20 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbox (ID: 4357)
+[10/16/2020 10:37:23 PM]
+  tomacatx1 placed Bandage in Toolbox (ID: 4357)
+[10/16/2020 10:37:37 PM]
+  Aero picked up Toolbox
+[10/16/2020 10:37:37 PM]
+  tomacatx1 placed Blood Pack in Toolbox (ID: 4357)
+[10/16/2020 10:37:39 PM]
+  tomacatx1 placed Fentanyl in Toolbox (ID: 4357)
+[10/16/2020 10:38:04 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 3078)
+[10/16/2020 10:38:08 PM]
+  DOOOOOOOC!!! picked up Accordion
+[10/16/2020 10:38:09 PM]
+  DOOOOOOOC!!! picked up Flashlight
+[10/16/2020 10:38:10 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 10:38:10 PM]
+  Aero dropped Toolbox
+[10/16/2020 10:38:11 PM]
+  tomacatx1 picked up Toolbox
+[10/16/2020 10:38:19 PM]
+  Guy Fieri set the recharge speed of Battery to 60 %
+[10/16/2020 10:38:19 PM]
+  Guy Fieri set the recharge speed of Battery to 70 %
+[10/16/2020 10:38:19 PM]
+  Guy Fieri set the recharge speed of Battery to 80 %
+[10/16/2020 10:38:19 PM]
+  Guy Fieri set the recharge speed of Battery to 90 %
+[10/16/2020 10:38:20 PM]
+  Guy Fieri set the recharge speed of Battery to 100 %
+[10/16/2020 10:38:25 PM]
+  Guy Fieri set the recharge speed of Battery to 60 %
+[10/16/2020 10:38:25 PM]
+  Guy Fieri set the recharge speed of Battery to 90 %
+[10/16/2020 10:38:25 PM]
+  Guy Fieri set the recharge speed of Battery to 100 %
+[10/16/2020 10:38:28 PM]
+  DOOOOOOOC!!! placed Accordion in Medium Steel Cabinet (ID: 2522)
+[10/16/2020 10:38:35 PM]
+  tomacatx1 placed Toolbox in Medicine Cabinet (ID: 3058)
+[10/16/2020 10:38:42 PM]
+  tomacatx1 placed Fentanyl in Medicine Cabinet (ID: 3058)
+[10/16/2020 10:38:45 PM]
+  tomacatx1 picked up Opium
+[10/16/2020 10:38:45 PM]
+  DOOOOOOOC!!! picked up Harmonica
+[10/16/2020 10:38:46 PM]
+  tomacatx1 picked up Opium
+[10/16/2020 10:38:54 PM]
+  tomacatx1 placed Opium in Medical Fabricator (ID: 3057)
+[10/16/2020 10:38:54 PM]
+  tomacatx1 placed Opium in Medical Fabricator (ID: 3057)
+[10/16/2020 10:38:57 PM]
+  tomacatx1 picked up Opium
+[10/16/2020 10:38:57 PM]
+  tomacatx1 picked up Opium
+[10/16/2020 10:39:01 PM]
+  Aero picked up Wrench
+[10/16/2020 10:39:01 PM]
+  tomacatx1 placed Opium in Medical Fabricator (ID: 3057)
+[10/16/2020 10:39:04 PM]
+  tomacatx1 placed Opium in Medical Fabricator (ID: 3057)
+[10/16/2020 10:39:06 PM]
+  tomacatx1 placed Captain's Pipe in Medium Steel Cabinet (ID: 3063)
+[10/16/2020 10:39:15 PM]
+  DOOOOOOOC!!! started fabricating Morphine in Medical Fabricator
+[10/16/2020 10:39:34 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 3078)
+[10/16/2020 10:39:37 PM]
+  DOOOOOOOC!!! placed Harmonica in Supplies Cabinet (ID: 3074)
+[10/16/2020 10:39:39 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 10:39:40 PM]
+  Aero picked up Diving Mask
+[10/16/2020 10:39:50 PM]
+  tomacatx1 picked up IC-4 Block
+[10/16/2020 10:39:51 PM]
+  tomacatx1 picked up IC-4 Block
+[10/16/2020 10:39:51 PM]
+  tomacatx1 picked up C-4 Block
+[10/16/2020 10:39:55 PM]
+  tomacatx1 picked up Riot Shotgun
+[10/16/2020 10:40:01 PM]
+  DOOOOOOOC!!! picked up Captain's Pipe
+[10/16/2020 10:40:02 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 3513)
+[10/16/2020 10:40:03 PM]
+  tomacatx1 placed IC-4 Block in Railgun Shell (ID: 3512)
+[10/16/2020 10:40:04 PM]
+  tomacatx1 placed IC-4 Block in Railgun Shell (ID: 1275)
+[10/16/2020 10:40:08 PM]
+  DOOOOOOOC!!! placed Captain's Pipe in Medium Steel Cabinet (ID: 3063)
+[10/16/2020 10:40:09 PM]
+  tomacatx1 picked up Body Armor
+[10/16/2020 10:40:16 PM]
+  Guy Fieri set the recharge speed of Battery to 90 %
+[10/16/2020 10:40:16 PM]
+  Guy Fieri set the recharge speed of Battery to 80 %
+[10/16/2020 10:40:16 PM]
+  Guy Fieri set the recharge speed of Battery to 70 %
+[10/16/2020 10:40:16 PM]
+  Guy Fieri set the recharge speed of Battery to 60 %
+[10/16/2020 10:40:17 PM]
+  Guy Fieri set the recharge speed of Battery to 50 %
+[10/16/2020 10:40:21 PM]
+  DOOOOOOOC!!! picked up Harmonica
+[10/16/2020 10:40:23 PM]
+  Guy Fieri set the recharge speed of Battery to 90 %
+[10/16/2020 10:40:23 PM]
+  Guy Fieri set the recharge speed of Battery to 80 %
+[10/16/2020 10:40:23 PM]
+  Guy Fieri set the recharge speed of Battery to 70 %
+[10/16/2020 10:40:23 PM]
+  Guy Fieri set the recharge speed of Battery to 60 %
+[10/16/2020 10:40:23 PM]
+  Guy Fieri set the recharge speed of Battery to 50 %
+[10/16/2020 10:40:37 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 3078)
+[10/16/2020 10:40:40 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 10:41:04 PM]
+  Guy Fieri placed Blue Wire in Toolbox (ID: 4424)
+[10/16/2020 10:41:04 PM]
+  Guy Fieri removed Wrench from Toolbox (ID: 4424)
+[10/16/2020 10:41:04 PM]
+  Guy Fieri picked up Wrench
+[10/16/2020 10:41:06 PM]
+  Aero picked up Diving Suit
+[10/16/2020 10:41:11 PM]
+  Aero placed Diving Suit in Large Diving Suit Locker (ID: 3428)
+[10/16/2020 10:41:11 PM]
+  DOOOOOOOC!!! placed Harmonica in Supplies Cabinet (ID: 3074)
+[10/16/2020 10:41:15 PM]
+  DOOOOOOOC!!! picked up Welding Tool
+[10/16/2020 10:41:20 PM]
+  tomacatx1 picked up Green Paint
+[10/16/2020 10:41:22 PM]
+  tomacatx1 placed Green Paint in Deconstructor (ID: 3089)
+[10/16/2020 10:41:23 PM]
+  tomacatx1 activated Deconstructor
+[10/16/2020 10:41:56 PM]
+  tomacatx1 picked up Steel Bar
+[10/16/2020 10:41:56 PM]
+  tomacatx1 picked up Steel Bar
+[10/16/2020 10:41:58 PM]
+  tomacatx1 placed Steel Bar in Deconstructor (ID: 3089)
+[10/16/2020 10:41:58 PM]
+  tomacatx1 placed Steel Bar in Deconstructor (ID: 3089)
+[10/16/2020 10:41:59 PM]
+  tomacatx1 activated Deconstructor
+[10/16/2020 10:42:00 PM]
+  tomacatx1 picked up Copper
+[10/16/2020 10:42:00 PM]
+  tomacatx1 picked up Rubber
+[10/16/2020 10:42:02 PM]
+  tomacatx1 placed Rubber in Large Steel Cabinet (ID: 3082)
+[10/16/2020 10:42:03 PM]
+  tomacatx1 placed Copper in Large Steel Cabinet (ID: 3082)
+[10/16/2020 10:42:11 PM]
+  tomacatx1 picked up Iron
+[10/16/2020 10:42:12 PM]
+  tomacatx1 picked up Iron
+[10/16/2020 10:42:15 PM]
+  tomacatx1 placed Iron in Fabricator (ID: 3104)
+[10/16/2020 10:42:15 PM]
+  tomacatx1 placed Iron in Fabricator (ID: 3104)
+[10/16/2020 10:42:19 PM]
+  tomacatx1 started fabricating Screwdriver in Fabricator
+[10/16/2020 10:42:27 PM]
+  Guy Fieri picked up Riot Helmet
+[10/16/2020 10:42:29 PM]
+  Guy Fieri picked up Diving Knife
+[10/16/2020 10:42:29 PM]
+  tomacatx1 picked up Screwdriver
+[10/16/2020 10:42:29 PM]
+  tomacatx1 started fabricating Wrench in Fabricator
+[10/16/2020 10:42:31 PM]
+  Guy Fieri picked up Handcuffs
+[10/16/2020 10:42:34 PM]
+  Guy Fieri picked up Stun Gun
+[10/16/2020 10:42:37 PM]
+  tomacatx1 picked up Wrench
+[10/16/2020 10:42:48 PM]
+  DOOOOOOOC!!! attacked by Guy Fieri. Lacerations: 0.5 Stun: 10
+[10/16/2020 10:42:48 PM]
+  DOOOOOOOC!!! attacked by Guy Fieri. Blunt force trauma: 2
+[10/16/2020 10:42:48 PM]
+  Guy Fieri used Wrench on DOOOOOOOC!!!.
+[10/16/2020 10:42:55 PM]
+  tomacatx1 placed Morphine in Toolbox (ID: 4357)
+[10/16/2020 10:43:35 PM]
+  Sailol has joined the server.
+[10/16/2020 10:43:35 PM]
+  Saving client permissions
+[10/16/2020 10:43:41 PM]
+  Aero picked up Screwdriver
+[10/16/2020 10:43:41 PM]
+  Guy Fieri placed Wrench in Medium Steel Cabinet (ID: 593)
+[10/16/2020 10:43:41 PM]
+  Guy Fieri removed Stun Baton from Medium Steel Cabinet (ID: 593)
+[10/16/2020 10:43:41 PM]
+  Guy Fieri picked up Stun Baton
+[10/16/2020 10:43:42 PM]
+  Client "tomacatx1" ended the round.
+[10/16/2020 10:43:42 PM]
+  Ending the round...

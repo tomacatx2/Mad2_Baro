@@ -1,0 +1,528 @@
+﻿[10/8/2020 12:20:23 AM]
+  Starting the server...
+[10/8/2020 12:20:23 AM]
+  Using SteamP2P networking.
+[10/8/2020 12:20:23 AM]
+  Server started
+[10/8/2020 12:20:23 AM]
+  e has joined the server.
+[10/8/2020 12:20:23 AM]
+  Saving client permissions
+[10/8/2020 12:20:23 AM]
+  Saving client permissions
+[10/8/2020 12:20:30 AM]
+  e is ready to start the game.
+[10/8/2020 12:23:42 AM]
+  e changed PlayStyle to Casual
+[10/8/2020 12:23:42 AM]
+  e changed SubSelectionMode to Manual
+[10/8/2020 12:23:42 AM]
+  e changed ModeSelectionMode to Manual
+[10/8/2020 12:23:52 AM]
+  Client "e" started the round.
+[10/8/2020 12:23:52 AM]
+  Starting a new round...
+[10/8/2020 12:23:56 AM]
+  Mission: Wreck salvage
+[10/8/2020 12:23:56 AM]
+  Undermoist Outpost just received a fragmented distress call from a vessel that was thought to have been lost along with some highly sensitive encrypted data. Retrieve the captain's logbook as a priority and return it.
+[10/8/2020 12:23:56 AM]
+  Game mode: Mission
+[10/8/2020 12:23:56 AM]
+  Submarine: Kastrull
+[10/8/2020 12:23:56 AM]
+  Level seed: 82SmG4ut
+[10/8/2020 12:23:56 AM]
+  Mission: Wreck salvage
+[10/8/2020 12:23:57 AM]
+  Round started.
+[10/8/2020 12:24:31 AM]
+  e adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/8/2020 12:24:32 AM]
+  e adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/8/2020 12:24:37 AM]
+  e adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/8/2020 12:24:38 AM]
+  e adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/8/2020 12:24:40 AM]
+  e adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/8/2020 12:25:01 AM]
+  e picked up Moloch Shell Fragment
+[10/8/2020 12:25:08 AM]
+  e dropped Moloch Shell Fragment
+[10/8/2020 12:25:11 AM]
+  e picked up Weapons Case
+[10/8/2020 12:25:14 AM]
+  e dropped Weapons Case
+[10/8/2020 12:25:15 AM]
+  e picked up 9mm Ammo Crate
+[10/8/2020 12:25:16 AM]
+  e dropped 9mm Ammo Crate
+[10/8/2020 12:25:18 AM]
+  e picked up Pipe Tobacco
+[10/8/2020 12:25:19 AM]
+  e placed Pipe Tobacco in Captain's Pipe (ID: 4709)
+[10/8/2020 12:25:28 AM]
+  e placed Captain's Pipe in Large Steel Cabinet (ID: 4222)
+[10/8/2020 12:25:31 AM]
+  e picked up Captain's Pipe
+[10/8/2020 12:25:43 AM]
+  e placed Captain's Pipe in Large Steel Cabinet (ID: 4222)
+[10/8/2020 12:25:44 AM]
+  e picked up Metal Crate
+[10/8/2020 12:25:49 AM]
+  e picked up Captain's Sabre
+[10/8/2020 12:25:53 AM]
+  e picked up Body Armor
+[10/8/2020 12:25:54 AM]
+  e placed Veteran's Cap in Metal Crate (ID: 4710)
+[10/8/2020 12:25:54 AM]
+  e removed Ballistic Helmet from Metal Crate (ID: 4710)
+[10/8/2020 12:25:54 AM]
+  e picked up Ballistic Helmet
+[10/8/2020 12:25:56 AM]
+  e placed Veteran's Jacket in Metal Crate (ID: 4710)
+[10/8/2020 12:25:56 AM]
+  e removed Commando's Fatigues from Metal Crate (ID: 4710)
+[10/8/2020 12:25:56 AM]
+  e picked up Commando's Fatigues
+[10/8/2020 12:25:57 AM]
+  e dropped Metal Crate
+[10/8/2020 12:26:01 AM]
+  e picked up Diving Suit
+[10/8/2020 12:26:02 AM]
+  e placed Diving Suit in Large Diving Suit Locker (ID: 3377)
+[10/8/2020 12:26:07 AM]
+  e picked up Metal Crate
+[10/8/2020 12:26:08 AM]
+  e placed Captain's Sabre in Metal Crate (ID: 4710)
+[10/8/2020 12:26:10 AM]
+  e picked up Toolbox
+[10/8/2020 12:26:11 AM]
+  e placed Gauss Rifle Magazine in Toolbox (ID: 4724)
+[10/8/2020 12:26:14 AM]
+  e placed Gauss Pistol Magazine in Toolbox (ID: 4724)
+[10/8/2020 12:26:15 AM]
+  e placed Tazer Cartridge in Toolbox (ID: 4724)
+[10/8/2020 12:26:17 AM]
+  e picked up .357 Speedloader
+[10/8/2020 12:26:18 AM]
+  e placed Laser Pistol Cell in Toolbox (ID: 4724)
+[10/8/2020 12:26:18 AM]
+  e dropped Metal Crate
+[10/8/2020 12:26:21 AM]
+  e picked up Weapons Case
+[10/8/2020 12:26:23 AM]
+  e picked up Drum LMG
+[10/8/2020 12:26:24 AM]
+  e picked up Marine Battle Rifle
+[10/8/2020 12:26:25 AM]
+  e dropped Weapons Case
+[10/8/2020 12:26:28 AM]
+  e placed Revolver in Large Steel Cabinet (ID: 4222)
+[10/8/2020 12:26:29 AM]
+  e picked up Weapons Case
+[10/8/2020 12:26:31 AM]
+  e picked up Handgun
+[10/8/2020 12:26:32 AM]
+  e picked up Marine SMG
+[10/8/2020 12:26:33 AM]
+  e dropped Weapons Case
+[10/8/2020 12:26:34 AM]
+  e picked up 5.7x28mm Ammo Crate
+[10/8/2020 12:26:36 AM]
+  e picked up 5.7x28mm Magazine
+[10/8/2020 12:26:41 AM]
+  e placed 5.7x28mm Magazine in Marine SMG (ID: 4727)
+[10/8/2020 12:26:42 AM]
+  e dropped 5.7x28mm Ammo Crate
+[10/8/2020 12:26:43 AM]
+  e picked up 5.56x45mm Ammo Crate
+[10/8/2020 12:26:45 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 4744)
+[10/8/2020 12:26:47 AM]
+  e placed 5.56x45mm Drum in Drum LMG (ID: 4742)
+[10/8/2020 12:26:48 AM]
+  e dropped 5.56x45mm Ammo Crate
+[10/8/2020 12:26:48 AM]
+  e picked up Weapons Case
+[10/8/2020 12:26:50 AM]
+  e picked up Laser Pistol
+[10/8/2020 12:26:51 AM]
+  e picked up .357 Revolver
+[10/8/2020 12:26:51 AM]
+  e dropped Weapons Case
+[10/8/2020 12:26:53 AM]
+  e placed Laser Pistol Cell in Laser Pistol (ID: 4746)
+[10/8/2020 12:26:55 AM]
+  e picked up Tazer Cartridge
+[10/8/2020 12:26:58 AM]
+  e picked up Gauss Pistol Magazine
+[10/8/2020 12:27:06 AM]
+  e picked up 5.7x28mm Ammo Crate
+[10/8/2020 12:27:07 AM]
+  e placed Tazer Cartridge in Toolbox (ID: 4724)
+[10/8/2020 12:27:08 AM]
+  e placed Gauss Pistol Magazine in Toolbox (ID: 4724)
+[10/8/2020 12:27:10 AM]
+  e dropped 5.7x28mm Ammo Crate
+[10/8/2020 12:27:11 AM]
+  e picked up 9mm Ammo Crate
+[10/8/2020 12:27:14 AM]
+  e placed 10mm-Auto Magazine in Toolbox (ID: 4724)
+[10/8/2020 12:27:15 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (ID: 4725)
+[10/8/2020 12:27:16 AM]
+  e dropped 9mm Ammo Crate
+[10/8/2020 12:27:23 AM]
+  e picked up Weapons Case
+[10/8/2020 12:27:25 AM]
+  e picked up Tazer Gun
+[10/8/2020 12:27:29 AM]
+  e placed Tazer Cartridge in Tazer Gun (ID: 4735)
+[10/8/2020 12:27:30 AM]
+  e placed .357 Speedloader in .357 Revolver (ID: 4748)
+[10/8/2020 12:27:35 AM]
+  e picked up Tactical Shotgun
+[10/8/2020 12:27:40 AM]
+  e dropped Weapons Case
+[10/8/2020 12:27:42 AM]
+  e picked up Metal Crate
+[10/8/2020 12:27:43 AM]
+  e placed 12-Gauge Shell in Tactical Shotgun (ID: 4729)
+[10/8/2020 12:27:45 AM]
+  e placed 12-Gauge Shell in Tactical Shotgun (ID: 4729)
+[10/8/2020 12:27:46 AM]
+  e placed 12-Gauge Shell in Tactical Shotgun (ID: 4729)
+[10/8/2020 12:27:47 AM]
+  e placed 12-Gauge Shell in Tactical Shotgun (ID: 4729)
+[10/8/2020 12:27:48 AM]
+  e placed 12-Gauge Shell in Tactical Shotgun (ID: 4729)
+[10/8/2020 12:27:50 AM]
+  e dropped Metal Crate
+[10/8/2020 12:27:51 AM]
+  e picked up 9mm Ammo Crate
+[10/8/2020 12:27:52 AM]
+  e dropped 9mm Ammo Crate
+[10/8/2020 12:27:53 AM]
+  e picked up Weapons Case
+[10/8/2020 12:27:54 AM]
+  e dropped Weapons Case
+[10/8/2020 12:27:55 AM]
+  e picked up Weapons Case
+[10/8/2020 12:27:56 AM]
+  e dropped Weapons Case
+[10/8/2020 12:27:57 AM]
+  e picked up Weapons Case
+[10/8/2020 12:27:57 AM]
+  e dropped Weapons Case
+[10/8/2020 12:27:58 AM]
+  e picked up 5.56x45mm Ammo Crate
+[10/8/2020 12:27:59 AM]
+  e dropped 5.56x45mm Ammo Crate
+[10/8/2020 12:28:00 AM]
+  e picked up 5.7x28mm Ammo Crate
+[10/8/2020 12:28:01 AM]
+  e dropped 5.7x28mm Ammo Crate
+[10/8/2020 12:28:06 AM]
+  Console command "enablecheats" executed by e.
+[10/8/2020 12:28:12 AM]
+  Console command "spawn human cursor" executed by e.
+[10/8/2020 12:28:18 AM]
+  Fanny Hefner attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:28:19 AM]
+  Fanny Hefner: Need medical assistance in stowage compartment!
+[10/8/2020 12:28:19 AM]
+  Fanny Hefner: Ow, what was that for?
+[10/8/2020 12:28:20 AM]
+  Fanny Hefner: I'm bleeding out!
+[10/8/2020 12:28:24 AM]
+  Fanny Hefner attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:28:24 AM]
+  Fanny Hefner attacked by e. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[10/8/2020 12:28:27 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:27 AM]
+  e has lost more than 25 karma in the past minute.
+[10/8/2020 12:28:27 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:29 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:29 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:29 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:29 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:29 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:33 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:37 AM]
+  Fanny Hefner attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:28:40 AM]
+  Console command "spawn human cursor" executed by e.
+[10/8/2020 12:28:41 AM]
+  Tera Williams attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:28:42 AM]
+  Tera Williams attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:28:42 AM]
+  Tera Williams: Don't push your luck!
+[10/8/2020 12:28:42 AM]
+  Tera Williams attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:28:43 AM]
+  Tera Williams attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:28:43 AM]
+  Tera Williams: Need medical assistance in stowage compartment!
+[10/8/2020 12:28:43 AM]
+  Tera Williams attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:28:43 AM]
+  Tera Williams: Stop right there!
+[10/8/2020 12:28:43 AM]
+  Tera Williams attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:28:45 AM]
+  Tera Williams: Help, I'm bleeding!
+[10/8/2020 12:28:46 AM]
+  Tera Williams used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:28:49 AM]
+  Tera Williams: Target arrested!
+[10/8/2020 12:28:49 AM]
+  Fanny Hefner has died (Cause of death: Blood loss)
+[10/8/2020 12:29:16 AM]
+  Console command "control "Tera Williams"" executed by e.
+[10/8/2020 12:29:20 AM]
+  Tera Williams removed Handcuffs from e
+[10/8/2020 12:29:25 AM]
+  Console command "control e" executed by e.
+[10/8/2020 12:29:32 AM]
+  Tera Williams attacked by e. Burn: 3.5 Stun: 10
+[10/8/2020 12:29:32 AM]
+  Tera Williams: Do you really want to take that path?
+[10/8/2020 12:29:37 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:37 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:37 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:37 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:37 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:37 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:37 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:37 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:38 AM]
+  Tera Williams: I'm gonna get you!
+[10/8/2020 12:29:40 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:40 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:40 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:40 AM]
+  Tera Williams attacked by e. Bleeding: 0.6 Gunshot wound: 0.8 Stun: 0.05
+[10/8/2020 12:29:40 AM]
+  Tera Williams attacked by e. Bleeding: 0.53999996 Gunshot wound: 0.64000005 Stun: 0.05
+[10/8/2020 12:29:40 AM]
+  Tera Williams attacked by e. Bleeding: 0.6 Gunshot wound: 0.8 Stun: 0.05
+[10/8/2020 12:29:40 AM]
+  Tera Williams attacked by e. Bleeding: 0.6 Gunshot wound: 0.8 Stun: 0.05
+[10/8/2020 12:29:40 AM]
+  Tera Williams attacked by e. Bleeding: 0.6 Gunshot wound: 0.8 Stun: 0.05
+[10/8/2020 12:29:42 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:42 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:42 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:42 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:42 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:42 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:42 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:42 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:43 AM]
+  Tera Williams: Need medical assistance in command room!
+[10/8/2020 12:29:44 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:44 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:44 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:44 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:44 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:44 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:44 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:44 AM]
+  Tera Williams attacked by e. Bleeding: 5.3999996 Gunshot wound: 3.2 Stun: 0.05
+[10/8/2020 12:29:44 AM]
+  Tera Williams: I'm bleeding out!
+[10/8/2020 12:29:45 AM]
+  Tera Williams used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:29:53 AM]
+  Console command "control "Tera Williams"" executed by e.
+[10/8/2020 12:30:02 AM]
+  Console command "control e" executed by e.
+[10/8/2020 12:30:13 AM]
+  Console command "spawn human cursor" executed by e.
+[10/8/2020 12:30:17 AM]
+  Fiona Quinn attacked by e. Burn: 5 Stun: 10
+[10/8/2020 12:30:17 AM]
+  Fiona Quinn: Security! Security!
+[10/8/2020 12:30:21 AM]
+  Fiona Quinn attacked by e. Gunshot wound: 2 Burn: 9 Bleeding: 2
+[10/8/2020 12:30:23 AM]
+  Fiona Quinn attacked by e. Gunshot wound: 2 Burn: 9 Bleeding: 2
+[10/8/2020 12:30:23 AM]
+  Fiona Quinn attacked by e. Gunshot wound: 2 Burn: 9 Bleeding: 2
+[10/8/2020 12:30:24 AM]
+  Fiona Quinn attacked by e. Gunshot wound: 2 Burn: 9 Bleeding: 2
+[10/8/2020 12:30:26 AM]
+  Fiona Quinn attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:26 AM]
+  Fiona Quinn attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:27 AM]
+  Fiona Quinn attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:27 AM]
+  e has lost more than 25 karma in the past minute.
+[10/8/2020 12:30:27 AM]
+  Fiona Quinn attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:28 AM]
+  Fiona Quinn attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:28 AM]
+  Fiona Quinn attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:29 AM]
+  Fiona Quinn attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:37 AM]
+  Tera Williams has died (Cause of death: Blood loss)
+[10/8/2020 12:30:43 AM]
+  Console command "spawn human cursor" executed by e.
+[10/8/2020 12:30:43 AM]
+  Console command "spawn human cursor" executed by e.
+[10/8/2020 12:30:44 AM]
+  Console command "spawn human cursor" executed by e.
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 13.5 Gunshot wound: 3.2
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 13.5 Gunshot wound: 3.2
+[10/8/2020 12:30:48 AM]
+  Denise Clothier: Need a medic in engine room!
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 13.5 Gunshot wound: 3.2
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:48 AM]
+  Denise Clothier: Freeze, bastard!
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 13.5 Gunshot wound: 3.2
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:48 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:49 AM]
+  Katherina Newton attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:49 AM]
+  Katherina Newton attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:49 AM]
+  Katherina Newton: Hey! What do you think you're doing?
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:49 AM]
+  Fiona Quinn has died (Cause of death: Blood loss)
+[10/8/2020 12:30:49 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:49 AM]
+  Katherina Newton attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:50 AM]
+  Denise Clothier: I'm bleeding out!
+[10/8/2020 12:30:50 AM]
+  Katherina Newton attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:50 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:50 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:50 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:50 AM]
+  Katherina Newton attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:50 AM]
+  Katherina Newton attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:50 AM]
+  Katherina Newton attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:50 AM]
+  Katherina Newton attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:50 AM]
+  Kathy Swanson attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:30:50 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:50 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:51 AM]
+  Denise Clothier attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:30:51 AM]
+  Denise Clothier attacked by e. Bleeding: 1.3499999 Gunshot wound: 0.64000005
+[10/8/2020 12:30:51 AM]
+  Kathy Swanson: Why are you doing this?
+[10/8/2020 12:30:53 AM]
+  Katherina Newton: I'm losing blood!
+[10/8/2020 12:30:53 AM]
+  Kathy Swanson: I'm losing blood!
+[10/8/2020 12:30:54 AM]
+  Kathy Swanson used Toolbox (Screwdriver, Red Wire, Blue Wire, Orange Wire, Button, FPGA Circuit) on e.
+[10/8/2020 12:30:54 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on Katherina Newton.
+[10/8/2020 12:30:55 AM]
+  Kathy Swanson used Toolbox (Screwdriver, Red Wire, Blue Wire, Orange Wire, Button, FPGA Circuit) on e.
+[10/8/2020 12:30:55 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on Kathy Swanson.
+[10/8/2020 12:30:56 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on Kathy Swanson.
+[10/8/2020 12:30:57 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on Kathy Swanson.
+[10/8/2020 12:30:58 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on Kathy Swanson.
+[10/8/2020 12:30:59 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on Kathy Swanson.
+[10/8/2020 12:31:00 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:31:01 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:31:02 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:31:03 AM]
+  Denise Clothier used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:31:06 AM]
+  Denise Clothier: Target arrested!
+[10/8/2020 12:31:08 AM]
+  Client "e" ended the round.
+[10/8/2020 12:31:08 AM]
+  Ending the round...

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EK NurseShark Mk-I" path="Mods/EK NurseShark Mk-I/filelist.xml" corepackage="false" gameversion="0.13.0.11" steamworkshopid="2190578190" installtime="1619119165">
+  <Submarine file="Mods/EK NurseShark Mk-I/EK_NurseShark_Mk-IV.sub" />
+</contentpackage>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Tribal Mask" identifier="tribalmask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="2" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Tribal Mask" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="0,5,75,110" origin="0.65,0.5" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="0,5,75,120" />
+    <Deconstruct time="10">
+      <Item identifier="iron" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Tribal Mask Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="0,5,75,110" origin="0.35,0.55" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Black Ushanka" identifier="ushankablack" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.5">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Black Ushanka" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="98,15,89,80" origin="0.55,0.5" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="98,15,89,80" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Ushanka Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="98,15,89,80" origin="0.60,0.65" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Pilotka" identifier="pilotka" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.5">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="2" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Pilotka" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="200,22,75,48" origin="0.55,0.50" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="200,22,75,48" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Pilotka" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="200,22,75,48" origin="0.50,1.05" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Top Hat" identifier="tophat" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.5">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="2" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="tophat" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="290,10,95,75" origin="0.55,0.99" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="290,10,95,75" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="tophap" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="290,10,95,75" origin="0.50,1.05" />
+      <StatusEffect tags="clown" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Flat Cap" identifier="flatcap" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.5">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="2" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Flat Cap" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="389,48,80,38" origin="0.55,0.50" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="389,48,80,38" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Flat Cap" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="389,48,80,38" origin="0.47,1.25" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Rusty Welding Mask" identifier="weldingmask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="2" sold="false"/>
+      <Price locationtype="city" multiplier="2" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="2" sold="false"/>
+      <Price locationtype="mine" multiplier="4" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Welding Mask" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="-0.1" sourcerect="0,120,85,100" origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="0,120,85,100" />
+    <Deconstruct time="10">
+      <Item identifier="steel" />
+    </Deconstruct>
+    <Wearable limbtype="Head" armorvalue="10.0" slots="Any,Head" msg="ItemMsgPickUpSelect">
+	<damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound" armorsector="0.0,180.0" damagemultiplier="0.6" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictionidentifiers="bitewounds, burn" armorsector="0.0,360.0" damagemultiplier="0.2" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0" damagemultiplier="0.1" damagesound="LimbArmor" deflectprojectiles="true" />
+      <sprite name="Welding Mask Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="0,120,85,100" origin="0.375,0.5" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="MASKA" identifier="maska" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="2" sold="false"/>
+      <Price locationtype="city" multiplier="2" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="4" sold="false"/>
+      <Price locationtype="mine" multiplier="2" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="MASKA" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.5" sourcerect="100,125,95,95" origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="100,125,95,95" />
+    <Deconstruct time="10">
+      <Item identifier="steel" />
+    </Deconstruct>
+    <Wearable limbtype="Head" armorvalue="20.0" slots="Any,Head" msg="ItemMsgPickUpSelect">
+		<damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.2" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictionidentifiers="burn" armorsector="0.0,360.0" damagemultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.2" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0" damagemultiplier="0.1" damagesound="LimbArmor" deflectprojectiles="true" />
+		<sprite name="MASKA Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="false" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="100,125,95,95" origin="0.45,0.55" scale="0.6"/>
+		<StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Military Helmet with NVG" identifier="helmetnvg" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="2" sold="false"/>
+      <Price locationtype="city" multiplier="2" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="4" sold="false"/>
+      <Price locationtype="mine" multiplier="2" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Military Helmet NVG" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="195,135,140,90" origin="0.5,0.50" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="195,135,140,90" />
+    <Deconstruct time="10">
+      <Item identifier="ballisticfiber" />
+	  <Item identifier="fpgacircuit" />
+    </Deconstruct>
+	<Turret HudTint="0.0,0.5,0.0,0.1" drawhudwhenequipped="true" />
+	<CustomInterface canbeselected="false" drawhudwhenequipped="true">
+      <GuiFrame relativesize="0.15,0.1" anchor="TopRight" absoluteoffset="0,20" style="ItemUI" color="1,0,0,0.1" />
+      <TickBox text="Nightvision">
+        <StatusEffect type="OnUse" targettype="This" IsOn="true" />
+        <StatusEffect type="OnSecondaryUse" targettype="This" IsOn="false" />
+      </TickBox>
+    </CustomInterface>
+    <Wearable limbtype="Head" armorvalue="20.0" slots="Any,Head" msg="ItemMsgPickUpSelect">
+		<damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.2" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0" damagemultiplier="0.1" damagesound="LimbArmor" deflectprojectiles="true" />
+		<sprite name="Military Helmet NVG Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="195,135,140,90" origin="0.40,0.55" scale="0.6">
+		<LightComponent LightColor="0.5,0.0,0.0,1.0" Flicker="0.02" range="333" powerconsumption="0" IsOn="true">
+			<StatusEffect type="OnWearing" target="This,Character" Voltage="1.0" setvalue="true">
+				<Conditional IsDead="false" />
+			</StatusEffect>
+			<LightTexture texture="Content/Lights/lightcone.png" origin="0.0, 0.495" size="1.0,1.0" />
+		</LightComponent>
+		</sprite>
+		<StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+	</Wearable>
+  </Item>
+  <Item name="Gas Mask Monkey" identifier="gasmaskmonkey" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="2" sold="false"/>
+      <Price locationtype="city" multiplier="2" sold="false"/>
+      <Price locationtype="research" multiplier="2" sold="false"/>
+      <Price locationtype="military" multiplier="3" sold="false"/>
+      <Price locationtype="mine" multiplier="2" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Gas Mask Monkey" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="335,134,110,100" origin="0.5,0.50" scale="0.5" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="335,134,110,100" />
+    <Deconstruct time="10">
+      <Item identifier="rubber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+		<sprite name="Gas Mask Monkey Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="335,134,110,100" origin="0.30,0.39" scale="0.6"/>
+		<StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Plague Doctor's Mask" identifier="plaguedoctormask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="10" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Plague Mask" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="0,240,145,130" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="0,240,145,130" />
+    <Deconstruct time="10">
+      <Item identifier="antidama1" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Plague Mask Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="0,240,145,130" origin="0.40,0.50" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+	<StatusHUD drawhudwhenequipped="true" />
+  </Item>
+  <Item name="Serpent Mask" identifier="serpentmask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="5" sold="false"/>
+      <Price locationtype="military" multiplier="3" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Serpent Mask" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="1.0" sourcerect="160,240,105,135" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="160,240,105,135" />
+    <Deconstruct time="10">
+      <Item identifier="fulgurium" />
+    </Deconstruct>
+        <Wearable limbtype="Head" armorvalue="20.0" slots="Any,Head" msg="ItemMsgPickUpSelect">
+		<damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictionidentifiers="bitewounds, burn" armorsector="0.0,360.0" damagemultiplier="0.2" damagesound="LimbArmor" deflectprojectiles="true" />
+		<damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0" damagemultiplier="0.1" damagesound="LimbArmor" deflectprojectiles="true" />
+      <sprite name="Serpent Mask Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="false" hideotherwearables="true" inherittexturescale="true" sourcerect="160,240,105,135" origin="0.45,0.35" scale="0.6" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Bald Clown Mask" identifier="clownmaskbald" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="10" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Bald Clown Mask" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="270,280,65,70" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="270,280,65,70" />
+    <Deconstruct time="10">
+      <Item identifier="bikehorn" />
+    </Deconstruct>
+        <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Bald Clown Mask Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="270,280,65,70" origin="0.45,0.55" scale="0.6" />
+      <StatusEffect tags="clown" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Happy Clown Mask" identifier="clownmaskhappy" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="10" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Happy Clown Mask" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="337,280,59,70" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="337,280,59,70" />
+    <Deconstruct time="10">
+      <Item identifier="bikehorn" />
+    </Deconstruct>
+        <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Happy Clown Mask Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="337,280,59,70" origin="0.35,0.55" scale="0.6" />
+      <StatusEffect tags="clown" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Noh Mask" identifier="nohmask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Noh Mask" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="396,266,49,89" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="30" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="396,266,49,89" />
+    <Deconstruct time="10">
+      <Item identifier="plastic" />
+    </Deconstruct>
+        <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Noh Mask Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="396,266,49,89" origin="0.25,0.55" scale="0.6" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Sombrero" identifier="sombrero" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Sombrero" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="0,390,160,70" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="40" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="0,390,160,70" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Sombrero Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="0,390,160,70" origin="0.50,1.05" scale="0.6" />
+    </Wearable>
+  </Item>
+  <Item name="Bicorn" identifier="bicorn" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="3" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Bicorn" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="175,410,135,50" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="40" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="175,410,135,50" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Bicorn Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="175,410,135,50" origin="0.50,1.05" scale="0.6" />
+    </Wearable>
+  </Item>
+  <Item name="Pork Pie Hat" identifier="porkpiehat" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="3" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Pork Pie Hat" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="315,415,85,50" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="40" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="315,415,85,50" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Pork Pie Hat Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="315,415,85,50" origin="0.57,1.05" scale="0.6" />
+    </Wearable>
+  </Item>
+  <Item name="Cavalry Hat" identifier="cavalryhat" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="5" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Cavalry Hat" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="400,406,110,61" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="40" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="400,406,110,61" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Cavalry Hat Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="400,406,110,61" origin="0.50,1.05" scale="0.6" />
+    </Wearable>
+  </Item>
+  <Item name="Face Mask" identifier="facemask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="Protect yourself and others! Always wear a mask!" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="6" minavailable="2"/>
+      <Price locationtype="city" multiplier="8" minavailable="1"/>
+      <Price locationtype="research" multiplier="10" minavailable="2"/>
+      <Price locationtype="military" multiplier="4" minavailable="2"/>
+      <Price locationtype="mine" multiplier="3" minavailable="2"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Face Mask" texture="Mods/MoreHeadgear/MoreHeadgear.png" depth="0.1" sourcerect="0,468,56,40" origin="0.5,0.5" scale="0.7" />
+    <Body width="40" radius="40" density="50" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreHeadgear.png" sourcerect="0,468,56,40" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Face Mask Wearable" texture="Mods/MoreHeadgear/MoreHeadgear.png" limb="Head" inheritlimbdepth="true" hideotherwearables="false" inherittexturescale="true" sourcerect="0,468,56,40" origin="0.35,0.15" scale="0.6" />
+    </Wearable>
+  </Item>
+</Items>

@@ -1,0 +1,1600 @@
+﻿[2/22/2021 9:04:40 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:42 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:04:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:43 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:04:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:43 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:44 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:44 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/22/2021 9:04:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:45 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:45 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:45 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:46 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/22/2021 9:04:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:46 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:46 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  terc started repairing Oxygen Generator
+[2/22/2021 9:04:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:49 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:49 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:50 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:50 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:50 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:04:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:00 PM]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[2/22/2021 9:05:00 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:00 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:05:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:04 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:04 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:05:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:04 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:05 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:05 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 25 Bleeding: 2
+[2/22/2021 9:05:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:05 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:05:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:07 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 25 Bleeding: 2
+[2/22/2021 9:05:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:07 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:08 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/22/2021 9:05:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:09 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:09 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:10 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:10 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 25 Bleeding: 2
+[2/22/2021 9:05:10 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:10 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:10 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:17 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:18 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:18 PM]
+  Mudraptor_unarmored attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:18 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:18 PM]
+  Mudraptor_unarmored attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:18 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:19 PM]
+  Mudraptor_unarmored attacked by terc. Lacerations: 1.25
+[2/22/2021 9:05:34 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 9:06:10 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:10 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:11 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:11 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:11 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:12 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:12 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:12 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:12 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:13 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:13 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:17 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:31 PM]
+  terc picked up Diving Suit
+[2/22/2021 9:06:34 PM]
+  terc dropped Diving Suit
+[2/22/2021 9:06:53 PM]
+  terc equipped Coilgun Ammunition Box
+[2/22/2021 9:06:53 PM]
+  terc picked up Coilgun Ammunition Box
+[2/22/2021 9:06:57 PM]
+  terc removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 9:07:00 PM]
+  terc placed Coilgun Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 9:07:40 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:07:49 PM]
+  terc: noted
+[2/22/2021 9:07:54 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 9:08:24 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:08:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:08:38 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/22/2021 9:08:58 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:09:08 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:09:15 PM]
+  terc failed to repair Large Engine
+[2/22/2021 9:09:18 PM]
+  Saving client permissions
+[2/22/2021 9:09:22 PM]
+  terc started repairing Large Engine
+[2/22/2021 9:09:37 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 9:09:50 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:10:14 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/22/2021 9:10:21 PM]
+  terc started repairing Small Pump
+[2/22/2021 9:10:28 PM]
+  Saving client permissions
+[2/22/2021 9:10:32 PM]
+  Saving client permissions
+[2/22/2021 9:10:50 PM]
+  terc equipped Fire Extinguisher
+[2/22/2021 9:10:50 PM]
+  terc picked up Fire Extinguisher
+[2/22/2021 9:10:55 PM]
+  terc dropped Fire Extinguisher
+[2/22/2021 9:11:04 PM]
+  Saving client permissions
+[2/22/2021 9:11:11 PM]
+  Console command "teleportsub cursor" executed by tomacatx1.
+[2/22/2021 9:11:15 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[2/22/2021 9:11:17 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:11:41 PM]
+  tomacatx1 entered "щт" on Terminal
+[2/22/2021 9:11:43 PM]
+  tomacatx1 entered "on" on Terminal
+[2/22/2021 9:11:45 PM]
+  tomacatx1 entered "off" on Terminal
+[2/22/2021 9:11:51 PM]
+  terc picked up Fuel Rod
+[2/22/2021 9:11:55 PM]
+  terc picked up Fuel Rod
+[2/22/2021 9:11:55 PM]
+  terc picked up Fuel Rod
+[2/22/2021 9:11:55 PM]
+  terc picked up Fuel Rod
+[2/22/2021 9:12:00 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:12:00 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:12:00 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:12:04 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:12:06 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:12:11 PM]
+  terc: i put in 3
+[2/22/2021 9:12:20 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:12:21 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:12:22 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:12:22 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:12:23 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:12:26 PM]
+  terc equipped Fuel Rod
+[2/22/2021 9:12:29 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:12:31 PM]
+  tomacatx1 placed Fuel Rod in Fabricator (ID: 867)
+[2/22/2021 9:12:32 PM]
+  tomacatx1 placed Fuel Rod in Fabricator (ID: 867)
+[2/22/2021 9:12:32 PM]
+  tomacatx1 placed Fuel Rod in Fabricator (ID: 867)
+[2/22/2021 9:12:32 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:12:33 PM]
+  tomacatx1 placed Fuel Rod in Fabricator (ID: 867)
+[2/22/2021 9:12:38 PM]
+  Console command "spawnitem "Fuel Rod" inventory" executed by tomacatx1.
+[2/22/2021 9:12:39 PM]
+  Console command "spawnitem "Fuel Rod" inventory" executed by tomacatx1.
+[2/22/2021 9:12:39 PM]
+  Console command "spawnitem "Fuel Rod" inventory" executed by tomacatx1.
+[2/22/2021 9:12:44 PM]
+  terc started repairing Pump
+[2/22/2021 9:12:54 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:12:54 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:12:54 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:12:55 PM]
+  Lester failed to repair Battery
+[2/22/2021 9:13:03 PM]
+  Lester started repairing Battery
+[2/22/2021 9:13:27 PM]
+  Lester failed to repair Junction Box
+[2/22/2021 9:13:34 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:13:56 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:13:59 PM]
+  terc picked up Diving Suit
+[2/22/2021 9:14:04 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 9:14:09 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:14:16 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:14:17 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:14:39 PM]
+  Lester started repairing Battery
+[2/22/2021 9:14:41 PM]
+  terc started repairing Nuclear Reactor
+[2/22/2021 9:14:51 PM]
+  tomacatx1 entered "щаа" on Terminal
+[2/22/2021 9:14:53 PM]
+  tomacatx1 entered "off" on Terminal
+[2/22/2021 9:14:54 PM]
+  Lester started repairing Battery
+[2/22/2021 9:14:55 PM]
+  tomacatx1 entered "15" on Terminal
+[2/22/2021 9:15:03 PM]
+  terc started repairing Large Engine
+[2/22/2021 9:15:07 PM]
+  terc dropped Diving Suit
+[2/22/2021 9:15:10 PM]
+  Lester started repairing Battery
+[2/22/2021 9:15:29 PM]
+  Lester started repairing Battery
+[2/22/2021 9:15:33 PM]
+  terc: i think there was
+[2/22/2021 9:15:51 PM]
+  Lester placed Body Armor in Toolbelt (ID: 3877)
+[2/22/2021 9:15:52 PM]
+  Lester picked up Diving Suit
+[2/22/2021 9:15:53 PM]
+  terc picked up Diving Suit
+[2/22/2021 9:15:59 PM]
+  terc started repairing Fabricator
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:30 PM]
+  Mudraptor attacked by Lester. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[2/22/2021 9:16:30 PM]
+  Mudraptor attacked by Lester. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[2/22/2021 9:16:30 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:30 PM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[2/22/2021 9:16:30 PM]
+  Mudraptor attacked by Lester. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[2/22/2021 9:16:33 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[2/22/2021 9:16:36 PM]
+  Mudraptor attacked by Lester. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[2/22/2021 9:16:40 PM]
+  terc started repairing Small Pump
+[2/22/2021 9:16:41 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:16:47 PM]
+  Lester placed SMG in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:16:51 PM]
+  Lester picked up Flamer
+[2/22/2021 9:16:52 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:16:54 PM]
+  terc started repairing Deconstructor
+[2/22/2021 9:17:05 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:17:07 PM]
+  Lester dropped Diving Suit
+[2/22/2021 9:17:08 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:17:08 PM]
+  tomacatx1 dropped Fuel Rod
+[2/22/2021 9:17:08 PM]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:17:10 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:17:13 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 32, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:15 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 35, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:16 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 85, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:17 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 539, Fission rate: 82, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:18 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 1444, Fission rate: 63, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:19 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 819, Fission rate: 73, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:20 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 1775, Fission rate: 83, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:21 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2496, Fission rate: 86, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:22 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2691, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:24 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2791, Fission rate: 98, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:25 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 9:17:25 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2797, Fission rate: 83, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:31 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2799, Fission rate: 81, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:32 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2316, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:34 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2592, Fission rate: 100, Turbine output: 92, Autotemp OFF
+[2/22/2021 9:17:35 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 3471, Fission rate: 100, Turbine output: 63, Autotemp OFF
+[2/22/2021 9:17:39 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 6410, Fission rate: 80, Turbine output: 63, Autotemp ON
+[2/22/2021 9:17:43 PM]
+  Lester failed to repair Supercapacitor
+[2/22/2021 9:17:43 PM]
+  terc started repairing Pump
+[2/22/2021 9:17:50 PM]
+  Lester failed to repair Supercapacitor
+[2/22/2021 9:17:53 PM]
+  Console command "spawnitem "Welding Fuel Tank" inventory" executed by tomacatx1.
+[2/22/2021 9:17:53 PM]
+  Console command "spawnitem "Welding Fuel Tank" inventory" executed by tomacatx1.
+[2/22/2021 9:17:54 PM]
+  Console command "spawnitem "Welding Fuel Tank" inventory" executed by tomacatx1.
+[2/22/2021 9:17:57 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 9:17:57 PM]
+  tomacatx1 picked up Welding Fuel Tank
+[2/22/2021 9:17:57 PM]
+  tomacatx1 dropped Welding Fuel Tank
+[2/22/2021 9:17:57 PM]
+  tomacatx1 placed Welding Fuel Tank in Welding Tool (ID: 382)
+[2/22/2021 9:17:58 PM]
+  tomacatx1 placed Welding Fuel Tank in Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:17:59 PM]
+  tomacatx1 placed Welding Fuel Tank in Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:17:59 PM]
+  tomacatx1 placed Welding Fuel Tank in Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:18:10 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:10 PM]
+  terc dropped Diving Suit
+[2/22/2021 9:18:11 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:11 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:12 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:13 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:15 PM]
+  terc started repairing Nuclear Reactor
+[2/22/2021 9:18:17 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 9:18:21 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 206)
+[2/22/2021 9:18:21 PM]
+  tomacatx1 removed Oxygen Tank from Oxygen Tank Shelf (ID: 206)
+[2/22/2021 9:18:21 PM]
+  tomacatx1 placed Oxygen Tank in Diving Mask (ID: 3309)
+[2/22/2021 9:18:25 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 182)
+[2/22/2021 9:18:31 PM]
+  terc started repairing Large Engine
+[2/22/2021 9:18:38 PM]
+  Lester started repairing Navigation Terminal
+[2/22/2021 9:18:46 PM]
+  Lester started repairing Status Monitor
+[2/22/2021 9:18:52 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 9:18:54 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 9:18:56 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 9:18:58 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 9:18:59 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 9:19:10 PM]
+  Lester equipped Flamer
+[2/22/2021 9:19:25 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 9:19:26 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 9:19:27 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 9:19:31 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[2/22/2021 9:19:32 PM]
+  terc: i kind of did a stupid move
+[2/22/2021 9:19:44 PM]
+  terc: i went down in the designated xeno room
+[2/22/2021 9:19:46 PM]
+  terc: got mauled
+[2/22/2021 9:19:49 PM]
+  terc: didnt realise it
+[2/22/2021 9:21:26 PM]
+  terc launched Railgun (projectile: Railgun Shell, contained items: IC-4 Block)
+[2/22/2021 9:21:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:21:49 PM]
+  Lester failed to repair Junction Box
+[2/22/2021 9:21:56 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:22:32 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:22:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:22:51 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:23:06 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:23:12 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:23:13 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:14 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:15 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:15 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:15 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:15 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:15 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:15 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:16 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:16 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:16 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:16 PM]
+  Swarmcrawler has died (Cause of death: Lacerations)
+[2/22/2021 9:23:16 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:18 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:18 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:19 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:19 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:19 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:19 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:19 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:20 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:23:20 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:20 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:20 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:23:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:21 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:23:21 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:22 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:23:22 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:24 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:24 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:24 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:25 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:25 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:26 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:26 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:26 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:27 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:27 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:27 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:27 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:27 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:28 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:28 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:28 PM]
+  Leucocyte has died (Cause of death: Oxygen low)
+[2/22/2021 9:23:28 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:23:28 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:28 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:28 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:29 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:29 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:29 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:29 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:29 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:29 PM]
+  Swarmcrawler has died (Cause of death: Lacerations)
+[2/22/2021 9:23:29 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:30 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:30 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:30 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:30 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:31 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:31 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:31 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:32 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:32 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:23:32 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:32 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:32 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:32 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:33 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:23:33 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:33 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:33 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:34 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:35 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:35 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:35 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:36 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:36 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:36 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:36 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:37 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:23:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:38 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:41 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:42 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:43 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:44 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:45 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:45 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:46 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:23:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:47 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:47 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:47 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:48 PM]
+  Swarmcrawler has died (Cause of death: Lacerations)
+[2/22/2021 9:23:48 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:48 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:23:50 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:51 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:23:51 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:23:53 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:24:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:00 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:01 PM]
+  Swarmcrawler has died (Cause of death: Lacerations)
+[2/22/2021 9:24:01 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:02 PM]
+  Outer wall breached by Lester
+[2/22/2021 9:24:04 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:07 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:24:09 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:11 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:24:15 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:15 PM]
+  Outer wall breached by Lester
+[2/22/2021 9:24:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:18 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:22 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:26 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:27 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:24:28 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:30 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:30 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:30 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:31 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:32 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:33 PM]
+  Leucocyte has died (Cause of death: Bite wounds)
+[2/22/2021 9:24:33 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:24:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:38 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:39 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:40 PM]
+  Outer wall breached by Lester
+[2/22/2021 9:24:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:40 PM]
+  Outer wall breached by Lester
+[2/22/2021 9:24:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:41 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:24:45 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:49 PM]
+  terc failed to repair Coilgun Loader
+[2/22/2021 9:24:49 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:50 PM]
+  terc started repairing Coilgun Loader
+[2/22/2021 9:24:50 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:51 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:51 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:51 PM]
+  Outer wall breached by Lester
+[2/22/2021 9:24:52 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:52 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:52 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:52 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:52 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:53 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:53 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:53 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:53 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:53 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:53 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:54 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:54 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:54 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:54 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:54 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:55 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:55 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:24:55 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:55 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:55 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:56 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:56 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:56 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:56 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:56 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:24:56 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:57 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:57 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:57 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:57 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:57 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:57 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:58 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:58 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:58 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:58 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:59 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:24:59 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:24:59 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:24:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:00 PM]
+  Swarmcrawler has died (Cause of death: Lacerations)
+[2/22/2021 9:25:00 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:01 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:01 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:02 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:03 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:03 PM]
+  Swarmcrawler has died (Cause of death: Lacerations)
+[2/22/2021 9:25:03 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:05 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:06 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:11 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:25:11 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 9:25:12 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:25:14 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[2/22/2021 9:25:14 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 9:25:16 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 9:25:17 PM]
+  tomacatx1 placed Coilgun Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 9:25:17 PM]
+  terc has left the server. Reason: terc has disconnected.
+[2/22/2021 9:25:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:18 PM]
+  Outer wall breached by Lester
+[2/22/2021 9:25:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:19 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:19 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:19 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:20 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:25:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:21 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:21 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:21 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:21 PM]
+  Outer wall breached by Swarmcrawler
+[2/22/2021 9:25:22 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:22 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:22 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:22 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:22 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:22 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:23 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:23 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:23 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:24 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:25 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:26 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:26 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:26 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:29 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:29 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:29 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:30 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:31 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:31 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:32 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:25:32 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:33 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:33 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:33 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:33 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:33 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:35 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:35 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:37 PM]
+  Outer wall breached by Lester
+[2/22/2021 9:25:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:41 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:41 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:25:41 PM]
+  Swarmcrawler has died (Cause of death: Lacerations)
+[2/22/2021 9:25:41 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:25:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:05 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:08 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:09 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:13 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:15 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:15 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:15 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:17 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:38 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:39 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:40 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:41 PM]
+  Swarmcrawler has died (Cause of death: Lacerations)
+[2/22/2021 9:26:41 PM]
+  Swarmcrawler attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:26:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:26:57 PM]
+  tomacatx1 dropped Welding Tool
+[2/22/2021 9:26:59 PM]
+  Lester equipped Welding Tool
+[2/22/2021 9:26:59 PM]
+  Lester picked up Welding Tool
+[2/22/2021 9:27:01 PM]
+  Lester dropped Welding Tool
+[2/22/2021 9:27:07 PM]
+  Lester picked up Diving Suit
+[2/22/2021 9:27:08 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 9:27:09 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 9:27:15 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[2/22/2021 9:27:15 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 9:27:17 PM]
+  Outer wall repaired by Lester
+[2/22/2021 9:27:18 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[2/22/2021 9:27:18 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 9:27:21 PM]
+  tomacatx1 placed Coilgun Ammunition Box in Coilgun Loader (ID: 778)
+[2/22/2021 9:27:29 PM]
+  Outer wall repaired by Lester
+[2/22/2021 9:27:32 PM]
+  tomacatx1 failed to repair Supercapacitor
+[2/22/2021 9:27:40 PM]
+  tomacatx1 started repairing Supercapacitor
+[2/22/2021 9:27:45 PM]
+  Leucocyte has died (Cause of death: Oxygen low)
+[2/22/2021 9:27:50 PM]
+  Outer wall repaired by Lester
+[2/22/2021 9:27:51 PM]
+  Outer wall repaired by Lester
+[2/22/2021 9:27:54 PM]
+  Outer wall repaired by Lester
+[2/22/2021 9:28:01 PM]
+  Inner wall repaired by Lester
+[2/22/2021 9:28:09 PM]
+  tomacatx1 started repairing Small Pump
+[2/22/2021 9:28:37 PM]
+  tomacatx1 started repairing Nuclear Reactor
+[2/22/2021 9:28:55 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:28:57 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:28:57 PM]
+  tomacatx1 dropped Fuel Rod
+[2/22/2021 9:28:57 PM]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:28:59 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:29:03 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 38, Turbine output: 83, Autotemp OFF
+[2/22/2021 9:29:04 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 36, Turbine output: 83, Autotemp OFF
+[2/22/2021 9:29:05 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 116, Fission rate: 100, Turbine output: 48, Autotemp OFF
+[2/22/2021 9:29:06 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 1116, Fission rate: 100, Turbine output: 41, Autotemp OFF
+[2/22/2021 9:29:07 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2116, Fission rate: 100, Turbine output: 41, Autotemp OFF
+[2/22/2021 9:29:08 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 3116, Fission rate: 83, Turbine output: 42, Autotemp ON
+[2/22/2021 9:29:09 PM]
+  Lester started repairing Small Pump
+[2/22/2021 9:29:18 PM]
+  tomacatx1 started repairing Large Engine
+[2/22/2021 9:29:26 PM]
+  Lester failed to repair Junction Box
+[2/22/2021 9:29:33 PM]
+  Lester failed to repair Junction Box
+[2/22/2021 9:29:40 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:29:50 PM]
+  tomacatx1 picked up Welding Tool
+[2/22/2021 9:30:00 PM]
+  tomacatx1 placed Welding Fuel Tank in Welding Tool (ID: 3320)
+[2/22/2021 9:30:09 PM]
+  Lester dropped Diving Suit
+[2/22/2021 9:30:09 PM]
+  tomacatx1 failed to repair Supercapacitor
+[2/22/2021 9:30:14 PM]
+  Lester dropped Oxygen Tank
+[2/22/2021 9:30:17 PM]
+  terc has died (Cause of death: Disconnected)
+[2/22/2021 9:30:29 PM]
+  Lester placed Welding Tool in Toolbelt (ID: 3877)
+[2/22/2021 9:31:05 PM]
+  Lester started repairing Battery
+[2/22/2021 9:31:26 PM]
+  Lester started repairing Battery
+[2/22/2021 9:31:46 PM]
+  Lester started repairing Battery
+[2/22/2021 9:32:05 PM]
+  Lester started repairing Battery
+[2/22/2021 9:32:25 PM]
+  Lester started repairing Oxygen Generator
+[2/22/2021 9:32:46 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:33:06 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:33:19 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:33:34 PM]
+  Lester failed to repair Junction Box
+[2/22/2021 9:33:41 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:34:04 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 9:34:15 PM]
+  Ending round (submarine reached the end of the level)
+[2/22/2021 9:34:15 PM]
+  Ending the round...

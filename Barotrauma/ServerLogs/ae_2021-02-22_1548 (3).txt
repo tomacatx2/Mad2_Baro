@@ -1,0 +1,58 @@
+﻿[2/22/2021 3:16:45 PM]
+  Starting the server...
+[2/22/2021 3:16:45 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[2/22/2021 3:16:47 PM]
+  Server started
+[2/22/2021 3:17:26 PM]
+  tomacatx1 has joined the server.
+[2/22/2021 3:17:26 PM]
+  Saving client permissions
+[2/22/2021 3:17:52 PM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[2/22/2021 3:27:33 PM]
+  tomacatx1 has joined the server.
+[2/22/2021 3:27:33 PM]
+  Saving client permissions
+[2/22/2021 3:27:39 PM]
+  Player tomacatx1 has changed their name to tomacatx.
+[2/22/2021 3:33:20 PM]
+  Gamemode changed to Sandbox
+[2/22/2021 3:33:20 PM]
+  Gamemode changed to Mission
+[2/22/2021 3:33:21 PM]
+  Gamemode changed to PvP
+[2/22/2021 3:33:25 PM]
+  Gamemode changed to Mission
+[2/22/2021 3:33:26 PM]
+  Gamemode changed to PvP
+[2/22/2021 3:33:27 PM]
+  Gamemode changed to Mission
+[2/22/2021 3:33:27 PM]
+  Gamemode changed to PvP
+[2/22/2021 3:33:28 PM]
+  Gamemode changed to Mission
+[2/22/2021 3:33:28 PM]
+  Gamemode changed to Mission
+[2/22/2021 3:33:29 PM]
+  Gamemode changed to PvP
+[2/22/2021 3:33:34 PM]
+  Gamemode changed to Mission
+[2/22/2021 3:47:42 PM]
+  TornMap has joined the server.
+[2/22/2021 3:47:42 PM]
+  Saving client permissions
+[2/22/2021 3:47:48 PM]
+  TornMap has left the server. Reason: TornMap has disconnected.
+[2/22/2021 3:47:48 PM]
+  tomacatx: aw
+[2/22/2021 3:47:49 PM]
+  tomacatx: FUCK 
+[2/22/2021 3:47:50 PM]
+  tomacatx: yeah
+[2/22/2021 3:48:17 PM]
+  tomacatx has left the server. Reason: tomacatx has disconnected.
+[2/22/2021 3:48:21 PM]
+  Saving banlist
+[2/22/2021 3:48:21 PM]
+  Shutting down the server...

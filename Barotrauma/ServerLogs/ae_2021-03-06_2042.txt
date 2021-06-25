@@ -1,0 +1,8 @@
+﻿[3/6/2021 8:37:12 PM]
+  Saving client permissions
+[3/6/2021 8:39:30 PM]
+  tomacatx1 changed PlayStyle to Casual
+[3/6/2021 8:39:30 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[3/6/2021 8:39:30 PM]
+  tomacatx1 changed ModeSelectionMode to Manual

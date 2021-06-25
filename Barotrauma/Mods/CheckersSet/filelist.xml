@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="CheckersSet" path="Mods/CheckersSet/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2508909624" installtime="1623983261">
+  <Item file="Mods/CheckersSet/Checkers.xml" />
+  <None file="Mods/CheckersSet/Checkerboard.png" />
+  <None file="Mods/CheckersSet/CheckerPiece.png" />
+</contentpackage>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Multitool" identifier="multitool" category="Equipment" Tags="smallitem,tool,screwdriver,wrench,crowbar" cargocontaineridentifier="metalcrate" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="reactorcab" minamount="0" maxamount="2" spawnprobability="0.5"/>
+	<PreferredContainer primary="engcab" minamount="1" maxamount="2" spawnprobability="1"/>
+    <PreferredContainer primary="wreckstoragecab" minamount="0" maxamount="1" spawnprobability="0.125"/>
+    <Price locationtype="City" buyprice="40" />
+    <Price locationtype="Research" buyprice="40" />
+    <Price locationtype="Military" buyprice="40" />
+    <Price locationtype="Outpost" buyprice="40" />
+    <Price locationtype="Mine" buyprice="40" />
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+	  <RequiredSkill identifier="mechanical" level="40" />
+      <RequiredItem identifier="screwdriver" />
+	  <RequiredItem identifier="wrench" />
+	  <RequiredItem identifier="crowbar" />
+    </Fabricate>
+    <Deconstruct time="10">
+      <Item identifier="screwdriver" />
+	  <Item identifier="wrench" />
+	  <Item identifier="crowbar" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/DelgsMod/Items/toolsAtlas.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
+    <Sprite texture="Mods/DelgsMod/Items/tools.png" sourcerect="0,0,38,8" depth="0.55" origin="0.5,0.5" />
+    <Body width="31" height="6" density="50" />
+    <MeleeWeapon slots="Any,RightHand,LeftHand" aimpos="40,5" handle1="-10,-5" holdangle="60" reload="1.0" range="50" combatpriority="10" msg="ItemMsgPickUpSelect">
+      <Attack structuredamage="5" itemdamage="5" stun="0.3" targetimpulse="20">
+        <Affliction identifier="lacerations" strength="6" />
+        <Affliction identifier="bleeding" strength="3" />
+        <Sound file="Content/Sounds/Damage/LimbSlash1.ogg" selectionmode="random" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash2.ogg" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash3.ogg" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash4.ogg" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash5.ogg" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash6.ogg" range="500" />
+      </Attack>
+    </MeleeWeapon>
+    <aitarget sightrange="1000" soundrange="500" fadeouttime="1" />
+  </Item>
+  <Item name="" identifier="taser" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,weapon,gun" Scale="0.32" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="armcab" minamount="2" maxamount="2" spawnprobability="1"/>
+    <PreferredContainer primary="wreckarmcab" minamount="0" maxamount="1" spawnprobability="0.25"/>
+    <Price locationtype="Military" buyprice="75" />
+    <Price locationtype="City" buyprice="150" />
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="medical" level="30"/>
+      <RequiredItem identifier="steel"/>
+      <RequiredItem identifier="plastic"/>
+    </Fabricate>
+    <Deconstruct time="10">
+      <Item identifier="steel" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/DelgsMod/Items/toolsAtlas.png" sourcerect="128,0,64,64" origin="0.5,0.5" />
+    <Sprite texture="Mods/DelgsMod/Items/taser.png" sourcerect="0,0,130,72" depth="0.55" origin="0.5,0.5" />
+    <Body width="70" height="40" density="50" />
+    <Holdable slots="Any,RightHand,LeftHand" controlpose="true" aimpos="90,10" handle1="-25,-15" msg="ItemMsgPickUpSelect"/>
+    <RangedWeapon barrelpos="14,6" spread="0" unskilledspread="2" combatPriority="100" drawhudwhenequipped="true" crosshairscale="0.2">
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,256,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,256,256,256" />
+      <Sound file="Content/Items/Weapons/TaserShot1.ogg" type="OnUse" range="3000" selectionmode="Random" />
+      <Sound file="Content/Items/Weapons/TaserShot2.ogg" type="OnUse" range="3000" />
+      <StatusEffect type="OnUse" target="Contained">
+        <Explosion range="100.0" force="2" shockwave="false" smoke="false" flames="false" sparks="false" underwaterbubble="false" camerashake="2.0" />
+		<Use />
+      </StatusEffect>
+      <RequiredItems items="taserammo" type="Contained" msg="ItemMsgAmmoRequired" />
+      <RequiredSkill identifier="weapons" level="20" />
+    </RangedWeapon>
+    <ItemContainer capacity="1" hideitems="true">
+      <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="2,121,53,22" />
+      <Containable items="taserammo" />
+    </ItemContainer>
+    <aitarget sightrange="0" soundrange="0" />
+  </Item>
+  <Item name="" identifier="stunmagazine" scale="0.32" category="Equipment" cargocontaineridentifier="metalcrate" linkable="true" tags="smallitem,taserammo,loadable" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="taser" minamount="1" maxamount="1" spawnprobability="1"/>
+    <PreferredContainer primary="secarmcab" minamount="1" maxamount="3" spawnprobability="0.25"/>
+    <PreferredContainer primary="wrecksecarmcab" minamount="0" maxamount="3" spawnprobability="0.33"/>
+    <Price locationtype="Military" buyprice="30" />
+    <Price locationtype="City" buyprice="50" />
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredItem identifier="plastic" />
+	  <RequiredItem identifier="stungundart" />
+    </Fabricate>
+    <Deconstruct time="10">
+      <Item identifier="plastic"/>
+	  <Item identifier="stungundart"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/DelgsMod/Items/toolsAtlas.png" sourcerect="192,0,64,64" />
+    <Sprite texture="Mods/DelgsMod/Items/toolsAtlas.png" depth="0.54" sourcerect="192,0,64,64" origin="0.5,0.5" />
+    <Body width="50" height="50" density="50" />
+    <ItemContainer hideitems="true" capacity="1" drawinventory="false" canbeselected="false" ShowConditionInContainedStateIndicator="true">
+      <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="2,121,53,22" />
+      <Containable items="taserdart" />
+      <!--Spawn an SMG round on use. Condition -5.0 -> 20 shots per magazine.-->
+      <StatusEffect type="OnUse" target="This" condition="-25.0" disabledeltatime="true">
+        <SpawnItem identifiers="taserdart" spawnposition="ThisInventory" />
+      </StatusEffect>
+    </ItemContainer>
+    <!--Magazines can be combined to raise condition.-->
+    <Holdable canBeCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect" />
+  </Item>
+  <Item name="Taser Dart" identifier="taserdart" category="Equipment" interactthroughwalls="true" cargocontaineridentifier="metalcrate" tags="smallitem" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="stunmagazine" minamount="1" maxamount="1" spawnprobability="1"/>
+    <InventoryIcon texture="Content/Items/InventoryIconAtlas.png" sourcerect="766,576,64,64" origin="0.5,0.5" />
+    <Sprite texture="Content/Items/Weapons/weapons_new.png" sourcerect="127,49,36,9" depth="0.55" origin="0.5,0.5" />
+    <Body width="35" height="8" density="40" />
+    <Pickable slots="Any" msg="ItemMsgPickUpSelect"/>
+    <!--Non-lethal projectile sticks to characters and stuns them for 10 seconds.-->
+    <Projectile characterusable="false" launchimpulse="20.0" sticktocharacters="true">
+      <Attack structuredamage="0" targetforce="2">
+        <Affliction identifier="stun" strength="10" />
+      </Attack>
+      <StatusEffect type="OnImpact" target="This">
+        <Sound file="Content/Items/Weapons/TaserHit1.ogg" type="OnUse" range="3000" selectionmode="Random" />
+        <Sound file="Content/Items/Weapons/TaserHit2.ogg" type="OnUse" range="3000" />
+        <Remove />
+      </StatusEffect>
+      <StatusEffect type="OnImpact" target="UseTarget">
+        <Conditional entitytype="eq Structure"/>
+        <Conditional hastag="eq door"/>
+        <ParticleEmitter particle="spark" copyentityangle="true" anglemin="-10" anglemax="10" particleamount="5" velocitymin="-10" velocitymax="-200" scalemin="0.5" scalemax="1" />
+      </StatusEffect>
+    </Projectile>
+  </Item>
+  <Item name="" identifier="cleaver" category="Equipment" Tags="smallitem,weapon" cargocontaineridentifier="metalcrate" scale="0.3" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="pantry" minamount="0" maxamount="1" spawnprobability="1"/>
+    <Price locationtype="City" buyprice="10" />
+    <Price locationtype="Research" buyprice="10" />
+    <Price locationtype="Military" buyprice="10" />
+    <Price locationtype="Outpost" buyprice="20" />
+    <Deconstruct time="10">
+      <Item identifier="iron" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="weapons" level="30" />
+      <RequiredItem identifier="iron" />
+    </Fabricate>
+    <InventoryIcon texture="Mods/DelgsMod/Items/toolsAtlas.png" sourcerect="64,0,64,64" origin="0.5,0.5" />
+    <Sprite texture="Mods/DelgsMod/Items/cleaver.png" sourcerect="0,0,138,62" depth="0.55" origin="0.5,0.5" />
+    <Body width="138" height="62" density="50" />
+    <MeleeWeapon slots="Any,RightHand,LeftHand" aimpos="50,0" handle1="-10,3" holdangle="90" reload="0.5" range="50" combatPriority="25" msg="ItemMsgPickUpSelect">
+      <Attack targetimpulse="10" severlimbsprobability="0.1" itemdamage="10">
+        <Affliction identifier="lacerations" strength="15" />
+        <Affliction identifier="bleeding" strength="10" />
+        <Affliction identifier="stun" strength="0.2" />
+        <Sound file="Content/Sounds/Damage/LimbSlash1.ogg" selectionmode="random" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash2.ogg" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash3.ogg" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash4.ogg" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash5.ogg" range="500" />
+        <Sound file="Content/Sounds/Damage/LimbSlash6.ogg" range="500" />
+      </Attack>
+    </MeleeWeapon>
+    <aitarget sightrange="500" soundrange="250" fadeouttime="1" />
+  </Item>
+</Items>

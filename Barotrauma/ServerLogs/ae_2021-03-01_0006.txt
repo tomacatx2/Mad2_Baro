@@ -1,0 +1,16 @@
+﻿[3/1/2021 12:02:27 AM]
+  Starting the server...
+[3/1/2021 12:02:27 AM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[3/1/2021 12:02:28 AM]
+  Server started
+[3/1/2021 12:02:38 AM]
+  tomacatx1 has joined the server.
+[3/1/2021 12:02:38 AM]
+  Saving client permissions
+[3/1/2021 12:03:01 AM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[3/1/2021 12:06:33 AM]
+  Saving banlist
+[3/1/2021 12:06:33 AM]
+  Shutting down the server...

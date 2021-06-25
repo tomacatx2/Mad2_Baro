@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="MedOverhaul" path="Mods/MedOverhaul/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2478503476" installtime="1621041762">
+  <Item file="Mods/MedOverhaul/item/medicaltools.xml" />
+  <Item file="Mods/MedOverhaul/item/biofoam.xml" />
+  <Afflictions file="Mods/MedOverhaul/Afflictions.xml" />
+  <Item file="Mods/MedOverhaul/item/medicineoverrides.xml" />
+  <None file="Mods/MedOverhaul/item/bandageatlas.png" />
+  <None file="Mods/MedOverhaul/item/biofoam.png" />
+  <None file="Mods/MedOverhaul/item/biofoamatlas.png" />
+  <None file="Mods/MedOverhaul/item/Green100MedicinesAtlas.png" />
+  <None file="Mods/MedOverhaul/item/injector.png" />
+  <None file="Mods/MedOverhaul/item/injectoratlas.png" />
+  <None file="Mods/MedOverhaul/item/Medicines.png" />
+  <None file="Mods/MedOverhaul/item/MedicinesGreen100.png" />
+  <None file="Mods/MedOverhaul/item/retractor.png" />
+  <None file="Mods/MedOverhaul/item/retractoratlas.png" />
+  <None file="Mods/MedOverhaul/item/scalpel.png" />
+  <None file="Mods/MedOverhaul/item/scalpelatlas.png" />
+  <None file="Mods/MedOverhaul/item/scanner.png" />
+  <None file="Mods/MedOverhaul/item/scanneratlas.png" />
+  <None file="Mods/MedOverhaul/item/suturegun.png" />
+  <None file="Mods/MedOverhaul/item/suturegunatlas.png" />
+  <None file="Mods/MedOverhaul/item/worm.png" />
+  <None file="Mods/MedOverhaul/item/wormatlas.png" />
+</contentpackage>

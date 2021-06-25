@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TraitorMissions>
+  <!--Mission 7: "I'm the captain now"-->
+  <!--TODO: Texts-->
+  <!--Objective 1: Find captain's cap-->
+  <!--Objective 2: Kill captain-->
+
+  <TraitorMission identifier="mutiny">
+    <Icon texture="Content/UI/MissionIcons.png" sourcerect="0,0,256,256" color="200,0,0,255"/>
+    <StartInfoText id="traitormutinystartmessage"/>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageFailure id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitormutinyobjective1"/>
+      <Goal type="finditem" identifier="captainscap1" preferNew="true" allowNew="true" allowExisting="false" allowedContainers="loosevent,loosepanel,crewcab">
+        <InfoText id="traitorgoalfinditeminfo" />
+      </Goal>
+    </Objective>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageSuccess id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitormutinyobjective2"/>
+      <Goal type="killtarget" job="captain">
+        <InfoText id="traitorgoalkilltargetinfo"/>
+      </Goal>
+    </Objective>
+  </TraitorMission>
+  
+  <!--Mission 8: "Reactor Sabotage"-->
+  <!--TODO: Texts-->
+  <!--Objective 1: Desconstruct 70% of the fuel rods-->
+  <!--Objective 2: Kill an engineer-->
+  <!--Objective 3: Destroy the Reactor-->
+
+  <TraitorMission identifier="reactor">
+    <Icon texture="Content/UI/MissionIcons.png" sourcerect="0,0,256,256" color="200,0,0,255"/>
+    <StartInfoText id="traitorreactorstartmessage"/>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageFailure id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitorreactorobjective1"/>
+      <Goal type="destroyitems" tag="reactorfuel" percentage="70">
+        <InfoText id="traitorreactorinfotext1" />
+      </Goal>
+    </Objective>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageSuccess id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitorreactorobjective2"/>
+      <Goal type="killtarget" job="engineer">
+        <InfoText id="traitorgoalkilltargetinfo"/>
+      </Goal>
+    </Objective>
+	
+	<Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageFailure id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitorreactorobjective3"/>
+      <Goal type="sabotage" tag="reactor" threshold="0">
+        <InfoText id="traitorreactorinfotext3" />
+      </Goal>
+    </Objective>
+  </TraitorMission>
+  
+  <!--Mission 9: "Easter bunny 2"-->
+  <!--Objective 1: Find mudraptor egg-->
+  <!--Objective 2: Destroy 50% of coilgun ammo-->
+  <!--Objective 3: Feed the egg saline until it hatches.-->
+
+  <TraitorMission identifier="easterbunny2">
+    <Icon texture="Content/UI/MissionIcons.png" sourcerect="0,0,256,256" color="200,0,0,255"/>
+    <StartInfoText id="traitoreaster2startmessage"/>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageSuccess id="easterbunny_objectivesuccessmessage1"/>
+      <StartMessage id="flood_1_traitorobjectivestartmessage1"/>
+      <Goal type="finditem" identifier="smallmudraptoregg" preferNew="true" allowNew="true" allowExisting="false" allowedContainers="loosevent">
+        <InfoText id="easterbunny_goalinfotext_1"/>
+      </Goal>
+    </Objective>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageFailure id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitoreaster2objective2"/>
+      <Goal type="destroyitems" tag="coilgunammo" percentage="50">
+        <InfoText id="traitoreaster2infotext2" />
+      </Goal>
+    </Objective>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageSuccess id="easterbunny_objectivesuccessmessage2"/>
+      <StartMessage id="easterbunny_traitorobjectivestartmessage2"/>
+      <Goal type="transformentity" entities="smallmudraptoregg,mediummudraptoregg,largemudraptoregg,mudraptor" entitytypes="item,item,item,character" catalystid="antibloodloss1">
+        <InfoText id="easterbunny_goalinfotext_2" />
+      </Goal>
+    </Objective>
+  </TraitorMission>
+  
+  <!--Mission 10: "Pacifism"-->
+  <!--TODO: Texts-->
+  <!--Objective 1: Kill Security-->
+  <!--Objective 2: Destroy 50% of ship weapons.-->
+
+  <TraitorMission identifier="pacifism">
+    <Icon texture="Content/UI/MissionIcons.png" sourcerect="0,0,256,256" color="200,0,0,255"/>
+    <StartInfoText id="traitorpacifismstartmessage"/>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageSuccess id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitorpacifismobjective1"/>
+      <Goal type="killtarget" job="security">
+        <InfoText id="traitorgoalkilltargetinfo"/>
+      </Goal>
+    </Objective>
+	
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageFailure id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitorpacifismobjective2"/>
+      <Goal type="destroyitems" tag="weapon" percentage="50">
+        <InfoText id="traitorpacifisminfotext2" />
+      </Goal>
+    </Objective>
+  </TraitorMission>
+  
+  <!--Mission 11: "Fire"-->
+  <!--Objective 1: Find incendium grenade-->
+  <!--Objective 2: Destroy 90% of extinguishers-->
+  <!--Objective 3: Burn someone to death.-->
+
+  <TraitorMission identifier="fire">
+    <Icon texture="Content/UI/MissionIcons.png" sourcerect="0,0,256,256" color="200,0,0,255"/>
+    <StartInfoText id="traitorfirestartmessage"/>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageSuccess id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitorfireobjective1"/>
+      <Goal type="finditem" identifier="incendiumgrenade" preferNew="true" allowNew="true" allowExisting="false" allowedContainers="loosevent">
+        <InfoText id="traitorgoalfinditeminfo"/>
+      </Goal>
+    </Objective>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageFailure id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitorfireobjective2"/>
+      <Goal type="destroyitems" tag="fireextinguisher" percentage="90">
+        <InfoText id="traitorfireinfotext2" />
+      </Goal>
+    </Objective>
+
+    <Objective>
+      <EndMessageFailure id="traitormissionfailuremessage"/>
+      <EndMessageSuccess id="traitormissionsuccessmessage"/>
+      <StartMessage id="traitorfireobjective3"/>
+      <Goal type="killtarget" causeofdeath="burn,suffocation">
+        <InfoText id="traitorfireinfotext3" />
+      </Goal>
+    </Objective>
+  </TraitorMission>
+</TraitorMissions>

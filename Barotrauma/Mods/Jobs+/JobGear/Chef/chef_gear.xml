@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="" identifier="chefhat1" aliases="chefhat" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.125" />
+    <Price locationtype="Research" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Sprite name="Chef's Hat 1" texture="Mods/Jobs+/JobGear/Chef/ChefHat.png" depth="0.6" sourcerect="0,0,100,100" origin="0.5,0.5" />
+    <Body width="75" height="75" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Chef's Hat 1 Wearable" texture="Mods/Jobs+/JobGear/Chef/ChefHat.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="false" sourcerect="0,0,100,100" origin="0.6,1.0" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="chefuniform1" aliases="chefuniform" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.125" />
+    <Price locationtype="Research" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <InventoryIcon name="Chef Uniform 1 Icon" texture="Mods/Jobs+/JobGear/Chef/ChefOutfit.png" sourcerect="128,151,128,105" origin="0.5,0.5" />
+    <Sprite name="Chef Uniform 1" texture="Mods/Jobs+/JobGear/Chef/MiscChefGear.png" sourcerect="0,0,182,70" depth="0.6" origin="0.5,0.5" />
+    <Body width="100" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Chef Uniform 1 Torso" texture="chef_torso_male_1.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Right Lower Arm" texture="chef_torso_male_1.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Left Lower Arm" texture="chef_torso_male_1.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Right Upper Arm" texture="chef_torso_male_1.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Left Upper Arm" texture="chef_torso_male_1.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Waist" texture="chef_legs_[GENDER]_1.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Right Thigh" texture="chef_legs_[GENDER]_1.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Left Thigh" texture="chef_legs_[GENDER]_1.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Right Leg" texture="chef_legs_[GENDER]_1.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Left Leg" texture="chef_legs_[GENDER]_1.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Right Shoe" texture="chef_legs_[GENDER]_1.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Chef Uniform 1 Left Shoe" texture="chef_legs_[GENDER]_1.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound, bitewounds" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+    </Wearable>
+    <ItemContainer capacity="3">
+      <Containable items="chem,food,snack" excludeditems="toolbox" />
+    </ItemContainer>
+  </Item>
+</Items>

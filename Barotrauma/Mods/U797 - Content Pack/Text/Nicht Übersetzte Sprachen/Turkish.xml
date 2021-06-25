@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Turkish" nowhitespace="false" translatedname="Türkçe">
+  
+  <!--Hinweis 4.8.2020: Jobs sind unverändert, Items und Hüte wurden teilweise verändert-->
+  
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Jobs__________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  
+  <!-- Jobs -->
+	<jobname.Kommander>Commander</jobname.Kommander>
+	<jobdescription.Kommander>The term commander is a functional name and refers to the leader of warships, regardless of the military service class. The commander's area of responsibility includes regulating, monitoring and disciplinary supervision of all matters on board a ship. He is on duty to all crew members. In order to carry out the tasks incumbent on him, he has to make appointments and establish rules of procedure. In addition, the commander is responsible for the jurisdiction on board the ship assigned to him in the course of his disciplinary powers.</jobdescription.Kommander>
+	<jobname.Kapitaen>Captain</jobname.Kapitaen>
+	<jobdescription.Kapitaen>The captain is responsible and in charge of the ship and is superior to all crew members, both service and disciplinary superiors.</jobdescription.Kapitaen>
+	<jobname.Wachoffizier>Executive Officer</jobname.Wachoffizier>
+	<jobdescription.Wachoffizier>The term XO is a functional name of the officer in charge of the shift who is responsible for the management of the ship for the duration of the shift. The XO is subordinate to the commander in his function, but is assigned to all crew members in his function. The task of the XO is to represent the commander and to carry out the areas of activity assigned to them by the commander.</jobdescription.Wachoffizier>
+	<jobname.Leitender_Ingenieur>Chief engineer</jobname.Leitender_Ingenieur>
+	<jobdescription.Leitender_Ingenieur>The Chief engineer is a service position and designates the officer responsible for all technology and electronics. The LI is responsible for the technical functionality and technical safety of the ship and is responsible for all technical personnel. For this purpose, he has to schedule and determine service assignments, in particular the allocation of the function of chief machinist, as well as rules of procedure for the crew members assigned to the technical department. In his function, the chief engineer reports to the officer in charge of the watch.</jobdescription.Leitender_Ingenieur>
+	<jobname.Materialbewirtschaftung>Supply officer</jobname.Materialbewirtschaftung>
+	<jobdescription.Materialbewirtschaftung>The supply officer carries out the material production in the submarine. One of his main tasks is to supply the submarine with the necessary goods (e.g. weapons, ammunition, tools, consumer goods). He is usually supported by a mate or boatswain in the verification of material and ammunition.</jobdescription.Materialbewirtschaftung>
+	<jobname.Leitender_Arzt>Chief ship's doctor</jobname.Leitender_Arzt>
+	<jobdescription.Leitender_Arzt>The concept of the chief ship's doctor is a service of the officer responsible for the medical and medical field. The chief ship's doctor is also responsible for the administration of the on-board pharmacy as well as the manufacture, management and securing of the substances required for this. The chief ship's doctor reports to the commander. In medical emergencies, the chief ship's doctor is authorized to declare himself as the supervisor for the necessary duration and extent of the emergency.</jobdescription.Leitender_Arzt>
+	<jobname.Arzt>Ship's doctor</jobname.Arzt>
+	<jobdescription.Arzt>The ship's doctor is a duty of the officer responsible for the medical and medical area. The ship's doctor reports to the chief ship's doctor. His authority to issue instructions is limited to medical matters, but all crew members except the chief doctor are subordinate to his function in this area.</jobdescription.Arzt>
+	<jobname.Brueckenbootsmann>Bridge boatman</jobname.Brueckenbootsmann>
+	<jobdescription.Brueckenbootsmann>The bridge boatman is a service position and describes the crew member entrusted with navigating the ship and using the active and passive sonar devices. Unless otherwise stipulated in the rules of procedure or at the command of the commander, the crew member assigned as a bridge boatman is responsible for leading and coordinating external teams, displaying sonar and listening contacts for the battle station and maintaining the sonar and listening devices on board. The bridge boatman reports directly to the commander unless otherwise specified in the rules of procedure or by the command of the commander.</jobdescription.Brueckenbootsmann>
+	<jobname.Technisches_Personal>Technical staff</jobname.Technisches_Personal>
+	<jobdescription.Technisches_Personal>The technical staff is a service position and includes those crew members who have been assigned to the technical department on board a ship and who report to a service manager. They are responsible for carrying out the rules of procedure and instructions specified by the chief engineer.</jobdescription.Technisches_Personal>
+	<jobname.Seemaennisches_Personal>Seafaring staff</jobname.Seemaennisches_Personal>
+	<jobdescription.Seemaennisches_Personal>The seafaring staff is a service position and includes those crew members who are assigned to the field service. He is responsible for tasks such as the bridge guard and the operation of the gun batteries.</jobdescription.Seemaennisches_Personal>
+	<jobname.Medizinisches_Personal>Medical staff</jobname.Medizinisches_Personal>
+	<jobdescription.Medizinisches_Personal>The medical staff is an official position and includes those crew members who have been assigned to the medical department on board a ship and who report to a doctor on duty. They are responsible for the medical treatment of the crew and the care of the infirmary within the scope of the areas of activity defined for them.</jobdescription.Medizinisches_Personal>
+	<jobname.Matrose>Sailor</jobname.Matrose>
+	<jobdescription.Matrose>A standard crew member who is still in training and has no special skills or knowledge.</jobdescription.Matrose>
+  <!--<jobname.Station_Personal>!Station Personal!</jobname.Station_Personal>
+  <jobdescription.Station_Personal>!No Information!</jobdescription.Station_Personal>-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Kleidung______________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+
+  <!--______________________________________________________________________Hüte______________________________________________________________________________________________-->
+  
+  <!-- Mützen-->
+	<entityname.kleidung_hüte_unteroffizier_mannschaft>Cap (NCO)</entityname.kleidung_hüte_unteroffizier_mannschaft>
+	<entitydescription.kleidung_hüte_unteroffizier_mannschaft></entitydescription.kleidung_hüte_unteroffizier_mannschaft>
+	<entityname.kleidung_hüte_schirmmütze_mannschaft>Peaked cap (Enlisted)</entityname.kleidung_hüte_schirmmütze_mannschaft>
+	<entitydescription.kleidung_hüte_schirmmütze_mannschaft></entitydescription.kleidung_hüte_schirmmütze_mannschaft>
+	<entityname.kleidung_hüte_schirmmütze_offizier>Peaked cap (Officer)</entityname.kleidung_hüte_schirmmütze_offizier>
+	<entitydescription.kleidung_hüte_schirmmütze_offizier></entitydescription.kleidung_hüte_schirmmütze_offizier>
+	<entityname.kleidung_hüte_schirmmütze_unteroffizier>Peaked cap (NCO)</entityname.kleidung_hüte_schirmmütze_unteroffizier>
+	<entitydescription.kleidung_hüte_schirmmütze_unteroffizier></entitydescription.kleidung_hüte_schirmmütze_unteroffizier>
+	<entityname.kleidung_hüte_cap_u797>U797 cap</entityname.kleidung_hüte_cap_u797>
+	<entitydescription.kleidung_hüte_cap_u797></entitydescription.kleidung_hüte_cap_u797>
+	<entityname.kleidung_hüte_cap_sanitäter>Medic cap</entityname.kleidung_hüte_cap_sanitäter>
+	<entitydescription.kleidung_hüte_cap_sanitäter></entitydescription.kleidung_hüte_cap_sanitäter>
+  
+  <!-- Schiffchen-->
+	<entityname.kleidung_hüte_schiffchen_offiziere>Glengarry (Officer)</entityname.kleidung_hüte_schiffchen_offiziere>
+	<entitydescription.kleidung_hüte_schiffchen_offiziere></entitydescription.kleidung_hüte_schiffchen_offiziere>
+	<entityname.kleidung_hüte_schiffchen_unteroffiziere>Glengarry (NCO)</entityname.kleidung_hüte_schiffchen_unteroffiziere>
+	<entitydescription.kleidung_hüte_schiffchen_unteroffiziere></entitydescription.kleidung_hüte_schiffchen_unteroffiziere>
+	<entityname.kleidung_hüte_schiffchen_mannschaft>Glengarry (Enlisted)</entityname.kleidung_hüte_schiffchen_mannschaft>
+	<entitydescription.kleidung_hüte_schiffchen_mannschaft></entitydescription.kleidung_hüte_schiffchen_mannschaft>
+	<entityname.kleidung_hüte_schiffchen_sani_mannschaft>Medic glengarry (Enlisted)</entityname.kleidung_hüte_schiffchen_sani_mannschaft>
+	<entitydescription.kleidung_hüte_schiffchen_sani_mannschaft></entitydescription.kleidung_hüte_schiffchen_sani_mannschaft>
+	<entityname.kleidung_hüte_schiffchen_sani_unteroffiziere>Medic glengarry (NCO)</entityname.kleidung_hüte_schiffchen_sani_unteroffiziere>
+	<entitydescription.kleidung_hüte_schiffchen_sani_unteroffiziere></entitydescription.kleidung_hüte_schiffchen_sani_unteroffiziere>
+	<entityname.kleidung_hüte_schiffchen_sani_offiziere>Medic glengarry (Officer)</entityname.kleidung_hüte_schiffchen_sani_offiziere>
+	<entitydescription.kleidung_hüte_schiffchen_sani_offiziere></entitydescription.kleidung_hüte_schiffchen_sani_offiziere>
+
+	<!--______________________________________________________________________Uniformen______________________________________________________________________________________________-->
+  
+  <!-- Allgemein-->
+  <!--Werden nicht eingedeutscht-->
+  <!-- Techniker-->
+  <!--Werden nicht eingedeutscht-->
+  <!-- Sanitäter-->
+  <!--Werden nicht eingedeutscht-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Dekorationen__________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  
+  <!-- Dekorationen--> <!--Script generiert-->
+  <entityname.label_barotekten>Barotekten Emblem</entityname.label_barotekten>
+  <entitydescription.label_barotekten>The emblem of the barotects</entitydescription.label_barotekten>
+  <entityname.label_schiffswerft>Schiffswerft U797 emblem</entityname.label_schiffswerft>
+  <entitydescription.label_schiffswerft>The emblem of the shipyard U797</entitydescription.label_schiffswerft>
+  <entityname.u797_monitor_large_green>Big monitor</entityname.u797_monitor_large_green>
+  <entitydescription.u797_monitor_large_green>A big monitor</entitydescription.u797_monitor_large_green>
+  <entityname.u797_monitor_small_green>Small monitor</entityname.u797_monitor_small_green>
+  <entitydescription.u797_monitor_small_green>A Small monitor</entitydescription.u797_monitor_small_green>
+  <entityname.u797_panel_big>Large monitor</entityname.u797_panel_big>
+  <entitydescription.u797_panel_big>Large monitor with lots of graphics</entitydescription.u797_panel_big>
+  <entityname.u797_panel_big_empty>Big blank monitor</entityname.u797_panel_big_empty>
+  <entitydescription.u797_panel_big_empty>Big blank monitor without any graphics</entitydescription.u797_panel_big_empty>
+  <entityname.u797_panel_big_green>Large green monitor</entityname.u797_panel_big_green>
+  <entitydescription.u797_panel_big_green>A large green monitor with lots of graphics</entitydescription.u797_panel_big_green>
+  <entityname.u797_panel_big_orange>Large orange monitor</entityname.u797_panel_big_orange>
+  <entitydescription.u797_panel_big_orange>A large orange monitor with lots of graphics</entitydescription.u797_panel_big_orange>
+  <entityname.u797_panel_big2>Large monitor</entityname.u797_panel_big2>
+  <entitydescription.u797_panel_big2>A large monitor with lots of graphics</entitydescription.u797_panel_big2>
+  <entityname.FF_bg_dark_u797>Dark background wall</entityname.FF_bg_dark_u797>
+  <entitydescription.FF_bg_dark_u797>Dark background wall</entitydescription.FF_bg_dark_u797>
+  <entityname.bg_darkblue_u797>Dark blue background wall</entityname.bg_darkblue_u797>
+  <entitydescription.bg_darkblue_u797>Dark blue background wall</entitydescription.bg_darkblue_u797>
+  <entityname.bg_darkyellow_u797>Dark yellow background wall</entityname.bg_darkyellow_u797>
+  <entitydescription.bg_darkyellow_u797>Dark yellow background wall</entitydescription.bg_darkyellow_u797>
+  <entityname.bg_white_u797>White background wall</entityname.bg_white_u797>
+  <entitydescription.bg_white_u797>White background wall</entitydescription.bg_white_u797>
+  <entityname.u797_commandtable>Command desk</entityname.u797_commandtable>
+  <entitydescription.u797_commandtable>For planning operations</entitydescription.u797_commandtable>
+  <entityname.u797_commandtable_2>Command table with logo</entityname.u797_commandtable_2>
+  <entitydescription.u797_commandtable_2>Only the best missions are planned here</entitydescription.u797_commandtable_2>
+  <entityname.u797_chair1_front>Armchair</entityname.u797_chair1_front>
+  <entitydescription.u797_chair1_front>A comfortable armchair</entitydescription.u797_chair1_front>
+  <entityname.u797_chair1_left>Armchair</entityname.u797_chair1_left>
+  <entitydescription.u797_chair1_left>A comfortable armchair</entitydescription.u797_chair1_left>
+  <entityname.u797_chair1_right>Armchair</entityname.u797_chair1_right>
+  <entitydescription.u797_chair1_right>A comfortable armchair</entitydescription.u797_chair1_right>
+  <entityname.u797_chair2_left>Chair</entityname.u797_chair2_left>
+  <entitydescription.u797_chair2_left>Chair</entitydescription.u797_chair2_left>
+  <entityname.u797_chair2_right>Chair</entityname.u797_chair2_right>
+  <entitydescription.u797_chair2_right></entitydescription.u797_chair2_right>
+  <entityname.u797_sofa>Sofa</entityname.u797_sofa>
+  <entitydescription.u797_sofa>A comfortable sofa</entitydescription.u797_sofa>
+  <entityname.u797_table2>Table</entityname.u797_table2>
+  <entitydescription.u797_table2>A futuristic table</entitydescription.u797_table2>
+  <entityname.u797_gedenktafel>Plaque</entityname.u797_gedenktafel>
+  <entitydescription.u797_gedenktafel>A memorial plaque for deceased crew members of the U797</entitydescription.u797_gedenktafel>
+  <entityname.u797_picture>Picture</entityname.u797_picture>
+  <entitydescription.u797_picture>An picture of a Dugong class submarine</entitydescription.u797_picture>
+  <entityname.u797_plant>Plant</entityname.u797_plant>
+  <entitydescription.u797_plant>A natural looking plant made of plastic</entitydescription.u797_plant>
+  <entityname.u797_wetfloorsign>Warning sign</entityname.u797_wetfloorsign>
+  <entitydescription.u797_wetfloorsign>Caution, danger of slipping!</entitydescription.u797_wetfloorsign>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Items_________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  
+  <!-- Misc Items-->
+  <!--Script generiert-->
+  <entityname.hazard_suit>Hazmat suit</entityname.hazard_suit>
+  <entitydescription.hazard_suit>When the reactor needs to be cleaned or a fuel rod needs to be changed. Is that your number 1 choice.</entitydescription.hazard_suit>
+  <entityname.med_scanner>Medical-Hand-Scanner</entityname.med_scanner>
+  <entitydescription.med_scanner>A handheld medical scanner for medical examinations</entitydescription.med_scanner>
+  <entityname.zigarre>Cigar </entityname.zigarre>
+  <entitydescription.zigarre>Can cause health problems.</entitydescription.zigarre>
+  <entityname.u797_box>Box</entityname.u797_box>
+  <entitydescription.u797_box>A box for the transport of radioactive objects.</entitydescription.u797_box>
+  <entityname.u797_container1>Container</entityname.u797_container1>
+  <entitydescription.u797_container1>A large round container </entitydescription.u797_container1>
+  <entityname.u797_container2>Container</entityname.u797_container2>
+  <entitydescription.u797_container2> A container for the transport of radioactive objects</entitydescription.u797_container2>
+  <entityname.u797_items_sponge>Sponge</entityname.u797_items_sponge>
+  <entitydescription.u797_items_sponge>Removes even the worst dirt.</entitydescription.u797_items_sponge>
+  <entityname.u797_items_broom>Broom</entityname.u797_items_broom>
+  <entitydescription.u797_items_broom>Drops only slightly due to the position of the center of gravity within the broom head.</entitydescription.u797_items_broom>
+  <entityname.u797_items_cup>Cup</entityname.u797_items_cup>
+  <entitydescription.u797_items_cup>A small cup which is made of a stable material.</entitydescription.u797_items_cup>
+  <entityname.u797_items_basket>Bucket</entityname.u797_items_basket>
+  <entitydescription.u797_items_basket>A bucket that can be used to clean the reactor. Has a handle for easier carrying</entitydescription.u797_items_basket>
+  <entityname.u797_items_ball>Ball</entityname.u797_items_ball>
+  <entitydescription.u797_items_ball>On the back it is written: Warning, risk of accident! Object can behave unusually due to a lack of physical calculation. We ask for your understanding.</entitydescription.u797_items_ball>
+  <entityname.u797_underwaterscooter>Underwater scooter</entityname.u797_underwaterscooter>
+  <entitydescription.u797_underwaterscooter>Can be used for faster movement underwater</entitydescription.u797_underwaterscooter>
+  <entityname.u797_divingsuit>Diving suit</entityname.u797_divingsuit>
+  <entitydescription.u797_divingsuit>A diving suit with which you can survive the pressure</entitydescription.u797_divingsuit>
+  <entityname.u797_divingsuit_tatrkdt>Commando diving suit</entityname.u797_divingsuit_tatrkdt>
+  <entitydescription.u797_divingsuit_tatrkdt>The diving suit of the diving squad commander. Slightly more comfortable than the ordinary diving suit</entitydescription.u797_divingsuit_tatrkdt>
+  <!-- ID Karten Items-->
+  <!--Script generiert-->
+  <entityname.idcard_3wo>ID Card (3rd Executive Officer)</entityname.idcard_3wo>
+  <entitydescription.idcard_3wo>The 3rd Executive Officer's ID card</entitydescription.idcard_3wo>
+  <entityname.idcard_sa>ID Card (Ship's doctor)</entityname.idcard_sa>
+  <entitydescription.idcard_sa>The ship's doctor's ID card</entitydescription.idcard_sa>
+  <entityname.idcard_bbtsm>ID Card (Bridge boatman)</entityname.idcard_bbtsm>
+  <entitydescription.idcard_bbtsm>The bridge boatman's ID card</entitydescription.idcard_bbtsm>
+  <entityname.idcard_co>ID Card (commander)</entityname.idcard_co>
+  <entitydescription.idcard_co>The commander's ID card</entitydescription.idcard_co>
+  <entityname.idcard_li>ID Card (Chief Engineer)</entityname.idcard_li>
+  <entitydescription.idcard_li>The Chief Engineer's ID card</entitydescription.idcard_li>
+  <entityname.idcard_lsa>ID Card (Chief ship's doctor)</entityname.idcard_lsa>
+  <entitydescription.idcard_lsa>The Chief ship's doctor's ID card</entitydescription.idcard_lsa>
+  <entityname.idcard_mabe>ID Card (Material management mate)</entityname.idcard_mabe>
+  <entitydescription.idcard_mabe>The ID card of the material management mate</entitydescription.idcard_mabe>
+  <entityname.idcard_om>ID Card (Chief machinists)</entityname.idcard_om>
+  <entitydescription.idcard_om>The chief machinist's ID card</entitydescription.idcard_om>
+  <entityname.idcard_san>ID Card (Paramedic)</entityname.idcard_san>
+  <entitydescription.idcard_san>The paramedic's ID card</entitydescription.idcard_san>
+  <entityname.idcard_seemp>ID Card (Seafaring staff)</entityname.idcard_seemp>
+  <entitydescription.idcard_seemp>The ID card of the seafaring staff</entitydescription.idcard_seemp>
+  <entityname.idcard_techn>ID Card (Technical staff)</entityname.idcard_techn>
+  <entitydescription.idcard_techn>The ID card of the technical staff</entitydescription.idcard_techn>
+  <entityname.idcard_vo>ID Card (Supply officer)</entityname.idcard_vo>
+  <entitydescription.idcard_vo>The supply officer's ID card</entitydescription.idcard_vo>
+  <entityname.idcard_wache>ID Card (Guard)</entityname.idcard_wache>
+  <entitydescription.idcard_wache>The guard's ID card</entitydescription.idcard_wache>
+  <entityname.idcard_waha>ID Card (Senior guard)</entityname.idcard_waha>
+  <entitydescription.idcard_waha>The ID card of the senior guard</entitydescription.idcard_waha>
+  <entityname.idcard_wo>ID Card (1./2. Executive Officer)</entityname.idcard_wo>
+  <entitydescription.idcard_wo>The ID card of the 1st / 2nd Executive officer</entitydescription.idcard_wo>
+  <!-- ID Karten des Stationspersonals-->
+  <!--Script generiert-->
+  <entityname.idcard_stk>ID Card (Station commander)</entityname.idcard_stk>
+  <entitydescription.idcard_stk>The station commander's ID card</entitydescription.idcard_stk>
+  <entityname.idcard_stp>ID Card (Station personnel)</entityname.idcard_stp>
+  <entitydescription.idcard_stp>The station personnel's ID card</entitydescription.idcard_stp>
+  <!-- Musik Daten Karten-->
+  <!--Script generiert-->
+  <entityname.u797_musicdisk_1>Music data carrier</entityname.u797_musicdisk_1>
+  <entitydescription.u797_musicdisk_1>placeholder</entitydescription.u797_musicdisk_1>
+  <entityname.u797_musicdisk_foolish>Music data carrier(FOOLISH)</entityname.u797_musicdisk_foolish>
+  <entitydescription.u797_musicdisk_foolish>FOOLISH by Trisha Ryan</entitydescription.u797_musicdisk_foolish>
+  <entityname.u797_musicdisk_intotheabyss>Music data carrier(INTO THE ABYSS)</entityname.u797_musicdisk_intotheabyss>
+  <entitydescription.u797_musicdisk_intotheabyss>INTO THE ABYSS by Trisha Ryan</entitydescription.u797_musicdisk_intotheabyss>
+  <entityname.u797_musicdisk_4>Music data carrier</entityname.u797_musicdisk_4>
+  <entitydescription.u797_musicdisk_4>placeholder</entitydescription.u797_musicdisk_4>
+  <entityname.u797_musicdisk_5>Music data carrier</entityname.u797_musicdisk_5>
+  <entitydescription.u797_musicdisk_5>placeholder</entitydescription.u797_musicdisk_5>
+
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Helme und Masken______________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--Script generiert-->
+  <entityname.kleidung_hüte_helme_u797wache>Guards helmet</entityname.kleidung_hüte_helme_u797wache>
+  <entitydescription.kleidung_hüte_helme_u797wache>Protects the guard from attacks by intruders and refusing crew members</entitydescription.kleidung_hüte_helme_u797wache>
+  <entityname.kleidung_hüte_helme_u797sani>Paramedic helmet</entityname.kleidung_hüte_helme_u797sani>
+  <entitydescription.kleidung_hüte_helme_u797sani>protects the paramedic against suggestions from a mentally unstable patient</entitydescription.kleidung_hüte_helme_u797sani>
+  <entityname.u797_divingmask>Diving mask</entityname.u797_divingmask>
+  <entitydescription.u797_divingmask>Small enough to be worn on the body, but does not offer any protection against water pressure in the event of a complete break</entitydescription.u797_divingmask>
+
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Machinen______________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--Script generiert-->
+  <entityname.u797_navterminal>Navigation terminal</entityname.u797_navterminal>
+  <entitydescription.u797_navterminal>The navigation terminal of the U797 is a new edition of the original outdated version and is used to steer the submarine horizontally and vertically. Also has built-in sonar for early detection of enemy creatures</entitydescription.u797_navterminal>
+  <entityname.u797_statusmonitor>Status monitor</entityname.u797_statusmonitor>
+  <entitydescription.u797_statusmonitor>The status monitor of the U797 is a new edition of the original outdated version and shows the water level and the air content of each room in the submarine. The status monitor is also able to locate the position of a hull break</entitydescription.u797_statusmonitor>
+  <entityname.u797_periscope_c1>Periscope</entityname.u797_periscope_c1>
+  <entitydescription.u797_periscope_c1>The periscope for the Gauss cannon 1</entitydescription.u797_periscope_c1>
+  <entityname.u797_periscope_c2>Periscope</entityname.u797_periscope_c2>
+  <entitydescription.u797_periscope_c2>The periscope for the Gauss cannon 2</entitydescription.u797_periscope_c2>
+  <entityname.u797_periscope_c3>Periscope</entityname.u797_periscope_c3>
+  <entitydescription.u797_periscope_c3>The periscope for the Gauss cannon 3</entitydescription.u797_periscope_c3>
+  <entityname.u797_periscope_c4>Periscope</entityname.u797_periscope_c4>
+  <entitydescription.u797_periscope_c4>The periscope for the Gauss cannon 4</entitydescription.u797_periscope_c4>
+  <entityname.u797_periscope_c5>Periscope</entityname.u797_periscope_c5>
+  <entitydescription.u797_periscope_c5>DThe periscope for the Gauss cannon 5</entitydescription.u797_periscope_c5>
+  <entityname.u797_periscope_c6>Periscope</entityname.u797_periscope_c6>
+  <entitydescription.u797_periscope_c6>The periscope for the Gauss cannon 6</entitydescription.u797_periscope_c6>
+  <entityname.u797_periscope_r1>Periscope</entityname.u797_periscope_r1>
+  <entitydescription.u797_periscope_r1>The periscope for the rail cannon 1</entitydescription.u797_periscope_r1>
+  <entityname.u797_periscope_r2>Periscope</entityname.u797_periscope_r2>
+  <entitydescription.u797_periscope_r2>The periscope for the rail cannon 2</entitydescription.u797_periscope_r2>
+  <entityname.u797_periscope_r3>Periscope</entityname.u797_periscope_r3>
+  <entitydescription.u797_periscope_r3>The periscope for the rail cannon 3</entitydescription.u797_periscope_r3>
+  <entityname.u797_periscope_r4>Periscope</entityname.u797_periscope_r4>
+  <entitydescription.u797_periscope_r4>The periscope for the rail cannon 4</entitydescription.u797_periscope_r4>
+
+  <entityname.u797_button_orange>Button</entityname.u797_button_orange>
+  <entitydescription.u797_button_orange>A orange button</entitydescription.u797_button_orange>
+  <entityname.u797_button_darkblue>Button</entityname.u797_button_darkblue>
+  <entitydescription.u797_button_darkblue>A dark blue button</entitydescription.u797_button_darkblue>
+  <entityname.u797_button_darkgreen>Button</entityname.u797_button_darkgreen>
+  <entitydescription.u797_button_darkgreen>A dark green button</entitydescription.u797_button_darkgreen>
+  <entityname.u797_button_darkred>Button</entityname.u797_button_darkred>
+  <entitydescription.u797_button_darkred>A dark red button</entitydescription.u797_button_darkred>
+  <entityname.u797_button_green>Button</entityname.u797_button_green>
+  <entitydescription.u797_button_green>A green button</entitydescription.u797_button_green>
+  <entityname.u797_button_lightblue>Button</entityname.u797_button_lightblue>
+  <entitydescription.u797_button_lightblue>A light blue button</entitydescription.u797_button_lightblue>
+  <entityname.u797_button_purple>Button</entityname.u797_button_purple>
+  <entitydescription.u797_button_purple>A purple button</entitydescription.u797_button_purple>
+  
+  <entityname.u797_doorbuzzer>Door-Buzzer</entityname.u797_doorbuzzer>
+  <entitydescription.u797_doorbuzzer>A buzzer thats activated briefly when a high security door is opened</entitydescription.u797_doorbuzzer>
+  <entityname.u797_announcementbuzzer>Announcements-Buzzer</entityname.u797_announcementbuzzer>
+  <entitydescription.u797_announcementbuzzer>A buzzer thats activated when the captain makes an announcement</entitydescription.u797_announcementbuzzer>
+  <entityname.u797_combatbuzzer>Combat-Buzzer</entityname.u797_combatbuzzer>
+  <entitydescription.u797_combatbuzzer>A buzzer thats activated during a battle, on the submarine or outside</entitydescription.u797_combatbuzzer>
+  <entityname.u797_pipesirene>Boatswain's whistle</entityname.u797_pipesirene>
+  <entitydescription.u797_pipesirene>A siren that sounds when the crew of the submarine should assemble</entitydescription.u797_pipesirene>
+  
+  <entityname.u797_smallcabinet_blue>Small cabinet</entityname.u797_smallcabinet_blue>
+  <entitydescription.u797_smallcabinet_blue>Small blue closet</entitydescription.u797_smallcabinet_blue>
+  <entityname.u797_smallcabinet_green>Small cabinet</entityname.u797_smallcabinet_green>
+  <entitydescription.u797_smallcabinet_green>Small green closet</entitydescription.u797_smallcabinet_green>
+  <entityname.u797_smallcabinet_yellow>Small cabinet</entityname.u797_smallcabinet_yellow>
+  <entitydescription.u797_smallcabinet_yellow>Small yellow closet</entitydescription.u797_smallcabinet_yellow>
+  <entityname.u797_smallcabinet_orange>Small cabinet</entityname.u797_smallcabinet_orange>
+  <entitydescription.u797_smallcabinet_orange>Small orange closet</entitydescription.u797_smallcabinet_orange>
+  <entityname.u797_smallcabinet_red>Small cabinet</entityname.u797_smallcabinet_red>
+  <entitydescription.u797_smallcabinet_red>Small red closet</entitydescription.u797_smallcabinet_red>
+  <entityname.u797_smallcabinet_purple>Small cabinet</entityname.u797_smallcabinet_purple>
+  <entitydescription.u797_smallcabinet_purple>Small purple closet</entitydescription.u797_smallcabinet_purple>
+  <entityname.u797_bigcabinet_blue>Big cupboard</entityname.u797_bigcabinet_blue>
+  <entitydescription.u797_bigcabinet_blue>Big blue closet</entitydescription.u797_bigcabinet_blue>
+  <entityname.u797_bigcabinet_green>Big cupboard</entityname.u797_bigcabinet_green>
+  <entitydescription.u797_bigcabinet_green>Big green closet</entitydescription.u797_bigcabinet_green>
+  <entityname.u797_bigcabinet_yellow>Big cupboard</entityname.u797_bigcabinet_yellow>
+  <entitydescription.u797_bigcabinet_yellow>Big yellow closet</entitydescription.u797_bigcabinet_yellow>
+  <entityname.u797_bigcabinet_orange>Big cupboard</entityname.u797_bigcabinet_orange>
+  <entitydescription.u797_bigcabinet_orange>Big orange closet</entitydescription.u797_bigcabinet_orange>
+  <entityname.u797_bigcabinet_red>Big cupboard</entityname.u797_bigcabinet_red>
+  <entitydescription.u797_bigcabinet_red>Big red closet</entitydescription.u797_bigcabinet_red>
+  <entityname.u797_bigcabinet_purple>Big cupboard</entityname.u797_bigcabinet_purple>
+  <entitydescription.u797_bigcabinet_purple>Big purple closet</entitydescription.u797_bigcabinet_purple>
+  <entityname.u797_windowedbigcabinet_blue>Large closet with a window</entityname.u797_windowedbigcabinet_blue>
+  <entitydescription.u797_windowedbigcabinet_blue>Large blue closet with a window</entitydescription.u797_windowedbigcabinet_blue>
+  <entityname.u797_windowedbigcabinet_green>Large closet with a window</entityname.u797_windowedbigcabinet_green>
+  <entitydescription.u797_windowedbigcabinet_green>Large green closet with a window</entitydescription.u797_windowedbigcabinet_green>
+  <entityname.u797_windowedbigcabinet_yellow>Large closet with a window</entityname.u797_windowedbigcabinet_yellow>
+  <entitydescription.u797_windowedbigcabinet_yellow>Large yellow closet with a window</entitydescription.u797_windowedbigcabinet_yellow>
+  <entityname.u797_windowedbigcabinet_orange>Large closet with a window</entityname.u797_windowedbigcabinet_orange>
+  <entitydescription.u797_windowedbigcabinet_orange>Large orange closet with a window</entitydescription.u797_windowedbigcabinet_orange>
+  <entityname.u797_windowedbigcabinet_red>Large closet with a window</entityname.u797_windowedbigcabinet_red>
+  <entitydescription.u797_windowedbigcabinet_red>Large red closet with a window</entitydescription.u797_windowedbigcabinet_red>
+  <entityname.u797_windowedbigcabinet_purple>Large closet with a window</entityname.u797_windowedbigcabinet_purple>
+  <entitydescription.u797_windowedbigcabinet_purple>Large purple closet with a window</entitydescription.u797_windowedbigcabinet_purple>
+  <entityname.u797_safe_red>Red safety cabinet</entityname.u797_safe_red>
+  <entitydescription.u797_safe_red>A red safety cabinet can only be opened with a matching ID card</entitydescription.u797_safe_red>
+  
+  <entityname.Jukebox>Jukebox</entityname.Jukebox>
+  <entitydescription.Jukebox>A jukebox that can play music using music data carriers</entitydescription.Jukebox>
+
+  <entityname.u797_divingsuitlocker2>Large Diving Suit Locker</entityname.u797_divingsuitlocker2>
+  <entitydescription.u797_divingsuitlocker2>Neatly stores multiple diving suits.</entitydescription.u797_divingsuitlocker2>
+
+  <entityname.label_u797>U797 Emblem</entityname.label_u797>
+  <entitydescription.label_u797>The emblem of the U797</entitydescription.label_u797>
+  <!--<entityname.></entityname.>
+  <entitydescription.></entitydescription.>-->  
+</infotexts>

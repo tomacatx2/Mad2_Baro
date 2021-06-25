@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+<!-- Carbon plant -->
+  <Item name="" identifier="bonsai" category="Material" Tags="smallitem,seed" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="20" />
+      <RequiredItem identifier="carbon" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="carbon" copycondition="true"/>
+      <Item identifier="carbon" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="0,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="0,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect"/>
+  </Item>
+<!-- Rubber plant -->
+  <Item name="" identifier="rubbertree" category="Material" Tags="smallitem,seed" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="25" />
+      <RequiredItem identifier="rubber" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="rubber" copycondition="true"/>
+      <Item identifier="rubber" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="64,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="64,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect"/>
+  </Item>
+<!-- Chlorine plant -->
+  <Item name="" identifier="seaweed" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="30" />
+      <RequiredItem identifier="chlorine" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="chlorine" copycondition="true"/>
+      <Item identifier="chlorine" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="128,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="128,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Magnesium plant -->
+  <Item name="" identifier="kale" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="25" />
+      <RequiredItem identifier="magnesium" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="magnesium" copycondition="true"/>
+      <Item identifier="magnesium" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="192,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="192,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Potassium plant -->
+  <Item name="" identifier="bananna" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="30" />
+      <RequiredItem identifier="potassium" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="potassium" copycondition="true"/>
+      <Item identifier="potassium" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="256,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="256,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="10" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Calcium plant -->
+  <Item name="" identifier="basil" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="25" />
+      <RequiredItem identifier="calcium" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="calcium" copycondition="true"/>
+      <Item identifier="calcium" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="320,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="320,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Silicon plant -->
+  <Item name="" identifier="rice" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="20" />
+      <RequiredItem identifier="silicon" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="silicon" copycondition="true"/>
+      <Item identifier="silicon" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="384,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="384,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Sodium plant -->
+  <Item name="" identifier="beet" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="25" />
+      <RequiredItem identifier="sodium" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="sodium" copycondition="true"/>
+      <Item identifier="sodium" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="448,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="448,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Zinc plant -->
+  <Item name="" identifier="mushroom" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="25" />
+      <RequiredItem identifier="zinc" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="zinc" copycondition="true"/>
+      <Item identifier="zinc" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="512,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="512,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Copper plant -->
+  <Item name="" identifier="cashew" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="30" />
+      <RequiredItem identifier="copper" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="copper" copycondition="true"/>
+      <Item identifier="copper" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="576,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="576,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Phosphorus plant -->
+  <Item name="" identifier="sunflower" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="30" />
+      <RequiredItem identifier="phosphorus" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="phosphorus" copycondition="true"/>
+      <Item identifier="phosphorus" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="640,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="640,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Iron plant -->
+  <Item name="" identifier="lettuce" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="25" />
+      <RequiredItem identifier="iron" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="iron" copycondition="true"/>
+      <Item identifier="iron" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="704,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="704,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	<StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+	<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+	  <ReduceAffliction identifier="hunger" amount="5" />
+    </StatusEffect>
+	</Holdable>
+  </Item>
+<!-- Fiber plant -->
+  <Item name="" identifier="fiberseed" category="Material" Tags="smallitem,seed" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="20" />
+      <RequiredItem identifier="organicfiber" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="organicfiber" copycondition="true"/>
+      <Item identifier="organicfiber" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="768,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="768,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	</Holdable>
+  </Item>
+<!-- Elastin plant -->
+  <Item name="" identifier="elastinseed" category="Material" Tags="smallitem,seed" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="20" />
+      <RequiredItem identifier="elastin" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="elastin" copycondition="true"/>
+      <Item identifier="elastin" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="832,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="832,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	</Holdable>
+  </Item>
+<!-- Opium plant -->
+  <Item name="" identifier="poppy" category="Material" Tags="smallitem,seed" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="35" />
+      <RequiredItem identifier="opium" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="opium" copycondition="true"/>
+      <Item identifier="opium" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="896,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="896,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	</Holdable>
+  </Item>
+<!-- Acid plant -->
+  <Item name="" identifier="chili" category="Material" Tags="smallitem,seed,food" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="30" />
+      <RequiredItem identifier="sulphuricacid" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="sulphuricacid" copycondition="true"/>
+      <Item identifier="sulphuricacid" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="960,0,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="960,0,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	</Holdable>
+  </Item>
+<!-- Ethanol plants -->
+  <Item name="" identifier="wheat" category="Material" Tags="smallitem,seed" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="30" />
+      <RequiredItem identifier="ethanol" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="ethanol" copycondition="true"/>
+      <Item identifier="ethanol" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="0,64,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="0,64,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	</Holdable>
+  </Item>
+  <Item name="" identifier="sugarcane" category="Material" Tags="smallitem,seed" canbepicked="true" cargocontaineridentifier="metalcrate" scale="0.4" impactsoundtag="impact_metal_light">
+  	<PreferredContainer primary="wreckmedcab" minamount="0" maxamount="2" spawnprobability="0.1"/>
+    <Fabricate suitablefabricators="seedfab" requiredtime="30" outcondition="0.0">
+	  <RequiredSkill identifier="botany" level="30" />
+      <RequiredItem identifier="ethanol" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="ethanol" copycondition="true"/>
+      <Item identifier="ethanol" copycondition="true"/>
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="64,64,64,64" />
+    <Sprite texture="Mods/Jobs+/Items/SeedAtlas.png" sourcerect="64,64,64,64" depth="0.55" origin="0.5,0.5" />
+    <Body width="100" height="50" density="50" />
+    <Holdable canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" handle1="0,0" msg="ItemMsgPickUpSelect">
+	</Holdable>
+  </Item>
+</Items>

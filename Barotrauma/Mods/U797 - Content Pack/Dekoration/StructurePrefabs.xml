@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<prefabs>
+  <label name="" identifier="label_barotekten" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/label_barotekten.png" sourcerect="0,0,588,574" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="label_schiffswerft" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/Schiffswerft137_u797.png" sourcerect="0,0,200,195" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_monitor_large_green" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/monitor_u797_large_green.png" sourcerect="0,0,150,113" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_monitor_small_green" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/monitor_u797_small_green.png" sourcerect="0,0,100,75" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_panel_big" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/panel_u797_big.png" sourcerect="0,0,190,98" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_panel_big_empty" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/panel_u797_big_empty.png" sourcerect="0,0,190,98" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_panel_big_green" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/panel_u797_big_green.png" sourcerect="0,0,190,98" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_panel_big_orange" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/panel_u797_big_orange.png" sourcerect="0,0,190,98" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_panel_big2" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/panel_u797_big2.png" sourcerect="0,0,190,98" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <bg_dark_u797 name="" identifier="FF_bg_dark_u797" description="" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/bg_dark_u797.png" sourcerect="0,0,334,224" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+  </bg_dark_u797>
+  <bg_darkblue_u797 name="" identifier="bg_darkblue_u797" description="" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/bg_darkblue_u797.png" sourcerect="0,0,334,224" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+  </bg_darkblue_u797>
+  <bg_darkyellow_u797 name="" identifier="bg_darkyellow_u797" description="" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/bg_darkyellow_u797.png" sourcerect="0,0,334,224" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+  </bg_darkyellow_u797>
+  <bg_white_u797 name="" identifier="bg_white_u797" description="" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/bg_white_u797.png" sourcerect="0,0,334,224" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+  </bg_white_u797>
+  <label name="" identifier="u797_commandtable" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/commandtable2_u797.png" sourcerect="0,0,548,200" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_commandtable_2" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/commandtable2_p_u797.png" sourcerect="0,0,548,200" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_chair1_front" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/chair1_front_u797.png" sourcerect="0,0,165,311" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_chair1_left" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/chair1_left_u797.png" sourcerect="0,0,174,305" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_chair1_right" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/chair1_right_u797.png" sourcerect="0,0,174,305" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_chair2_left" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/chair2_left_u797.png" sourcerect="0,0,148,296" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_chair2_right" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/chair2_right_u797.png" sourcerect="0,0,148,296" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_sofa" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/sofa1_u797.png" sourcerect="0,0,500,175" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_table2" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/table2_u797.png" sourcerect="0,0,365,166" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_gedenktafel" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/U797_Bild1.png" sourcerect="0,0,250,153" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_picture" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/U797_Gedenktafel_l.png" sourcerect="0,0,200,133" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_plant" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/plant1_u797.png" sourcerect="0,0,230,375" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="u797_wetfloorsign" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/schild_rutschgefahr.png" sourcerect="0,0,48,95" depth="0.85" origin="0.5,0.5" />
+  </label>
+  <label name="" identifier="label_u797" scale="0.25" category="Decorative">
+    <sprite texture="Mods/U797 - Content Pack/Dekoration/label_u797.png" sourcerect="0,0,205,200" depth="0.85" origin="0.5,0.5" />
+  </label>
+</prefabs>

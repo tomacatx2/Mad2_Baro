@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Electric guitar" identifier="electricguitar" category="Misc" Tags="bigitem" description="An cool electric guitar." price="666" isshootable="true">
+    <InventoryIcon texture="EGuitar.png" sourcerect="0,0,36,107" />
+    <Sprite texture="EGuitar.png" sourcerect="0,0,36,107" depth="0.5" origin="0.5,0.5" />
+    <Body radius="20" height="83" density="12" />
+    <Holdable slots="RightHand+LeftHand" controlpose="true" aimpos="50,0" handle1="-2,0" handle2="10,50" swingamount="10,20" swingspeed="2" swingwhenusing="true" msg="ItemMsgPickUpSelect">
+      <StatusEffect type="OnUse" target="Character">
+        <Conditional HasStatusTag="!equals clown" />
+        <sound file="Mods/Electric Guitar/Megalovania.ogg" type="OnUse" selectionmode="random" range="600" loop="true" />
+        <sound file="Mods/Electric Guitar/Pirates Theme.ogg" type="OnUse" selectionmode="random" range="600" loop="true" />
+      </StatusEffect>
+      <StatusEffect type="OnUse" target="Character">
+        <Conditional HasStatusTag="clown" />
+        <sound file="Content/Items/Misc/GuitarClown.ogg" type="OnUse" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+</Items>

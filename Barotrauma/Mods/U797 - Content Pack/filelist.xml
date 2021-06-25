@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="U797 - Content Pack" path="Mods/U797 - Content Pack/filelist.xml" corepackage="false" gameversion="0.10.6.2" steamworkshopid="2076160931" installtime="1606057756">
+  <Jobs file="Mods/U797 - Content Pack/Jobs/Jobs.xml" />
+  <Item file="Mods/U797 - Content Pack/Items/Kleidung/Uniformen/Uniformen.xml" />
+  <Item file="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Hüte.xml" />
+  <LocationTypes file="Mods/U797 - Content Pack/Outpost/locationTypes.xml" />
+  <Item file="Mods/U797 - Content Pack/Items/Brennstäbe/Items.xml" />
+  <Structure file="Mods/U797 - Content Pack/Dekoration/StructurePrefabs.xml" />
+  <Item file="Mods/U797 - Content Pack/Items/Items.xml" />
+  <Item file="Mods/U797 - Content Pack/Machinery/Machines.xml" />
+  <Item file="Mods/U797 - Content Pack/Items/Musicdisks/Items.xml" />
+  <Text file="Mods/U797 - Content Pack/Text/german.xml" />
+  <Text file="Mods/U797 - Content Pack/Text/english.xml" />
+</contentpackage>

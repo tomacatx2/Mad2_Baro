@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <Item name="Mini Discharge Coil" identifier="minidischargecoil" tags="smallitem,dischargecoil" category="Equipment" impactsoundtag="impact_metal_light" isshootable="true">
+    <Price locationtype="Research" buyprice="100" />
+    <Price locationtype="City" buyprice="100" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Price locationtype="Military" buyprice="85" />
+    <InventoryIcon texture="Mods/DelgsMod/Items/systemsAtlas.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
+    <Sprite texture="Mods/DelgsMod/Items/systems.png" depth="0.8" sourcerect="0,0,32,32" origin="0.5,0.5" />
+    <ElectricalDischarger duration="0.25" outdoorsonly="false" powerconsumption="1000">
+      <Attack targetimpulse="20">
+        <Affliction identifier="stun" strength="5"/>
+        <Affliction identifier="burn" strength="2"/>
+      </Attack>
+      <StatusEffect type="OnUse">
+        <sound file="Content/Items/Weapons/ElectricalDischarger.ogg" range="200" />
+        <Explosion range="300.0" camerashake="0"
+                   stun="0" force="0.0" flames="false" shockwave="false" sparks="true" underwaterbubble="false" />
+      </StatusEffect>
+    </ElectricalDischarger>
+	<Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="steel" />
+	  <RequiredItem identifier="copper" />
+    </Fabricate>
+	<Deconstruct requiredtime="10">
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="steel" />
+	  <RequiredItem identifier="copper" />
+    </Deconstruct>
+	<Body width="32" height="32" density="30" />
+	<Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="65,-10" handle1="0,0" attachable="true" aimable="true">
+      <requireditem items="wrench" type="Equipped" />
+    </Holdable>
+	<ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="trigger_in" displayname="connection.turrettriggerin"/>
+    </ConnectionPanel>
+  </Item>
+</Items>

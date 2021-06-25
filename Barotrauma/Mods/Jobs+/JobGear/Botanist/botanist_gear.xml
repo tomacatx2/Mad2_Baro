@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="" identifier="botanistclothes" category="Equipment" tags="smallitem" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <Price locationtype="Research" buyprice="20" />
+    <Price locationtype="Military" buyprice="20" />
+    <Price locationtype="City" buyprice="20" />
+    <Price locationtype="Outpost" buyprice="50" />
+    <InventoryIcon texture="Mods/Jobs+/JobGear/Botanist/BotanistOutfitIcon.png" sourcerect="0,0,64,64" origin="0.5,0.5" />
+    <Sprite texture="Mods/Jobs+/JobGear/Botanist/BotanistJobGear.png" sourcerect="0,0,185,69" depth="0.6" origin="0.5,0.5" />
+    <Body width="100" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" variants="1" msg="ItemMsgPickUpSelect">
+      <sprite name="Botanist Torso" texture="botanist_torso_[GENDER]_[VARIANT].png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Left Upper Arm" texture="botanist_torso_[GENDER]_[VARIANT].png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Right Upper Arm" texture="botanist_torso_[GENDER]_[VARIANT].png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Left Lower Arm" texture="botanist_torso_[GENDER]_[VARIANT].png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Right Upper Arm" texture="botanist_torso_[GENDER]_[VARIANT].png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Waist" texture="botanist_legs_[GENDER]_[VARIANT].png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Right Thigh" texture="botanist_legs_[GENDER]_[VARIANT].png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Left Thigh" texture="botanist_legs_[GENDER]_[VARIANT].png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Right Leg" texture="botanist_legs_[GENDER]_[VARIANT].png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Left Leg" texture="botanist_legs_[GENDER]_[VARIANT].png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Right Shoe" texture="botanist_legs_[GENDER]_[VARIANT].png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Botanist Left Shoe" texture="botanist_legs_[GENDER]_[VARIANT].png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+</Items>

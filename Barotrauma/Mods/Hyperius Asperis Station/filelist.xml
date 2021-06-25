@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Hyperius Asperis Station" path="Mods/Hyperius Asperis Station/filelist.xml" corepackage="false" gameversion="0.9.8.0" steamworkshopurl="http://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&amp;id=2065509536" installtime="1587217002">
+  <Submarine file="Mods/Hyperius Asperis Station/Hyperius Asperis Station.sub" />
+  <Submarine file="Mods/Hyperius Asperis Station/Original Hyperius Asperis.sub" />
+</contentpackage>

@@ -1,0 +1,44 @@
+﻿[10/8/2020 12:16:06 AM]
+  Saving client permissions
+[10/8/2020 12:16:33 AM]
+  Gamemode changed to Mission
+[10/8/2020 12:16:57 AM]
+  e is ready to start the game.
+[10/8/2020 12:17:02 AM]
+  Client "e" started the round.
+[10/8/2020 12:17:02 AM]
+  Starting a new round...
+[10/8/2020 12:17:19 AM]
+  Mission: Salvaging an artifact
+[10/8/2020 12:17:19 AM]
+  Researchers of Gortyna Flexus have picked up an infrasonic signal highly similar to those emitted by alien artifacts previously discovered on Europa. Investigate the signal and retrieve the potential artifact.
+[10/8/2020 12:17:19 AM]
+  Game mode: Mission
+[10/8/2020 12:17:19 AM]
+  Submarine: Kastrull
+[10/8/2020 12:17:19 AM]
+  Level seed: wWpSJvd8
+[10/8/2020 12:17:19 AM]
+  Mission: Salvaging an artifact
+[10/8/2020 12:17:19 AM]
+  Round started.
+[10/8/2020 12:17:38 AM]
+  e picked up Fuel Rod
+[10/8/2020 12:17:42 AM]
+  e adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/8/2020 12:17:43 AM]
+  e adjusted reactor settings: Temperature: 98, Fission rate: 3, Turbine output: 1, Autotemp ON
+[10/8/2020 12:17:54 AM]
+  e placed Fuel Rod in Large Steel Cabinet (ID: 3299)
+[10/8/2020 12:19:06 AM]
+  e picked up SMG
+[10/8/2020 12:19:07 AM]
+  e placed Captain's Pipe in Secure Steel Cabinet (ID: 3936)
+[10/8/2020 12:19:14 AM]
+  Console command "enablecheats" executed by e.
+[10/8/2020 12:19:48 AM]
+  Client "e" ended the round.
+[10/8/2020 12:19:48 AM]
+  Ending the round...
+[10/8/2020 12:19:48 AM]
+  Round ended.

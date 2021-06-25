@@ -1,0 +1,40 @@
+﻿[2/28/2021 10:17:25 PM]
+  Starting the server...
+[2/28/2021 10:17:25 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[2/28/2021 10:17:27 PM]
+  Server started
+[2/28/2021 10:17:57 PM]
+  tomacatx1 has joined the server.
+[2/28/2021 10:17:57 PM]
+  Saving client permissions
+[2/28/2021 10:18:20 PM]
+  Client "tomacatx1" started the round.
+[2/28/2021 10:18:20 PM]
+  Starting a new round...
+[2/28/2021 10:18:24 PM]
+  Game mode: Sandbox
+[2/28/2021 10:18:24 PM]
+  Submarine: Humpback v1.03 re-1
+[2/28/2021 10:18:24 PM]
+  Level seed: 2AS9Vy5E
+[2/28/2021 10:18:25 PM]
+  Round started.
+[2/28/2021 10:18:43 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/28/2021 10:18:55 PM]
+  Console command "spawn explorer cursor" executed by tomacatx1.
+[2/28/2021 10:19:01 PM]
+  Console command "control "Tyson Heuer"" executed by tomacatx1.
+[2/28/2021 10:19:02 PM]
+  Tyson Heuer set the value "Channel" of the item "Headset" to "0".
+[2/28/2021 10:19:08 PM]
+  Tyson Heuer equipped Chemlight (Green)
+[2/28/2021 10:19:12 PM]
+  Tyson Heuer threw Chemlight (Green)
+[2/28/2021 10:19:16 PM]
+  Tyson Heuer equipped Flare Gun
+[2/28/2021 10:20:18 PM]
+  Client "tomacatx1" ended the round.
+[2/28/2021 10:20:18 PM]
+  Ending the round...

@@ -1,0 +1,250 @@
+﻿[2/27/2021 8:51:24 PM]
+  Saving client permissions
+[2/27/2021 8:54:17 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/27/2021 8:54:17 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/27/2021 8:54:17 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/27/2021 8:54:21 PM]
+  Client "tomacatx1" started the round.
+[2/27/2021 8:54:21 PM]
+  Starting a new round...
+[2/27/2021 8:54:42 PM]
+  Mission: Terminate a Swarm
+[2/27/2021 8:54:42 PM]
+  A small swarm of Crawler has been terrorizing vessels traveling between Pelorus Linea Station and Aylesbury. A reward of 2,600 marks has been promised to any crew that can neutralize it.
+[2/27/2021 8:54:42 PM]
+  Game mode: Mission
+[2/27/2021 8:54:42 PM]
+  Submarine: Humpback
+[2/27/2021 8:54:42 PM]
+  Level seed: JK0uW4rx
+[2/27/2021 8:54:42 PM]
+  Mission: Terminate a Swarm
+[2/27/2021 8:54:42 PM]
+  Round started.
+[2/27/2021 8:54:42 PM]
+  Pete Nunez: Did you hear that?
+[2/27/2021 8:54:47 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/27/2021 8:55:00 PM]
+  tomacatx1 picked up Fuel Rod
+[2/27/2021 8:55:00 PM]
+  tomacatx1 picked up Fuel Rod
+[2/27/2021 8:55:12 PM]
+  tomacatx1: Pete Nunez, man the weapons!
+[2/27/2021 8:55:13 PM]
+  Pete Nunez: Aye!
+[2/27/2021 8:55:17 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:55:17 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:55:18 PM]
+  tomacatx1 equipped Chemical Crate
+[2/27/2021 8:55:18 PM]
+  tomacatx1 picked up Chemical Crate
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:29 PM]
+  tomacatx1 placed Chemical Crate in Crate Shelf (ID: 109)
+[2/27/2021 8:55:36 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:39 PM]
+  tomacatx1 equipped Metal Crate
+[2/27/2021 8:55:39 PM]
+  tomacatx1 picked up Metal Crate
+[2/27/2021 8:55:42 PM]
+  tomacatx1 picked up Toolbelt
+[2/27/2021 8:55:44 PM]
+  tomacatx1 picked up Body Armor
+[2/27/2021 8:55:45 PM]
+  tomacatx1 placed Renegade's Hat in Metal Crate (ID: 3750)
+[2/27/2021 8:55:45 PM]
+  tomacatx1 removed Ballistic Helmet from Metal Crate (ID: 3750)
+[2/27/2021 8:55:45 PM]
+  tomacatx1 picked up Ballistic Helmet
+[2/27/2021 8:55:49 PM]
+  tomacatx1 placed Welding Tool in Toolbelt (ID: 3824)
+[2/27/2021 8:55:51 PM]
+  tomacatx1 picked up Diving Mask
+[2/27/2021 8:55:53 PM]
+  tomacatx1 placed Renegade's Hat in Supplies Cabinet (ID: 377)
+[2/27/2021 8:55:56 PM]
+  tomacatx1 picked up Wrench
+[2/27/2021 8:55:57 PM]
+  tomacatx1 picked up Screwdriver
+[2/27/2021 8:55:58 PM]
+  tomacatx1 placed Crowbar in Toolbelt (ID: 3824)
+[2/27/2021 8:56:00 PM]
+  tomacatx1 placed Screwdriver in Toolbelt (ID: 3824)
+[2/27/2021 8:56:01 PM]
+  tomacatx1 placed Wrench in Toolbelt (ID: 3824)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:44 PM]
+  tomacatx1 placed Crowbar in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:46 PM]
+  tomacatx1 placed Blue Paint in Metal Crate (ID: 3750)
+[2/27/2021 8:56:46 PM]
+  tomacatx1 removed Crowbar from Metal Crate (ID: 3750)
+[2/27/2021 8:56:46 PM]
+  tomacatx1 placed Crowbar in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:47 PM]
+  tomacatx1 placed Red Paint in Metal Crate (ID: 3750)
+[2/27/2021 8:56:48 PM]
+  tomacatx1 placed Sprayer in Metal Crate (ID: 3750)
+[2/27/2021 8:56:49 PM]
+  tomacatx1 placed Sprayer in Metal Crate (ID: 3750)
+[2/27/2021 8:57:01 PM]
+  tomacatx1 picked up Stun Gun
+[2/27/2021 8:57:03 PM]
+  tomacatx1 placed Stun Gun in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:05 PM]
+  tomacatx1 placed SMG Magazine in SMG (ID: 3291)
+[2/27/2021 8:57:06 PM]
+  tomacatx1 placed SMG Magazine in SMG (ID: 3292)
+[2/27/2021 8:57:10 PM]
+  tomacatx1 placed SMG Magazine in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:12 PM]
+  tomacatx1 placed SMG Magazine in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:16 PM]
+  tomacatx1 placed SMG Magazine in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:18 PM]
+  tomacatx1 placed Ballistic Helmet in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:20 PM]
+  tomacatx1 placed Diving Knife in Metal Crate (ID: 3750)
+[2/27/2021 8:57:20 PM]
+  tomacatx1 removed Body Armor from Metal Crate (ID: 3750)
+[2/27/2021 8:57:20 PM]
+  tomacatx1 placed Body Armor in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:28 PM]
+  tomacatx1 picked up Riot Shotgun
+[2/27/2021 8:57:35 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:57:36 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:57:38 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:57:39 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:57:44 PM]
+  tomacatx1 placed Metal Crate in Crate Shelf (ID: 109)
+[2/27/2021 8:57:49 PM]
+  tomacatx1 equipped Guitar
+[2/27/2021 8:57:49 PM]
+  tomacatx1 picked up Guitar
+[2/27/2021 8:57:55 PM]
+  tomacatx1 dropped Guitar
+[2/27/2021 8:57:56 PM]
+  tomacatx1 picked up Captain's Pipe
+[2/27/2021 8:57:58 PM]
+  tomacatx1 equipped Medic Crate
+[2/27/2021 8:57:58 PM]
+  tomacatx1 picked up Medic Crate
+[2/27/2021 8:58:01 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 8:58:01 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 8:58:01 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 8:58:04 PM]
+  tomacatx1 placed Pipe Tobacco in Captain's Pipe (ID: 3819)
+[2/27/2021 8:58:08 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:08 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:10 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:10 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:10 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:10 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:13 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3824)
+[2/27/2021 8:58:13 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3824)
+[2/27/2021 8:58:15 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3824)
+[2/27/2021 8:58:16 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3824)
+[2/27/2021 8:58:21 PM]
+  tomacatx1 placed Medic Crate in Crate Shelf (ID: 109)
+[2/27/2021 8:58:47 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 8:58:47 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/27/2021 8:58:55 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[2/27/2021 8:58:58 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 8:58:58 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/27/2021 8:59:02 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[2/27/2021 8:59:23 PM]
+  Saving client permissions

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Pirate Kastrull" path="Mods/Pirate Kastrull/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2524355129" installtime="1624441866">
+  <Submarine file="Mods/Pirate Kastrull/Pirate Kastrull.sub" />
+</contentpackage>

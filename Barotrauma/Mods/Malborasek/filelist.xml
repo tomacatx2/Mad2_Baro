@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Malborasek" path="Mods/Malborasek/filelist.xml" corepackage="false" gameversion="0.10.4.0" steamworkshopid="1773666032" installtime="1598358676">
+  <Item file="Mods/Malborasek/medical.xml" />
+  <Particles file="Mods/Malborasek/ParticlePrefabs.xml" />
+  <None file="Mods/Malborasek/cigsmoke.png" />
+  <None file="Mods/Malborasek/Other.png" />
+  <None file="Mods/Malborasek/Smoke.png" />
+</contentpackage>

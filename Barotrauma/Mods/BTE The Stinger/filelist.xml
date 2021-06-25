@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="BTE The Stinger" path="Mods/BTE The Stinger/filelist.xml" corepackage="false" gameversion="0.9.1.0" steamworkshopurl="http://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&amp;id=1807132729" installtime="1563642826">
+  <Submarine file="Mods/BTE The Stinger/Submarines/BTE The Stinger.sub" />
+</contentpackage>

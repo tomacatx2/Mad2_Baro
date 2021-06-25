@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Deep Sea Alcohol" path="Mods/Deep Sea Alcohol/filelist.xml" corepackage="false" gameversion="0.9.9.1" steamworkshopid="2085880797" installtime="1588708440">
+  <Item file="Mods/Deep Sea Alcohol/Items/alcohol.xml" />
+  <None file="Mods/Deep Sea Alcohol/Items/beer.ogg" />
+  <None file="Mods/Deep Sea Alcohol/Items/beer.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/beerI.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/corona.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/coronaI.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/energy.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/energyI.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/leninade.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/leninadeI.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/poh.ogg" />
+  <None file="Mods/Deep Sea Alcohol/Items/pohI.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/pohmelin.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/stolichnaya.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/stolichnayaI.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/tsarskaya.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/tsarskayaI.png" />
+  <None file="Mods/Deep Sea Alcohol/Items/vodka.ogg" />
+  <None file="Mods/Deep Sea Alcohol/Items/water.ogg" />
+  <None file="Mods/Deep Sea Alcohol/Items/Без имени-3 копия.jpg" />
+</contentpackage>

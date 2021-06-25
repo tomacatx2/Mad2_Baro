@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="BOScore" path="Mods/BOScore/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2480065186" installtime="1621269668">
+  <Submarine file="Mods/BOScore/[BOS]Core.sub" />
+  <None file="Mods/BOScore/music/AccordionLoop.ogg" />
+  <None file="Mods/BOScore/music/adlms.ogg" />
+  <None file="Mods/BOScore/music/Guitar1.ogg" />
+  <None file="Mods/BOScore/music/Guitar2.ogg" />
+  <None file="Mods/BOScore/music/Guitar3.ogg" />
+  <None file="Mods/BOScore/music/GuitarClown.ogg" />
+  <None file="Mods/BOScore/music/Harmonica1.ogg" />
+  <None file="Mods/BOScore/music/Harmonica2.ogg" />
+  <None file="Mods/BOScore/music/hrtg.ogg" />
+  <None file="Mods/BOScore/music/kn.ogg" />
+  <None file="Mods/BOScore/music/kqs.ogg" />
+  <None file="Mods/BOScore/music/msk.ogg" />
+  <None file="Mods/BOScore/music/pyzj.ogg" />
+  <None file="Mods/BOScore/music/sb.ogg" />
+  <None file="Mods/BOScore/music/tkzc.ogg" />
+  <None file="Mods/BOScore/music/xbydns.ogg" />
+  <None file="Mods/BOScore/music/xxx.ogg" />
+  <None file="Mods/BOScore/music/yydjtc.ogg" />
+  <None file="Mods/BOScore/music/bro.ogg" />
+  <None file="Mods/BOScore/music/bws.ogg" />
+  <None file="Mods/BOScore/music/ftsq.ogg" />
+  <None file="Mods/BOScore/music/lpg.ogg" />
+</contentpackage>

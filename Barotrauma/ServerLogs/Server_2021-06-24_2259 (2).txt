@@ -1,0 +1,440 @@
+﻿[6/24/2021 10:47:44 PM]
+  Saving client permissions
+[6/24/2021 10:47:44 PM]
+  Saving client permissions
+[6/24/2021 10:47:48 PM]
+  Player The Supreme Gentleman has changed their name to (you).
+[6/24/2021 10:48:20 PM]
+  Gamemode changed to Sandbox
+[6/24/2021 10:49:16 PM]
+  superhands has joined the server.
+[6/24/2021 10:49:16 PM]
+  Saving client permissions
+[6/24/2021 10:49:37 PM]
+  (you) is ready to start the game.
+[6/24/2021 10:49:38 PM]
+  Client "(you)" started the round.
+[6/24/2021 10:49:38 PM]
+  Starting a new round...
+[6/24/2021 10:50:09 PM]
+  Game mode: Sandbox
+[6/24/2021 10:50:09 PM]
+  Submarine: ECS. Hammerhead var C v1 re-2
+[6/24/2021 10:50:09 PM]
+  Level seed: u4rKxwqu
+[6/24/2021 10:50:09 PM]
+  Round started.
+[6/24/2021 10:50:14 PM]
+  (you) set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 10:50:14 PM]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 10:50:45 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:50:45 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:50:45 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:50:49 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:50:50 PM]
+  (you) set the recharge speed of Battery to 60 %
+[6/24/2021 10:50:50 PM]
+  (you) set the recharge speed of Battery to 90 %
+[6/24/2021 10:50:50 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 50 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 70 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 90 %
+[6/24/2021 10:50:53 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 50 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 90 %
+[6/24/2021 10:50:55 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:51:07 PM]
+  (you) set the recharge speed of Battery to 30 %
+[6/24/2021 10:51:07 PM]
+  (you) set the recharge speed of Battery to 50 %
+[6/24/2021 10:51:07 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:51:07 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:51:18 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:18 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:23 PM]
+  Console command "fixhulls" executed by (you).
+[6/24/2021 10:51:26 PM]
+  Console command "enablecheats" executed by (you).
+[6/24/2021 10:51:27 PM]
+  Console command "fixhulls" executed by (you).
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:53 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:55 PM]
+  Saving client permissions
+[6/24/2021 10:51:55 PM]
+  Console command "giverank "superhands" Admin" executed by (you).
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:51:57 PM]
+  Console command "enablecheats" executed by (you).
+[6/24/2021 10:51:59 PM]
+  Console command "enablecheats" executed by (you).
+[6/24/2021 10:52:15 PM]
+  Saving client permissions
+[6/24/2021 10:52:15 PM]
+  Console command "giverank "superhands" Admin" executed by (you).
+[6/24/2021 10:52:21 PM]
+  Console command "freecam" executed by superhands.
+[6/24/2021 10:52:25 PM]
+  Client "(you)" ended the round.
+[6/24/2021 10:52:25 PM]
+  Ending the round...
+[6/24/2021 10:52:25 PM]
+  Round ended.
+[6/24/2021 10:52:44 PM]
+  Client "(you)" set the permissions of the client "superhands" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity
+[6/24/2021 10:52:44 PM]
+  Saving client permissions
+[6/24/2021 10:52:49 PM]
+  Client "(you)" started the round.
+[6/24/2021 10:52:49 PM]
+  Starting a new round...
+[6/24/2021 10:53:04 PM]
+  Game mode: Sandbox
+[6/24/2021 10:53:04 PM]
+  Submarine: ECS. Hammerhead var C v1 re-2
+[6/24/2021 10:53:04 PM]
+  Level seed: Nk8pAxZg
+[6/24/2021 10:53:04 PM]
+  Round started.
+[6/24/2021 10:53:08 PM]
+  (you) set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 10:53:09 PM]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 10:53:32 PM]
+  (you) set the recharge speed of Battery to 40 %
+[6/24/2021 10:53:32 PM]
+  (you) set the recharge speed of Battery to 70 %
+[6/24/2021 10:53:32 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:53:34 PM]
+  (you) set the recharge speed of Battery to 30 %
+[6/24/2021 10:53:34 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:53:34 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:53:36 PM]
+  (you) set the recharge speed of Battery to 50 %
+[6/24/2021 10:53:36 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:53:38 PM]
+  (you) set the recharge speed of Battery to 50 %
+[6/24/2021 10:53:38 PM]
+  (you) set the recharge speed of Battery to 80 %
+[6/24/2021 10:53:38 PM]
+  (you) set the recharge speed of Battery to 100 %
+[6/24/2021 10:54:26 PM]
+  Saving client permissions
+[6/24/2021 10:54:26 PM]
+  Console command "givecommandperm "superhands" los" executed by (you).
+[6/24/2021 10:54:43 PM]
+  Saving client permissions
+[6/24/2021 10:54:43 PM]
+  Console command "givecommandperm "superhands" lighting" executed by (you).
+[6/24/2021 10:54:51 PM]
+  Saving client permissions
+[6/24/2021 10:54:51 PM]
+  Console command "givecommandperm "superhands" freecamera" executed by (you).
+[6/24/2021 10:55:07 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:55:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:07 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:55:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:07 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:15 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:15 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:15 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:55:15 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:15 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:15 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:22 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:22 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:22 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:22 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:22 PM]
+  superhands has lost more than 25 karma in the past minute.
+[6/24/2021 10:55:22 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:55:22 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:27 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:55:27 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:27 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:27 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:27 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:27 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:55:27 PM]
+  Console command "fixhulls" executed by (you).
+[6/24/2021 10:55:39 PM]
+  Console command "fixhulls" executed by (you).
+[6/24/2021 10:57:36 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:36 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:57:36 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:36 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:57:36 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:36 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:36 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:41 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:41 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:57:41 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:41 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:41 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:41 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:57:41 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:50 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:50 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:50 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:57:50 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:50 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:50 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:51 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:51 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:51 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:51 PM]
+  superhands has lost more than 25 karma in the past minute.
+[6/24/2021 10:57:51 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:51 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:52 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:52 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:52 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:52 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:52 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:54 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:54 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:54 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:54 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:54 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:55 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:55 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:55 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:55 PM]
+  (you) attacked by superhands. Burn: 33 Stun: 0.2
+[6/24/2021 10:57:55 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:55 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:56 PM]
+  (you) attacked by superhands. Burn: 33 Stun: 0.2
+[6/24/2021 10:57:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:57:56 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:06 PM]
+  (you) has died (Cause of death: Barotrauma)
+[6/24/2021 10:58:24 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:58:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:24 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:58:24 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:25 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:25 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:25 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:25 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:25 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:26 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:28 PM]
+  Inner wall breached by superhands
+[6/24/2021 10:58:28 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:28 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:28 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:58:28 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:28 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:28 PM]
+  Outer wall breached by superhands
+[6/24/2021 10:58:28 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:29 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:29 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:29 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:29 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:29 PM]
+  superhands launched Pulse Laser (projectile: Pulse Laser Bolt)
+[6/24/2021 10:58:30 PM]
+  Client "(you)" ended the round.
+[6/24/2021 10:58:30 PM]
+  Ending the round...
+[6/24/2021 10:58:30 PM]
+  Round ended.

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="BTE Class A Station" path="Mods/BTE Class A Station/filelist.xml" corepackage="false" gameversion="0.9.1.0" steamworkshopurl="http://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&amp;id=1801769415" installtime="1563652229">
+  <Submarine file="Mods/BTE Class A Station/Submarines/BTE Class A Station.sub" />
+</contentpackage>

@@ -1,0 +1,1600 @@
+﻿[10/8/2020 12:38:20 AM]
+  Starting the server...
+[10/8/2020 12:38:20 AM]
+  Using SteamP2P networking.
+[10/8/2020 12:38:20 AM]
+  Server started
+[10/8/2020 12:38:20 AM]
+  e has joined the server.
+[10/8/2020 12:38:20 AM]
+  Saving client permissions
+[10/8/2020 12:38:20 AM]
+  Saving client permissions
+[10/8/2020 12:38:20 AM]
+  Gamemode changed to Campaign
+[10/8/2020 12:38:41 AM]
+  Gamemode changed to Campaign
+[10/8/2020 12:38:45 AM]
+  Starting a new round...
+[10/8/2020 12:38:52 AM]
+  Game mode: Campaign
+[10/8/2020 12:38:52 AM]
+  Submarine: Azimuth
+[10/8/2020 12:38:52 AM]
+  Level seed: Erlangshen
+[10/8/2020 12:38:53 AM]
+  Round started.
+[10/8/2020 12:38:58 AM]
+  Ronnie Deloney: Please hold. Your death is important to us, and a Moloch will be with you shortly.
+[10/8/2020 12:39:03 AM]
+  Eliza Atterbury: What?
+[10/8/2020 12:39:04 AM]
+  Ronnie Deloney: Ahh, sorry, I meant “please wait for your turn”.
+[10/8/2020 12:39:09 AM]
+  Alvaro Nunez: You people look like you could use some rest.
+[10/8/2020 12:39:22 AM]
+  e placed Revolver in Large Steel Cabinet (ID: 1998)
+[10/8/2020 12:39:25 AM]
+  e placed Captain's Pipe in Large Steel Cabinet (ID: 1998)
+[10/8/2020 12:39:36 AM]
+  Console command "spawnitem "Commando's Fatigues" cursor" executed by e.
+[10/8/2020 12:39:40 AM]
+  Console command "enablecheats" executed by e.
+[10/8/2020 12:39:43 AM]
+  Console command "spawnitem "Commando's Fatigues" inventory" executed by e.
+[10/8/2020 12:39:47 AM]
+  e placed Commando's Fatigues in Large Steel Cabinet (ID: 1998)
+[10/8/2020 12:39:48 AM]
+  e placed Veteran's Cap in Large Steel Cabinet (ID: 1998)
+[10/8/2020 12:40:14 AM]
+  e picked up Commando's Fatigues
+[10/8/2020 12:40:16 AM]
+  e placed Veteran's Jacket in Large Steel Cabinet (ID: 1998)
+[10/8/2020 12:40:21 AM]
+  Console command "spawnitem "Ballistic Helmet" inventory" executed by e.
+[10/8/2020 12:40:27 AM]
+  Console command "spawnitem "Body Armor" inventory" executed by e.
+[10/8/2020 12:40:38 AM]
+  Console command "spawnitem "Marine Battle Rifle" inventory" executed by e.
+[10/8/2020 12:41:04 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 12:41:04 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 12:41:05 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 12:41:06 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 12:41:07 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 12:41:12 AM]
+  Console command "spawnitem Toolbox inventory" executed by e.
+[10/8/2020 12:41:13 AM]
+  Console command "spawnitem Toolbox inventory" executed by e.
+[10/8/2020 12:41:17 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:41:18 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:41:19 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:41:20 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:41:21 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:41:27 AM]
+  Console command "spawnitem "Tazer Gun" inventory" executed by e.
+[10/8/2020 12:41:33 AM]
+  Console command "spawnitem "Stun Baton" inventory" executed by e.
+[10/8/2020 12:41:39 AM]
+  Console command "spawnitem "Fulgurium Battery Cell" inventory" executed by e.
+[10/8/2020 12:41:46 AM]
+  Console command "spawnitem "Tazer Cartridge" inventory" executed by e.
+[10/8/2020 12:41:46 AM]
+  Console command "spawnitem "Tazer Cartridge" inventory" executed by e.
+[10/8/2020 12:41:48 AM]
+  e placed Tazer Cartridge in Tazer Gun (ID: 1345)
+[10/8/2020 12:41:50 AM]
+  e placed Tazer Cartridge in Toolbox (ID: 1343)
+[10/8/2020 12:41:50 AM]
+  e placed Fulgurium Battery Cell in Stun Baton (ID: 1346)
+[10/8/2020 12:41:57 AM]
+  Console command "spawnitem "Handgun (Laser)" inventory" executed by e.
+[10/8/2020 12:42:02 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 12:42:03 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 12:42:04 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (Laser) (ID: 1352)
+[10/8/2020 12:42:06 AM]
+  e placed 9mm Magazine (High-Capacity) in Toolbox (ID: 1343)
+[10/8/2020 12:42:11 AM]
+  Console command "spawnitem Morphine inventory" executed by e.
+[10/8/2020 12:42:12 AM]
+  Console command "spawnitem Morphine inventory" executed by e.
+[10/8/2020 12:42:19 AM]
+  Console command "spawnitem Plastiseal inventory" executed by e.
+[10/8/2020 12:42:19 AM]
+  Console command "spawnitem Plastiseal inventory" executed by e.
+[10/8/2020 12:42:21 AM]
+  e placed Plastiseal in Toolbox (ID: 1344)
+[10/8/2020 12:42:21 AM]
+  e placed Plastiseal in Toolbox (ID: 1344)
+[10/8/2020 12:42:22 AM]
+  e placed Morphine in Toolbox (ID: 1344)
+[10/8/2020 12:42:23 AM]
+  e placed Morphine in Toolbox (ID: 1344)
+[10/8/2020 12:42:33 AM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by e.
+[10/8/2020 12:42:34 AM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by e.
+[10/8/2020 12:42:35 AM]
+  e placed Anabolic Steroids in Toolbox (ID: 1344)
+[10/8/2020 12:42:36 AM]
+  e placed Anabolic Steroids in Toolbox (ID: 1344)
+[10/8/2020 12:42:44 AM]
+  Console command "spawnitem "Satchel Charge (C-4)" inventory" executed by e.
+[10/8/2020 12:42:44 AM]
+  Console command "spawnitem "Satchel Charge (C-4)" inventory" executed by e.
+[10/8/2020 12:43:12 AM]
+  Alvaro Nunez attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:12 AM]
+  Alvaro Nunez attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:13 AM]
+  Alvaro Nunez: Need medical assistance in amidships!
+[10/8/2020 12:43:13 AM]
+  Alvaro Nunez attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:13 AM]
+  Alvaro Nunez: Security! Security!
+[10/8/2020 12:43:13 AM]
+  Alvaro Nunez attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:13 AM]
+  Alvaro Nunez attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:14 AM]
+  Alvaro Nunez attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:14 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:15 AM]
+  Harry Malone: Need a medic in amidships!
+[10/8/2020 12:43:15 AM]
+  Harry Malone: What the hell are you doing?!
+[10/8/2020 12:43:15 AM]
+  Alvaro Nunez attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:16 AM]
+  Harry Malone: I'm losing blood!
+[10/8/2020 12:43:16 AM]
+  Alvaro Nunez attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:17 AM]
+  Alvaro Nunez: I'm losing blood!
+[10/8/2020 12:43:18 AM]
+  Sonny Donovan attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:19 AM]
+  Joyce Kramer attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:19 AM]
+  Sonny Donovan: Okay, that's too much!
+[10/8/2020 12:43:19 AM]
+  Joyce Kramer: Need medical assistance in amidships!
+[10/8/2020 12:43:19 AM]
+  Joyce Kramer attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:19 AM]
+  Sonny Donovan: Help, I'm bleeding!
+[10/8/2020 12:43:19 AM]
+  Joyce Kramer: Stop right there!
+[10/8/2020 12:43:19 AM]
+  Sonny Donovan attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:21 AM]
+  Sonny Donovan attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:43:22 AM]
+  Sonny Donovan attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:43:22 AM]
+  Joyce Kramer: Help, I'm bleeding!
+[10/8/2020 12:43:24 AM]
+  Joyce Kramer: Need medical assistance in lower mid!
+[10/8/2020 12:43:24 AM]
+  Roy Tseng used Diving Knife on e.
+[10/8/2020 12:43:25 AM]
+  Roy Tseng used Diving Knife on Joyce Kramer.
+[10/8/2020 12:43:26 AM]
+  Joyce Kramer used Crowbar on Roy Tseng.
+[10/8/2020 12:43:26 AM]
+  Roy Tseng: Stop messing around!
+[10/8/2020 12:43:26 AM]
+  Roy Tseng used Diving Knife on Joyce Kramer.
+[10/8/2020 12:43:27 AM]
+  Joyce Kramer used Crowbar on Roy Tseng.
+[10/8/2020 12:43:27 AM]
+  Roy Tseng: Now you're in deep shit!
+[10/8/2020 12:43:28 AM]
+  Roy Tseng used Diving Knife on Joyce Kramer.
+[10/8/2020 12:43:28 AM]
+  Joyce Kramer used Crowbar on Roy Tseng.
+[10/8/2020 12:43:28 AM]
+  Rosendo Patel: I'm gonna get you!
+[10/8/2020 12:43:29 AM]
+  Roy Tseng used Diving Knife on Joyce Kramer.
+[10/8/2020 12:43:29 AM]
+  Joyce Kramer used Crowbar on Roy Tseng.
+[10/8/2020 12:43:30 AM]
+  Roy Tseng used Diving Knife on Joyce Kramer.
+[10/8/2020 12:43:31 AM]
+  Joyce Kramer used Crowbar on Roy Tseng.
+[10/8/2020 12:43:31 AM]
+  Sonny Donovan used Diving Knife on Joyce Kramer.
+[10/8/2020 12:43:31 AM]
+  Roy Tseng used Diving Knife on Sonny Donovan.
+[10/8/2020 12:43:31 AM]
+  Rosendo Patel: I'm losing blood!
+[10/8/2020 12:43:31 AM]
+  Julianne Lane: Need a medic in lower mid!
+[10/8/2020 12:43:32 AM]
+  Console command "heal e" executed by e.
+[10/8/2020 12:43:32 AM]
+  Sonny Donovan: Stop messing around!
+[10/8/2020 12:43:32 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.4 Gunshot wound: 1.5
+[10/8/2020 12:43:32 AM]
+  Roy Tseng: I'm bleeding out!
+[10/8/2020 12:43:33 AM]
+  Rosendo Patel attacked by e. Bleeding: 1.4 Gunshot wound: 1.5
+[10/8/2020 12:43:33 AM]
+  Sonny Donovan used Stun Baton (Battery Cell) on Roy Tseng.
+[10/8/2020 12:43:33 AM]
+  Rosendo Patel attacked by e. Bleeding: 1.4 Gunshot wound: 1.5
+[10/8/2020 12:43:34 AM]
+  Sonny Donovan used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:43:34 AM]
+  Harry Malone: Treating Alvaro Nunez in mid aft side!
+[10/8/2020 12:43:35 AM]
+  Sonny Donovan used Diving Knife on e.
+[10/8/2020 12:43:36 AM]
+  Sonny Donovan used Diving Knife on e.
+[10/8/2020 12:43:37 AM]
+  Sonny Donovan used Diving Knife on e.
+[10/8/2020 12:43:37 AM]
+  Console command "heal e" executed by e.
+[10/8/2020 12:43:38 AM]
+  Sonny Donovan used Diving Knife on e.
+[10/8/2020 12:43:39 AM]
+  Sonny Donovan used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:43:40 AM]
+  Sonny Donovan used Diving Knife on Joyce Kramer.
+[10/8/2020 12:43:41 AM]
+  Sonny Donovan used Diving Knife on Roy Tseng.
+[10/8/2020 12:43:41 AM]
+  Console command "heal e" executed by e.
+[10/8/2020 12:43:42 AM]
+  Roy Tseng attacked by e. Bleeding: 1.4 Gunshot wound: 1.5
+[10/8/2020 12:43:43 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.4 Gunshot wound: 1.5
+[10/8/2020 12:43:43 AM]
+  Sonny Donovan attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:43:44 AM]
+  Sonny Donovan used Stun Baton (Battery Cell) on Roy Tseng.
+[10/8/2020 12:43:44 AM]
+  Sonny Donovan used Diving Knife on e.
+[10/8/2020 12:43:46 AM]
+  Sonny Donovan used Diving Knife on Joyce Kramer.
+[10/8/2020 12:43:46 AM]
+  Console command "heal e" executed by e.
+[10/8/2020 12:43:46 AM]
+  Sonny Donovan used Diving Knife on e.
+[10/8/2020 12:43:47 AM]
+  Joyce Kramer has died (Cause of death: Blood loss)
+[10/8/2020 12:43:47 AM]
+  Harry Malone: I'm losing blood!
+[10/8/2020 12:43:47 AM]
+  Harry Malone: I need naloxone, bandage, plastiseal or antibiotic glue to treat Alvaro Nunez!
+[10/8/2020 12:43:49 AM]
+  Alvaro Nunez: Help, I'm bleeding!
+[10/8/2020 12:43:50 AM]
+  Sonny Donovan: Freeze, bastard!
+[10/8/2020 12:43:50 AM]
+  Rosendo Patel opened Custom Hatch
+[10/8/2020 12:43:51 AM]
+  Sonny Donovan: Need a medic in lower mid!
+[10/8/2020 12:43:51 AM]
+  Rosendo Patel: Need a medic in airlock!
+[10/8/2020 12:43:52 AM]
+  Roy Tseng: Need a medic in lower mid!
+[10/8/2020 12:43:53 AM]
+  Sonny Donovan: I'm bleeding out!
+[10/8/2020 12:43:56 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:56 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:56 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:43:56 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:44:02 AM]
+  e picked up Morphine
+[10/8/2020 12:44:05 AM]
+  Rosendo Patel: I'm bleeding out!
+[10/8/2020 12:44:06 AM]
+  Julianne Lane: Treating Alvaro Nunez in mid aft side!
+[10/8/2020 12:44:07 AM]
+  Roy Tseng: I'm bleeding out!
+[10/8/2020 12:44:07 AM]
+  Julianne Lane: I need saline, blood pack, naloxone or bandage to treat Alvaro Nunez!
+[10/8/2020 12:44:07 AM]
+  e used item Morphine
+[10/8/2020 12:44:10 AM]
+  e used item Plastiseal
+[10/8/2020 12:44:16 AM]
+  e picked up 5.56x45mm Magazine
+[10/8/2020 12:44:17 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:44:17 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:44:19 AM]
+  e picked up 9mm Magazine (High-Capacity)
+[10/8/2020 12:44:20 AM]
+  e placed 9mm Magazine (High-Capacity) in Toolbox (ID: 1343)
+[10/8/2020 12:44:21 AM]
+  Alvaro Nunez: Help, I'm bleeding!
+[10/8/2020 12:44:21 AM]
+  Harry Malone: I'm bleeding out!
+[10/8/2020 12:44:21 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (Laser) (ID: 1352)
+[10/8/2020 12:44:23 AM]
+  e placed Morphine in Toolbox (ID: 1344)
+[10/8/2020 12:44:24 AM]
+  Sonny Donovan: I'm losing blood!
+[10/8/2020 12:44:25 AM]
+  Julianne Lane: Giving first aid to Sonny Donovan in lower mid!
+[10/8/2020 12:44:25 AM]
+  Harry Malone: Treating Sonny Donovan in lower mid!
+[10/8/2020 12:44:25 AM]
+  Julianne Lane: Treating Rosendo Patel in lower mid!
+[10/8/2020 12:44:26 AM]
+  e picked up Tazer Cartridge
+[10/8/2020 12:44:26 AM]
+  e removed Tazer Cartridge from Tazer Gun (ID: 1345)
+[10/8/2020 12:44:27 AM]
+  e placed Tazer Cartridge in Tazer Gun (ID: 1345)
+[10/8/2020 12:44:29 AM]
+  Julianne Lane: I need saline, blood pack, morphine or fentanyl to treat Rosendo Patel!
+[10/8/2020 12:44:31 AM]
+  Harry Malone: I need to find saline, blood pack, naloxone or bandage!
+[10/8/2020 12:44:31 AM]
+  Rosendo Patel opened Custom Hatch
+[10/8/2020 12:44:32 AM]
+  Rosendo Patel attacked by e. Blunt force trauma: 2
+[10/8/2020 12:44:32 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Rosendo Patel.
+[10/8/2020 12:44:33 AM]
+  Rosendo Patel: Okay, that's too much!
+[10/8/2020 12:44:34 AM]
+  Sonny Donovan attacked by e. Blunt force trauma: 2
+[10/8/2020 12:44:34 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Sonny Donovan.
+[10/8/2020 12:44:35 AM]
+  Sonny Donovan: I'm gonna get you!
+[10/8/2020 12:44:37 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.4 Gunshot wound: 1.5
+[10/8/2020 12:44:37 AM]
+  Sonny Donovan attacked by e. Blunt force trauma: 0.4
+[10/8/2020 12:44:37 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Sonny Donovan.
+[10/8/2020 12:44:37 AM]
+  Sonny Donovan attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:37 AM]
+  Roy Tseng: Need a medic in amidships!
+[10/8/2020 12:44:38 AM]
+  Harry Malone: Roy Tseng is back in shape!
+[10/8/2020 12:44:38 AM]
+  Julianne Lane: Roy Tseng is all right!
+[10/8/2020 12:44:38 AM]
+  Sonny Donovan attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:44:38 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:38 AM]
+  Sonny Donovan attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:44:38 AM]
+  Sonny Donovan attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:44:39 AM]
+  Sonny Donovan attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:44:39 AM]
+  Sonny Donovan attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:44:39 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:39 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:40 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:40 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:40 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:40 AM]
+  Roy Tseng: I'm bleeding out!
+[10/8/2020 12:44:40 AM]
+  Harry Malone: Giving first aid to Alvaro Nunez in mid aft side!
+[10/8/2020 12:44:40 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:40 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:41 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:41 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:42 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:44:44 AM]
+  Alvaro Nunez: Need a medic in amidships!
+[10/8/2020 12:44:45 AM]
+  Harry Malone: Alvaro Nunez has been resuscitated!
+[10/8/2020 12:44:46 AM]
+  Sonny Donovan attacked by e. Bleeding: 1.4 Gunshot wound: 1.5
+[10/8/2020 12:44:48 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:48 AM]
+  Sonny Donovan attacked by e. Blunt force trauma: 2
+[10/8/2020 12:44:48 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Sonny Donovan.
+[10/8/2020 12:44:48 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:48 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:49 AM]
+  Sonny Donovan attacked by e. Blunt force trauma: 2
+[10/8/2020 12:44:49 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Sonny Donovan.
+[10/8/2020 12:44:49 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:52 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:52 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:53 AM]
+  Rosendo Patel: I'm bleeding out!
+[10/8/2020 12:44:53 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:53 AM]
+  Harry Malone opened Custom Hatch
+[10/8/2020 12:44:53 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:54 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:54 AM]
+  Harry Malone attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:44:55 AM]
+  Harry Malone: What the hell are you doing?!
+[10/8/2020 12:44:55 AM]
+  Harry Malone: Giving first aid to Rosendo Patel in airlock!
+[10/8/2020 12:44:58 AM]
+  Harry Malone: I'm bleeding out!
+[10/8/2020 12:45:01 AM]
+  e removed 5.56x45mm Magazine from Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:45:04 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:45:05 AM]
+  Rosendo Patel opened Custom Hatch
+[10/8/2020 12:45:06 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:06 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:06 AM]
+  Harry Malone: I need saline, blood pack, morphine or fentanyl to treat Rosendo Patel!
+[10/8/2020 12:45:07 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:07 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:07 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:08 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:08 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:09 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:09 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:14 AM]
+  Harry Malone attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:45:18 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:45:19 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:45:21 AM]
+  e removed 9mm Magazine (High-Capacity) from Handgun (Laser) (ID: 1352)
+[10/8/2020 12:45:25 AM]
+  Rosendo Patel: Help, I'm bleeding!
+[10/8/2020 12:45:26 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (Laser) (ID: 1352)
+[10/8/2020 12:45:30 AM]
+  Rosendo Patel opened Custom Hatch
+[10/8/2020 12:45:33 AM]
+  Harry Malone has died (Cause of death: Blood loss)
+[10/8/2020 12:45:38 AM]
+  e used item Morphine
+[10/8/2020 12:45:38 AM]
+  Julianne Lane: Giving first aid to Rosendo Patel in lower mid!
+[10/8/2020 12:45:39 AM]
+  Julianne Lane: I need saline, blood pack, naloxone or bandage to treat Rosendo Patel!
+[10/8/2020 12:45:40 AM]
+  e used item Plastiseal
+[10/8/2020 12:45:43 AM]
+  Sonny Donovan has died (Cause of death: Blood loss)
+[10/8/2020 12:45:48 AM]
+  Console command "spawnitem "Blood Pack" inventory" executed by e.
+[10/8/2020 12:45:50 AM]
+  e used item Blood Pack
+[10/8/2020 12:45:52 AM]
+  e placed Blood Pack in Toolbox (ID: 1344)
+[10/8/2020 12:45:55 AM]
+  Rosendo Patel: Need medical assistance in lower mid!
+[10/8/2020 12:45:56 AM]
+  Julianne Lane: Rosendo Patel has been resuscitated!
+[10/8/2020 12:45:59 AM]
+  Rosendo Patel opened Custom Hatch
+[10/8/2020 12:46:00 AM]
+  Rosendo Patel attacked by e. Bleeding: 1.5 Gunshot wound: 0.8
+[10/8/2020 12:46:01 AM]
+  Rosendo Patel used Stun Baton (Battery Cell) on e.
+[10/8/2020 12:46:01 AM]
+  Rosendo Patel: Now you're in deep shit!
+[10/8/2020 12:46:12 AM]
+  Console command "heal e" executed by e.
+[10/8/2020 12:46:17 AM]
+  Rosendo Patel opened Custom Hatch
+[10/8/2020 12:46:20 AM]
+  Rosendo Patel attacked by e. Burn: 5 Stun: 10
+[10/8/2020 12:46:22 AM]
+  Rosendo Patel attacked by e. Bleeding: 1.4 Gunshot wound: 1.5
+[10/8/2020 12:46:22 AM]
+  Rosendo Patel attacked by e. Burn: 4.5 Stun: 10
+[10/8/2020 12:46:25 AM]
+  e removed Stun Baton from Rosendo Patel
+[10/8/2020 12:46:33 AM]
+  e removed Ballistic Helmet from Rosendo Patel
+[10/8/2020 12:46:33 AM]
+  e removed Body Armor from Rosendo Patel
+[10/8/2020 12:46:36 AM]
+  Rosendo Patel attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:46:37 AM]
+  Rosendo Patel: Freeze, bastard!
+[10/8/2020 12:46:39 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:41 AM]
+  Rosendo Patel: Help, I'm bleeding!
+[10/8/2020 12:46:41 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:44 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:44 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:45 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:45 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:45 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:45 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:45 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:45 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:46 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:46 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:46 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:46 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:46 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:46 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:48 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:48 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:48 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:48 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:49 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:49 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:49 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:49 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:49 AM]
+  Rosendo Patel attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:46:52 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:46:53 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:46:59 AM]
+  Roy Tseng opened Custom Hatch
+[10/8/2020 12:47:03 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:03 AM]
+  Roy Tseng: Need medical assistance in airlock!
+[10/8/2020 12:47:03 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:03 AM]
+  Roy Tseng: I'm gonna get you!
+[10/8/2020 12:47:04 AM]
+  Julianne Lane: Need a medic in lower mid!
+[10/8/2020 12:47:04 AM]
+  Julianne Lane: Ow, what was that for?
+[10/8/2020 12:47:04 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:04 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:04 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:05 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:05 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:05 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:05 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:05 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:05 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:06 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:06 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:06 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:06 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:06 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:06 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:07 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:07 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:07 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:07 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:07 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:07 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:07 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:07 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:08 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:08 AM]
+  Roy Tseng: Help, I'm bleeding!
+[10/8/2020 12:47:08 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:08 AM]
+  Julianne Lane: I'm bleeding out!
+[10/8/2020 12:47:08 AM]
+  Julianne Lane: Treating Roy Tseng in airlock!
+[10/8/2020 12:47:08 AM]
+  Julianne Lane attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:47:09 AM]
+  Julianne Lane attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:47:09 AM]
+  Roy Tseng opened Custom Hatch
+[10/8/2020 12:47:09 AM]
+  Rosendo Patel has died (Cause of death: Blood loss)
+[10/8/2020 12:47:10 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:10 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:10 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:13 AM]
+  e removed 5.56x45mm Magazine from Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:47:14 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:47:15 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:15 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:15 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:15 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:15 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:16 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:16 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:16 AM]
+  Roy Tseng attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:16 AM]
+  Julianne Lane attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:47:20 AM]
+  Roy Tseng opened Custom Hatch
+[10/8/2020 12:47:22 AM]
+  e removed 5.56x45mm Magazine from Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:47:23 AM]
+  Julianne Lane has died (Cause of death: Blood loss)
+[10/8/2020 12:47:24 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:47:38 AM]
+  e removed 5.56x45mm Magazine from Toolbox (ID: 1343)
+[10/8/2020 12:47:50 AM]
+  Roy Tseng has died (Cause of death: Blood loss)
+[10/8/2020 12:47:55 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 12:47:55 AM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by e.
+[10/8/2020 12:47:57 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:48:01 AM]
+  e placed 5.56x45mm Magazine in Toolbox (ID: 1343)
+[10/8/2020 12:48:13 AM]
+  Eliza Atterbury attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:13 AM]
+  Eliza Atterbury: Need a medic in amidships!
+[10/8/2020 12:48:14 AM]
+  Eliza Atterbury attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:14 AM]
+  Eliza Atterbury: Why are you doing this?
+[10/8/2020 12:48:14 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:14 AM]
+  Willy Gonzales: Need a medic in amidships!
+[10/8/2020 12:48:14 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:15 AM]
+  Willy Gonzales: Please, no!
+[10/8/2020 12:48:15 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:15 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:16 AM]
+  Eliza Atterbury: I'm losing blood!
+[10/8/2020 12:48:16 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:16 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:16 AM]
+  Neil Carey: Need a medic in amidships!
+[10/8/2020 12:48:16 AM]
+  Willy Gonzales: I'm losing blood!
+[10/8/2020 12:48:17 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:17 AM]
+  Neil Carey: Why are you doing this?
+[10/8/2020 12:48:17 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:17 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:17 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:17 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:17 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:17 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:18 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:18 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:18 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:18 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:18 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:18 AM]
+  Neil Carey attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:18 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:18 AM]
+  Willy Gonzales attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:19 AM]
+  Eliza Atterbury: Do you ever feel...flat?
+[10/8/2020 12:48:20 AM]
+  Eliza Atterbury attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:20 AM]
+  Eliza Atterbury attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:20 AM]
+  Eliza Atterbury attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:20 AM]
+  Eliza Atterbury attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:48:27 AM]
+  e removed 5.56x45mm Magazine from Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:48:28 AM]
+  Willy Gonzales has died (Cause of death: Blood loss)
+[10/8/2020 12:48:28 AM]
+  Neil Carey has died (Cause of death: Blood loss)
+[10/8/2020 12:48:29 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:48:40 AM]
+  e attached Satchel Charge (C-4) to a wall
+[10/8/2020 12:48:42 AM]
+  Eliza Atterbury has died (Cause of death: Blood loss)
+[10/8/2020 12:49:18 AM]
+  Sylvester Tamashiro has died (Cause of death: Internal damage)
+[10/8/2020 12:49:40 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:40 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:40 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:41 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:41 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:41 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:41 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:41 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:42 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:43 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:43 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:43 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:43 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:44 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:44 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:44 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:44 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:44 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:45 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:45 AM]
+  Allan Maxwell: Help, I'm bleeding!
+[10/8/2020 12:49:46 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:50 AM]
+  Allan Maxwell used Crowbar on e.
+[10/8/2020 12:49:52 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:52 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:52 AM]
+  Allan Maxwell attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:49:54 AM]
+  e removed 5.56x45mm Magazine from Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:49:56 AM]
+  e placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 1332)
+[10/8/2020 12:50:07 AM]
+  e attached Satchel Charge (C-4) to a wall
+[10/8/2020 12:50:11 AM]
+  Lily Zhang: Can't reach nuclear reactor!
+[10/8/2020 12:50:14 AM]
+  Lily Zhang attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:14 AM]
+  Lily Zhang attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:16 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:18 AM]
+  Lily Zhang: Help, I'm bleeding!
+[10/8/2020 12:50:19 AM]
+  Tod Ouellette attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:19 AM]
+  Tod Ouellette attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:21 AM]
+  Tod Ouellette: Help, I'm bleeding!
+[10/8/2020 12:50:21 AM]
+  Tod Ouellette: Need medical assistance in mid aft side!
+[10/8/2020 12:50:23 AM]
+  Alton Dimauro attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:23 AM]
+  Alton Dimauro attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:23 AM]
+  Alton Dimauro attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:24 AM]
+  Lily Zhang attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:24 AM]
+  Lily Zhang attacked by e. Bleeding: 15 Gunshot wound: 4
+[10/8/2020 12:50:24 AM]
+  Alton Dimauro: I'm losing blood!
+[10/8/2020 12:50:29 AM]
+  Allan Maxwell has died (Cause of death: Blood loss)
+[10/8/2020 12:50:34 AM]
+  Alton Dimauro: Need a medic in mid fore side!
+[10/8/2020 12:50:35 AM]
+  Roberta Mead attacked by e. Blunt force trauma: 2
+[10/8/2020 12:50:35 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Roberta Mead.
+[10/8/2020 12:50:36 AM]
+  Ronnie Deloney: I'm bleeding out!
+[10/8/2020 12:50:36 AM]
+  Lily Zhang: Need medical assistance in amidships!
+[10/8/2020 12:50:39 AM]
+  e picked up Revolver
+[10/8/2020 12:50:40 AM]
+  Roberta Mead: Thief! Put it back right now and I'll pretend I didn't see anything.
+[10/8/2020 12:50:45 AM]
+  Willy Gonzales attacked by e. Blunt force trauma: 2
+[10/8/2020 12:50:45 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Willy Gonzales.
+[10/8/2020 12:50:47 AM]
+  Alton Dimauro attacked by e. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[10/8/2020 12:50:49 AM]
+  Lily Zhang attacked by e. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[10/8/2020 12:50:50 AM]
+  Roberta Mead used Toolbox (Welding Fuel Tank, Aluminum, Welding Tool) on e.
+[10/8/2020 12:50:50 AM]
+  Lily Zhang: I'm bleeding out!
+[10/8/2020 12:50:51 AM]
+  Roberta Mead attacked by e. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[10/8/2020 12:50:52 AM]
+  Roberta Mead attacked by e. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[10/8/2020 12:50:54 AM]
+  Roberta Mead: I'm bleeding out!
+[10/8/2020 12:50:54 AM]
+  Tod Ouellette: I'm losing blood!
+[10/8/2020 12:50:56 AM]
+  Eliza Atterbury attacked by e. Blunt force trauma: 2
+[10/8/2020 12:50:56 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Eliza Atterbury.
+[10/8/2020 12:50:57 AM]
+  Eliza Atterbury attacked by e. Blunt force trauma: 2
+[10/8/2020 12:50:57 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Eliza Atterbury.
+[10/8/2020 12:50:57 AM]
+  Roberta Mead: What do you think you're doing? Put that back!
+[10/8/2020 12:50:58 AM]
+  Alton Dimauro: I'm losing blood!
+[10/8/2020 12:50:59 AM]
+  Roberta Mead: Need a medic in amidships!
+[10/8/2020 12:51:07 AM]
+  Console command "spawnitem Handgun inventory" executed by e.
+[10/8/2020 12:51:09 AM]
+  e dropped Revolver
+[10/8/2020 12:51:19 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 12:51:20 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 12:51:24 AM]
+  e picked up 9mm Magazine (High-Capacity)
+[10/8/2020 12:51:24 AM]
+  e dropped 9mm Magazine (High-Capacity)
+[10/8/2020 12:51:24 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (Laser) (ID: 1352)
+[10/8/2020 12:51:25 AM]
+  Tod Ouellette: Help, I'm bleeding!
+[10/8/2020 12:51:25 AM]
+  Lily Zhang: I'm bleeding out!
+[10/8/2020 12:51:25 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (ID: 979)
+[10/8/2020 12:51:26 AM]
+  Roberta Mead: Help, I'm bleeding!
+[10/8/2020 12:51:28 AM]
+  e dropped 9mm Magazine (High-Capacity)
+[10/8/2020 12:51:31 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 12:51:31 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 12:51:39 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:39 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:40 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:40 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:40 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:40 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:42 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:44 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:45 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:45 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:46 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:48 AM]
+  Sylvester Tamashiro attacked by e. Blunt force trauma: 2
+[10/8/2020 12:51:48 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Sylvester Tamashiro.
+[10/8/2020 12:51:49 AM]
+  Sylvester Tamashiro attacked by e. Blunt force trauma: 2
+[10/8/2020 12:51:49 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Sylvester Tamashiro.
+[10/8/2020 12:51:50 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:50 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:51 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:52 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:55 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:56 AM]
+  Lily Zhang: I'm bleeding out!
+[10/8/2020 12:51:56 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:56 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:51:58 AM]
+  Tod Ouellette: I'm losing blood!
+[10/8/2020 12:51:59 AM]
+  e removed 9mm Magazine (High-Capacity) from Handgun (ID: 979)
+[10/8/2020 12:52:00 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (ID: 979)
+[10/8/2020 12:52:00 AM]
+  Roberta Mead: I'm losing blood!
+[10/8/2020 12:52:01 AM]
+  e picked up 9mm Magazine (High-Capacity)
+[10/8/2020 12:52:01 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (Laser) (ID: 1352)
+[10/8/2020 12:52:05 AM]
+  Tod Ouellette attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:05 AM]
+  Tod Ouellette attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:15 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:15 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:15 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:15 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:16 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:16 AM]
+  Lily Zhang attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:17 AM]
+  Sylvester Tamashiro attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:18 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:18 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:18 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:18 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:20 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:20 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:20 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:20 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:22 AM]
+  Eliza Atterbury attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:22 AM]
+  Eliza Atterbury attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:22 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:22 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:22 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:22 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:23 AM]
+  Eliza Atterbury attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:23 AM]
+  Roberta Mead attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:26 AM]
+  e removed 9mm Magazine (High-Capacity) from Handgun (ID: 979)
+[10/8/2020 12:52:27 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (ID: 979)
+[10/8/2020 12:52:38 AM]
+  Pete Bailey attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:39 AM]
+  Pete Bailey attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:39 AM]
+  Pete Bailey attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:40 AM]
+  Pete Bailey attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:41 AM]
+  Pete Bailey: I'm bleeding out!
+[10/8/2020 12:52:42 AM]
+  Pete Bailey attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:42 AM]
+  Pete Bailey attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:43 AM]
+  Pete Bailey attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:44 AM]
+  Pete Bailey attacked by e. Bleeding: 14 Gunshot wound: 7.5
+[10/8/2020 12:52:47 AM]
+  e dropped Handgun
+[10/8/2020 12:52:53 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 2
+[10/8/2020 12:52:53 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Pete Bailey.
+[10/8/2020 12:52:55 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 2
+[10/8/2020 12:52:55 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Pete Bailey.
+[10/8/2020 12:52:56 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 2
+[10/8/2020 12:52:56 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Pete Bailey.
+[10/8/2020 12:52:57 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 2
+[10/8/2020 12:52:57 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Pete Bailey.
+[10/8/2020 12:52:58 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 2
+[10/8/2020 12:52:58 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Pete Bailey.
+[10/8/2020 12:52:58 AM]
+  Tod Ouellette has died (Cause of death: Blood loss)
+[10/8/2020 12:52:59 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 2
+[10/8/2020 12:52:59 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Pete Bailey.
+[10/8/2020 12:52:59 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 2
+[10/8/2020 12:52:59 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Pete Bailey.
+[10/8/2020 12:53:00 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 2
+[10/8/2020 12:53:00 AM]
+  e used Stun Baton (Fulgurium Battery Cell) on Pete Bailey.
+[10/8/2020 12:53:02 AM]
+  Pete Bailey attacked by e. Blunt force trauma: 1
+[10/8/2020 12:53:02 AM]
+  e used Toolbox on Pete Bailey.
+[10/8/2020 12:53:06 AM]
+  e has died (Cause of death: Blood loss)
+[10/8/2020 12:53:11 AM]
+  Roberta Mead has died (Cause of death: Blood loss)
+[10/8/2020 12:53:12 AM]
+  Pete Bailey: I'm losing blood!
+[10/8/2020 12:53:16 AM]
+  Client "e" ended the round.
+[10/8/2020 12:53:16 AM]
+  Ending the round...
+[10/8/2020 12:53:16 AM]
+  Round ended.
+[10/8/2020 12:53:27 AM]
+  Gamemode changed to Sandbox
+[10/8/2020 12:54:53 AM]
+  e changed PlayStyle to Casual
+[10/8/2020 12:54:53 AM]
+  e changed SubSelectionMode to Manual
+[10/8/2020 12:54:53 AM]
+  e changed ModeSelectionMode to Manual
+[10/8/2020 12:54:54 AM]
+  Gamemode changed to Campaign
+[10/8/2020 12:55:02 AM]
+  Starting a new round...
+[10/8/2020 12:55:08 AM]
+  Game mode: Campaign
+[10/8/2020 12:55:08 AM]
+  Submarine: Azimuth
+[10/8/2020 12:55:08 AM]
+  Level seed: Alkonost
+[10/8/2020 12:55:08 AM]
+  Round started.
+[10/8/2020 12:55:13 AM]
+  Melany Roman: At times I feel like we're just puppets on a string.
+[10/8/2020 12:55:18 AM]
+  Melany Roman: Dancing and dying for the amusement of the thing beyond the curtain.
+[10/8/2020 12:55:23 AM]
+  Zandra Case: I hope you people aren't planning on staying for long. Got enough problems down here as it is.
+[10/8/2020 12:55:42 AM]
+  e placed Captain's Pipe in Large Steel Cabinet (ID: 2637)
+[10/8/2020 12:55:43 AM]
+  e placed Revolver in Large Steel Cabinet (ID: 2637)
+[10/8/2020 12:56:10 AM]
+  e picked up Seed Bag
+[10/8/2020 12:56:13 AM]
+  e placed Seed Bag in Supplies Cabinet (ID: 495)
+[10/8/2020 12:56:44 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 12:56:52 AM]
+  Console command "control e" executed by e.
+[10/8/2020 12:56:58 AM]
+  e picked up Military Hardsuit
+[10/8/2020 12:57:00 AM]
+  e dropped Military Hardsuit
+[10/8/2020 12:57:07 AM]
+  e picked up Plasma Cutter
+[10/8/2020 12:57:07 AM]
+  e picked up Oxygen Tank
+[10/8/2020 12:57:09 AM]
+  e placed Oxygen Tank in Plasma Cutter (ID: 1157)
+[10/8/2020 12:57:10 AM]
+  e placed Plasma Cutter in Medium Steel Cabinet (ID: 2419)
+[10/8/2020 12:57:29 AM]
+  Console command "spawnitem "Oxygenite Tank" inventory" executed by e.
+[10/8/2020 12:57:30 AM]
+  Console command "spawnitem "Oxygenite Tank" inventory" executed by e.
+[10/8/2020 12:57:33 AM]
+  e picked up Military Hardsuit
+[10/8/2020 12:57:34 AM]
+  e placed Oxygenite Tank in Military Hardsuit (ID: 1360)
+[10/8/2020 12:57:38 AM]
+  e dropped Military Hardsuit
+[10/8/2020 12:57:42 AM]
+  e picked up Weapons Case
+[10/8/2020 12:57:43 AM]
+  e picked up Marine Battle Rifle
+[10/8/2020 12:57:44 AM]
+  e picked up Marine Rocket Launcher
+[10/8/2020 12:57:46 AM]
+  e dropped Weapons Case
+[10/8/2020 12:57:48 AM]
+  e picked up Rocket Crate
+[10/8/2020 12:57:50 AM]
+  e placed Rocket (High Explosive) in Marine Rocket Launcher (ID: 1376)
+[10/8/2020 12:57:51 AM]
+  e picked up Rocket (High Explosive)
+[10/8/2020 12:57:52 AM]
+  e dropped Rocket Crate
+[10/8/2020 12:57:53 AM]
+  e picked up Rocket Crate
+[10/8/2020 12:57:54 AM]
+  e dropped Rocket Crate
+[10/8/2020 12:57:56 AM]
+  e picked up Physicorium Ammo Crate
+[10/8/2020 12:57:58 AM]
+  e dropped Physicorium Ammo Crate
+[10/8/2020 12:58:01 AM]
+  e picked up Physicorium Ammo Crate
+[10/8/2020 12:58:02 AM]
+  e placed Physicorium 5.56x45mm Magazine in Marine Battle Rifle (ID: 1363)
+[10/8/2020 12:58:05 AM]
+  Console command "spawnitem Toolbox inventory" executed by e.
+[10/8/2020 12:58:06 AM]
+  Console command "spawnitem Toolbox inventory" executed by e.
+[10/8/2020 12:58:10 AM]
+  e placed Oxygenite Tank in Toolbox (ID: 1399)
+[10/8/2020 12:58:11 AM]
+  e placed Physicorium 5.56x45mm Magazine in Toolbox (ID: 1399)
+[10/8/2020 12:58:13 AM]
+  e placed Physicorium 5.56x45mm Magazine in Toolbox (ID: 1399)
+[10/8/2020 12:58:14 AM]
+  e placed Physicorium 5.56x45mm Magazine in Toolbox (ID: 1399)
+[10/8/2020 12:58:15 AM]
+  e placed Physicorium 5.56x45mm Magazine in Toolbox (ID: 1399)
+[10/8/2020 12:58:16 AM]
+  e placed Physicorium 5.56x45mm Magazine in Toolbox (ID: 1399)
+[10/8/2020 12:58:17 AM]
+  e picked up Oxygenite Tank
+[10/8/2020 12:58:18 AM]
+  e dropped Physicorium Ammo Crate
+[10/8/2020 12:58:19 AM]
+  e picked up Physicorium Ammo Crate
+[10/8/2020 12:58:21 AM]
+  e placed Physicorium 5.56x45mm Magazine in Toolbox (ID: 1399)
+[10/8/2020 12:58:21 AM]
+  e dropped Physicorium Ammo Crate
+[10/8/2020 12:58:23 AM]
+  e placed Oxygenite Tank in Toolbox (ID: 1400)
+[10/8/2020 12:58:30 AM]
+  e picked up Rocket Crate
+[10/8/2020 12:58:31 AM]
+  e dropped Rocket Crate
+[10/8/2020 12:58:38 AM]
+  e picked up Metal Crate
+[10/8/2020 12:58:50 AM]
+  e placed Veteran's Cap in Metal Crate (ID: 1352)
+[10/8/2020 12:58:50 AM]
+  e removed Shearclaw Helmet from Metal Crate (ID: 1352)
+[10/8/2020 12:58:50 AM]
+  e picked up Shearclaw Helmet
+[10/8/2020 12:58:52 AM]
+  e placed Veteran's Jacket in Metal Crate (ID: 1352)
+[10/8/2020 12:58:52 AM]
+  e removed Shearclaw Armor from Metal Crate (ID: 1352)
+[10/8/2020 12:58:52 AM]
+  e picked up Shearclaw Armor
+[10/8/2020 12:58:58 AM]
+  e placed Shearclaw Armor in Metal Crate (ID: 1352)
+[10/8/2020 12:58:59 AM]
+  e placed Shearclaw Helmet in Metal Crate (ID: 1352)
+[10/8/2020 12:59:01 AM]
+  e picked up Marine Combat Undershirt
+[10/8/2020 12:59:05 AM]
+  e picked up Marine Helmet
+[10/8/2020 12:59:07 AM]
+  e picked up Marine Combat Armor
+[10/8/2020 12:59:09 AM]
+  e dropped Metal Crate
+[10/8/2020 12:59:11 AM]
+  e dropped Marine Combat Armor
+[10/8/2020 12:59:12 AM]
+  e picked up Military Hardsuit
+[10/8/2020 12:59:22 AM]
+  e dropped Military Hardsuit
+[10/8/2020 12:59:28 AM]
+  Console command "spawnitem Plastiseal inventory" executed by e.
+[10/8/2020 12:59:32 AM]
+  Console command "spawnitem Morphine inventory" executed by e.
+[10/8/2020 12:59:32 AM]
+  Console command "spawnitem Morphine inventory" executed by e.
+[10/8/2020 12:59:34 AM]
+  e placed Morphine in Toolbox (ID: 1400)
+[10/8/2020 12:59:35 AM]
+  e placed Morphine in Toolbox (ID: 1400)
+[10/8/2020 12:59:37 AM]
+  e placed Plastiseal in Toolbox (ID: 1400)
+[10/8/2020 12:59:45 AM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by e.
+[10/8/2020 12:59:46 AM]
+  Console command "spawnitem "Anabolic Steroids" inventory" executed by e.
+[10/8/2020 12:59:48 AM]
+  e placed Anabolic Steroids in Toolbox (ID: 1400)
+[10/8/2020 12:59:49 AM]
+  e placed Anabolic Steroids in Toolbox (ID: 1400)
+[10/8/2020 12:59:56 AM]
+  Console command "spawnitem "Handgun (Laser)" inventory" executed by e.
+[10/8/2020 1:00:03 AM]
+  e placed Handgun (Laser) in Marine Combat Undershirt (ID: 1358)
+[10/8/2020 1:00:11 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 1:00:11 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 1:00:12 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 1:00:13 AM]
+  Console command "spawnitem "9mm Magazine (High-Capacity)" inventory" executed by e.
+[10/8/2020 1:00:16 AM]
+  e placed 9mm Magazine (High-Capacity) in Handgun (Laser) (ID: 1406)
+[10/8/2020 1:00:17 AM]
+  e placed 9mm Magazine (High-Capacity) in Marine Combat Undershirt (ID: 1358)
+[10/8/2020 1:00:18 AM]
+  e placed 9mm Magazine (High-Capacity) in Marine Combat Undershirt (ID: 1358)
+[10/8/2020 1:00:19 AM]
+  e placed 9mm Magazine (High-Capacity) in Marine Combat Undershirt (ID: 1358)
+[10/8/2020 1:00:25 AM]
+  Console command "spawnitem "Tazer Gun" inventory" executed by e.
+[10/8/2020 1:00:33 AM]
+  Console command "spawnitem "Tazer Cartridge" inventory" executed by e.
+[10/8/2020 1:00:33 AM]
+  Console command "spawnitem "Tazer Cartridge" inventory" executed by e.
+[10/8/2020 1:00:35 AM]
+  e placed Tazer Cartridge in Tazer Gun (ID: 1415)
+[10/8/2020 1:00:37 AM]
+  e placed Tazer Cartridge in Marine Combat Undershirt (ID: 1358)
+[10/8/2020 1:00:38 AM]
+  e placed Tazer Gun in Marine Combat Undershirt (ID: 1358)
+[10/8/2020 1:00:41 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:00:48 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:00:48 AM]
+  Marla Stogner: Hostiles in mid aft side!
+[10/8/2020 1:00:48 AM]
+  Tera Delange: Hostiles in mid aft side!
+[10/8/2020 1:00:52 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:00:52 AM]
+  Masako Danko: Intruders in mid aft side!
+[10/8/2020 1:00:52 AM]
+  Stella Poole: Hostiles in mid aft side!
+[10/8/2020 1:00:52 AM]
+  Tera Delange used Diving Knife on Husk.
+[10/8/2020 1:00:52 AM]
+  Tera Delange: Help, I'm bleeding!
+[10/8/2020 1:00:54 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:00:55 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:00:56 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:00:56 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:00:56 AM]
+  Husk has died (Cause of death: Lacerations)
+[10/8/2020 1:00:56 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:00:58 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:00:58 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:00:58 AM]
+  Harry Gallagher: Intruders in mid aft side!
+[10/8/2020 1:00:59 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:00:59 AM]
+  Harry Gallagher: I'm bleeding out!
+[10/8/2020 1:01:00 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:00 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:01 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:01 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:01 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:02 AM]
+  Stella Poole: I'm bleeding out!
+[10/8/2020 1:01:03 AM]
+  Stella Poole used Stun Baton (Battery Cell) on Husk.
+[10/8/2020 1:01:03 AM]
+  Masako Danko used Stun Baton (Battery Cell) on Stella Poole.
+[10/8/2020 1:01:04 AM]
+  Masako Danko used Stun Baton (Battery Cell) on Husk.
+[10/8/2020 1:01:04 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:06 AM]
+  Tera Delange: Need medical assistance in mid fore side!
+[10/8/2020 1:01:06 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:06 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:10 AM]
+  Walker Collins: Giving first aid to Tera Delange in reactor room!
+[10/8/2020 1:01:16 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:16 AM]
+  Walker Collins: Hostiles in reactor room!
+[10/8/2020 1:01:16 AM]
+  Jude Meals: Hostiles in reactor room!
+[10/8/2020 1:01:16 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:17 AM]
+  Tera Delange: Hostiles in reactor room!
+[10/8/2020 1:01:17 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:01:17 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:01:18 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:01:18 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:01:18 AM]
+  Console command "freecam" executed by e.
+[10/8/2020 1:01:19 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:20 AM]
+  Walker Collins: I'm bleeding out!
+[10/8/2020 1:01:20 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:20 AM]
+  Inga Day: Intruders in reactor room!
+[10/8/2020 1:01:21 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:21 AM]
+  Stella Poole: Intruders in reactor room!
+[10/8/2020 1:01:21 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:21 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:22 AM]
+  Stella Poole used Stun Baton (Battery Cell) on Tera Delange.
+[10/8/2020 1:01:22 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:22 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:23 AM]
+  Inga Day: Help, I'm bleeding!
+[10/8/2020 1:01:23 AM]
+  Console command "spawn husk cursor" executed by e.
+[10/8/2020 1:01:23 AM]
+  Masako Danko: Intruders in reactor room!
+[10/8/2020 1:01:25 AM]
+  Stella Poole used Stun Baton (Battery Cell) on Masako Danko.
+[10/8/2020 1:01:25 AM]
+  Jude Meals: I'm bleeding out!
+[10/8/2020 1:01:27 AM]
+  Stella Poole used Stun Baton (Battery Cell) on Husk.
+[10/8/2020 1:01:28 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:29 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:30 AM]
+  Stella Poole: Stop messing around!
+[10/8/2020 1:01:30 AM]
+  Console command "spawn husk cursor\" executed by e.
+[10/8/2020 1:01:30 AM]
+  Inga Day: Hostiles in mid fore side!
+[10/8/2020 1:01:30 AM]
+  Melany Marquez: Hostiles in mid fore side!
+[10/8/2020 1:01:30 AM]
+  Stella Poole: Intruders in mid fore side!
+[10/8/2020 1:01:30 AM]
+  Harry Gallagher: Hostiles in mid fore side!
+[10/8/2020 1:01:31 AM]
+  Console command "spawn husk cursor\" executed by e.
+[10/8/2020 1:01:33 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:34 AM]
+  Masako Danko used Stun Baton (Battery Cell) on Husk.
+[10/8/2020 1:01:34 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:35 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:35 AM]
+  Masako Danko used Stun Baton (Battery Cell) on Husk.
+[10/8/2020 1:01:36 AM]
+  Stella Poole: I'm bleeding out!
+[10/8/2020 1:01:37 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:38 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:38 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:39 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:39 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:40 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:40 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:41 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:41 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:41 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:42 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:42 AM]
+  Walker Collins: Need medical assistance in upper aft side!
+[10/8/2020 1:01:42 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:43 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:43 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:44 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:45 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:45 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:46 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:46 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:47 AM]
+  Jude Meals: Need a medic in upper aft side!
+[10/8/2020 1:01:47 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:48 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:48 AM]
+  Masako Danko: I'm bleeding out!
+[10/8/2020 1:01:49 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:50 AM]
+  Husk has died (Cause of death: Gunshot wound)
+[10/8/2020 1:01:50 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:51 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:52 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:52 AM]
+  Walker Collins: I'm losing blood!
+[10/8/2020 1:01:53 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:54 AM]
+  Husk has died (Cause of death: Lacerations)
+[10/8/2020 1:01:54 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:55 AM]
+  Harry Gallagher used Stun Baton (Battery Cell) on Husk.
+[10/8/2020 1:01:55 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:56 AM]
+  Stella Poole used Diving Knife on Husk.
+[10/8/2020 1:01:56 AM]
+  Masako Danko used Diving Knife on Husk.
+[10/8/2020 1:01:56 AM]
+  Jude Meals: I'm losing blood!

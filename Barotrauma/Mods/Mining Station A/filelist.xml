@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Mining Station A" path="Mods/Mining Station A/filelist.xml" corepackage="false" gameversion="0.9.6.0" steamworkshopurl="http://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&amp;id=1991085432" installtime="1581096316">
+  <Submarine file="Mods/Mining Station A/Mining Station A.sub" />
+</contentpackage>

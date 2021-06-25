@@ -1,0 +1,1607 @@
+﻿[2/22/2021 7:12:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:53 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:12:53 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:55 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:12:56 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:12:56 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:12:58 PM]
+  Lester started repairing Navigation Terminal
+[2/22/2021 7:13:04 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:05 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:05 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:05 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:05 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:06 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:06 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:13:07 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:11 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:13:11 PM]
+  Lester started repairing Status Monitor
+[2/22/2021 7:13:14 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:15 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:16 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:13:16 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:16 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:16 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:17 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:17 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:13:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:20 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:13:20 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:13:21 PM]
+  Lester started repairing Navigation Terminal
+[2/22/2021 7:13:31 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:13:52 PM]
+  tomacatx1 picked up Grenade Launcher
+[2/22/2021 7:13:53 PM]
+  tomacatx1 placed Wrench in Toolbelt (ID: 2809)
+[2/22/2021 7:13:54 PM]
+  tomacatx1 placed Screwdriver in Toolbelt (ID: 2809)
+[2/22/2021 7:13:56 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:13:57 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:00 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 7:14:02 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:03 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 7:14:03 PM]
+  Lester dropped Fuel Rod
+[2/22/2021 7:14:03 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 7:14:08 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 539)
+[2/22/2021 7:14:08 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:10 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 7:14:14 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:14:14 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/22/2021 7:14:15 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/22/2021 7:14:15 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:15 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/22/2021 7:14:16 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:17 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:14:17 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:14:18 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:14:18 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:14:19 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 7:14:19 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:27 PM]
+  tomacatx1 equipped Riot Shotgun
+[2/22/2021 7:14:29 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:14:30 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:30 PM]
+  tomacatx1 equipped Grenade Launcher
+[2/22/2021 7:14:31 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:34 PM]
+  Lester started repairing Small Pump
+[2/22/2021 7:14:35 PM]
+  tomacatx1 equipped Revolver
+[2/22/2021 7:14:35 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:36 PM]
+  Crawler attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:14:37 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[2/22/2021 7:14:37 PM]
+  Crawler attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:14:44 PM]
+  Crawler attacked by tomacatx1. Blunt force trauma: 5 Stun: 0.2
+[2/22/2021 7:14:44 PM]
+  Crawler has died (Cause of death: Deep tissue injury)
+[2/22/2021 7:14:47 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:14:48 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:14:48 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:14:48 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:14:48 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:14:51 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:14:56 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:14:57 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:15:16 PM]
+  Lester failed to repair Small Pump
+[2/22/2021 7:15:18 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 7:15:21 PM]
+  TornMap: awesome
+[2/22/2021 7:15:23 PM]
+  Lester started repairing Small Pump
+[2/22/2021 7:15:23 PM]
+  TornMap: we are not dead
+[2/22/2021 7:15:28 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 7:15:29 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:15:29 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:15:30 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 7:15:30 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 7:15:34 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 6)
+[2/22/2021 7:15:37 PM]
+  Lester: huh
+[2/22/2021 7:15:42 PM]
+  TornMap started repairing Navigation Terminal
+[2/22/2021 7:15:48 PM]
+  Lester started repairing Small Pump
+[2/22/2021 7:15:57 PM]
+  Lester started repairing Small Pump
+[2/22/2021 7:15:59 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 7:16:16 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 7:16:28 PM]
+  Lester equipped Guitar
+[2/22/2021 7:16:28 PM]
+  Lester picked up Guitar
+[2/22/2021 7:16:32 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 7:17:12 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:12 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:17 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:17:21 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:21 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:22 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:24 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:24 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 7:17:24 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:27 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:28 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:28 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:28 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:17:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:39 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:40 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:17:53 PM]
+  Lester dropped Guitar
+[2/22/2021 7:17:57 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 7:18:08 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,0,79".
+[2/22/2021 7:18:10 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,0,227".
+[2/22/2021 7:18:13 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,0,227".
+[2/22/2021 7:18:15 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "0,100,0,227".
+[2/22/2021 7:18:18 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "0,100,100,227".
+[2/22/2021 7:18:21 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "0,100,100,227".
+[2/22/2021 7:18:23 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "0,200,100,227".
+[2/22/2021 7:18:27 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "100,200,100,227".
+[2/22/2021 7:18:28 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "100,200,100,227".
+[2/22/2021 7:18:32 PM]
+  Lester: green :)
+[2/22/2021 7:18:40 PM]
+  TornMap: green whats your problem green
+[2/22/2021 7:18:43 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:18:43 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:18:45 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:46 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:46 PM]
+  Lester: speak of the devil eh
+[2/22/2021 7:18:47 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:47 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:47 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:48 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:51 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:53 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:54 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:55 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:55 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:18:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:58 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:18:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:18:59 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:19:00 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:19:00 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:19:03 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:15 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 7:19:16 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:18 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:18 PM]
+  TornMap: flooding
+[2/22/2021 7:19:22 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:24 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:29 PM]
+  Crawler attacked by TornMap. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:19:29 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:19:29 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:19:29 PM]
+  Crawler attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 7:19:30 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[2/22/2021 7:19:30 PM]
+  Crawler attacked by TornMap. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:19:38 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:19:38 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:39 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:19:42 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:42 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:46 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:47 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:19:54 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:19:57 PM]
+  tomacatx1 used item Morphine
+[2/22/2021 7:20:00 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 7:20:01 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 7:20:04 PM]
+  tomacatx1 used item Anabolic Steroids
+[2/22/2021 7:20:05 PM]
+  TornMap: give me MORE MORPHINE
+[2/22/2021 7:20:07 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:09 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:11 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:14 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:16 PM]
+  TornMap: fuck no oxygen
+[2/22/2021 7:20:19 PM]
+  TornMap picked up Diving Mask
+[2/22/2021 7:20:23 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:23 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:24 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:29 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:30 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:31 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:20:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:31 PM]
+  Crawler attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 7:20:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:32 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:33 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:34 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 7:20:42 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:43 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:45 PM]
+  Lester started repairing Deconstructor
+[2/22/2021 7:20:45 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:20:48 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:48 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:49 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 7:20:51 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:20:53 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:21:10 PM]
+  tomacatx1 placed Diving Mask in Supplies Cabinet (ID: 478)
+[2/22/2021 7:21:10 PM]
+  tomacatx1 removed Diving Mask from Supplies Cabinet (ID: 478)
+[2/22/2021 7:21:10 PM]
+  tomacatx1 picked up Diving Mask
+[2/22/2021 7:21:11 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:21:11 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:21:11 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:21:11 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 2809)
+[2/22/2021 7:21:13 PM]
+  Lester closed Custom Door
+[2/22/2021 7:21:13 PM]
+  Lester opened Custom Door
+[2/22/2021 7:21:14 PM]
+  tomacatx1 placed Anabolic Steroids in Supplies Cabinet (ID: 478)
+[2/22/2021 7:21:15 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 2809)
+[2/22/2021 7:21:15 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 2809)
+[2/22/2021 7:21:21 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:21:22 PM]
+  Lester opened Custom Door
+[2/22/2021 7:21:22 PM]
+  Lester closed Custom Door
+[2/22/2021 7:21:26 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:21:27 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 7:21:29 PM]
+  Lester closed Custom Door
+[2/22/2021 7:21:29 PM]
+  Lester opened Custom Door
+[2/22/2021 7:21:33 PM]
+  Lester opened Custom Door
+[2/22/2021 7:21:33 PM]
+  Lester closed Custom Door
+[2/22/2021 7:21:33 PM]
+  tomacatx1 placed Welding Tool in Medium Steel Cabinet (ID: 539)
+[2/22/2021 7:21:33 PM]
+  tomacatx1 removed Welding Tool from Medium Steel Cabinet (ID: 539)
+[2/22/2021 7:21:33 PM]
+  tomacatx1 picked up Welding Tool
+[2/22/2021 7:21:37 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:21:38 PM]
+  Crawler attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:21:39 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[2/22/2021 7:21:39 PM]
+  Crawler attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:21:41 PM]
+  tomacatx1 equipped Welding Tool
+[2/22/2021 7:21:47 PM]
+  tomacatx1 has died (Cause of death: Oxygen low)
+[2/22/2021 7:21:50 PM]
+  tomacatx1: eyup moment
+[2/22/2021 7:21:50 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 7:21:54 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 7:21:57 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 7:22:00 PM]
+  TornMap started repairing Small Pump
+[2/22/2021 7:22:00 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 7:22:10 PM]
+  Inner wall repaired by Lester
+[2/22/2021 7:22:12 PM]
+  Console command "spawn" executed by tomacatx1.
+[2/22/2021 7:22:13 PM]
+  TornMap has died (Cause of death: Barotrauma)
+[2/22/2021 7:22:27 PM]
+  Lester removed Oxygen Tank from Diving Mask (ID: 378)
+[2/22/2021 7:22:28 PM]
+  Lester equipped Oxygen Tank
+[2/22/2021 7:22:30 PM]
+  Lester placed Oxygen Tank in Diving Mask (ID: 378)
+[2/22/2021 7:22:36 PM]
+  Console command "respawnnow" executed by tomacatx1.
+[2/22/2021 7:22:36 PM]
+  Lester: vibe check?
+[2/22/2021 7:22:55 PM]
+  tomacatx1: eyup.
+[2/22/2021 7:22:58 PM]
+  Lester picked up Diving Suit
+[2/22/2021 7:23:02 PM]
+  Lester picked up Underwater Scooter
+[2/22/2021 7:23:03 PM]
+  Lester equipped Underwater Scooter
+[2/22/2021 7:23:16 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:23:18 PM]
+  TornMap: fuck
+[2/22/2021 7:23:22 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:23:22 PM]
+  tomacatx1: thats how it be
+[2/22/2021 7:23:23 PM]
+  Outer wall breached by Crawler
+[2/22/2021 7:23:26 PM]
+  tomacatx1: paper thin internal hull
+[2/22/2021 7:23:31 PM]
+  Outer wall repaired by Lester
+[2/22/2021 7:23:35 PM]
+  Crawler attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:23:36 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[2/22/2021 7:23:36 PM]
+  Crawler attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:23:37 PM]
+  Crawler attacked by Lester. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 7:23:39 PM]
+  Lester equipped SMG
+[2/22/2021 7:23:40 PM]
+  tomacatx1 attacked by Lester. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  tomacatx1 attacked by Lester. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:40 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:41 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:42 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:42 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:42 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:42 PM]
+  Crawler attacked by Lester. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[2/22/2021 7:23:56 PM]
+  Lester started repairing Junction Box
+[2/22/2021 7:24:09 PM]
+  Console command "respawnnow" executed by tomacatx1.
+[2/22/2021 7:24:33 PM]
+  Console command "respawnnow" executed by tomacatx1.
+[2/22/2021 7:24:33 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 7:24:51 PM]
+  Lester failed to repair Large Engine
+[2/22/2021 7:24:53 PM]
+  Lester started repairing Large Engine
+[2/22/2021 7:25:04 PM]
+  Lester dropped Diving Mask
+[2/22/2021 7:25:05 PM]
+  Lester dropped Diving Suit
+[2/22/2021 7:25:06 PM]
+  Lester dropped Riot Helmet
+[2/22/2021 7:25:13 PM]
+  Lester picked up Diving Mask
+[2/22/2021 7:25:20 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/22/2021 7:25:22 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/22/2021 7:25:23 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/22/2021 7:25:23 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 7:25:24 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 7:25:25 PM]
+  TornMap: oh no
+[2/22/2021 7:25:27 PM]
+  TornMap: what are you doing
+[2/22/2021 7:25:30 PM]
+  Lester picked up Riot Helmet
+[2/22/2021 7:25:32 PM]
+  Lester picked up Diving Suit
+[2/22/2021 7:25:33 PM]
+  tomacatx1: mudrape :)
+[2/22/2021 7:25:33 PM]
+  Lester dropped Riot Helmet
+[2/22/2021 7:25:43 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 7:25:46 PM]
+  Inner wall breached by Mudraptor
+[2/22/2021 7:25:56 PM]
+  TornMap: make big enemy
+[2/22/2021 7:25:59 PM]
+  Inner wall breached by Mudraptor
+[2/22/2021 7:26:00 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 7:26:02 PM]
+  Inner wall breached by Mudraptor
+[2/22/2021 7:26:05 PM]
+  tomacatx1: yes sir
+[2/22/2021 7:26:06 PM]
+  Crawler attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:06 PM]
+  Lester used Diving Knife on Crawler.
+[2/22/2021 7:26:07 PM]
+  Crawler attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:07 PM]
+  Lester used Diving Knife on Crawler.
+[2/22/2021 7:26:08 PM]
+  Mudraptor attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:08 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:10 PM]
+  Mudraptor attacked by Lester. Lacerations: 20 Bleeding: 20 Stun: 0.2
+[2/22/2021 7:26:10 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:11 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:11 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:12 PM]
+  Mudraptor attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:12 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:13 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:13 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:15 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:15 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:17 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:17 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:19 PM]
+  Console command "spawn endworm cursor" executed by tomacatx1.
+[2/22/2021 7:26:21 PM]
+  Mudraptor attacked by Lester. Lacerations: 1 Stun: 0.2
+[2/22/2021 7:26:21 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:22 PM]
+  Mudraptor attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:22 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:27 PM]
+  tomacatx1: hows that for a big enemy
+[2/22/2021 7:26:33 PM]
+  Mudraptor attacked by Lester. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[2/22/2021 7:26:33 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:34 PM]
+  Mudraptor attacked by Lester. Lacerations: 20 Bleeding: 20 Stun: 0.2
+[2/22/2021 7:26:34 PM]
+  Lester used Diving Knife on Mudraptor.
+[2/22/2021 7:26:37 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/22/2021 7:26:41 PM]
+  Lester has died (Cause of death: Bite wounds)
+[2/22/2021 7:26:44 PM]
+  Client "tomacatx1" ended the round.
+[2/22/2021 7:26:44 PM]
+  Ending the round...
+[2/22/2021 7:26:44 PM]
+  Round ended.
+[2/22/2021 7:26:59 PM]
+  TornMap: we won
+[2/22/2021 7:27:04 PM]
+  Lester: Yes.
+[2/22/2021 7:27:17 PM]
+  Lester: i will be sec
+[2/22/2021 7:27:20 PM]
+  Lester: aka
+[2/22/2021 7:27:26 PM]
+  Lester: xeno remover
+[2/22/2021 7:27:41 PM]
+  Lester: brb
+[2/22/2021 7:27:43 PM]
+  Lester: piss time
+[2/22/2021 7:29:35 PM]
+  TornMap: Muted.
+[2/22/2021 7:30:30 PM]
+  Lester: back
+[2/22/2021 7:31:50 PM]
+  terc () couldn't join the server (incompatible game version)
+[2/22/2021 7:41:13 PM]
+  TornMap: I can't fucking take it. I see an image of a random object posted and then I see it, I fucking see it. "Oh that looks kinda like the among us guy" it started as. That's funny, that's a cool reference.
+[2/22/2021 7:41:30 PM]
+  TornMap: 45 KB/s
+[2/22/2021 7:41:49 PM]
+  TornMap: ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢟⣻⣯⣽⣟⠿⠟⠛⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢟⣻⣯⣽⣟⠿⠟⠛⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡿⣫⣾⣿⣿⣿⡹⢁⣴⣷⣿⣿⣷⣆⣤⡀⠠⢬⣉⠻⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⢱⣿⣿⣿⠿⠩⢠⣿⣿⣿⣿⣿⣏⣿⢸⣿⡖⣄⠹⣷⡌⢿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡸⣿⣿⣿⣼⠂⢸⣿⣿⣾⠯⢟⠋⠿⣿⡿⣳⡿⣳⣿⣷⡈⢿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣷⣌⡻⣿⢡⣿⡀⢻⣿
+[2/22/2021 7:41:54 PM]
+  TornMap: <blank>
+[2/22/2021 7:42:20 PM]
+  tomacatx1: <blank>
+[2/22/2021 7:42:24 PM]
+  TornMap: ඞ
+[2/22/2021 7:42:25 PM]
+  TornMap: ඞ
+[2/22/2021 7:42:26 PM]
+  TornMap: ඞ
+[2/22/2021 7:42:28 PM]
+  TornMap has left the server. Reason: Kicked
+Reason: You have been kicked by the spam filter.
+[2/22/2021 7:42:28 PM]
+  TornMap has been kicked from the server. Reason: You have been kicked by the spam filter.
+[2/22/2021 7:42:44 PM]
+  Lester: Based.
+[2/22/2021 7:42:49 PM]
+  TornMap has joined the server.
+[2/22/2021 7:42:49 PM]
+  Saving client permissions
+[2/22/2021 7:42:53 PM]
+  TornMap: bitch
+[2/22/2021 7:44:39 PM]
+  TornMap: Man, Army of Two really takes me back, it came out in like what, 2008? Back when GameFly was still relevant? That's how I played it anyway. I think I played it a couple of years when it came out. 'Cau
+[2/22/2021 7:45:08 PM]
+  Lester: https://images-ext-2.discordapp.net/external/DAybvmT18mCLgF9sT8qkxpxomNp_43rqbDsJIQ3v69c/%3Fwidth%3D830%26height%3D467/https/media.discordapp.net/attachments/209560389631868928/813446170898071594/1614
+[2/22/2021 7:45:30 PM]
+  Lester: 010043620.png
+[2/22/2021 7:46:12 PM]
+  tomacatx1: niggerpost?
+[2/22/2021 7:46:19 PM]
+  Lester: bear :)
+[2/22/2021 7:46:23 PM]
+  tomacatx1: bear
+[2/22/2021 7:47:10 PM]
+  terc has joined the server.
+[2/22/2021 7:47:10 PM]
+  Saving client permissions
+[2/22/2021 7:47:20 PM]
+  terc: yes
+[2/22/2021 7:47:25 PM]
+  tomacatx1: hello!
+[2/22/2021 7:47:29 PM]
+  terc: hello
+[2/22/2021 7:47:33 PM]
+  tomacatx1: you can change ur job in the top right
+[2/22/2021 7:47:37 PM]
+  tomacatx1: gimme a sec im in a conference
+[2/22/2021 7:47:41 PM]
+  tomacatx1: ill rush it and we GAME
+[2/22/2021 7:47:46 PM]
+  terc: alright
+[2/22/2021 7:48:19 PM]
+  tomacatx1: we might need an engineer
+[2/22/2021 7:48:34 PM]
+  tomacatx1: unless youre willing to argue with torn or lester for the medic/sec role :)
+[2/22/2021 7:48:40 PM]
+  terc: ah there it is
+[2/22/2021 7:48:48 PM]
+  tomacatx1: you can also change appearance
+[2/22/2021 7:49:00 PM]
+  TornMap: they're all ugly abominations though
+[2/22/2021 7:49:08 PM]
+  tomacatx1: the future truly is bleak
+[2/22/2021 7:49:09 PM]
+  TornMap: just like real sea dwellers
+[2/22/2021 7:49:13 PM]
+  Lester: Blacks and women shot on sight, you can either be caucasian or Xi Bing Bong
+[2/22/2021 7:49:44 PM]
+  terc: job preferences
+[2/22/2021 7:49:48 PM]
+  terc: whys there 3 parts to it
+[2/22/2021 7:50:00 PM]
+  Lester: order of importance
+[2/22/2021 7:50:11 PM]
+  Lester: in case 2 people have same job
+[2/22/2021 7:50:43 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:43 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:44 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:44 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:44 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:44 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:44 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:44 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:45 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:45 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:45 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:45 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:45 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:45 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:45 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:46 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:46 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:46 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:46 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:46 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:46 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:47 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:47 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:47 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:47 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:47 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:47 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:47 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:48 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:48 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:48 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:48 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:48 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:48 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:49 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:49 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:49 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:49 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:49 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:50 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:50 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:50 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:50 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:50 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:50 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:50 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:51 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:51 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:51 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:51 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:51 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:51 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:52 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:52 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:52 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:52 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:52 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:52 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:53 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:53 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:53 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:54 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:54 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:54 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:54 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:55 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:55 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:55 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:55 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:55 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:56 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:56 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:56 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:56 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:56 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:56 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:56 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:57 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:57 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:57 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:57 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:50:57 PM]
+  TornMap is not ready to start the game.
+[2/22/2021 7:50:58 PM]
+  terc: all set i suppose
+[2/22/2021 7:51:38 PM]
+  TornMap: be very afraid terc
+[2/22/2021 7:51:48 PM]
+  tomacatx1: we will die
+[2/22/2021 7:51:49 PM]
+  tomacatx1: :)
+[2/22/2021 7:51:54 PM]
+  tomacatx1: wait im still conferencing
+[2/22/2021 7:51:56 PM]
+  Lester: hell yeah
+[2/22/2021 7:51:58 PM]
+  tomacatx1: we are designing a webpage
+[2/22/2021 7:52:15 PM]
+  Lester: if death wasn't a certainty, I wouldn't be here
+[2/22/2021 7:52:33 PM]
+  terc is ready to start the game.
+[2/22/2021 7:52:35 PM]
+  Lester is ready to start the game.
+[2/22/2021 7:52:38 PM]
+  TornMap is ready to start the game.
+[2/22/2021 7:52:43 PM]
+  Lester: shoot xenos until i die
+[2/22/2021 7:52:54 PM]
+  TornMap: containment
+[2/22/2021 7:54:26 PM]
+  terc: when do we start
+[2/22/2021 7:54:46 PM]
+  TornMap: when toma is finished desiging his GoDaddy.com webpage
+[2/22/2021 7:54:47 PM]
+  Lester: when tom is ready
+[2/22/2021 7:54:53 PM]
+  Lester: keque
+[2/22/2021 7:55:14 PM]
+  tomacatx1: im designing
+[2/22/2021 7:55:18 PM]
+  tomacatx1: a chicken streaming website
+[2/22/2021 7:55:23 PM]
+  tomacatx1: i googled chicken stream images
+[2/22/2021 7:55:24 PM]
+  Lester: mmmm chiken
+[2/22/2021 7:55:31 PM]
+  tomacatx1: cause im just theorycrafting the websites homepage
+[2/22/2021 7:55:37 PM]
+  tomacatx1: it gave me images of fried chicken
+[2/22/2021 7:55:45 PM]
+  tomacatx1: this is a green eco vegan friendly website im designing here
+[2/22/2021 7:55:54 PM]
+  TornMap: So?
+[2/22/2021 7:55:57 PM]
+  Lester: chicken
+[2/22/2021 7:56:06 PM]
+  TornMap: make it like apart of the 18+ section
+[2/22/2021 7:56:21 PM]
+  TornMap: Go Premium for this feature
+[2/22/2021 7:56:29 PM]
+  terc: Xchicken.com
+[2/22/2021 7:56:55 PM]
+  F*ckingAdorable has joined the server.
+[2/22/2021 7:56:55 PM]
+  Saving client permissions
+[2/22/2021 7:57:02 PM]
+  F*ckingAdorable is ready to start the game.
+[2/22/2021 7:57:04 PM]
+  Lester: Who.
+[2/22/2021 7:57:06 PM]
+  tomacatx1: inform he
+[2/22/2021 7:57:09 PM]
+  F*ckingAdorable: God
+[2/22/2021 7:57:09 PM]
+  tomacatx1: he is friend
+[2/22/2021 7:57:18 PM]
+  Lester: Alrighty.
+[2/22/2021 7:57:40 PM]
+  TornMap: i'm sleep depraved
+[2/22/2021 7:57:45 PM]
+  TornMap: it's the Immersion
+[2/22/2021 7:58:05 PM]
+  TornMap: method gaming 
+[2/22/2021 7:58:28 PM]
+  F*ckingAdorable: lets do this
+[2/22/2021 7:58:45 PM]
+  F*ckingAdorable: hey toma
+[2/22/2021 7:58:47 PM]
+  TornMap: toma is designing his chicken website
+[2/22/2021 7:58:52 PM]
+  F*ckingAdorable: you cant that custom sub i made still
+[2/22/2021 7:58:57 PM]
+  F*ckingAdorable: you got*
+[2/22/2021 7:59:18 PM]
+  Lester: is calling him toma some balkan inside joke 
+[2/22/2021 7:59:27 PM]
+  F*ckingAdorable: wtf should i call him
+[2/22/2021 7:59:29 PM]
+  terc: no thati
+[2/22/2021 7:59:35 PM]
+  terc: thats his discord username
+[2/22/2021 7:59:43 PM]
+  Lester: bruh.midi
+[2/22/2021 7:59:51 PM]
+  TornMap: i'm not balkan 
+[2/22/2021 7:59:54 PM]
+  terc: i am
+[2/22/2021 7:59:58 PM]
+  TornMap: i shall not be held responsible for any war crimes
+[2/22/2021 8:00:07 PM]
+  terc: i do not confirm
+[2/22/2021 8:00:08 PM]
+  TornMap: I am not Balkan. I am not. I am not I am not I am not.
+[2/22/2021 8:00:15 PM]
+  terc: balkan hypnosis
+[2/22/2021 8:00:22 PM]
+  Lester: you shall become balkan
+[2/22/2021 8:00:29 PM]
+  Lester: you want to kill albanians
+[2/22/2021 8:00:41 PM]
+  Lester: you like booze and war crimes
+[2/22/2021 8:00:51 PM]
+  Lester: you hate your wife and your neighbours
+[2/22/2021 8:00:55 PM]
+  TornMap: oooooh you want to place mine that will kill 10 year old shiptar 30 years from now
+[2/22/2021 8:00:58 PM]
+  Lester: and you all hate t*rks
+[2/22/2021 8:01:07 PM]
+  terc: TRUE!!!
+[2/22/2021 8:01:19 PM]
+  Lester: shiptar dies, god laughs
+[2/22/2021 8:01:34 PM]
+  terc: MI SMO VOJSKA ALLAHOVA NIKOG SE NE BOJIMO
+[2/22/2021 8:01:46 PM]
+  terc: MI SMO VOJSKA ALLAHOVA ZAISTA SE BORIMO
+[2/22/2021 8:01:49 PM]
+  TornMap: What? ALLAH? 
+[2/22/2021 8:01:55 PM]
+  TornMap: WTF 
+[2/22/2021 8:02:09 PM]
+  Lester: MOJ JE TATA
+[2/22/2021 8:02:13 PM]
+  Lester: ZLATANEC IS RATA
+[2/22/2021 8:02:18 PM]
+  tomacatx1 is ready to start the game.
+[2/22/2021 8:02:23 PM]
+  Client "tomacatx1" started the round.
+[2/22/2021 8:02:23 PM]
+  Starting a new round...
+[2/22/2021 8:02:34 PM]
+  Mission: Terminate a Swarm
+[2/22/2021 8:02:34 PM]
+  A small swarm of Crawler has been terrorizing vessels traveling between Riville and St. May City. A reward of 2,600 marks has been promised to any crew that can neutralize it.
+[2/22/2021 8:02:34 PM]
+  Game mode: Mission
+[2/22/2021 8:02:34 PM]
+  Submarine: Humpback
+[2/22/2021 8:02:34 PM]
+  Level seed: yYwZBFM0
+[2/22/2021 8:02:34 PM]
+  Mission: Terminate a Swarm
+[2/22/2021 8:02:34 PM]
+  Round started.
+[2/22/2021 8:02:34 PM]
+  TornMap has contracted space herpes due to low karma.
+[2/22/2021 8:02:36 PM]
+  Lester set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 8:02:38 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 8:02:42 PM]
+  TornMap set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 8:02:45 PM]
+  F*ckingAdorable set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 8:02:47 PM]
+  TornMap: let's fucking GOOOOOO LET'S GO FUCKING DIE
+[2/22/2021 8:02:51 PM]
+  Lester equipped SMG
+[2/22/2021 8:02:54 PM]
+  Lester picked up Revolver
+[2/22/2021 8:02:54 PM]
+  Lester picked up Revolver
+[2/22/2021 8:02:54 PM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 8:02:56 PM]
+  Lester picked up Revolver
+[2/22/2021 8:02:56 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 8:02:59 PM]
+  Lester placed SMG Magazine in SMG (ID: 3304)
+[2/22/2021 8:03:00 PM]
+  Lester picked up SMG
+[2/22/2021 8:03:02 PM]
+  tomacatx1 equipped Explosive Crate
+[2/22/2021 8:03:02 PM]
+  tomacatx1 picked up Explosive Crate
+[2/22/2021 8:03:09 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 518)
+[2/22/2021 8:03:10 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 523)
+[2/22/2021 8:03:11 PM]
+  TornMap picked up Screwdriver
+[2/22/2021 8:03:11 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 522)
+[2/22/2021 8:03:13 PM]
+  TornMap picked up Wrench
+[2/22/2021 8:03:19 PM]
+  tomacatx1 placed Explosive Crate in Crate Shelf (ID: 109)
+[2/22/2021 8:03:36 PM]
+  terc: testint testing
+[2/22/2021 8:03:37 PM]
+  tomacatx1 picked up Captain's Pipe
+[2/22/2021 8:03:41 PM]
+  terc: good
+[2/22/2021 8:03:44 PM]
+  terc: i did not
+[2/22/2021 8:03:44 PM]
+  tomacatx1 equipped Medic Crate
+[2/22/2021 8:03:44 PM]
+  tomacatx1 picked up Medic Crate
+[2/22/2021 8:03:49 PM]
+  TornMap: uhh
+[2/22/2021 8:04:00 PM]
+  F*ckingAdorable picked up Diving Mask
+[2/22/2021 8:04:02 PM]
+  F*ckingAdorable picked up Welding Tool
+[2/22/2021 8:04:03 PM]
+  F*ckingAdorable picked up Flashlight
+[2/22/2021 8:04:04 PM]
+  F*ckingAdorable picked up Bandage
+[2/22/2021 8:04:04 PM]
+  F*ckingAdorable picked up Bandage
+[2/22/2021 8:04:04 PM]
+  F*ckingAdorable picked up Bandage
+[2/22/2021 8:04:04 PM]
+  F*ckingAdorable picked up Bandage
+[2/22/2021 8:04:10 PM]
+  tomacatx1 placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:10 PM]
+  tomacatx1 placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:11 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:11 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:13 PM]
+  F*ckingAdorable picked up Diving Suit
+[2/22/2021 8:04:14 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:14 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:18 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:18 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:18 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:18 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:21 PM]
+  tomacatx1 placed Broad-spectrum Antibiotics in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:25 PM]
+  tomacatx1 placed Medic Crate in Crate Shelf (ID: 109)
+[2/22/2021 8:04:29 PM]
+  terc: whats that clicking
+[2/22/2021 8:04:32 PM]
+  TornMap: toma
+[2/22/2021 8:04:32 PM]
+  tomacatx1 equipped Chemical Crate
+[2/22/2021 8:04:32 PM]
+  tomacatx1 picked up Chemical Crate
+[2/22/2021 8:04:34 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 8:04:35 PM]
+  F*ckingAdorable dropped Diving Suit
+[2/22/2021 8:04:36 PM]
+  terc: sound bug or
+[2/22/2021 8:04:36 PM]
+  TornMap: i have very important news
+[2/22/2021 8:04:41 PM]
+  TornMap: i had space herpes
+[2/22/2021 8:04:42 PM]
+  F*ckingAdorable picked up Screwdriver
+[2/22/2021 8:04:42 PM]
+  F*ckingAdorable picked up Screwdriver
+[2/22/2021 8:04:42 PM]
+  F*ckingAdorable picked up Screwdriver
+[2/22/2021 8:04:42 PM]
+  F*ckingAdorable picked up Screwdriver
+[2/22/2021 8:04:44 PM]
+  terc: not yours
+[2/22/2021 8:04:45 PM]
+  F*ckingAdorable placed Screwdriver in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:04:45 PM]
+  F*ckingAdorable placed Screwdriver in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:04:45 PM]
+  F*ckingAdorable placed Screwdriver in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:04:45 PM]
+  F*ckingAdorable placed Screwdriver in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:04:46 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:48 PM]
+  F*ckingAdorable picked up Wrench
+[2/22/2021 8:04:48 PM]
+  F*ckingAdorable picked up Wrench
+[2/22/2021 8:04:48 PM]
+  F*ckingAdorable picked up Wrench
+[2/22/2021 8:04:48 PM]
+  F*ckingAdorable picked up Wrench
+[2/22/2021 8:04:49 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/22/2021 8:04:52 PM]
+  F*ckingAdorable picked up Welding Tool
+[2/22/2021 8:04:57 PM]
+  F*ckingAdorable picked up Screwdriver
+[2/22/2021 8:04:57 PM]
+  F*ckingAdorable picked up Screwdriver
+[2/22/2021 8:04:57 PM]
+  F*ckingAdorable picked up Screwdriver
+[2/22/2021 8:04:57 PM]
+  F*ckingAdorable picked up Screwdriver
+[2/22/2021 8:05:11 PM]
+  tomacatx1 placed Chemical Crate in Crate Shelf (ID: 109)
+[2/22/2021 8:05:15 PM]
+  F*ckingAdorable equipped Screwdriver
+[2/22/2021 8:05:19 PM]
+  Lester equipped Metal Crate
+[2/22/2021 8:05:19 PM]
+  Lester picked up Metal Crate
+[2/22/2021 8:05:19 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 8:05:22 PM]
+  Lester picked up Toolbelt
+[2/22/2021 8:05:25 PM]
+  Lester dropped Metal Crate
+[2/22/2021 8:05:26 PM]
+  F*ckingAdorable disconnected a wire from Junction Box (power) to Lamp (power)
+[2/22/2021 8:05:26 PM]
+  F*ckingAdorable connected a wire from Junction Box (signal_0) to Lamp (power)
+[2/22/2021 8:05:27 PM]
+  tomacatx1 placed Pipe Tobacco in Captain's Pipe (ID: 3873)
+[2/22/2021 8:05:29 PM]
+  Lester placed SMG in Toolbelt (ID: 3877)
+[2/22/2021 8:05:29 PM]
+  tomacatx1 equipped Metal Crate
+[2/22/2021 8:05:29 PM]
+  tomacatx1 picked up Metal Crate
+[2/22/2021 8:05:29 PM]
+  F*ckingAdorable disconnected a wire from Junction Box (signal_0) to Lamp (power)
+[2/22/2021 8:05:29 PM]
+  F*ckingAdorable connected a wire from Junction Box (power) to Lamp (power)
+[2/22/2021 8:05:30 PM]
+  Lester placed Revolver in Toolbelt (ID: 3877)
+[2/22/2021 8:05:31 PM]
+  tomacatx1 picked up Toolbelt
+[2/22/2021 8:05:32 PM]
+  Lester placed Revolver in Toolbelt (ID: 3877)
+[2/22/2021 8:05:33 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 539)
+[2/22/2021 8:05:33 PM]
+  Lester placed Revolver in Toolbelt (ID: 3877)
+[2/22/2021 8:05:34 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 539)
+[2/22/2021 8:05:34 PM]
+  terc set the recharge speed of Supercapacitor to 60 %
+[2/22/2021 8:05:35 PM]
+  terc set the recharge speed of Supercapacitor to 70 %
+[2/22/2021 8:05:35 PM]
+  terc set the recharge speed of Supercapacitor to 80 %
+[2/22/2021 8:05:35 PM]
+  terc set the recharge speed of Supercapacitor to 90 %
+[2/22/2021 8:05:36 PM]
+  tomacatx1 placed Crowbar in Toolbelt (ID: 3880)
+[2/22/2021 8:05:36 PM]
+  terc set the recharge speed of Supercapacitor to 80 %
+[2/22/2021 8:05:36 PM]
+  terc set the recharge speed of Supercapacitor to 70 %
+[2/22/2021 8:05:36 PM]
+  terc set the recharge speed of Supercapacitor to 60 %
+[2/22/2021 8:05:36 PM]
+  terc set the recharge speed of Supercapacitor to 50 %
+[2/22/2021 8:05:38 PM]
+  tomacatx1 placed Wrench in Toolbelt (ID: 3880)
+[2/22/2021 8:05:42 PM]
+  terc: i can
+[2/22/2021 8:05:43 PM]
+  Lester picked up Diving Mask
+[2/22/2021 8:05:44 PM]
+  tomacatx1 placed Screwdriver in Toolbelt (ID: 3880)
+[2/22/2021 8:05:48 PM]
+  Lester picked up Welding Tool
+[2/22/2021 8:05:50 PM]
+  F*ckingAdorable equipped Guitar
+[2/22/2021 8:05:50 PM]
+  F*ckingAdorable picked up Guitar
+[2/22/2021 8:05:52 PM]
+  terc: i do not unfortunately
+[2/22/2021 8:05:52 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/22/2021 8:05:53 PM]
+  tomacatx1 placed Crowbar in Medium Steel Cabinet (ID: 539)
+[2/22/2021 8:05:55 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/22/2021 8:05:56 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 539)
+[2/22/2021 8:05:56 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 539)
+[2/22/2021 8:06:01 PM]
+  tomacatx1 placed Metal Crate in Crate Shelf (ID: 109)
+[2/22/2021 8:06:02 PM]
+  Lester placed Handcuffs in Large Steel Cabinet (ID: 741)
+[2/22/2021 8:06:03 PM]
+  Lester placed Anabolic Steroids in Large Steel Cabinet (ID: 741)
+[2/22/2021 8:06:07 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[2/22/2021 8:06:07 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:06:09 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 8:06:10 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[2/22/2021 8:06:10 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:06:14 PM]
+  terc: nope
+[2/22/2021 8:06:19 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 8:06:19 PM]
+  Lester picked up Riot Shotgun
+[2/22/2021 8:06:33 PM]
+  TornMap picked up Diving Mask
+[2/22/2021 8:06:35 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:06:37 PM]
+  Lester picked up Flamer
+[2/22/2021 8:06:45 PM]
+  terc: yep
+[2/22/2021 8:06:45 PM]
+  Lester picked up Revolver
+[2/22/2021 8:06:47 PM]
+  Lester picked up Revolver
+[2/22/2021 8:06:52 PM]
+  F*ckingAdorable dropped Guitar
+[2/22/2021 8:06:54 PM]
+  Lester placed Revolver Round in Toolbelt (ID: 3877)
+[2/22/2021 8:06:54 PM]
+  Lester placed Revolver Round in Toolbelt (ID: 3877)
+[2/22/2021 8:06:54 PM]
+  Lester placed Revolver Round in Toolbelt (ID: 3877)
+[2/22/2021 8:06:54 PM]
+  Lester placed Revolver Round in Toolbelt (ID: 3877)
+[2/22/2021 8:06:54 PM]
+  Lester placed Revolver Round in Toolbelt (ID: 3877)
+[2/22/2021 8:06:56 PM]
+  TornMap picked up Red Paint
+[2/22/2021 8:06:56 PM]
+  TornMap picked up Red Paint
+[2/22/2021 8:06:57 PM]
+  terc: i have
+[2/22/2021 8:06:59 PM]
+  Lester placed Anabolic Steroids in Toolbelt (ID: 3877)
+[2/22/2021 8:07:01 PM]
+  F*ckingAdorable picked up Fuel Rod
+[2/22/2021 8:07:01 PM]
+  F*ckingAdorable picked up Fuel Rod
+[2/22/2021 8:07:01 PM]
+  F*ckingAdorable picked up Fuel Rod
+[2/22/2021 8:07:04 PM]
+  Lester placed Stun Baton in Toolbelt (ID: 3877)
+[2/22/2021 8:07:05 PM]
+  F*ckingAdorable placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 8:07:10 PM]
+  F*ckingAdorable dropped Fuel Rod
+[2/22/2021 8:07:10 PM]
+  F*ckingAdorable dropped Fuel Rod
+[2/22/2021 8:07:11 PM]
+  Lester picked up Grenade Launcher
+[2/22/2021 8:07:12 PM]
+  TornMap equipped Wrench
+[2/22/2021 8:07:12 PM]
+  Lester placed Revolver in Toolbelt (ID: 3877)
+[2/22/2021 8:07:13 PM]
+  TornMap equipped Red Paint
+[2/22/2021 8:07:13 PM]
+  TornMap equipped Red Paint
+[2/22/2021 8:07:15 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[2/22/2021 8:07:15 PM]
+  Lester picked up Grenade Launcher
+[2/22/2021 8:07:16 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 8:07:18 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 8:07:21 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 0, Fission rate: 17, Turbine output: 0, Autotemp OFF
+[2/22/2021 8:07:22 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 983, Fission rate: 20, Turbine output: 0, Autotemp OFF
+[2/22/2021 8:07:23 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 1983, Fission rate: 52, Turbine output: 0, Autotemp OFF
+[2/22/2021 8:07:23 PM]
+  TornMap equipped Screwdriver
+[2/22/2021 8:07:24 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 3049, Fission rate: 52, Turbine output: 3, Autotemp OFF
+[2/22/2021 8:07:25 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 4050, Fission rate: 52, Turbine output: 9, Autotemp OFF
+[2/22/2021 8:07:25 PM]
+  TornMap equipped Red Paint
+[2/22/2021 8:07:25 PM]
+  TornMap equipped Red Paint
+[2/22/2021 8:07:25 PM]
+  Lester placed Bandage in Large Steel Cabinet (ID: 741)
+[2/22/2021 8:07:26 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 5050, Fission rate: 52, Turbine output: 22, Autotemp OFF
+[2/22/2021 8:07:26 PM]
+  TornMap threw Red Paint
+[2/22/2021 8:07:27 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 6050, Fission rate: 52, Turbine output: 31, Autotemp OFF
+[2/22/2021 8:07:30 PM]
+  TornMap threw Red Paint
+[2/22/2021 8:07:30 PM]
+  Lester picked up Anabolic Steroids
+[2/22/2021 8:07:31 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 5178, Fission rate: 52, Turbine output: 73, Autotemp OFF
+[2/22/2021 8:07:32 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 4178, Fission rate: 52, Turbine output: 97, Autotemp OFF
+[2/22/2021 8:07:35 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 1995, Fission rate: 52, Turbine output: 96, Autotemp OFF
+[2/22/2021 8:07:36 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 995, Fission rate: 52, Turbine output: 80, Autotemp OFF
+[2/22/2021 8:07:37 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 362, Fission rate: 52, Turbine output: 62, Autotemp OFF
+[2/22/2021 8:07:37 PM]
+  terc: alright its yellow
+[2/22/2021 8:07:38 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 1293, Fission rate: 52, Turbine output: 69, Autotemp OFF
+[2/22/2021 8:07:39 PM]
+  F*ckingAdorable adjusted reactor settings: Temperature: 1307, Fission rate: 52, Turbine output: 74, Autotemp OFF
+[2/22/2021 8:07:41 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 942, Fission rate: 52, Turbine output: 74, Autotemp ON
+[2/22/2021 8:07:42 PM]
+  terc: eh?
+[2/22/2021 8:07:50 PM]
+  Lester placed Flamer in Toolbelt (ID: 3877)
+[2/22/2021 8:07:58 PM]
+  Lester picked up Revolver
+[2/22/2021 8:08:00 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 8:08:07 PM]
+  Lester placed Diving Knife in Toolbelt (ID: 3877)
+[2/22/2021 8:08:12 PM]
+  F*ckingAdorable picked up Diving Suit
+[2/22/2021 8:08:12 PM]
+  Lester picked up SMG
+[2/22/2021 8:08:17 PM]
+  Lester equipped Revolver
+[2/22/2021 8:08:17 PM]
+  Lester equipped Revolver
+[2/22/2021 8:08:28 PM]
+  TornMap picked up Sprayer
+[2/22/2021 8:08:33 PM]
+  F*ckingAdorable dropped Diving Suit
+[2/22/2021 8:08:34 PM]
+  terc: alright
+[2/22/2021 8:08:35 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:08:36 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:08:39 PM]
+  Lester equipped Riot Shotgun
+[2/22/2021 8:08:39 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 8:08:39 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 8:08:41 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:08:41 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:08:45 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 8:08:45 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 8:08:46 PM]
+  terc equipped Guitar
+[2/22/2021 8:08:46 PM]
+  terc picked up Guitar
+[2/22/2021 8:08:52 PM]
+  tomacatx1 picked up Diving Mask

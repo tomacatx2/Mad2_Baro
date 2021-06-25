@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_musicdisk_1" description="" category="Misc" cargocontaineridentifier="metalcrate" tags="smallitem, musicdisk" scale="0.5" fireproof="true" impactsoundtag="impact_metal_light">
+    <!--Preis Liste-->
+    <!--Sprites-->
+    <Sprite texture="Musicdisc_1_u797.png" sourcerect="0,0,25,25" depth="0.55" origin="0.49714285,0.5" />
+    <Body width="25" height="25" density="30" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" handle1="0,0" />
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_musicdisk_foolish" description="" category="Misc" cargocontaineridentifier="metalcrate" tags="smallitem, musicdisk" scale="0.5" fireproof="true" impactsoundtag="impact_metal_light">
+    <!--Preis Liste-->
+    <Price locationtype="City" buyprice="100" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Price locationtype="Military" buyprice="100" />
+    <Price locationtype="Research" buyprice="100" />
+    <!--Sprites-->
+    <Sprite texture="Musicdisc_2_u797.png" sourcerect="0,0,25,25" depth="0.55" origin="0.49714285,0.5" />
+    <Body width="25" height="25" density="30" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" handle1="0,0" />
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_musicdisk_intotheabyss" description="" category="Misc" cargocontaineridentifier="metalcrate" tags="smallitem, musicdisk" scale="0.5" fireproof="true" impactsoundtag="impact_metal_light">
+    <!--Preis Liste-->
+    <Price locationtype="City" buyprice="100" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Price locationtype="Military" buyprice="100" />
+    <Price locationtype="Research" buyprice="100" />
+    <!--Sprites-->
+    <Sprite texture="Musicdisc_3_u797.png" sourcerect="0,0,25,25" depth="0.55" origin="0.49714285,0.5" />
+    <Body width="25" height="25" density="30" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" handle1="0,0" />
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_musicdisk_4" description="" category="Misc" cargocontaineridentifier="metalcrate" tags="smallitem, musicdisk" scale="0.5" fireproof="true" impactsoundtag="impact_metal_light">
+    <!--Preis Liste-->
+    <!--Sprites-->
+    <Sprite texture="Musicdisc_4_u797.png" sourcerect="0,0,25,25" depth="0.55" origin="0.49714285,0.5" />
+    <Body width="25" height="25" density="30" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" handle1="0,0" />
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_musicdisk_5" description="" category="Misc" cargocontaineridentifier="metalcrate" tags="smallitem, musicdisk" scale="0.5" fireproof="true" impactsoundtag="impact_metal_light">
+    <!--Preis Liste-->
+    <!--Sprites-->
+    <Sprite texture="Musicdisc_5_u797.png" sourcerect="0,0,25,25" depth="0.55" origin="0.49714285,0.5" />
+    <Body width="25" height="25" density="30" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" handle1="0,0" />
+  </Item>
+  <!--___________________________________________________________________________________________________________________________________________________________________-->
+</Items>

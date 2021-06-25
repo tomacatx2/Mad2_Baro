@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="German" nowhitespace="false" translatedname="Deutsch">
+  
+  <!--Hinweis 4.8.2020: Jobs sind unverändert, Items und Hüte wurden teilweise verändert-->
+  
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Jobs__________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  
+  <!-- Jobs -->
+  <jobname.Kommander>Kommandant</jobname.Kommander>
+  <jobdescription.Kommander>Der Begriff Kommandant ist eine Funktionsbezeichnung und bezeichnet den Führer von Kriegsschiffen, unabhängig der militärischen Dienstklasse. Der Aufgabenbereich des Kommandanten umfasst die Regelung, Überwachung und Disziplinaraufsicht sämtlicher Angelegenheiten an Bord eines Schiffes. Er ist gegenüber allen Besatzungsmitgliedern dienstvorgesetzt. Zur Durchführung der ihm obliegenden Aufgaben hat er Diensteinteilungen vorzunehmen sowie Geschäftsordnungen festzulegen. Darüber hinaus obliegt dem Kommandanten im Zuge seiner disziplinarrechtlichen Befugnisse die Gerichtsbarkeit an Bord des ihm zugeteilten Schiffes.</jobdescription.Kommander>
+  <jobname.Kapitaen>Kapitän</jobname.Kapitaen>
+  <jobdescription.Kapitaen>Dem Kapitän obliegt die Verantwortung und die Leitung des Schiffes und ist allen Besatzungsmitgliedern sowohl Dienst- als auch Disziplinarvorgesetzer übergeordnet</jobdescription.Kapitaen>
+  <jobname.Wachoffizier>Wachoffizier</jobname.Wachoffizier>
+  <jobdescription.Wachoffizier>Der Begriff Wachoffizier ist eine Funktionsbezeichnung des im Schichtbetrieb leitenden Offizier, der für die Dauer der Schicht für die Leitung des Schiffes verantwortlich ist. Der Wachoffizier ist in seiner Funktion dem Kommandanten unterstellt, aber allen Besatzungsmitgliedern in seiner Funktion dienstvorgesetzt. Die Aufgabe der Wachoffiziere ist die Vertretung des Kommandanten sowie die Durchführung der ihnen vom Kommandanten übertragenen Tätigkeitsbereiche.</jobdescription.Wachoffizier>
+  <jobname.Leitender_Ingenieur>Leitender Ingenieur</jobname.Leitender_Ingenieur>
+  <jobdescription.Leitender_Ingenieur>Der Begriff des leitenden Ingenieurs ist eine Dienststellung und bezeichnet den für die gesamte Technik und Elektronik verantwortlichen Offizier. Dem LI obliegt die technische Funktionsfähigkeit sowie technische Sicherheit des Schiffes und ist sämtlichem technischen Personal dienstvorgesetzt. Er hat hierfür Diensteinteilungen, insbesondere die Zuteilung der Funktion des Obermaschinisten, sowie eine Geschäftsordnung für der technischen Abteilung dienstzugeteilten Besatzungsmitglieder vorzunehmen und festzulegen. Der Leitenden Ingenieur ist in seiner Funktion dem jeweils dienstführenden Wachoffizier unterstellt. </jobdescription.Leitender_Ingenieur>
+  <jobname.Materialbewirtschaftung>Versorgungsoffizier</jobname.Materialbewirtschaftung>
+  <jobdescription.Materialbewirtschaftung>Der Versorgungsoffizier führt in Auftrag die im U-Boot anfallenden Materialanfertigungen durch. Zu seinen hauptsächlichen Aufgaben gehört die Versorgung des U-Bootes mit benötigten Gütern (z. B. Waffen, Munition, Werkzeug, Verbrauchsgüter). er wird in der Regel durch einen Maat oder Bootsmann unterstützt bei der Nachweisführung von Material und Munition.</jobdescription.Materialbewirtschaftung>
+  <jobname.Leitender_Arzt>Leitender Schiffsarzt</jobname.Leitender_Arzt>
+  <jobdescription.Leitender_Arzt>Der Begriff des leitenden Arzt ist eine Dienststellung des für den medizinischen und sanitätsmedizischen Bereich verantwortlichen Offizier. Dem leitenden Schiffsarzt obliegt ebenfalls die Verwaltung der Bordapotheke sowie die Herstellung, Verwaltung und Sicherung der dafür benötigten Substanzen. Der leitende Schiffsarzt ist in seiner Funktion dem Kommandanten unterstellt. In medizinischen Notlagen ist der leitende Schiffsarzt in seiner Dienststellung berechtigt, für die notwendige Dauer und Umfang der Notlage sich zum Dienstvorgesetzten zu erklären.</jobdescription.Leitender_Arzt>
+	<jobname.Arzt>Schiffsarzt</jobname.Arzt>
+  <jobdescription.Arzt>Der Schiffsarzt ist eine Dienststellung des für medizinischen und sanitätsmedizischen Bereich verantwortlichen Offizier. Der Schiffsarzt ist in seiner Funktion dem leitenden Arzt unterstellt. Seine Weisungsbefugnis ist auf medizinische Angelegenheiten eingeschränkt, jedoch sind seiner Funktion in diesem Bereich alle Besatzungsmitglieder, bis auf den leitenden Arzt , untergeordnet. </jobdescription.Arzt>
+  <jobname.Brueckenbootsmann>Brückenbootsmann</jobname.Brueckenbootsmann>
+  <jobdescription.Brueckenbootsmann>Der Begriff des Brückenbootsmann ist eine Dienststellung und bezeichnet das mit der Schiffsnavigation und der Verwendung der aktiven und passiven Sonareinrichtungen betraute Besatzungsmitglied. Dem als BBtsm eingeteilten Besatzungsmitglied obliegt, sofern nicht anders in der Geschäftsordnung geregelt oder auf Anweisung des Kommandanten, die Führung und Koordinierung von Außenteams , die Anzeige von Sonar- und Horchkontakten für die Gefechtsstation sowie die Instandhaltung der Sonar- und Horchgeräte an Bord. Der BBtsm ist, sofern nicht anders in der Geschäftsordnung oder durch Anweisung des Kommandanten festgelegt, direkt dem Kommandanten unterstellt.</jobdescription.Brueckenbootsmann>
+  <jobname.Technisches_Personal>Technisches Personal</jobname.Technisches_Personal>
+  <jobdescription.Technisches_Personal>Der Begriff des technischen Personals ist eine Dienststellung und umfasst jene Besatzungsmitglieder, die der technischen Abteilung an Bord eines Schiffes zugewiesen wurden und einem Dienstvorgesetzten unterstellt sind. Ihnen obliegt die Durchführung der vom LI festgelegten Geschäftsordnung und Anweisungen.</jobdescription.Technisches_Personal>
+  <jobname.Seemaennisches_Personal>Seemännisches Personal</jobname.Seemaennisches_Personal>
+  <jobdescription.Seemaennisches_Personal>Das seemännischen Personals ist eine Dienststellung und umfasst jene Besatzungsmitglieder, die dem Gefechtsdienst zugeteilt sind. Ihm obliegen Aufgaben wie unter anderem die Brückenwache und die Bedienung der Geschützbatterien.</jobdescription.Seemaennisches_Personal>
+  <jobname.Medizinisches_Personal>Medizinisches Personal </jobname.Medizinisches_Personal>
+  <jobdescription.Medizinisches_Personal>Das Medizinischen Personals ist eine Dienststellung und umfasst jene Besatzungsmitglieder, die der medizinischen Abteilung an Bord eines Schiffes zugewiesen wurden und einem diensthabenden Arzt unterstellt sind. Ihnen obliegt die medizinische Behandlung der Besatzung sowie die Betreuung der Krankenstation im Rahmen der für sie festgelegten Tätigkeitsbereiche.</jobdescription.Medizinisches_Personal>
+  <jobname.Matrose>Matrose</jobname.Matrose>
+  <jobdescription.Matrose>Ein Standard Besatzungsmitglied das sich noch in Ausbildung befindet und keine besonderen Fähigkeiten oder Kenntnisse besitzt.</jobdescription.Matrose>
+  <!--<jobname.Station_Personal>!Station Personal!</jobname.Station_Personal>
+  <jobdescription.Station_Personal>!No Information!</jobdescription.Station_Personal>-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Kleidung______________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+
+  <!--______________________________________________________________________Hüte______________________________________________________________________________________________-->
+  
+  <!-- Mützen-->
+  <entityname.kleidung_hüte_unteroffizier_mannschaft>Mannschafts Mütze (Unteroffizier)</entityname.kleidung_hüte_unteroffizier_mannschaft>
+  <entitydescription.kleidung_hüte_unteroffizier_mannschaft></entitydescription.kleidung_hüte_unteroffizier_mannschaft>
+  <entityname.kleidung_hüte_schirmmütze_mannschaft>Schirmmütze (Mannschaft)</entityname.kleidung_hüte_schirmmütze_mannschaft>
+  <entitydescription.kleidung_hüte_schirmmütze_mannschaft></entitydescription.kleidung_hüte_schirmmütze_mannschaft>
+  <entityname.kleidung_hüte_schirmmütze_offizier>Schirmmütze (Offizier)</entityname.kleidung_hüte_schirmmütze_offizier>
+  <entitydescription.kleidung_hüte_schirmmütze_offizier></entitydescription.kleidung_hüte_schirmmütze_offizier>
+  <entityname.kleidung_hüte_schirmmütze_unteroffizier>Schirmmütze (Unteroffizier)</entityname.kleidung_hüte_schirmmütze_unteroffizier>
+  <entitydescription.kleidung_hüte_schirmmütze_unteroffizier></entitydescription.kleidung_hüte_schirmmütze_unteroffizier>
+  <entityname.kleidung_hüte_cap_u797>U797 Mütze</entityname.kleidung_hüte_cap_u797>
+  <entitydescription.kleidung_hüte_cap_u797></entitydescription.kleidung_hüte_cap_u797>
+  <entityname.kleidung_hüte_cap_sanitäter>Sanitäter Mütze</entityname.kleidung_hüte_cap_sanitäter>
+  <entitydescription.kleidung_hüte_cap_sanitäter></entitydescription.kleidung_hüte_cap_sanitäter>
+  
+  <!-- Schiffchen-->
+  <entityname.kleidung_hüte_schiffchen_offiziere>Schiffchen (Offiziere)</entityname.kleidung_hüte_schiffchen_offiziere>
+  <entitydescription.kleidung_hüte_schiffchen_offiziere></entitydescription.kleidung_hüte_schiffchen_offiziere>
+  <entityname.kleidung_hüte_schiffchen_unteroffiziere>Schiffchen (Unteroffiziere)</entityname.kleidung_hüte_schiffchen_unteroffiziere>
+  <entitydescription.kleidung_hüte_schiffchen_unteroffiziere></entitydescription.kleidung_hüte_schiffchen_unteroffiziere>
+  <entityname.kleidung_hüte_schiffchen_mannschaft>Schiffchen (Mannschaft)</entityname.kleidung_hüte_schiffchen_mannschaft>
+  <entitydescription.kleidung_hüte_schiffchen_mannschaft></entitydescription.kleidung_hüte_schiffchen_mannschaft>
+  <entityname.kleidung_hüte_schiffchen_sani_mannschaft>Sanitäter Schiffchen (Mannschaft)</entityname.kleidung_hüte_schiffchen_sani_mannschaft>
+  <entitydescription.kleidung_hüte_schiffchen_sani_mannschaft></entitydescription.kleidung_hüte_schiffchen_sani_mannschaft>
+  <entityname.kleidung_hüte_schiffchen_sani_unteroffiziere>Sanitäter Schiffchen (Unteroffiziere)</entityname.kleidung_hüte_schiffchen_sani_unteroffiziere>
+  <entitydescription.kleidung_hüte_schiffchen_sani_unteroffiziere></entitydescription.kleidung_hüte_schiffchen_sani_unteroffiziere>
+  <entityname.kleidung_hüte_schiffchen_sani_offiziere>Sanitäter Schiffchen (Offiziere)</entityname.kleidung_hüte_schiffchen_sani_offiziere>
+  <entitydescription.kleidung_hüte_schiffchen_sani_offiziere></entitydescription.kleidung_hüte_schiffchen_sani_offiziere>
+  
+  <!--______________________________________________________________________Uniformen______________________________________________________________________________________________-->
+  
+  <!-- Allgemein-->
+  <!--Werden nicht eingedeutscht-->
+  <!-- Techniker-->
+  <!--Werden nicht eingedeutscht-->
+  <!-- Sanitäter-->
+  <!--Werden nicht eingedeutscht-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Dekorationen__________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  
+  <!-- Dekorationen--> <!--Script generiert-->
+  <entityname.label_barotekten>Barotekten Emblem</entityname.label_barotekten>
+  <entitydescription.label_barotekten>Das Emblem der Barotekten</entitydescription.label_barotekten>
+  <entityname.label_schiffswerft>Schiffswerft U797 Emblem</entityname.label_schiffswerft>
+  <entitydescription.label_schiffswerft>Das Emblem der Schiffswerft U797</entitydescription.label_schiffswerft>
+  <entityname.u797_monitor_large_green>Großer Monitor</entityname.u797_monitor_large_green>
+  <entitydescription.u797_monitor_large_green>Ein großer Monitor</entitydescription.u797_monitor_large_green>
+  <entityname.u797_monitor_small_green>Kleiner Monitor</entityname.u797_monitor_small_green>
+  <entitydescription.u797_monitor_small_green>Ein kleiner Monitor</entitydescription.u797_monitor_small_green>
+  <entityname.u797_panel_big>Große Schaltfläche</entityname.u797_panel_big>
+  <entitydescription.u797_panel_big>Eine große Schaltfläche mit vielen Grafiken</entitydescription.u797_panel_big>
+  <entityname.u797_panel_big_empty>Große leere Schaltfläche</entityname.u797_panel_big_empty>
+  <entitydescription.u797_panel_big_empty>Eine große Schaltfläche ohne jegliche Grafiken</entitydescription.u797_panel_big_empty>
+  <entityname.u797_panel_big_green>Große grüne Schaltfläche</entityname.u797_panel_big_green>
+  <entitydescription.u797_panel_big_green>Eine große grüne Schaltfläche mit vielen Grafiken</entitydescription.u797_panel_big_green>
+  <entityname.u797_panel_big_orange>Große orangene Schaltfläche</entityname.u797_panel_big_orange>
+  <entitydescription.u797_panel_big_orange>Eine große orangene Schaltfläche mit vielen Grafiken</entitydescription.u797_panel_big_orange>
+  <entityname.u797_panel_big2>Große Schaltfläche</entityname.u797_panel_big2>
+  <entitydescription.u797_panel_big2>Eine große Schaltfläche mit vielen Grafiken</entitydescription.u797_panel_big2>
+  <entityname.FF_bg_dark_u797>Dunkle Hintergrundwand</entityname.FF_bg_dark_u797>
+  <entitydescription.FF_bg_dark_u797>Dunkle Hintergrundwand</entitydescription.FF_bg_dark_u797>
+  <entityname.bg_darkblue_u797>Dunkelblaue Hintergrundwand</entityname.bg_darkblue_u797>
+  <entitydescription.bg_darkblue_u797>Dunkelblaue Hintergrundwand</entitydescription.bg_darkblue_u797>
+  <entityname.bg_darkyellow_u797>Dunkelgelbe Hintergrundwand</entityname.bg_darkyellow_u797>
+  <entitydescription.bg_darkyellow_u797>Dunkelgelbe Hintergrundwand</entitydescription.bg_darkyellow_u797>
+  <entityname.bg_white_u797>Weiße Hintergrundwand</entityname.bg_white_u797>
+  <entitydescription.bg_white_u797>Weiße Hintergrundwand</entitydescription.bg_white_u797>
+  <entityname.u797_commandtable>Kommandotisch</entityname.u797_commandtable>
+  <entitydescription.u797_commandtable>Zur Plannung von Einsätzen</entitydescription.u797_commandtable>
+  <entityname.u797_commandtable_2>Kommandotisch mit Logo</entityname.u797_commandtable_2>
+  <entitydescription.u797_commandtable_2>Nur die besten Einsätze werden hier geplant</entitydescription.u797_commandtable_2>
+  <entityname.u797_chair1_front>Sessel</entityname.u797_chair1_front>
+  <entitydescription.u797_chair1_front>Ein bequemer Sessel</entitydescription.u797_chair1_front>
+  <entityname.u797_chair1_left>Sessel</entityname.u797_chair1_left>
+  <entitydescription.u797_chair1_left>Ein bequemer Sessel</entitydescription.u797_chair1_left>
+  <entityname.u797_chair1_right>Sessel</entityname.u797_chair1_right>
+  <entitydescription.u797_chair1_right>Ein bequemer Sessel</entitydescription.u797_chair1_right>
+  <entityname.u797_chair2_left>Stuhl</entityname.u797_chair2_left>
+  <entitydescription.u797_chair2_left>Stuhl</entitydescription.u797_chair2_left>
+  <entityname.u797_chair2_right>Stuhl</entityname.u797_chair2_right>
+  <entitydescription.u797_chair2_right>Beschreibung</entitydescription.u797_chair2_right>
+  <entityname.u797_sofa>Sofa</entityname.u797_sofa>
+  <entitydescription.u797_sofa>Ein gemütliches Sofa</entitydescription.u797_sofa>
+  <entityname.u797_table2>Tisch</entityname.u797_table2>
+  <entitydescription.u797_table2>Ein futuristischer Tisch</entitydescription.u797_table2>
+  <entityname.u797_gedenktafel>Gedenktafel</entityname.u797_gedenktafel>
+  <entitydescription.u797_gedenktafel>Eine Gedenktafel für verstorbene Crew Mitglieder der U797</entitydescription.u797_gedenktafel>
+  <entityname.u797_picture>Bild</entityname.u797_picture>
+  <entitydescription.u797_picture>Ein Bild eines U-Bootes der Dugong Klasse</entitydescription.u797_picture>
+  <entityname.u797_plant>Pflanze</entityname.u797_plant>
+  <entitydescription.u797_plant>Eine natürlich ausehende Planze aus Plastik</entitydescription.u797_plant>
+  <entityname.u797_wetfloorsign>Schild mit Warnhinweis</entityname.u797_wetfloorsign>
+  <entitydescription.u797_wetfloorsign>Achtung Rutschgefahr!</entitydescription.u797_wetfloorsign>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Items_________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  
+  <!-- Misc Items-->
+  <!--Script generiert-->
+  <entityname.hazard_suit>Schutzanzug</entityname.hazard_suit>
+  <entitydescription.hazard_suit>Wenn der Reaktor Sauber gemacht werden muss, ist das ihre Wahl Nummer 1</entitydescription.hazard_suit>
+  <entityname.med_scanner>Medizin Scanner</entityname.med_scanner>
+  <entitydescription.med_scanner>Ein kleiner handlicher Scanner</entitydescription.med_scanner>
+  <entityname.zigarre>Zigarre</entityname.zigarre>
+  <entitydescription.zigarre>Kann zu gesundheitlichen Problemen führen</entitydescription.zigarre>
+  <entityname.u797_box>Box</entityname.u797_box>
+  <entitydescription.u797_box>Eine Box für denn Transport radioaktiver Gegenstände</entitydescription.u797_box>
+  <entityname.u797_container1>Container</entityname.u797_container1>
+  <entitydescription.u797_container1>Ein großer runder Container</entitydescription.u797_container1>
+  <entityname.u797_container2>Container</entityname.u797_container2>
+  <entitydescription.u797_container2>Ein Container für denn Transport radioaktiver Gegenstände</entitydescription.u797_container2>
+  <entityname.u797_items_sponge>Schwamm</entityname.u797_items_sponge>
+  <entitydescription.u797_items_sponge>Entfernt selbst denn größten Schmutz</entitydescription.u797_items_sponge>
+  <entityname.u797_items_broom>Besen</entityname.u797_items_broom>
+  <entitydescription.u797_items_broom>Fällt nur seltent aufgrund der Position des Schwerpunktes innerhalb des Besenkopfes um</entitydescription.u797_items_broom>
+  <entityname.u797_items_cup>Tasse</entityname.u797_items_cup>
+  <entitydescription.u797_items_cup>Eine kleine Tasse die aus einem stabilen Material hergestellt wurde</entitydescription.u797_items_cup>
+  <entityname.u797_items_basket>Eimer</entityname.u797_items_basket>
+  <entitydescription.u797_items_basket>Ein Eimer der bei der Reinigung des Reaktors benutzt werden kann. Besitzt einen Griff für das leichtere tragen</entitydescription.u797_items_basket>
+  <entityname.u797_items_ball>Ball</entityname.u797_items_ball>
+  <entitydescription.u797_items_ball>Auf der Rückseite steht geschrieben: Achtung Unfallgefahr! Objekt kann sich aufgrund mangelnder Physikalischer Berechnung ungewöhnlich verhalten. Wir bitten um verständniss</entitydescription.u797_items_ball>
+  <entityname.u797_underwaterscooter>Unterwasserscooter</entityname.u797_underwaterscooter>
+  <entitydescription.u797_underwaterscooter>Kann zur schnelleren Bewegung Unterwasser benutzt werden</entitydescription.u797_underwaterscooter>
+  <entityname.u797_divingsuit>Taucheranzug</entityname.u797_divingsuit>
+  <entitydescription.u797_divingsuit>Ein Taucheranzug mit dem man denn Druck überleben kann</entitydescription.u797_divingsuit>
+  <entityname.u797_divingsuit_tatrkdt>Kommando Taucheranzug</entityname.u797_divingsuit_tatrkdt>
+  <entitydescription.u797_divingsuit_tatrkdt>Der Taucheranzug des Tauchtrupp Kommandanten. Etwas bequemer als der gewöhnliche Taucheranzug</entitydescription.u797_divingsuit_tatrkdt>
+  <!-- ID Karten Items-->
+  <!--Script generiert-->
+  <entityname.idcard_3wo>ID Karte (3. Wachoffizier)</entityname.idcard_3wo>
+  <entitydescription.idcard_3wo>Die ID Karte des 3. Wachoffiziers</entitydescription.idcard_3wo>
+  <entityname.idcard_sa>ID Karte (Schiffsarzt)</entityname.idcard_sa>
+  <entitydescription.idcard_sa>Die ID Karte des Schiffsarztes</entitydescription.idcard_sa>
+  <entityname.idcard_bbtsm>ID Karte (Brückenbootsmann)</entityname.idcard_bbtsm>
+  <entitydescription.idcard_bbtsm>Die ID Karte des Brückenbootsmannes</entitydescription.idcard_bbtsm>
+  <entityname.idcard_co>ID Karte (Kommandant)</entityname.idcard_co>
+  <entitydescription.idcard_co>Die ID Karte des Kommandanten</entitydescription.idcard_co>
+  <entityname.idcard_li>ID Karte (Leitender Ingenieur)</entityname.idcard_li>
+  <entitydescription.idcard_li>Die ID Karte des Leitenden Ingenieurs</entitydescription.idcard_li>
+  <entityname.idcard_lsa>ID Karte (Leitender Schiffsarzt)</entityname.idcard_lsa>
+  <entitydescription.idcard_lsa>Die ID Karte des Leitenden Schiffsarztes</entitydescription.idcard_lsa>
+  <entityname.idcard_mabe>ID Karte (Materialbewirtschaffungsmaat)</entityname.idcard_mabe>
+  <entitydescription.idcard_mabe>Die ID Karte des Materialbewirtschaffungsmaates</entitydescription.idcard_mabe>
+  <entityname.idcard_om>ID Karte (Obermachinisten)</entityname.idcard_om>
+  <entitydescription.idcard_om>Die ID Karte des Obermachinisten</entitydescription.idcard_om>
+  <entityname.idcard_san>ID Karte (Sanitäter)</entityname.idcard_san>
+  <entitydescription.idcard_san>Die ID Karte des Sanitäters</entitydescription.idcard_san>
+  <entityname.idcard_seemp>ID Karte (Seemännisches Personal)</entityname.idcard_seemp>
+  <entitydescription.idcard_seemp>Die ID Karte des Seemännischen Personals</entitydescription.idcard_seemp>
+  <entityname.idcard_techn>ID Karte (Technisches Personal)</entityname.idcard_techn>
+  <entitydescription.idcard_techn>Die ID Karte des Technischen Personals</entitydescription.idcard_techn>
+  <entityname.idcard_vo>ID Karte (Versorgungsoffizier)</entityname.idcard_vo>
+  <entitydescription.idcard_vo>Die ID Karte des Versorgungsoffiziers</entitydescription.idcard_vo>
+  <entityname.idcard_wache>ID Karte (Wache)</entityname.idcard_wache>
+  <entitydescription.idcard_wache>Die ID Karte der Wache</entitydescription.idcard_wache>
+  <entityname.idcard_waha>ID Karte (Wachhabender)</entityname.idcard_waha>
+  <entitydescription.idcard_waha>Die ID Karte des Wachhabenden</entitydescription.idcard_waha>
+  <entityname.idcard_wo>ID Karte (1./2. Wachoffizier)</entityname.idcard_wo>
+  <entitydescription.idcard_wo>Die ID Karte des 1./2. Wachoffiziers</entitydescription.idcard_wo>
+  <!-- ID Karten des Stationspersonals-->
+  <!--Script generiert-->
+  <entityname.idcard_stk>ID Karte (Stationskommandant)</entityname.idcard_stk>
+  <entitydescription.idcard_stk>Die ID Karte des Stationskommandanten</entitydescription.idcard_stk>
+  <entityname.idcard_stp>ID Karte (Stationspersonal)</entityname.idcard_stp>
+  <entitydescription.idcard_stp>Die ID Karte des Stationspersonals</entitydescription.idcard_stp>
+  <!-- Musik Daten Karten-->
+  <!--Script generiert-->
+  <entityname.u797_musicdisk_1>Musik Datenträger</entityname.u797_musicdisk_1>
+  <entitydescription.u797_musicdisk_1>Platzhalter Objekt</entitydescription.u797_musicdisk_1>
+  <entityname.u797_musicdisk_foolish>Musik Datenträger(FOOLISH)</entityname.u797_musicdisk_foolish>
+  <entitydescription.u797_musicdisk_foolish>FOOLISH von Trisha Ryan</entitydescription.u797_musicdisk_foolish>
+  <entityname.u797_musicdisk_intotheabyss>Musik Datenträger(INTO THE ABYSS)</entityname.u797_musicdisk_intotheabyss>
+  <entitydescription.u797_musicdisk_intotheabyss>INTO THE ABYSS von Trisha Ryan</entitydescription.u797_musicdisk_intotheabyss>
+  <entityname.u797_musicdisk_4>Musik Datenträger</entityname.u797_musicdisk_4>
+  <entitydescription.u797_musicdisk_4>Platzhalter Objekt</entitydescription.u797_musicdisk_4>
+  <entityname.u797_musicdisk_5>Musik Datenträger</entityname.u797_musicdisk_5>
+  <entitydescription.u797_musicdisk_5>Platzhalter Objekt</entitydescription.u797_musicdisk_5>
+
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Helme und Masken______________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--Script generiert-->
+  <entityname.kleidung_hüte_helme_u797wache>Wachen Helm</entityname.kleidung_hüte_helme_u797wache>
+  <entitydescription.kleidung_hüte_helme_u797wache>Schützt die Wache vor angriffen von Eindringlingen und sich weigernen Crew Mitgliedern</entitydescription.kleidung_hüte_helme_u797wache>
+  <entityname.kleidung_hüte_helme_u797sani>Sanitäter Helm</entityname.kleidung_hüte_helme_u797sani>
+  <entitydescription.kleidung_hüte_helme_u797sani>Schützt denn Sanitäter vor schlägen eines psychisch instabilen Patientens</entitydescription.kleidung_hüte_helme_u797sani>
+  <entityname.u797_divingmask>Tauchmaske</entityname.u797_divingmask>
+  <entitydescription.u797_divingmask>Klein genug, um am Körper getragen zu werden, bietet aber keinen Schutz vor dem Wasserdruck im Falle eines kompletten Hüllenbruchs</entitydescription.u797_divingmask>
+
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Machinen______________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--Script generiert-->
+  <entityname.u797_navterminal>Navigations Terminal</entityname.u797_navterminal>
+  <entitydescription.u797_navterminal>Das Navigations Terminal der U797 ist eine neuauflage der originalen veralteten Version und wird benutzt um das U-Boot horizontal sowie vertical zu steuern. Besitzt außerdem ein eingebautes Sonar zur frühzeitigen erkennung von feindlichen Kreaturen</entitydescription.u797_navterminal>
+  <entityname.u797_statusmonitor>Statusmonitor</entityname.u797_statusmonitor>
+  <entitydescription.u797_statusmonitor>Der Statusmonitor der U797 ist eine neuauflage der originalen veralteten Version und zeigt denn Wasserstand sowie denn Luftgehalt jedes Raumes im U-Boot. Der Statusmonitor ist auch in der lage die Position eines Hüllenbruchs zu lokalisieren </entitydescription.u797_statusmonitor>
+  <entityname.u797_periscope_c1>Periskop</entityname.u797_periscope_c1>
+  <entitydescription.u797_periscope_c1>Die Periskop für die Gaußkanone 1</entitydescription.u797_periscope_c1>
+  <entityname.u797_periscope_c2>Periskop</entityname.u797_periscope_c2>
+  <entitydescription.u797_periscope_c2>Die Periskop für die Gaußkanone 2</entitydescription.u797_periscope_c2>
+  <entityname.u797_periscope_c3>Periskop</entityname.u797_periscope_c3>
+  <entitydescription.u797_periscope_c3>Die Periskop für die Gaußkanone 3</entitydescription.u797_periscope_c3>
+  <entityname.u797_periscope_c4>Periskop</entityname.u797_periscope_c4>
+  <entitydescription.u797_periscope_c4>Die Periskop für die Gaußkanone 4</entitydescription.u797_periscope_c4>
+  <entityname.u797_periscope_c5>Periskop</entityname.u797_periscope_c5>
+  <entitydescription.u797_periscope_c5>Die Periskop für die Gaußkanone 5</entitydescription.u797_periscope_c5>
+  <entityname.u797_periscope_c6>Periskop</entityname.u797_periscope_c6>
+  <entitydescription.u797_periscope_c6>Die Periskop für die Gaußkanone 6</entitydescription.u797_periscope_c6>
+  <entityname.u797_periscope_r1>Periskop</entityname.u797_periscope_r1>
+  <entitydescription.u797_periscope_r1>Die Periskop für die Railkanone 1</entitydescription.u797_periscope_r1>
+  <entityname.u797_periscope_r2>Periskop</entityname.u797_periscope_r2>
+  <entitydescription.u797_periscope_r2>Die Periskop für die Railkanone 2</entitydescription.u797_periscope_r2>
+  <entityname.u797_periscope_r3>Periskop</entityname.u797_periscope_r3>
+  <entitydescription.u797_periscope_r3>Die Periskop für die Railkanone 3</entitydescription.u797_periscope_r3>
+  <entityname.u797_periscope_r4>Periskop</entityname.u797_periscope_r4>
+  <entitydescription.u797_periscope_r4>Die Periskop für die Railkanone 4</entitydescription.u797_periscope_r4>
+
+  <entityname.u797_button_orange>Knopf</entityname.u797_button_orange>
+  <entitydescription.u797_button_orange>Ein orangerner Knopf</entitydescription.u797_button_orange>
+  <entityname.u797_button_darkblue>Knopf</entityname.u797_button_darkblue>
+  <entitydescription.u797_button_darkblue>Ein dunkelblauer Knopf</entitydescription.u797_button_darkblue>
+  <entityname.u797_button_darkgreen>Knopf</entityname.u797_button_darkgreen>
+  <entitydescription.u797_button_darkgreen>Ein dunkelgrüner Knopf</entitydescription.u797_button_darkgreen>
+  <entityname.u797_button_darkred>Knopf</entityname.u797_button_darkred>
+  <entitydescription.u797_button_darkred>Ein dunkelroter Knopf</entitydescription.u797_button_darkred>
+  <entityname.u797_button_green>Knopf</entityname.u797_button_green>
+  <entitydescription.u797_button_green>Ein grüner Knopf</entitydescription.u797_button_green>
+  <entityname.u797_button_lightblue>Knopf</entityname.u797_button_lightblue>
+  <entitydescription.u797_button_lightblue>Ein hellblauer Knopf</entitydescription.u797_button_lightblue>
+  <entityname.u797_button_purple>Knopf</entityname.u797_button_purple>
+  <entitydescription.u797_button_purple>Ein violetter Knopf</entitydescription.u797_button_purple>
+  
+  <entityname.u797_doorbuzzer>Tür Buzzer</entityname.u797_doorbuzzer>
+  <entitydescription.u797_doorbuzzer>Ein Buzzer der beim öffnen einer hochsicherheits Tür kurzzeitig aktiviert wird</entitydescription.u797_doorbuzzer>
+  <entityname.u797_announcementbuzzer>Durchsagen Buzzer</entityname.u797_announcementbuzzer>
+  <entitydescription.u797_announcementbuzzer>Ein Buzzer der bei Durchsagen des Kapitäns aktiviert wird</entitydescription.u797_announcementbuzzer>
+  <entityname.u797_combatbuzzer>Gefechts Buzzer</entityname.u797_combatbuzzer>
+  <entitydescription.u797_combatbuzzer>Ein Buzzer der wärend eines Gefechts, auf dem U-Boot oder außerhalb, aktiviert wird</entitydescription.u797_combatbuzzer>
+  <entityname.u797_pipesirene>Pfeif Sirene</entityname.u797_pipesirene>
+  <entitydescription.u797_pipesirene>Eine Sirene die ertönt wenn sich die Crew des U-Bootes versammeln soll</entitydescription.u797_pipesirene>
+  
+  <entityname.u797_smallcabinet_blue>Kleiner Schrank</entityname.u797_smallcabinet_blue>
+  <entitydescription.u797_smallcabinet_blue>Kleiner blauer Schrank</entitydescription.u797_smallcabinet_blue>
+  <entityname.u797_smallcabinet_green>Kleiner Schrank</entityname.u797_smallcabinet_green>
+  <entitydescription.u797_smallcabinet_green>Kleiner grüner Schrank</entitydescription.u797_smallcabinet_green>
+  <entityname.u797_smallcabinet_yellow>Kleiner Schrank</entityname.u797_smallcabinet_yellow>
+  <entitydescription.u797_smallcabinet_yellow>Kleiner gelber Schrank</entitydescription.u797_smallcabinet_yellow>
+  <entityname.u797_smallcabinet_orange>Kleiner Schrank</entityname.u797_smallcabinet_orange>
+  <entitydescription.u797_smallcabinet_orange>Kleiner orangener Schrank</entitydescription.u797_smallcabinet_orange>
+  <entityname.u797_smallcabinet_red>Kleiner Schrank</entityname.u797_smallcabinet_red>
+  <entitydescription.u797_smallcabinet_red>Kleiner roter Schrank</entitydescription.u797_smallcabinet_red>
+  <entityname.u797_smallcabinet_purple>Kleiner Schrank</entityname.u797_smallcabinet_purple>
+  <entitydescription.u797_smallcabinet_purple>Kleiner violetter Schrank</entitydescription.u797_smallcabinet_purple>
+  <entityname.u797_bigcabinet_blue>Großer Schrank</entityname.u797_bigcabinet_blue>
+  <entitydescription.u797_bigcabinet_blue>Großer blauer Schrank</entitydescription.u797_bigcabinet_blue>
+  <entityname.u797_bigcabinet_green>Großer Schrank</entityname.u797_bigcabinet_green>
+  <entitydescription.u797_bigcabinet_green>Großer grüner Schrank</entitydescription.u797_bigcabinet_green>
+  <entityname.u797_bigcabinet_yellow>Großer Schrank</entityname.u797_bigcabinet_yellow>
+  <entitydescription.u797_bigcabinet_yellow>Großer gelber Schrank</entitydescription.u797_bigcabinet_yellow>
+  <entityname.u797_bigcabinet_orange>Großer Schrank</entityname.u797_bigcabinet_orange>
+  <entitydescription.u797_bigcabinet_orange>Großer orangener Schrank</entitydescription.u797_bigcabinet_orange>
+  <entityname.u797_bigcabinet_red>Großer Schrank</entityname.u797_bigcabinet_red>
+  <entitydescription.u797_bigcabinet_red>Großer roter Schrank</entitydescription.u797_bigcabinet_red>
+  <entityname.u797_bigcabinet_purple>Großer Schrank</entityname.u797_bigcabinet_purple>
+  <entitydescription.u797_bigcabinet_purple>Großer violetter Schrank</entitydescription.u797_bigcabinet_purple>
+  <entityname.u797_windowedbigcabinet_blue>Großer Schrank mit Fenster</entityname.u797_windowedbigcabinet_blue>
+  <entitydescription.u797_windowedbigcabinet_blue>Großer blauer Schrank mit Fenster</entitydescription.u797_windowedbigcabinet_blue>
+  <entityname.u797_windowedbigcabinet_green>Großer Schrank mit Fenster</entityname.u797_windowedbigcabinet_green>
+  <entitydescription.u797_windowedbigcabinet_green>Großer grüner Schrank mit Fenster</entitydescription.u797_windowedbigcabinet_green>
+  <entityname.u797_windowedbigcabinet_yellow>Großer Schrank mit Fenster</entityname.u797_windowedbigcabinet_yellow>
+  <entitydescription.u797_windowedbigcabinet_yellow>Großer gelber Schrank mit Fenster</entitydescription.u797_windowedbigcabinet_yellow>
+  <entityname.u797_windowedbigcabinet_orange>Großer Schrank mit Fenster</entityname.u797_windowedbigcabinet_orange>
+  <entitydescription.u797_windowedbigcabinet_orange>Großer orangener Schrank mit Fenster</entitydescription.u797_windowedbigcabinet_orange>
+  <entityname.u797_windowedbigcabinet_red>Großer Schrank mit Fenster</entityname.u797_windowedbigcabinet_red>
+  <entitydescription.u797_windowedbigcabinet_red>Großer roter Schrank mit Fenster</entitydescription.u797_windowedbigcabinet_red>
+  <entityname.u797_windowedbigcabinet_purple>Großer Schrank mit Fenster</entityname.u797_windowedbigcabinet_purple>
+  <entitydescription.u797_windowedbigcabinet_purple>Großer violetter Schrank mit Fenster</entitydescription.u797_windowedbigcabinet_purple>
+  <entityname.u797_safe_red>Roter Sicherheitsschrank</entityname.u797_safe_red>
+  <entitydescription.u797_safe_red>Ein Roter Sicherheitsschrank dir nur mit passender ID Karte geöffnet werden kann</entitydescription.u797_safe_red>
+  
+  <entityname.Jukebox>Jukebox</entityname.Jukebox>
+  <entitydescription.Jukebox>Ein Jukebox die mithilfe von Musik Datenträgern Musik abspielen kann</entitydescription.Jukebox>
+
+  <entityname.u797_divingsuitlocker2>Großer Taucheranzugschrank</entityname.u797_divingsuitlocker2>
+  <entitydescription.u797_divingsuitlocker2>Hier kann man mehrere Taucheranzüge bequem lagern.</entitydescription.u797_divingsuitlocker2>
+
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Version 3.1___________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <entityname.label_u797>U797 Emblem</entityname.label_u797>
+  <entitydescription.label_u797>Das Emblem der U797</entitydescription.label_u797>
+
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Version ???___________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  
+  
+  
+  
+  <!--<entityname.></entityname.>
+  <entitydescription.></entitydescription.>-->  
+  
+  
+</infotexts>

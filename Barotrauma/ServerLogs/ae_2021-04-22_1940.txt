@@ -1,0 +1,690 @@
+﻿[4/22/2021 7:22:28 PM]
+  Starting the server...
+[4/22/2021 7:22:28 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[4/22/2021 7:22:35 PM]
+  Server started
+[4/22/2021 7:22:54 PM]
+  tomacatx1 has joined the server.
+[4/22/2021 7:22:54 PM]
+  Saving client permissions
+[4/22/2021 7:23:05 PM]
+  Gamemode changed to Mission
+[4/22/2021 7:23:38 PM]
+  tomacatx1 is ready to start the game.
+[4/22/2021 7:23:39 PM]
+  Client "tomacatx1" started the round.
+[4/22/2021 7:23:39 PM]
+  Starting a new round...
+[4/22/2021 7:23:42 PM]
+  Will Beltran equipped Screwdriver
+[4/22/2021 7:23:43 PM]
+  Bryce Reynolds equipped Crowbar
+[4/22/2021 7:23:43 PM]
+  Barbra Hinton equipped Crowbar
+[4/22/2021 7:23:43 PM]
+  Mission: Outpost recovery
+[4/22/2021 7:23:43 PM]
+  Contact with Libya Linea Mine was recently lost, and it's suspected to have been taken over by someone. Destroy the outpost's reactor to drive away any squatters and ensure they don't return.
+[4/22/2021 7:23:43 PM]
+  Game mode: Mission
+[4/22/2021 7:23:43 PM]
+  Submarine: Humpback v2.54 re-5
+[4/22/2021 7:23:43 PM]
+  Level seed: KMWhnJOh
+[4/22/2021 7:23:43 PM]
+  Mission: Outpost recovery
+[4/22/2021 7:23:43 PM]
+  Round started.
+[4/22/2021 7:23:44 PM]
+  Will Beltran unequipped Screwdriver
+[4/22/2021 7:23:44 PM]
+  Barbra Hinton unequipped Crowbar
+[4/22/2021 7:23:44 PM]
+  Bryce Reynolds unequipped Crowbar
+[4/22/2021 7:23:48 PM]
+  Rene Ashley: Can't wait to get back home and pop a bottle of Ol' Cadmus.
+[4/22/2021 7:23:53 PM]
+  Barbra Hinton: This ain't no time to think about home. We've got a long way ahead of us.
+[4/22/2021 7:24:03 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[4/22/2021 7:24:30 PM]
+  tomacatx1 picked up .357 Revolver
+[4/22/2021 7:24:30 PM]
+  tomacatx1 picked up .357 Revolver Round
+[4/22/2021 7:24:30 PM]
+  tomacatx1 picked up .357 Revolver Round
+[4/22/2021 7:24:30 PM]
+  tomacatx1 picked up .357 Revolver Round
+[4/22/2021 7:24:30 PM]
+  tomacatx1 picked up .357 Revolver Round
+[4/22/2021 7:24:30 PM]
+  tomacatx1 picked up .357 Revolver Round
+[4/22/2021 7:24:30 PM]
+  tomacatx1 picked up .357 Revolver Round
+[4/22/2021 7:24:31 PM]
+  tomacatx1 placed Captain's Pipe in Secure Steel Cabinet (ID: 274)
+[4/22/2021 7:24:57 PM]
+  Console command "spawnitem "Tactical Backpack" inventory" executed by tomacatx1.
+[4/22/2021 7:25:08 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[4/22/2021 7:25:09 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[4/22/2021 7:25:18 PM]
+  tomacatx1 placed Anabolic Steroids in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:18 PM]
+  tomacatx1 placed Anabolic Steroids in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:18 PM]
+  tomacatx1 placed Anabolic Steroids in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:18 PM]
+  tomacatx1 placed Anabolic Steroids in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:18 PM]
+  tomacatx1 placed Anabolic Steroids in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:21 PM]
+  tomacatx1 placed Plastiseal in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:21 PM]
+  tomacatx1 placed Plastiseal in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:21 PM]
+  tomacatx1 placed Plastiseal in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:21 PM]
+  tomacatx1 placed Plastiseal in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:21 PM]
+  tomacatx1 placed Plastiseal in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:21 PM]
+  tomacatx1 placed Plastiseal in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:22 PM]
+  tomacatx1 placed Blood Pack in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:22 PM]
+  tomacatx1 placed Blood Pack in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:22 PM]
+  tomacatx1 placed Blood Pack in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:23 PM]
+  tomacatx1 placed Morphine in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:23 PM]
+  tomacatx1 placed Morphine in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:23 PM]
+  tomacatx1 placed Morphine in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:23 PM]
+  tomacatx1 placed Morphine in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:23 PM]
+  tomacatx1 placed Morphine in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:27 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:28 PM]
+  tomacatx1 placed Blood Pack in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:28 PM]
+  tomacatx1 placed Blood Pack in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:35 PM]
+  tomacatx1 placed Veteran's Cap in Material Storage Locker (ID: 198)
+[4/22/2021 7:25:35 PM]
+  tomacatx1 removed Ballistic Helmet from Material Storage Locker (ID: 198)
+[4/22/2021 7:25:35 PM]
+  tomacatx1 picked up Ballistic Helmet
+[4/22/2021 7:25:36 PM]
+  tomacatx1 picked up Body Armor
+[4/22/2021 7:25:40 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:41 PM]
+  tomacatx1 placed Blood Pack in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:50 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:50 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:50 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:50 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 3754)
+[4/22/2021 7:25:52 PM]
+  tomacatx1 placed Blood Pack in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:00 PM]
+  tomacatx1 picked up Welding Tool
+[4/22/2021 7:26:01 PM]
+  tomacatx1 picked up Diving Mask
+[4/22/2021 7:26:10 PM]
+  tomacatx1 placed .357 Revolver Round in Material Storage Locker (ID: 198)
+[4/22/2021 7:26:10 PM]
+  tomacatx1 placed .357 Revolver Round in Material Storage Locker (ID: 198)
+[4/22/2021 7:26:10 PM]
+  tomacatx1 placed .357 Revolver Round in Material Storage Locker (ID: 198)
+[4/22/2021 7:26:10 PM]
+  tomacatx1 placed .357 Revolver Round in Material Storage Locker (ID: 198)
+[4/22/2021 7:26:10 PM]
+  tomacatx1 placed .357 Revolver Round in Material Storage Locker (ID: 198)
+[4/22/2021 7:26:10 PM]
+  tomacatx1 placed .357 Revolver Round in Material Storage Locker (ID: 198)
+[4/22/2021 7:26:10 PM]
+  tomacatx1 removed Riot Shotgun from Material Storage Locker (ID: 198)
+[4/22/2021 7:26:10 PM]
+  tomacatx1 picked up Riot Shotgun
+[4/22/2021 7:26:12 PM]
+  tomacatx1 placed .357 Revolver Round in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:12 PM]
+  tomacatx1 placed .357 Revolver Round in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:12 PM]
+  tomacatx1 placed .357 Revolver Round in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:12 PM]
+  tomacatx1 placed .357 Revolver Round in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:12 PM]
+  tomacatx1 placed .357 Revolver Round in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:12 PM]
+  tomacatx1 placed .357 Revolver Round in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:13 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:13 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:13 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:13 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:13 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:13 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:15 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:15 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:15 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:15 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:15 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:15 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:16 PM]
+  tomacatx1 picked up Handgun
+[4/22/2021 7:26:18 PM]
+  tomacatx1 picked up Hatchet
+[4/22/2021 7:26:19 PM]
+  tomacatx1 placed 9mm Magazine in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:19 PM]
+  tomacatx1 placed 9mm Magazine in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:19 PM]
+  tomacatx1 placed 9mm Magazine in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:20 PM]
+  tomacatx1 picked up IC-4 Block
+[4/22/2021 7:26:20 PM]
+  tomacatx1 picked up C-4 Block
+[4/22/2021 7:26:20 PM]
+  tomacatx1 picked up C-4 Block
+[4/22/2021 7:26:20 PM]
+  tomacatx1 picked up C-4 Block
+[4/22/2021 7:26:20 PM]
+  tomacatx1 picked up C-4 Block
+[4/22/2021 7:26:20 PM]
+  tomacatx1 picked up C-4 Block
+[4/22/2021 7:26:24 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 518)
+[4/22/2021 7:26:26 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 523)
+[4/22/2021 7:26:27 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 522)
+[4/22/2021 7:26:28 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 521)
+[4/22/2021 7:26:29 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 520)
+[4/22/2021 7:26:32 PM]
+  tomacatx1 placed IC-4 Block in Depth Decoy Shell (ID: 768)
+[4/22/2021 7:26:55 PM]
+  Console command "spawnitem "Satchel Charge (C-4)" inventory" executed by tomacatx1.
+[4/22/2021 7:26:56 PM]
+  Console command "spawnitem "Satchel Charge (C-4)" inventory" executed by tomacatx1.
+[4/22/2021 7:26:58 PM]
+  tomacatx1 placed Satchel Charge (C-4) in Tactical Backpack (ID: 3754)
+[4/22/2021 7:26:58 PM]
+  tomacatx1 placed Satchel Charge (C-4) in Tactical Backpack (ID: 3754)
+[4/22/2021 7:27:05 PM]
+  tomacatx1 placed Crowbar in Tactical Backpack (ID: 3754)
+[4/22/2021 7:27:07 PM]
+  tomacatx1 placed Screwdriver in Tactical Backpack (ID: 3754)
+[4/22/2021 7:27:08 PM]
+  tomacatx1 placed Wrench in Tactical Backpack (ID: 3754)
+[4/22/2021 7:28:18 PM]
+  tomacatx1 opened Custom Hatch
+[4/22/2021 7:28:21 PM]
+  Jess Suarez equipped Diving Knife
+[4/22/2021 7:28:24 PM]
+  tomacatx1 equipped Riot Shotgun
+[4/22/2021 7:28:25 PM]
+  Jess Suarez used Diving Knife on tomacatx1.
+[4/22/2021 7:28:37 PM]
+  tomacatx1 used item Bandage
+[4/22/2021 7:28:40 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:40 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:40 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:40 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:40 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:40 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:40 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:43 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:43 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:43 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:43 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:43 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:43 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:43 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:28:43 PM]
+  Jess Suarez attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:29:02 PM]
+  Jess Suarez has died (Cause of death: Gunshot wound)
+[4/22/2021 7:29:09 PM]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 971)
+[4/22/2021 7:29:09 PM]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 971)
+[4/22/2021 7:29:09 PM]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 971)
+[4/22/2021 7:29:39 PM]
+  Console command "spawnitem "Tactical Shotgun (Flashlight)" inventory" executed by tomacatx1.
+[4/22/2021 7:29:43 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:29:43 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:29:43 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:29:43 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:29:43 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:29:46 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:29:47 PM]
+  tomacatx1 dropped Riot Shotgun
+[4/22/2021 7:29:49 PM]
+  tomacatx1 equipped Handgun
+[4/22/2021 7:29:50 PM]
+  tomacatx1 equipped Hatchet
+[4/22/2021 7:29:50 PM]
+  tomacatx1 equipped Tactical Shotgun (Flashlight)
+[4/22/2021 7:30:10 PM]
+  Bryce Reynolds equipped Diving Knife
+[4/22/2021 7:30:11 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:11 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:11 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:11 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:11 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:11 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:11 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:11 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:16 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:16 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:16 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:16 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:16 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:16 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:16 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:16 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:18 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:18 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:18 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:18 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:18 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:18 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:18 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:18 PM]
+  Bryce Reynolds attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:30:21 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:30:21 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:30:21 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:30:21 PM]
+  tomacatx1 placed 12-Gauge Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:30:24 PM]
+  Bryce Reynolds has died (Cause of death: Gunshot wound)
+[4/22/2021 7:30:28 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:28 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:29 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:29 PM]
+  Console command "spawnitem "Tactical Shotgun (Flashlight)" inventory" executed by tomacatx1.
+[4/22/2021 7:30:29 PM]
+  Console command "spawnitem "Tactical Shotgun (Flashlight)" inventory" executed by tomacatx1.
+[4/22/2021 7:30:29 PM]
+  Console command "spawnitem "Tactical Shotgun (Flashlight)" inventory" executed by tomacatx1.
+[4/22/2021 7:30:29 PM]
+  tomacatx1 unequipped Tactical Shotgun (Flashlight)
+[4/22/2021 7:30:29 PM]
+  tomacatx1 equipped Tactical Shotgun (Flashlight)
+[4/22/2021 7:30:31 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:32 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:32 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:32 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:32 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:33 PM]
+  Console command "spawnitem "Shotgun Shell" inventory" executed by tomacatx1.
+[4/22/2021 7:30:36 PM]
+  tomacatx1 dropped Tactical Shotgun (Flashlight)
+[4/22/2021 7:30:37 PM]
+  tomacatx1 dropped Tactical Shotgun (Flashlight)
+[4/22/2021 7:30:38 PM]
+  tomacatx1 dropped Tactical Shotgun (Flashlight)
+[4/22/2021 7:30:39 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:30:39 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:30:39 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:30:39 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:30:39 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:30:39 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:30:39 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:30:39 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Backpack (ID: 3754)
+[4/22/2021 7:30:53 PM]
+  tomacatx1 equipped Tactical Shotgun (Flashlight)
+[4/22/2021 7:30:57 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:31:40 PM]
+  Will Beltran equipped Diving Knife
+[4/22/2021 7:31:41 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:41 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:41 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:41 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:41 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:41 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:41 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:41 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:43 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:43 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:43 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:43 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:43 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:43 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:43 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:43 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:46 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:46 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:46 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:46 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:46 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:46 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:46 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:46 PM]
+  Will Beltran attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.05
+[4/22/2021 7:31:50 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:31:50 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:31:50 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:31:50 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:32:05 PM]
+  Will Beltran has died (Cause of death: Blood loss)
+[4/22/2021 7:32:17 PM]
+  tomacatx1 opened Custom Windowed Door
+[4/22/2021 7:32:17 PM]
+  tomacatx1 opened Custom Windowed Door
+[4/22/2021 7:32:24 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:24 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:24 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:24 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:24 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:24 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:24 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:24 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:24 PM]
+  Rene Ashley equipped Revolver
+[4/22/2021 7:32:25 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:25 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:25 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:25 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:25 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:25 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:25 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:25 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:27 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:27 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:27 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:27 PM]
+  Barbra Hinton equipped Diving Knife
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton has died (Cause of death: Gunshot wound)
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:28 PM]
+  Barbra Hinton attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:31 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:31 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:31 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:31 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:31 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:31 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:31 PM]
+  Rene Ashley attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[4/22/2021 7:32:34 PM]
+  Rene Ashley has died (Cause of death: Gunshot wound)
+[4/22/2021 7:32:36 PM]
+  tomacatx1 used item Plastiseal
+[4/22/2021 7:32:45 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:32:45 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:32:45 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:32:45 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:32:45 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:33:19 PM]
+  tomacatx1 picked up ID Card
+[4/22/2021 7:33:31 PM]
+  Keith Robertson: Ever seen one of those things that guard the ruins?
+[4/22/2021 7:36:17 PM]
+  Keith Robertson equipped Riot Shotgun
+[4/22/2021 7:36:21 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 25 Gunshot wound: 10
+[4/22/2021 7:36:22 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 25 Gunshot wound: 10
+[4/22/2021 7:36:26 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 25 Gunshot wound: 10
+[4/22/2021 7:36:27 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 25 Gunshot wound: 10
+[4/22/2021 7:36:28 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 25 Gunshot wound: 10
+[4/22/2021 7:36:29 PM]
+  tomacatx1 equipped .357 Revolver
+[4/22/2021 7:36:30 PM]
+  Keith Robertson unequipped Riot Shotgun
+[4/22/2021 7:36:30 PM]
+  Keith Robertson equipped Diving Knife
+[4/22/2021 7:36:32 PM]
+  tomacatx1 equipped Revolver
+[4/22/2021 7:36:32 PM]
+  Keith Robertson unequipped Diving Knife
+[4/22/2021 7:36:32 PM]
+  Keith Robertson equipped Riot Shotgun
+[4/22/2021 7:36:33 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 2 Gunshot wound: 2.5 Stun: 0.3
+[4/22/2021 7:36:33 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[4/22/2021 7:36:34 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[4/22/2021 7:36:34 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[4/22/2021 7:36:35 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[4/22/2021 7:36:35 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[4/22/2021 7:36:35 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[4/22/2021 7:36:36 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[4/22/2021 7:36:36 PM]
+  Keith Robertson attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[4/22/2021 7:36:50 PM]
+  Keith Robertson has died (Cause of death: Blood loss)
+[4/22/2021 7:36:53 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:36:53 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:36:53 PM]
+  tomacatx1 placed Shotgun Shell in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:36:55 PM]
+  tomacatx1 placed Shotgun Slug in Tactical Shotgun (Flashlight) (ID: 454)
+[4/22/2021 7:36:56 PM]
+  tomacatx1 placed Revolver in Tactical Backpack (ID: 3754)
+[4/22/2021 7:36:59 PM]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 1026)
+[4/22/2021 7:36:59 PM]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 1026)
+[4/22/2021 7:36:59 PM]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 1026)
+[4/22/2021 7:36:59 PM]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 1026)
+[4/22/2021 7:36:59 PM]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 1026)
+[4/22/2021 7:36:59 PM]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 1026)
+[4/22/2021 7:37:02 PM]
+  tomacatx1 used item Plastiseal
+[4/22/2021 7:37:05 PM]
+  tomacatx1 used item Morphine
+[4/22/2021 7:37:07 PM]
+  tomacatx1 used item Bandage
+[4/22/2021 7:37:09 PM]
+  tomacatx1 used item Bandage
+[4/22/2021 7:37:11 PM]
+  tomacatx1 used item Blood Pack
+[4/22/2021 7:37:15 PM]
+  tomacatx1 picked up Satchel Charge (C-4)
+[4/22/2021 7:37:15 PM]
+  tomacatx1 picked up Satchel Charge (C-4)
+[4/22/2021 7:37:46 PM]
+  tomacatx1 equipped Satchel Charge (C-4)
+[4/22/2021 7:37:52 PM]
+  tomacatx1 attached Satchel Charge (C-4) to a wall
+[4/22/2021 7:37:53 PM]
+  tomacatx1 equipped Satchel Charge (C-4)
+[4/22/2021 7:37:56 PM]
+  tomacatx1 attached Satchel Charge (C-4) to a wall
+[4/22/2021 7:38:36 PM]
+  tomacatx1 placed ID Card in Tactical Backpack (ID: 3754)
+[4/22/2021 7:39:16 PM]
+  tomacatx1 equipped Welding Tool
+[4/22/2021 7:39:21 PM]
+  Outer wall repaired by tomacatx1
+[4/22/2021 7:39:33 PM]
+  Inner wall repaired by tomacatx1
+[4/22/2021 7:39:40 PM]
+  Outer wall repaired by tomacatx1
+[4/22/2021 7:39:44 PM]
+  Outer wall repaired by tomacatx1
+[4/22/2021 7:39:45 PM]
+  Outer wall repaired by tomacatx1
+[4/22/2021 7:39:46 PM]
+  Outer wall repaired by tomacatx1
+[4/22/2021 7:40:22 PM]
+  Inner wall repaired by tomacatx1
+[4/22/2021 7:40:34 PM]
+  Ending the round...

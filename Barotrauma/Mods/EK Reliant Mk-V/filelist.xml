@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EK Reliant Mk-V" path="Mods/EK Reliant Mk-V/filelist.xml" corepackage="false" gameversion="0.1300.2.11" steamworkshopid="2183428397" installtime="1619590303">
+  <Submarine file="Mods/EK Reliant Mk-V/EK_Reliant_Mk-VI.sub" />
+</contentpackage>

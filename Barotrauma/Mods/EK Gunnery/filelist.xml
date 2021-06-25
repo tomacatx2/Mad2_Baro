@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EK Gunnery" path="Mods/EK Gunnery/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2390126010" installtime="1623945254">
+  <Particles file="Mods/EK Gunnery/Particles/ParticlePrefabs.xml" />
+  <Afflictions file="Mods/EK Gunnery/Afflictions.xml" />
+  <Item file="Mods/EK Gunnery/Items/Weapons/ekgunnery_loaders_legacy.xml" />
+  <Item file="Mods/EK Gunnery/Items/Weapons/ekgunnery_turrets_legacy.xml" />
+  <Item file="Mods/EK Gunnery/Items/Weapons/ekgunnery_loaders.xml" />
+  <Item file="Mods/EK Gunnery/Items/Weapons/ekgunnery_turrets.xml" />
+  <Item file="Mods/EK Gunnery/Items/Weapons/ekgunnery_heavyturrets.xml" />
+  <Item file="Mods/EK Gunnery/Items/Weapons/ekgunnery_spinalweapons.xml" />
+  <Item file="Mods/EK Gunnery/Items/Weapons/ekgunnery_ammunition.xml" />
+  <Item file="Mods/EK Gunnery/Items/Containers/ekgunnery_containers.xml" />
+  <Item file="Mods/EK Gunnery/Items/Weapons/ekgunnery_melee.xml" />
+</contentpackage>

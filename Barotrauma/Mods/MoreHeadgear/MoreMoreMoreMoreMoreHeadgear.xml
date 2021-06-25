@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Old Diving Helmet" identifier="divinghelmetold" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="200" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="3" sold="false"/>
+      <Price locationtype="city" multiplier="2" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false" />
+      <Price locationtype="mine" multiplier="2" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Old Diving Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="0,390,99,122" origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreMoreHeadgear.png" sourcerect="0,390,99,122" />
+    <Deconstruct time="10">
+      <Item identifier="copper" />
+      <Item identifier="copper" />
+      <Item identifier="tin" />
+    </Deconstruct>
+    <Wearable limbtype="Head" armorvalue="30" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations" armorsector="0.0,360.0" damagemultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.2" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <sprite name="Old Diving Helmet Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="false" hidewearablesoftype="item, hair" inherittexturescale="true" sourcerect="0,390,99,122" origin="0.60,0.35" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" ObstructVision="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  </Items>

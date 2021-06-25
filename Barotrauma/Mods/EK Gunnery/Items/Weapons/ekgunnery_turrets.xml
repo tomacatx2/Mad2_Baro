@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Items>
+
+  <!-- Turret Weapons -->
+
+  <Item name="Light Chaingun" identifier="ekgunnery_newchaingunturret" Tags="ekgunnery_chaingun,turret" category="Machine"
+        description="Conventional weapons system with a high rate of fire utilizing self-propelled cartridges. Effective against small, fast targets."
+		linkable="true" allowedlinks="ekgunnery_chaingunammosource" interactthroughwalls="true" Scale="0.5" interactdistance="10" spritecolor="255,255,255" focusonselected="true" offsetonselected="800" >
+    <Sprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_chaingun.png" depth="0.01" sourcerect="0,0,224,176" origin="0.5, 0.31" canflipy="false" />
+    <MinimapIcon name="Command_Weapons_EkGunnery_LightChaingun" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="0,0,128,128" />
+    <SwappableItem price="2500" replacementonuninstall="turrethardpoint" origin="112,198" swapidentifier="basicturret">
+      <SchematicSprite texture="Mods/EK Gunnery/UI/ekgunnery_turretschematics1.png" sourcerect="0,0,256,389" />
+      <SwapConnectedItem tag="periscope" swapto="periscope" />
+      <SwapConnectedItem tag="turretammosource" swapto="ekgunnery_newchaingunloader" />
+    </SwappableItem>
+    <UpgradePreviewSprite scale="3.0" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="0,136,112,72" origin="0.5,0.5" />
+    <StaticBody width="80" radius="80" />
+    <Turret canbeselected="false" characterusable="false" linkable="true" barrelpos="112,88" rotationlimits="180,360" powerconsumption="100.0" showchargeindicator="true" showprojectileindicator="true" 
+	recoildistance="20" reload="0.09" springstiffnesslowskill="4" springstiffnesshighskill="50" springdampinglowskill="1" springdampinghighskill="10" rotationspeedlowskill="2" rotationspeedhighskill="8"
+	firingoffset="0,-260" usefiringoffsetformuzzleflash="false" >
+      <sound file="Mods/EK Gunnery/Items/Weapons/new_chaingun_fire1.ogg" range="6500" type="OnUse" volume="0.9" selectionmode="Random" />
+      <sound file="Mods/EK Gunnery/Items/Weapons/new_chaingun_fire2.ogg" range="6500" type="OnUse" volume="0.9" />
+      <sound file="Mods/EK Gunnery/Items/Weapons/new_chaingun_fire3.ogg" range="6500" type="OnUse" volume="0.9" />
+      <RailSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_chaingun.png" depth="0.011" sourcerect="96,176,80,224" origin="0.5, 0.61" />
+      <BarrelSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_chaingun.png" depth="0.012" sourcerect="0,176,96,224" origin="0.5, 1.18" />
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,0,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,0,256,256" />
+      <MoveSound file="Content/Items/Weapons/RailgunLoop.ogg" />
+      <StartMoveSound file="Content/Items/Weapons/RailgunStart.ogg" />
+      <EndMoveSound file="Content/Items/Weapons/RailgunStop.ogg" />
+      <RequiredSkill identifier="weapons" level="50" />
+      <!--<LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="2048" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_gigantic.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>-->
+      <LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="1536" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_thin.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>
+      <ParticleEmitter particle="ekgunnerychaingunflame" particleamount="1" velocitymin="50" velocitymax="100" scalemin="1" scalemax="1" />
+      <ParticleEmitter particle="ekgunnerychaingunbreak" particleamount="1" velocitymin="50" velocitymax="100" scalemin="1" scalemax="1" />
+      <ParticleEmitter particle="ekgunnerychaingunbubbles" particleamount="2" velocitymin="50" velocitymax="150" scalemin="0.3" scalemax="0.6" />
+      <!--<ParticleEmitter particle="ekgunneryfaketraceryellow" particleamount="1" anglemin="-3.5" anglemax="3.5" velocitymin="65000" velocitymax="65000" scalemin="1" scalemax="1" />-->
+      <StatusEffect type="OnUse" target="This">
+        <Explosion range="500.0" structuredamage="0" force="0.01" camerashake="3.0" shockwave="false" smoke="false" flames="false" flash="true" sparks="false" underwaterbubble="false" />
+      </StatusEffect>
+    </Turret>
+    <aitarget maxsightrange="3000" maxsoundrange="8000" fadeouttime="5" />
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="position_in" displayname="connection.turretaimingin" />
+      <input name="trigger_in" displayname="connection.turrettriggerin" />
+      <input name="toggle_light" displayname="connection.togglelight"/>
+      <input name="set_light" displayname="connection.setlight" />
+    </ConnectionPanel>
+  </Item>
+
+  <Item name="Light Rotary Chaingun" identifier="ekgunnery_newminigunturret" Tags="ekgunnery_chaingun,turret" category="Machine" 
+        description="Conventional weapons system with a very high rate of fire utilizing self-propelled cartridges. Has a short windup period."
+		linkable="true" allowedlinks="ekgunnery_chaingunammosource" interactthroughwalls="true" Scale="0.5" interactdistance="10" spritecolor="255,255,255,255" focusonselected="true" offsetonselected="800" >
+    <Sprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_minigun.png" depth="0.01" sourcerect="0,0,224,176" origin="0.5, 0.31" canflipy="false" />
+    <MinimapIcon name="Command_Weapons_EkGunnery_LightChaingunMinigun" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="128,0,128,128" />
+    <SwappableItem price="5000" replacementonuninstall="turrethardpoint" origin="112,198" swapidentifier="basicturret">
+      <SchematicSprite texture="Mods/EK Gunnery/UI/ekgunnery_turretschematics1.png" sourcerect="256,0,256,389" />
+      <SwapConnectedItem tag="periscope" swapto="periscope" />
+      <SwapConnectedItem tag="turretammosource" swapto="ekgunnery_newchaingunloader_double" />
+    </SwappableItem>
+    <UpgradePreviewSprite scale="3.0" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="128,136,112,72" origin="0.5,0.5" />
+    <StaticBody width="80" radius="80" />
+    <Turret canbeselected="false" characterusable="false" linkable="true" barrelpos="112,88" rotationlimits="180,360" powerconsumption="100.0" showchargeindicator="true" showprojectileindicator="true" 
+	recoildistance="5" reload="0.054" springstiffnesslowskill="4" springstiffnesshighskill="50" springdampinglowskill="1" springdampinghighskill="10" rotationspeedlowskill="2" rotationspeedhighskill="8" 
+	firingoffset="0,-290" usefiringoffsetformuzzleflash="false" spinningbarreldistance="28.0" firingrotationspeedmodifier="0.65" maxchargetime="1" >
+      <sound file="Mods/EK Gunnery/Items/Weapons/new_minigun_fire1.ogg" range="8000" type="OnUse" volume="1" selectionmode="Random" />
+      <sound file="Mods/EK Gunnery/Items/Weapons/new_minigun_fire2.ogg" range="8000" type="OnUse" volume="1"/>
+      <sound file="Mods/EK Gunnery/Items/Weapons/new_minigun_fire3.ogg" range="8000" type="OnUse" volume="1"/>
+      <sound file="Mods/EK Gunnery/Items/Weapons/new_minigun_fire4.ogg" range="8000" type="OnUse" volume="1"/>
+      <ChargeSound file="Mods/EK Gunnery/Items/Weapons/new_minigun_spin.ogg" />
+      <RailSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_minigun.png" depth="0.011" sourcerect="64,176,128,208" origin="0.5, 0.55" />
+      <BarrelSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_minigun.png" depth="0.012" sourcerect="0,176,64,200" origin="0.5, 1.48" />
+      <SpinningBarrelSprite spriteamount="5" texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_new_minigun.png" depth="0.016" sourcerect="192,176,24,192" origin="-0.13, 1.55" />
+
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,0,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,0,256,256" />
+      <MoveSound file="Content/Items/Weapons/RailgunLoop.ogg" />
+      <StartMoveSound file="Content/Items/Weapons/RailgunStart.ogg" />
+      <EndMoveSound file="Content/Items/Weapons/RailgunStop.ogg" />
+      <RequiredSkill identifier="weapons" level="50" />
+      <!--<LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="2048" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_gigantic.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>-->
+      <LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="2048" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_thin.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>
+      <ParticleEmitter particle="ekgunneryminigunflame" particleamount="1" velocitymin="50" velocitymax="100" scalemin="1" scalemax="1" />
+      <ParticleEmitter particle="ekgunneryminigunbubbles" particleamount="1" velocitymin="50" velocitymax="150" scalemin="0.4" scalemax="0.7" />
+      <!--<ParticleEmitter particle="ekgunneryfaketracerred" particleamount="1" anglemin="-3.5" anglemax="3.5" velocitymin="65000" velocitymax="65000" scalemin="1" scalemax="1" />-->
+      <StatusEffect type="OnUse" target="This">
+        <Explosion range="500.0" structuredamage="0" force="0.01" camerashake="3.0" shockwave="false" smoke="false" flames="false" flash="true" sparks="false" underwaterbubble="false" />
+      </StatusEffect>
+    </Turret>
+    <aitarget maxsightrange="3000" maxsoundrange="8000" fadeouttime="5" />
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="position_in" displayname="connection.turretaimingin" />
+      <input name="trigger_in" displayname="connection.turrettriggerin" />
+      <input name="toggle_light" displayname="connection.togglelight"/>
+      <input name="set_light" displayname="connection.setlight" />
+    </ConnectionPanel>
+  </Item>
+
+  <Item name="Micro SSL Turret" identifier="ekgunnery_newmicrossl" Tags="ekgunnery_microssl,turret" category="Machine" 
+        description="Experimental weapons-system with extremely high rate of fire. Very effective against soft targets in short bursts. Fires 20mm supercavitating rounds."
+		linkable="true" allowedlinks="ekgunnery_microsslammosource" interactthroughwalls="true" Scale="0.5" interactdistance="10" spritecolor="255,255,255,255" focusonselected="true" offsetonselected="800" >
+    <Sprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_microssl_style1.png" depth="0.01" sourcerect="0,0,256,256" origin="0.5, 0.4" canflipy="false" />
+    <MinimapIcon name="Command_Weapons_EkGunnery_MicroSSL" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="0,256,128,128" />
+    <SwappableItem price="5000" replacementonuninstall="turrethardpoint" origin="128,266" swapidentifier="basicturret">
+      <SchematicSprite texture="Mods/EK Gunnery/UI/ekgunnery_turretschematics1.png" sourcerect="512,0,256,389" />
+      <SwapConnectedItem tag="periscope" swapto="periscope" />
+      <SwapConnectedItem tag="turretammosource" swapto="ekgunnery_newmicrosslloader" />
+    </SwappableItem>
+    <UpgradePreviewSprite scale="3.0" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="0,392,112,72" origin="0.5,0.5" />
+    <StaticBody width="80" radius="80" />
+    <Turret canbeselected="false" characterusable="false" linkable="true" barrelpos="128,120" rotationlimits="180,360" powerconsumption="100.0" showchargeindicator="true" showprojectileindicator="true" 
+	recoildistance="4" reload="0.06" springstiffnesslowskill="4" springstiffnesshighskill="50" springdampinglowskill="1" springdampinghighskill="10" rotationspeedlowskill="2" rotationspeedhighskill="8"
+	firingoffset="0,-125" usefiringoffsetformuzzleflash="false">
+      <sound file="Mods/EK Gunnery/Items/Weapons/micro_ssl_fire1.ogg" range="8000" type="OnUse" volume="1" selectionmode="Random" />
+      <sound file="Mods/EK Gunnery/Items/Weapons/micro_ssl_fire2.ogg" range="8000" type="OnUse" volume="1"/>
+      <sound file="Mods/EK Gunnery/Items/Weapons/micro_ssl_fire3.ogg" range="8000" type="OnUse" volume="1"/>
+      <sound file="Mods/EK Gunnery/Items/Weapons/micro_ssl_fire4.ogg" range="8000" type="OnUse" volume="1"/>
+      <sound file="Mods/EK Gunnery/Items/Weapons/micro_ssl_fire5.ogg" range="8000" type="OnUse" volume="1"/>
+      <BarrelSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_microssl_style1.png" depth="0.012" sourcerect="0,256,160,224" origin="0.5, 0.48" />
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,0,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,0,256,256" />
+      <MoveSound file="Content/Items/Weapons/RailgunLoop.ogg" />
+      <StartMoveSound file="Content/Items/Weapons/RailgunStart.ogg" />
+      <EndMoveSound file="Content/Items/Weapons/RailgunStop.ogg" />
+      <RequiredSkill identifier="weapons" level="50" />
+      <!--<LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="2048" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_gigantic.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>-->
+      <LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="2048" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_thin.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>
+      <ParticleEmitter particle="ekgunnerymicrosslflame" particleamount="2" velocitymin="50" velocitymax="100" scalemin="1" scalemax="1" />
+      <ParticleEmitter particle="ekgunneryminigunbubbles" particleamount="1" velocitymin="50" velocitymax="150" scalemin="0.4" scalemax="0.7" />
+      <!--<ParticleEmitter particle="ekgunneryfaketracermicrossl" particleamount="1" anglemin="-3.5" anglemax="3.5" velocitymin="65000" velocitymax="65000" scalemin="1" scalemax="1" />-->
+      <StatusEffect type="OnUse" target="This">
+        <Explosion range="500.0" structuredamage="0" force="0.01" camerashake="3.0" shockwave="false" smoke="false" flames="false" flash="true" sparks="false" underwaterbubble="false" />
+      </StatusEffect>
+    </Turret>
+    <aitarget maxsightrange="3000" maxsoundrange="8000" fadeouttime="5" />
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="position_in" displayname="connection.turretaimingin" />
+      <input name="trigger_in" displayname="connection.turrettriggerin" />
+      <input name="toggle_light" displayname="connection.togglelight"/>
+      <input name="set_light" displayname="connection.setlight" />
+    </ConnectionPanel>
+  </Item>
+
+  <Item name="Autocannon" identifier="ekgunnery_newautocannonturret" Tags="ekgunnery_autocannon,turret" category="Machine"
+        description="Conventional cannon which fires relatively light shells, but does so at a substantially increased fire-rate."
+		linkable="true" allowedlinks="ekgunnery_autocannonammosource" interactthroughwalls="true" Scale="0.5" interactdistance="10" spritecolor="175,175,175" focusonselected="true" offsetonselected="900" >
+    <Sprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_autocannonturret_style1.png" depth="0.01" sourcerect="320,0,288,288" origin="0.5, 0.5" canflipy="false" />
+    <MinimapIcon name="Command_Weapons_EkGunnery_Autocannon" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="256,0,128,128" />
+    <SwappableItem price="5000" replacementonuninstall="turrethardpoint" origin="144,278" swapidentifier="basicturret">
+      <SchematicSprite texture="Mods/EK Gunnery/UI/ekgunnery_turretschematics1.png" sourcerect="0,384,256,512" />
+      <SwapConnectedItem tag="periscope" swapto="periscope" />
+      <SwapConnectedItem tag="turretammosource" swapto="ekgunnery_newautocannonloader" />
+    </SwappableItem>
+    <UpgradePreviewSprite scale="3.0" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="256,136,112,72" origin="0.5,0.5" />
+    <StaticBody width="160" radius="160" />
+    <Turret canbeselected="false" characterusable="false" linkable="true" barrelpos="144,112" rotationlimits="180,360" powerconsumption="100.0" showchargeindicator="true" showprojectileindicator="true" 
+	recoildistance="100" reload="0.45" springstiffnesslowskill="4" springstiffnesshighskill="50" springdampinglowskill="1" springdampinghighskill="10" rotationspeedlowskill="2" rotationspeedhighskill="8"
+	firingoffset="0,-350" usefiringoffsetformuzzleflash="false" >
+      <sound file="Mods/EK Gunnery/Items/Weapons/autocannon_fire.ogg" range="6000" type="OnUse" volume="0.8"/>
+      <RailSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_autocannonturret_style1.png" depth="0.011" sourcerect="320,288,192,320" origin="0.5, 0.6" />
+      <BarrelSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_autocannonturret_style1.png" depth="0.012" sourcerect="512,288,80,384" origin="0.5, 1.05" />
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,0,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,0,256,256" />
+      <MoveSound file="Content/Items/Weapons/RailgunLoop.ogg" />
+      <StartMoveSound file="Content/Items/Weapons/RailgunStart.ogg" />
+      <EndMoveSound file="Content/Items/Weapons/RailgunStop.ogg" />
+      <RequiredSkill identifier="weapons" level="50" />
+      <LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="2048" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_gigantic.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>
+      <ParticleEmitter particle="ekgunneryautocannonflame" particleamount="1" velocitymin="50" velocitymax="50" scalemin="1" scalemax="1" />
+      <ParticleEmitter particle="ekgunneryautocannonbreak" particleamount="1" velocitymin="50" velocitymax="100" scalemin="1" scalemax="1" />
+      <ParticleEmitter particle="ekgunneryautocannonbubbles" particleamount="4" velocitymin="50" velocitymax="75" scalemin="1" scalemax="1" />
+      <StatusEffect type="OnUse" target="This">
+        <Explosion range="500.0" structuredamage="0" force="0.01" camerashake="3.0" shockwave="false" smoke="false" flames="false" flash="true" sparks="false" underwaterbubble="false" />
+      </StatusEffect>
+    </Turret>
+    <aitarget maxsightrange="3000" maxsoundrange="8000" fadeouttime="5" />
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="position_in" displayname="connection.turretaimingin" />
+      <input name="trigger_in" displayname="connection.turrettriggerin" />
+      <input name="toggle_light" displayname="connection.togglelight"/>
+      <input name="set_light" displayname="connection.setlight" />
+    </ConnectionPanel>
+  </Item>
+  
+  <Item name="Medium SSL Turret" identifier="ekgunnery_newmediumssl" Tags="ekgunnery_medium_ssl,turret" category="Machine"
+        description="Experimental weapons-system which excels at quickly laying down fire at moderate range. Fires 100x800mm self-propelled shells."
+		linkable="true" allowedlinks="ekgunnery_mediumsslequipment,ekgunnery_mediumsslammosource" interactthroughwalls="true" Scale="0.5" interactdistance="10" spritecolor="255,255,255" focusonselected="true" offsetonselected="900" >
+    <Sprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_mediumssl_style2.png" depth="0.01" sourcerect="0,0,352,352" origin="0.5, 0.28" canflipy="false" />
+    <MinimapIcon name="Command_Weapons_EkGunnery_MediumSSL" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="256,256,128,128" />
+    <SwappableItem price="7500" replacementonuninstall="turrethardpoint" origin="144,406" swapidentifier="basicturret">
+      <SchematicSprite texture="Mods/EK Gunnery/UI/ekgunnery_turretschematics1.png" sourcerect="256,448,320,448" />
+      <SwapConnectedItem tag="periscope" swapto="periscope" />
+      <SwapConnectedItem tag="turretammosource" swapto="ekgunnery_newmediumsslloader" />
+    </SwappableItem>
+    <UpgradePreviewSprite scale="3.0" texture="Mods/EK Gunnery/UI/ekgunnery_turretui1.png" sourcerect="256,392,112,72" origin="0.5,0.5" />
+    <StaticBody width="192" radius="192" />
+    <Turret canbeselected="false" characterusable="false" linkable="true" barrelpos="176,176" rotationlimits="180,360" powerconsumption="100.0" showchargeindicator="true" showprojectileindicator="true" 
+	recoildistance="32" reload="0.6" springstiffnesslowskill="2" springstiffnesshighskill="50" springdampinglowskill="0.5" springdampinghighskill="10" rotationspeedlowskill="1" rotationspeedhighskill="8"
+	firingoffset="0,-175" usefiringoffsetformuzzleflash="false" >
+      <sound file="Mods/EK Gunnery/Items/Weapons/medium_ssl_fire.ogg" range="7500" type="OnUse" />
+      <RailSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_mediumssl_style2.png" depth="0.011" sourcerect="224,352,256,288" origin="0.5, 0.45" />
+      <BarrelSprite texture="Mods/EK Gunnery/Items/Weapons/ekgunnery_mediumssl_style2.png" depth="0.012" sourcerect="0,352,224,224" origin="0.5, 0.74" />
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,0,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,0,256,256" />
+      <MoveSound file="Content/Items/Weapons/RailgunLoop.ogg" />
+      <StartMoveSound file="Content/Items/Weapons/RailgunStart.ogg" />
+      <EndMoveSound file="Content/Items/Weapons/RailgunStop.ogg" />
+      <RequiredSkill identifier="weapons" level="50" />
+      <!--<LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="2048" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_gigantic.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>-->
+      <LightComponent LightColor="1.0,0.8,0.8,1.0" Flicker="0.0" range="2048" IsOn="true" drawbehindsubs="false" ignorecontinuoustoggle="true">
+        <LightTexture texture="Mods/EK Gunnery/Lights/lightcone_gigantic.png" origin="0.0, 0.5" size="1.0,1.0" />
+      </LightComponent>
+      <ParticleEmitter particle="ekgunnerymediumsslflame2" particleamount="1" velocitymin="50" velocitymax="100" />
+      <ParticleEmitter particle="ekgunnerychaingunbubbles" particleamount="3" velocitymin="50" velocitymax="150" scalemin="0.6" scalemax="1.2" distancemin="0" distancemax="500" />
+      <ParticleEmitter particle="ekgunnerymediumsslbackblast" particleamount="3" velocitymin="-150" velocitymax="-50" scalemin="0.6" scalemax="1.2" distancemin="0" distancemax="500" />
+      <StatusEffect type="OnUse" target="This">
+        <Explosion range="500.0" structuredamage="0" force="0.01" camerashake="3.0" shockwave="false" smoke="false" flames="false" flash="true" sparks="false" underwaterbubble="false" />
+      </StatusEffect>
+    </Turret>
+    <aitarget maxsightrange="3000" maxsoundrange="8000" fadeouttime="5" />
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="position_in" displayname="connection.turretaimingin" />
+      <input name="trigger_in" displayname="connection.turrettriggerin" />
+      <input name="toggle_light" displayname="connection.togglelight"/>
+      <input name="set_light" displayname="connection.setlight" />
+    </ConnectionPanel>
+  </Item>
+
+</Items>

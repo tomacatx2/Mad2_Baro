@@ -1,0 +1,1602 @@
+﻿[2/27/2021 10:55:50 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 518)
+[2/27/2021 10:55:51 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "100,65,0,134".
+[2/27/2021 10:55:53 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "100,65,54,134".
+[2/27/2021 10:55:54 PM]
+  THEGAMER300: i kill you
+[2/27/2021 10:55:55 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:55 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:55 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:55 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:55 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:55 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "100,65,100,134".
+[2/27/2021 10:55:56 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:56 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:56 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:56 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:56 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:57 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:57 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:57 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:57 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:57 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 10:55:57 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 10:56:01 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "100,65,100,255".
+[2/27/2021 10:56:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 10:56:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 10:56:03 PM]
+  TornMap: go away
+[2/27/2021 10:56:05 PM]
+  TornMap equipped Bandage
+[2/27/2021 10:56:05 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 4718)
+[2/27/2021 10:56:05 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 4718)
+[2/27/2021 10:56:06 PM]
+  THEGAMER300: daaang that look good
+[2/27/2021 10:56:11 PM]
+  THEGAMER300 set the value "LightColor" of the item "Lamp" to "60,65,255,255".
+[2/27/2021 10:56:11 PM]
+  tomacatx1 picked up Wrench
+[2/27/2021 10:56:13 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 901)
+[2/27/2021 10:56:14 PM]
+  TornMap: what are you DOING
+[2/27/2021 10:56:14 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 10:56:15 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 10:56:15 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 10:56:17 PM]
+  tomacatx1 placed Pipe Tobacco in Captain's Pipe (ID: 4713)
+[2/27/2021 10:56:18 PM]
+  THEGAMER300 set the value "LightColor" of the item "Lamp" to "255,255,255,255".
+[2/27/2021 10:56:18 PM]
+  TornMap: THIS IS MY ROOM GET OUT
+[2/27/2021 10:56:19 PM]
+  THEGAMER300: light 
+[2/27/2021 10:56:21 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/27/2021 10:56:23 PM]
+  TornMap: WHAT IS WRONG WITH YOU ABU HAJAAR
+[2/27/2021 10:56:24 PM]
+  THEGAMER300: ok
+[2/27/2021 10:56:26 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/27/2021 10:56:29 PM]
+  terc picked up Diving Suit
+[2/27/2021 10:56:31 PM]
+  terc placed Diving Suit in Diving Suit Locker (ID: 196)
+[2/27/2021 10:56:33 PM]
+  Lester: use radio nimga
+[2/27/2021 10:56:38 PM]
+  THEGAMER300: kys
+[2/27/2021 10:56:43 PM]
+  TornMap: NIGGER
+[2/27/2021 10:56:51 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[2/27/2021 10:56:51 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/27/2021 10:56:54 PM]
+  TornMap disconnected a wire from Duct Block (set_state) to Water Detector (signal_out)
+[2/27/2021 10:56:54 PM]
+  TornMap connected a wire from Duct Block (state_out) to Water Detector (signal_out)
+[2/27/2021 10:56:57 PM]
+  Lester: kys nigga gave me 7 muslims and a jew
+[2/27/2021 10:56:57 PM]
+  TornMap disconnected a wire from Duct Block (state_out) to Water Detector (signal_out)
+[2/27/2021 10:56:57 PM]
+  TornMap connected a wire from Duct Block (toggle) to Water Detector (signal_out)
+[2/27/2021 10:57:01 PM]
+  TornMap disconnected a wire from Duct Block (toggle) to Water Detector (signal_out)
+[2/27/2021 10:57:01 PM]
+  TornMap connected a wire from Duct Block (set_state) to Water Detector (signal_out)
+[2/27/2021 10:57:02 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/27/2021 10:57:02 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 10:57:04 PM]
+  THEGAMER300: i got that
+[2/27/2021 10:57:18 PM]
+  terc equipped Welding Tool
+[2/27/2021 10:57:19 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,100,0,239".
+[2/27/2021 10:57:21 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,100,0,255".
+[2/27/2021 10:57:23 PM]
+  THEGAMER300: damn 
+[2/27/2021 10:57:23 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "0,100,0,255".
+[2/27/2021 10:57:25 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "0,100,0,255".
+[2/27/2021 10:57:26 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "0,100,0,255".
+[2/27/2021 10:57:27 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "0,100,0,255".
+[2/27/2021 10:57:28 PM]
+  THEGAMER300: 5x welding power
+[2/27/2021 10:57:31 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "40,100,0,255".
+[2/27/2021 10:57:33 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "40,40,0,255".
+[2/27/2021 10:57:35 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "40,40,40,255".
+[2/27/2021 10:57:35 PM]
+  Lester placed Revolver Round in Revolver (ID: 4058)
+[2/27/2021 10:57:44 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "4,40,40,255".
+[2/27/2021 10:57:45 PM]
+  Lester placed Revolver Round in Revolver (ID: 4059)
+[2/27/2021 10:57:50 PM]
+  Lester equipped Stun Baton
+[2/27/2021 10:57:50 PM]
+  terc equipped Guitar
+[2/27/2021 10:57:50 PM]
+  terc picked up Guitar
+[2/27/2021 10:57:53 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "255,40,255,255".
+[2/27/2021 10:57:54 PM]
+  tomacatx1 equipped Exploding Ammunition Box
+[2/27/2021 10:57:54 PM]
+  tomacatx1 picked up Exploding Ammunition Box
+[2/27/2021 10:57:55 PM]
+  tomacatx1 dropped Exploding Ammunition Box
+[2/27/2021 10:58:02 PM]
+  terc dropped Guitar
+[2/27/2021 10:58:09 PM]
+  Lester equipped Guitar
+[2/27/2021 10:58:09 PM]
+  Lester picked up Guitar
+[2/27/2021 10:58:09 PM]
+  THEGAMER300: yup
+[2/27/2021 10:58:20 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "213,0,0,75".
+[2/27/2021 10:58:23 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "205,0,0,75".
+[2/27/2021 10:58:27 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "200,0,0,75".
+[2/27/2021 10:58:31 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "200,40,0,75".
+[2/27/2021 10:58:35 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "200,40,3,75".
+[2/27/2021 10:58:36 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "200,40,255,75".
+[2/27/2021 10:58:43 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "200,40,255,64".
+[2/27/2021 10:58:47 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "200,40,255,255".
+[2/27/2021 10:58:50 PM]
+  TornMap set the value "LightColor" of the item "Emergency Light" to "200,40,255,255".
+[2/27/2021 10:58:54 PM]
+  THEGAMER300: da budget submarine
+[2/27/2021 10:59:07 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,100,0,127".
+[2/27/2021 10:59:09 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,45,0,127".
+[2/27/2021 10:59:11 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,45,0,127".
+[2/27/2021 10:59:13 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,45,255,127".
+[2/27/2021 10:59:17 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,45,255,255".
+[2/27/2021 10:59:32 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "100,100,0,127".
+[2/27/2021 10:59:35 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,100,0,127".
+[2/27/2021 10:59:36 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,99,0,127".
+[2/27/2021 10:59:39 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,45,1,127".
+[2/27/2021 10:59:42 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,45,0,127".
+[2/27/2021 10:59:45 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,45,255,127".
+[2/27/2021 10:59:46 PM]
+  Lester dropped Guitar
+[2/27/2021 10:59:50 PM]
+  TornMap set the value "LightColor" of the item "Lamp" to "200,45,255,255".
+[2/27/2021 10:59:53 PM]
+  THEGAMER300: lol torns our medic
+[2/27/2021 10:59:55 PM]
+  THEGAMER300: we're gonna die
+[2/27/2021 10:59:59 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:00:07 PM]
+  TornMap: HELL YEAH
+[2/27/2021 11:00:08 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:00:16 PM]
+  THEGAMER300: i repaired it bro
+[2/27/2021 11:00:19 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:00:20 PM]
+  Lester equipped Riot Shotgun
+[2/27/2021 11:00:32 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:00:47 PM]
+  TornMap: LOL CAPTAINS ROOM IS PINK
+[2/27/2021 11:00:48 PM]
+  THEGAMER300: nice pink lights gaybo
+[2/27/2021 11:00:50 PM]
+  THEGAMER300: MFW
+[2/27/2021 11:00:56 PM]
+  TornMap: Femboy Captain Room
+[2/27/2021 11:00:59 PM]
+  THEGAMER300: DA SWIMMING POOL
+[2/27/2021 11:01:03 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:01:09 PM]
+  terc: idunno i feel the lights are nice
+[2/27/2021 11:01:38 PM]
+  terc started repairing Battery
+[2/27/2021 11:01:39 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:01:46 PM]
+  TornMap failed to repair Battery
+[2/27/2021 11:01:52 PM]
+  TornMap failed to repair Battery
+[2/27/2021 11:01:53 PM]
+  THEGAMER300: fduck you
+[2/27/2021 11:01:55 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:01:56 PM]
+  THEGAMER300: ill shoot you
+[2/27/2021 11:01:56 PM]
+  TornMap: i'm dying
+[2/27/2021 11:01:57 PM]
+  Outer wall breached by Lester
+[2/27/2021 11:01:59 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:02:02 PM]
+  TornMap started repairing Battery
+[2/27/2021 11:02:02 PM]
+  Lester placed Revolver Round in Revolver (ID: 4059)
+[2/27/2021 11:02:09 PM]
+  THEGAMER300: meet the engineer
+[2/27/2021 11:02:13 PM]
+  Lester placed Revolver Round in Revolver (ID: 4059)
+[2/27/2021 11:02:20 PM]
+  TornMap equipped Guitar
+[2/27/2021 11:02:20 PM]
+  TornMap picked up Guitar
+[2/27/2021 11:02:20 PM]
+  THEGAMER300: dddaaaaaaaaaaaaaaaaaaa
+[2/27/2021 11:02:32 PM]
+  TornMap dropped Guitar
+[2/27/2021 11:03:01 PM]
+  terc: im putting another battery in
+[2/27/2021 11:03:03 PM]
+  THEGAMER300: can i build lights xd
+[2/27/2021 11:03:05 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/27/2021 11:03:14 PM]
+  terc picked up Fuel Rod
+[2/27/2021 11:03:15 PM]
+  TornMap: what are you DOING ABU HAJAAR 
+[2/27/2021 11:03:18 PM]
+  terc: nevermind
+[2/27/2021 11:03:20 PM]
+  TornMap: IT'S ON FIRE
+[2/27/2021 11:03:22 PM]
+  THEGAMER300: ok cool
+[2/27/2021 11:03:24 PM]
+  TornMap equipped Fire Extinguisher
+[2/27/2021 11:03:24 PM]
+  TornMap picked up Fire Extinguisher
+[2/27/2021 11:03:29 PM]
+  THEGAMER300: nice going terc
+[2/27/2021 11:03:31 PM]
+  THEGAMER300: fat janny
+[2/27/2021 11:03:34 PM]
+  tomacatx1 equipped Fire Extinguisher
+[2/27/2021 11:03:34 PM]
+  tomacatx1 picked up Fire Extinguisher
+[2/27/2021 11:03:35 PM]
+  TornMap dropped Fire Extinguisher
+[2/27/2021 11:03:36 PM]
+  tomacatx1 placed Fire Extinguisher in Fire Extinguisher Bracket (ID: 809)
+[2/27/2021 11:03:39 PM]
+  THEGAMER300 picked up Welding Tool
+[2/27/2021 11:03:39 PM]
+  terc: hi guys
+[2/27/2021 11:03:41 PM]
+  THEGAMER300 placed Welding Tool in Medium Steel Cabinet (ID: 539)
+[2/27/2021 11:03:43 PM]
+  TornMap used item Morphine
+[2/27/2021 11:03:46 PM]
+  THEGAMER300 picked up Welding Tool
+[2/27/2021 11:03:48 PM]
+  THEGAMER300 picked up Plasma Cutter
+[2/27/2021 11:03:50 PM]
+  terc: i put another fuel rod in
+[2/27/2021 11:03:53 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[2/27/2021 11:03:53 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/27/2021 11:03:54 PM]
+  TornMap: there you go terc
+[2/27/2021 11:03:57 PM]
+  terc: thanks
+[2/27/2021 11:03:58 PM]
+  TornMap: now you have opiate addiction
+[2/27/2021 11:04:00 PM]
+  Lester placed Revolver Round in Revolver (ID: 4058)
+[2/27/2021 11:04:04 PM]
+  THEGAMER300 equipped Welding Tool
+[2/27/2021 11:04:05 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/27/2021 11:04:11 PM]
+  THEGAMER300: torn heal me torn
+[2/27/2021 11:04:16 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/27/2021 11:04:18 PM]
+  TornMap picked up Morphine
+[2/27/2021 11:04:20 PM]
+  Lester picked up Harmonica
+[2/27/2021 11:04:21 PM]
+  THEGAMER300 equipped Exploding Ammunition Box
+[2/27/2021 11:04:21 PM]
+  THEGAMER300 picked up Exploding Ammunition Box
+[2/27/2021 11:04:22 PM]
+  TornMap used item Morphine
+[2/27/2021 11:04:22 PM]
+  Lester equipped Harmonica
+[2/27/2021 11:04:26 PM]
+  TornMap: i need some morphine myself
+[2/27/2021 11:04:32 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/27/2021 11:04:33 PM]
+  TornMap: mmm mmm mmm mm mmm
+[2/27/2021 11:04:40 PM]
+  tomacatx1 picked up Exploding Ammunition Box
+[2/27/2021 11:04:41 PM]
+  THEGAMER300: how do i drop xd
+[2/27/2021 11:04:44 PM]
+  THEGAMER300 dropped Exploding Ammunition Box
+[2/27/2021 11:04:46 PM]
+  THEGAMER300: nvm got it
+[2/27/2021 11:04:46 PM]
+  TornMap: just drag it
+[2/27/2021 11:04:48 PM]
+  tomacatx1 dropped Exploding Ammunition Box
+[2/27/2021 11:05:13 PM]
+  THEGAMER300: listen bro i got the cutter and welder
+[2/27/2021 11:05:14 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:05:19 PM]
+  THEGAMER300: do i just click on a wall with it to fix it
+[2/27/2021 11:05:23 PM]
+  TornMap disconnected a wire from Text Display (set_text) to Divide Component (signal_out)
+[2/27/2021 11:05:29 PM]
+  TornMap connected a wire from Text Display (set_text) to Divide Component (signal_out)
+[2/27/2021 11:05:35 PM]
+  THEGAMER300 equipped Plasma Cutter
+[2/27/2021 11:05:36 PM]
+  Lester placed Harmonica in Supplies Cabinet (ID: 425)
+[2/27/2021 11:05:39 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:05:51 PM]
+  tomacatx1: Need someone to repair devices in command room!
+[2/27/2021 11:05:53 PM]
+  THEGAMER300: k
+[2/27/2021 11:05:55 PM]
+  THEGAMER300: whats the cutter for
+[2/27/2021 11:06:08 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:06:10 PM]
+  THEGAMER300: sure bro
+[2/27/2021 11:06:13 PM]
+  THEGAMER300: do i need a suit for that
+[2/27/2021 11:06:25 PM]
+  THEGAMER300: NIGGA
+[2/27/2021 11:06:27 PM]
+  terc failed to repair Supercapacitor
+[2/27/2021 11:06:28 PM]
+  Lester picked up Saline
+[2/27/2021 11:06:30 PM]
+  Inner wall breached by Mudraptor
+[2/27/2021 11:06:32 PM]
+  TornMap: ENEMIES
+[2/27/2021 11:06:35 PM]
+  terc started repairing Supercapacitor
+[2/27/2021 11:06:35 PM]
+  THEGAMER300: RENGINE IS FLOODED
+[2/27/2021 11:06:40 PM]
+  tomacatx1 equipped Harpoon Gun
+[2/27/2021 11:06:43 PM]
+  THEGAMER300: SOMEONE GO TO ENGINEERING
+[2/27/2021 11:06:44 PM]
+  Lester placed Mudraptor Egg in Toolbelt (ID: 4715)
+[2/27/2021 11:06:45 PM]
+  THEGAMER300: DISASTER
+[2/27/2021 11:06:46 PM]
+  TornMap: THERE'S FREAKS IN THERE
+[2/27/2021 11:06:47 PM]
+  THEGAMER300: DISASTER
+[2/27/2021 11:06:49 PM]
+  THEGAMER300: DISASTER
+[2/27/2021 11:06:57 PM]
+  THEGAMER300: SUIT UP !!!!!!!!!!!!!!!!!!!!
+[2/27/2021 11:07:00 PM]
+  terc picked up Diving Suit
+[2/27/2021 11:07:04 PM]
+  terc closed Custom Door
+[2/27/2021 11:07:04 PM]
+  terc opened Custom Door
+[2/27/2021 11:07:05 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 3 Stun: 0.4
+[2/27/2021 11:07:05 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 3 Stun: 0.4
+[2/27/2021 11:07:05 PM]
+  TornMap: HEEELP
+[2/27/2021 11:07:07 PM]
+  terc opened Custom Door
+[2/27/2021 11:07:07 PM]
+  terc closed Custom Door
+[2/27/2021 11:07:16 PM]
+  tomacatx1 picked up Diving Suit
+[2/27/2021 11:07:18 PM]
+  tomacatx1 picked up Sonar Beacon
+[2/27/2021 11:07:19 PM]
+  tomacatx1 placed Sonar Beacon in Medium Windowed Steel Cabinet (ID: 725)
+[2/27/2021 11:07:20 PM]
+  tomacatx1 picked up Underwater Scooter
+[2/27/2021 11:07:21 PM]
+  tomacatx1 equipped Underwater Scooter
+[2/27/2021 11:07:23 PM]
+  THEGAMER300: TORN CAN YOU HEAR ME
+[2/27/2021 11:07:25 PM]
+  THEGAMER300: GET UP
+[2/27/2021 11:07:25 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[2/27/2021 11:07:25 PM]
+  TornMap: HEEEELP
+[2/27/2021 11:07:26 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[2/27/2021 11:07:26 PM]
+  TornMap: MOTHERFUCKER
+[2/27/2021 11:07:28 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[2/27/2021 11:07:28 PM]
+  tomacatx1 equipped Revolver
+[2/27/2021 11:07:29 PM]
+  THEGAMER300: DONT DIE ON MEEE
+[2/27/2021 11:07:33 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:33 PM]
+  tomacatx1 attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:07:33 PM]
+  tomacatx1 attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:07:33 PM]
+  tomacatx1 attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:07:33 PM]
+  tomacatx1 attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:07:33 PM]
+  tomacatx1 attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:07:34 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:34 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:34 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:07:34 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:34 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:07:34 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:34 PM]
+  tomacatx1 attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:07:36 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/27/2021 11:07:38 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 15 Lacerations: 15 Stun: 0.25
+[2/27/2021 11:07:38 PM]
+  Mudraptor attacked by Lester. Bleeding: 3 Gunshot wound: 4 Stun: 0.2
+[2/27/2021 11:07:38 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:07:38 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:07:38 PM]
+  Mudraptor attacked by Lester. Bleeding: 3 Gunshot wound: 4 Stun: 0.2
+[2/27/2021 11:07:38 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:07:38 PM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[2/27/2021 11:07:38 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:39 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 60 Lacerations: 60 Stun: 0.25
+[2/27/2021 11:07:40 PM]
+  tomacatx1 attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:07:40 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:07:40 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:40 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:40 PM]
+  Mudraptor attacked by Lester. Bleeding: 3 Gunshot wound: 4 Stun: 0.2
+[2/27/2021 11:07:40 PM]
+  tomacatx1 attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:07:40 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:07:43 PM]
+  TornMap: WHAT ARE YOU DOING ABU HAJAAR
+[2/27/2021 11:07:43 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:07:45 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:07:45 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:07:45 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:07:45 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:07:45 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:07:45 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:07:47 PM]
+  tomacatx1 used item Morphine
+[2/27/2021 11:07:49 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:07:49 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:07:49 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:07:49 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:07:49 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:07:49 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:07:49 PM]
+  tomacatx1 used item Plastiseal
+[2/27/2021 11:07:51 PM]
+  tomacatx1 used item Plastiseal
+[2/27/2021 11:07:51 PM]
+  TornMap: I'M DYINNG
+[2/27/2021 11:07:51 PM]
+  THEGAMER300: GUYS TORN IS DEAD BY THE COIL GUNS
+[2/27/2021 11:07:53 PM]
+  tomacatx1 used item Morphine
+[2/27/2021 11:07:54 PM]
+  Lester placed Shotgun Shell in Toolbelt (ID: 4715)
+[2/27/2021 11:07:54 PM]
+  Lester placed Shotgun Shell in Toolbelt (ID: 4715)
+[2/27/2021 11:07:54 PM]
+  THEGAMER300: WELL HES DYING
+[2/27/2021 11:07:58 PM]
+  THEGAMER300: IUNNO HOW TO HEAL HIM
+[2/27/2021 11:07:58 PM]
+  Lester picked up Diving Suit
+[2/27/2021 11:08:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 11:08:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 11:08:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 11:08:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 11:08:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 11:08:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 11:08:02 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 11:08:02 PM]
+  terc: HEY
+[2/27/2021 11:08:03 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 4718)
+[2/27/2021 11:08:03 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 4718)
+[2/27/2021 11:08:03 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 4718)
+[2/27/2021 11:08:03 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 4718)
+[2/27/2021 11:08:05 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 4718)
+[2/27/2021 11:08:05 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 4718)
+[2/27/2021 11:08:05 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 4718)
+[2/27/2021 11:08:05 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 4718)
+[2/27/2021 11:08:05 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 4718)
+[2/27/2021 11:08:05 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 4718)
+[2/27/2021 11:08:06 PM]
+  terc: where are the weapons
+[2/27/2021 11:08:07 PM]
+  TornMap: YOU STUPID FUCKING BITCH
+[2/27/2021 11:08:07 PM]
+  THEGAMER300: torn im with you torn
+[2/27/2021 11:08:09 PM]
+  tomacatx1 picked up Blood Pack
+[2/27/2021 11:08:09 PM]
+  tomacatx1 picked up Blood Pack
+[2/27/2021 11:08:09 PM]
+  tomacatx1 picked up Blood Pack
+[2/27/2021 11:08:12 PM]
+  tomacatx1 used item Blood Pack
+[2/27/2021 11:08:13 PM]
+  THEGAMER300 failed to repair Junction Box
+[2/27/2021 11:08:16 PM]
+  THEGAMER300: AAAAAAAAAA
+[2/27/2021 11:08:20 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:08:20 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:08:20 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:08:20 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:08:20 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:08:20 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:08:20 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:08:20 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 0.8 Stun: 0.2
+[2/27/2021 11:08:20 PM]
+  tomacatx1 used item Anabolic Steroids
+[2/27/2021 11:08:22 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:22 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:22 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:22 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:22 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:22 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:22 PM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[2/27/2021 11:08:22 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:22 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  Mudraptor attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  Mudraptor attacked by Lester. Bleeding: 3 Gunshot wound: 4 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  Mudraptor attacked by Lester. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[2/27/2021 11:08:24 PM]
+  TornMap: I'M ALIVE
+[2/27/2021 11:08:25 PM]
+  tomacatx1 used item Morphine
+[2/27/2021 11:08:25 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:08:27 PM]
+  THEGAMER300: IM NOT PREPARED FOR THIIS
+[2/27/2021 11:08:27 PM]
+  tomacatx1 used item Blood Pack
+[2/27/2021 11:08:27 PM]
+  TornMap: i'm alive
+[2/27/2021 11:08:28 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:08:28 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:08:28 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:08:36 PM]
+  TornMap used item Bandage
+[2/27/2021 11:08:47 PM]
+  tomacatx1 placed Revolver in Large Steel Cabinet (ID: 741)
+[2/27/2021 11:08:47 PM]
+  terc started repairing Supercapacitor
+[2/27/2021 11:08:49 PM]
+  tomacatx1 picked up SMG
+[2/27/2021 11:08:49 PM]
+  tomacatx1 placed Harpoon Gun in Large Steel Cabinet (ID: 741)
+[2/27/2021 11:08:50 PM]
+  tomacatx1 picked up Grenade Launcher
+[2/27/2021 11:08:56 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:08:59 PM]
+  tomacatx1 equipped SMG
+[2/27/2021 11:09:06 PM]
+  tomacatx1 equipped Welding Tool
+[2/27/2021 11:09:18 PM]
+  THEGAMER300 started repairing Oxygen Generator
+[2/27/2021 11:09:19 PM]
+  Outer wall repaired by tomacatx1
+[2/27/2021 11:09:19 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:09:19 PM]
+  terc picked up Welding Fuel Tank
+[2/27/2021 11:09:19 PM]
+  terc picked up Welding Fuel Tank
+[2/27/2021 11:09:19 PM]
+  terc picked up Welding Fuel Tank
+[2/27/2021 11:09:19 PM]
+  terc picked up Welding Fuel Tank
+[2/27/2021 11:09:19 PM]
+  terc picked up Welding Fuel Tank
+[2/27/2021 11:09:19 PM]
+  terc picked up Welding Fuel Tank
+[2/27/2021 11:09:21 PM]
+  terc picked up Welding Fuel Tank
+[2/27/2021 11:09:21 PM]
+  terc dropped Welding Fuel Tank
+[2/27/2021 11:09:21 PM]
+  terc placed Welding Fuel Tank in Welding Tool (ID: 4063)
+[2/27/2021 11:09:22 PM]
+  Lester placed Saline in Mudraptor Egg (ID: 4070)
+[2/27/2021 11:09:28 PM]
+  Outer wall repaired by tomacatx1
+[2/27/2021 11:09:30 PM]
+  terc started repairing Nuclear Reactor
+[2/27/2021 11:09:32 PM]
+  THEGAMER300: i fixed da oxy generator
+[2/27/2021 11:09:37 PM]
+  TornMap started repairing Battery
+[2/27/2021 11:09:38 PM]
+  Lester placed Diving Suit in Diving Suit Locker (ID: 189)
+[2/27/2021 11:09:43 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:09:44 PM]
+  Lester picked up Diving Suit
+[2/27/2021 11:09:47 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/27/2021 11:09:48 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/27/2021 11:09:49 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/27/2021 11:09:59 PM]
+  Lester removed Mudraptor Egg from Toolbelt (ID: 4715)
+[2/27/2021 11:09:59 PM]
+  TornMap started repairing Junction Box
+[2/27/2021 11:10:00 PM]
+  THEGAMER300: who puts the suits at the bottom dude
+[2/27/2021 11:10:02 PM]
+  terc started repairing Hatch with Buttons
+[2/27/2021 11:10:03 PM]
+  TornMap: i'm alive
+[2/27/2021 11:10:06 PM]
+  THEGAMER300: thats the first place to get flooded
+[2/27/2021 11:10:11 PM]
+  terc: yip
+[2/27/2021 11:10:12 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:10:16 PM]
+  terc: i am
+[2/27/2021 11:10:17 PM]
+  TornMap: problem
+[2/27/2021 11:10:20 PM]
+  THEGAMER300: TORN ITS FLOODING
+[2/27/2021 11:10:20 PM]
+  terc: i am
+[2/27/2021 11:10:23 PM]
+  THEGAMER300: DISASTER
+[2/27/2021 11:10:23 PM]
+  TornMap: our oxygen generator isn't 
+[2/27/2021 11:10:28 PM]
+  TornMap: working
+[2/27/2021 11:10:36 PM]
+  TornMap placed Oxygen Tank in Diving Mask (ID: 426)
+[2/27/2021 11:10:38 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:10:43 PM]
+  TornMap: this is okay
+[2/27/2021 11:10:49 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:10:49 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 4718)
+[2/27/2021 11:10:49 PM]
+  tomacatx1 removed Screwdriver from Toolbelt (ID: 4718)
+[2/27/2021 11:10:49 PM]
+  tomacatx1 picked up Screwdriver
+[2/27/2021 11:10:50 PM]
+  TornMap started repairing Battery
+[2/27/2021 11:10:50 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 4718)
+[2/27/2021 11:10:50 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 4718)
+[2/27/2021 11:10:52 PM]
+  tomacatx1 placed Body Armor in Toolbelt (ID: 4718)
+[2/27/2021 11:10:52 PM]
+  tomacatx1 removed Wrench from Toolbelt (ID: 4718)
+[2/27/2021 11:10:52 PM]
+  tomacatx1 picked up Wrench
+[2/27/2021 11:10:53 PM]
+  tomacatx1 picked up Body Armor
+[2/27/2021 11:10:55 PM]
+  tomacatx1 equipped Wrench
+[2/27/2021 11:10:55 PM]
+  tomacatx1 equipped Screwdriver
+[2/27/2021 11:11:00 PM]
+  Lester entered "e" on Terminal
+[2/27/2021 11:11:01 PM]
+  tomacatx1 used item Plastiseal
+[2/27/2021 11:11:03 PM]
+  TornMap started repairing Battery
+[2/27/2021 11:11:07 PM]
+  tomacatx1 started repairing Junction Box
+[2/27/2021 11:11:07 PM]
+  terc started repairing Large Engine
+[2/27/2021 11:11:09 PM]
+  THEGAMER300: can someone get me a suit im at the oxy generator
+[2/27/2021 11:11:12 PM]
+  TornMap: This is fine.
+[2/27/2021 11:11:20 PM]
+  TornMap: nigga ain't nobody giving you a suit
+[2/27/2021 11:11:24 PM]
+  tomacatx1 started repairing Junction Box
+[2/27/2021 11:11:27 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:11:40 PM]
+  tomacatx1 used item Blood Pack
+[2/27/2021 11:11:42 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:11:42 PM]
+  TornMap equipped Syringe Gun
+[2/27/2021 11:11:49 PM]
+  TornMap picked up Bandage
+[2/27/2021 11:11:51 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:11:53 PM]
+  TornMap placed Blood Pack in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:11:53 PM]
+  TornMap placed Blood Pack in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:11:55 PM]
+  tomacatx1 opened Custom Door
+[2/27/2021 11:11:57 PM]
+  THEGAMER300: i believe by the engine room
+[2/27/2021 11:11:58 PM]
+  tomacatx1 closed Custom Door
+[2/27/2021 11:12:00 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:12:00 PM]
+  terc dropped Diving Suit
+[2/27/2021 11:12:02 PM]
+  terc picked up Diving Suit
+[2/27/2021 11:12:02 PM]
+  Lester dropped Diving Suit
+[2/27/2021 11:12:09 PM]
+  terc failed to repair Small Pump
+[2/27/2021 11:12:11 PM]
+  tomacatx1 entered "щт" on Terminal
+[2/27/2021 11:12:13 PM]
+  tomacatx1 entered "on" on Terminal
+[2/27/2021 11:12:18 PM]
+  terc failed to repair Small Pump
+[2/27/2021 11:12:23 PM]
+  THEGAMER300: pogger
+[2/27/2021 11:12:25 PM]
+  terc failed to repair Small Pump
+[2/27/2021 11:12:30 PM]
+  tomacatx1 started repairing Junction Box
+[2/27/2021 11:12:32 PM]
+  terc started repairing Small Pump
+[2/27/2021 11:12:35 PM]
+  Lester placed Revolver Round in Revolver (ID: 4059)
+[2/27/2021 11:12:35 PM]
+  Lester placed Revolver Round in Revolver (ID: 4059)
+[2/27/2021 11:12:36 PM]
+  Lester placed Revolver Round in Revolver (ID: 4058)
+[2/27/2021 11:12:36 PM]
+  Lester placed Revolver Round in Revolver (ID: 4058)
+[2/27/2021 11:12:43 PM]
+  TornMap placed Diving Mask in Supplies Cabinet (ID: 377)
+[2/27/2021 11:12:43 PM]
+  TornMap removed Diving Mask from Supplies Cabinet (ID: 377)
+[2/27/2021 11:12:43 PM]
+  TornMap picked up Diving Mask
+[2/27/2021 11:12:43 PM]
+  terc started repairing Fabricator
+[2/27/2021 11:12:44 PM]
+  Lester picked up Guitar
+[2/27/2021 11:12:45 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/27/2021 11:12:45 PM]
+  THEGAMER300: can we rename our sub to "the toilet kingdom"
+[2/27/2021 11:12:47 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 204)
+[2/27/2021 11:12:50 PM]
+  tomacatx1 started repairing Nuclear Reactor
+[2/27/2021 11:12:53 PM]
+  THEGAMER300 started repairing Railgun Loader
+[2/27/2021 11:12:54 PM]
+  terc dropped Diving Suit
+[2/27/2021 11:13:00 PM]
+  THEGAMER300 started repairing Railgun Loader
+[2/27/2021 11:13:07 PM]
+  terc started repairing Deconstructor
+[2/27/2021 11:13:10 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:13:13 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/27/2021 11:13:13 PM]
+  tomacatx1 dropped Oxygen Tank
+[2/27/2021 11:13:13 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 204)
+[2/27/2021 11:13:16 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:13:17 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/27/2021 11:13:20 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 204)
+[2/27/2021 11:13:21 PM]
+  terc: reactor outta juice
+[2/27/2021 11:13:30 PM]
+  tomacatx1 placed Oxygen Tank in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:13:30 PM]
+  tomacatx1 placed Oxygen Tank in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:13:33 PM]
+  terc removed Fuel Rod from Nuclear Reactor (ID: 883)
+[2/27/2021 11:13:36 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/27/2021 11:13:37 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:13:41 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 203)
+[2/27/2021 11:13:42 PM]
+  tomacatx1 picked up Diving Suit
+[2/27/2021 11:13:43 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 182)
+[2/27/2021 11:13:45 PM]
+  tomacatx1 started repairing Junction Box
+[2/27/2021 11:13:53 PM]
+  terc started repairing Door with Buttons
+[2/27/2021 11:13:57 PM]
+  THEGAMER300 started repairing Coilgun Loader
+[2/27/2021 11:14:00 PM]
+  terc: alright
+[2/27/2021 11:14:03 PM]
+  tomacatx1 failed to repair Small Pump
+[2/27/2021 11:14:07 PM]
+  terc: in a moment though
+[2/27/2021 11:14:09 PM]
+  THEGAMER300 started repairing Coilgun Loader
+[2/27/2021 11:14:17 PM]
+  tomacatx1 equipped Fire Extinguisher
+[2/27/2021 11:14:17 PM]
+  tomacatx1 picked up Fire Extinguisher
+[2/27/2021 11:14:20 PM]
+  tomacatx1 placed Fire Extinguisher in Fire Extinguisher Bracket (ID: 810)
+[2/27/2021 11:14:24 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:14:25 PM]
+  TornMap picked up Pomegrenade Extract
+[2/27/2021 11:14:27 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:27 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:27 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:27 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:27 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:27 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:28 PM]
+  TornMap used item Pomegrenade Extract
+[2/27/2021 11:14:29 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:14:30 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:14:30 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:30 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:30 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:30 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:30 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:32 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:32 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:32 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/27/2021 11:14:34 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 4718)
+[2/27/2021 11:14:35 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 4718)
+[2/27/2021 11:14:38 PM]
+  TornMap: yay
+[2/27/2021 11:14:38 PM]
+  terc: uhh
+[2/27/2021 11:14:40 PM]
+  terc: uh oh
+[2/27/2021 11:14:44 PM]
+  THEGAMER300: DISASTER
+[2/27/2021 11:14:49 PM]
+  THEGAMER300 started repairing Medical Fabricator
+[2/27/2021 11:14:50 PM]
+  TornMap: that's not good
+[2/27/2021 11:14:56 PM]
+  tomacatx1 placed Oxygen Tank in Diving Mask (ID: 479)
+[2/27/2021 11:14:57 PM]
+  Lester picked up Diving Suit
+[2/27/2021 11:14:59 PM]
+  THEGAMER300: the jaws theme starts playing
+[2/27/2021 11:15:00 PM]
+  Outer wall repaired by terc
+[2/27/2021 11:15:17 PM]
+  tomacatx1 started repairing Navigation Terminal
+[2/27/2021 11:15:24 PM]
+  terc started repairing Small Pump
+[2/27/2021 11:15:26 PM]
+  TornMap used item Bandage
+[2/27/2021 11:15:36 PM]
+  Lester dropped Diving Suit
+[2/27/2021 11:15:41 PM]
+  THEGAMER300 failed to repair Junction Box
+[2/27/2021 11:15:43 PM]
+  THEGAMER300: ass
+[2/27/2021 11:15:47 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:15:48 PM]
+  Lester picked up Saline
+[2/27/2021 11:15:50 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:50 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:51 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:51 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:51 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:51 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.25
+[2/27/2021 11:15:52 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:52 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:15:52 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:52 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 6.25 Bleeding: 0.5
+[2/27/2021 11:15:52 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.25
+[2/27/2021 11:15:52 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:52 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.25
+[2/27/2021 11:15:53 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:53 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.25
+[2/27/2021 11:15:53 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:53 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:53 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.25
+[2/27/2021 11:15:53 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:53 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.25
+[2/27/2021 11:15:54 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.25
+[2/27/2021 11:15:54 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:55 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:55 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:15:55 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:55 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:55 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 25 Bleeding: 2
+[2/27/2021 11:15:55 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:15:56 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.25
+[2/27/2021 11:16:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:00 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:01 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:01 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:01 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:02 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:02 PM]
+  terc picked up Diving Suit
+[2/27/2021 11:16:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:03 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:06 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:06 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:07 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:08 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:08 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:08 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:09 PM]
+  Mudraptor attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/27/2021 11:16:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:10 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:10 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:10 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:10 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:10 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:10 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:11 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:11 PM]
+  TornMap: are you scared
+[2/27/2021 11:16:11 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:11 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:12 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:12 PM]
+  THEGAMER300: torn its bad in here
+[2/27/2021 11:16:12 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:12 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:12 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:13 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:13 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:13 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:13 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:14 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:15 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:15 PM]
+  THEGAMER300: let the 
+[2/27/2021 11:16:15 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:15 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:15 PM]
+  Mudraptor attacked by Lester. Lacerations: 25 Bleeding: 2
+[2/27/2021 11:16:15 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:15 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:16 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:16 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:16 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:16 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:16 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:17 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:17 PM]
+  THEGAMER300: real men deal with it
+[2/27/2021 11:16:17 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:18 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[2/27/2021 11:16:18 PM]
+  Mudraptor attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/27/2021 11:16:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:18 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:18 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:18 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:18 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:19 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:19 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:19 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:19 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:19 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:20 PM]
+  Mudraptor attacked by Lester. Lacerations: 25 Bleeding: 2
+[2/27/2021 11:16:20 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:20 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:21 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:21 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:21 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:21 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:21 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:21 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:21 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:22 PM]
+  Mudraptor attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/27/2021 11:16:22 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:22 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:22 PM]
+  terc started repairing Large Engine
+[2/27/2021 11:16:22 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:23 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:24 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:24 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:26 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:26 PM]
+  TornMap picked up Pomegrenade Extract
+[2/27/2021 11:16:29 PM]
+  TornMap used item Pomegrenade Extract
+[2/27/2021 11:16:29 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:30 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:31 PM]
+  tomacatx1 has died (Cause of death: Barotrauma)
+[2/27/2021 11:16:34 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:35 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:35 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:36 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:36 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:38 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:39 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:40 PM]
+  tomacatx1 has died (Cause of death: Barotrauma)
+[2/27/2021 11:16:40 PM]
+  Console command "revive tomacatx1" executed by tomacatx1.
+[2/27/2021 11:16:40 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:41 PM]
+  Console command "heal tomacatx1" executed by tomacatx1.
+[2/27/2021 11:16:43 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[2/27/2021 11:16:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:47 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:49 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:16:50 PM]
+  terc started repairing Nuclear Reactor
+[2/27/2021 11:16:50 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:16:51 PM]
+  Mudraptor attacked by Lester. Lacerations: 1.25
+[2/27/2021 11:16:55 PM]
+  TornMap picked up Morphine
+[2/27/2021 11:16:55 PM]
+  Console command "revive tomacatx1" executed by tomacatx1.
+[2/27/2021 11:16:55 PM]
+  tomacatx1 has died (Cause of death: Barotrauma)
+[2/27/2021 11:16:58 PM]
+  TornMap used item Morphine
+[2/27/2021 11:17:04 PM]
+  tomacatx1 has died (Cause of death: Barotrauma)
+[2/27/2021 11:17:12 PM]
+  terc: shit
+[2/27/2021 11:17:14 PM]
+  terc: tomas dead
+[2/27/2021 11:17:20 PM]
+  Lester placed Saline in Mudraptor Egg (ID: 4101)
+[2/27/2021 11:17:20 PM]
+  THEGAMER300: WHAT HAPPENED
+[2/27/2021 11:17:25 PM]
+  terc failed to repair Small Pump
+[2/27/2021 11:17:25 PM]
+  TornMap: yeah he's dead
+[2/27/2021 11:17:25 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:17:26 PM]
+  TornMap: :)
+[2/27/2021 11:17:31 PM]
+  TornMap: Awesome!!
+[2/27/2021 11:17:32 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:17:35 PM]
+  terc: just found his corpse
+[2/27/2021 11:17:37 PM]
+  terc started repairing Small Pump
+[2/27/2021 11:17:39 PM]
+  Lester dropped Guitar
+[2/27/2021 11:17:52 PM]
+  TornMap: we need to access the armory
+[2/27/2021 11:17:57 PM]
+  THEGAMER300: dude theres some
+[2/27/2021 11:18:01 PM]
+  THEGAMER300: mudraptor egg
+[2/27/2021 11:18:02 PM]
+  terc dropped Diving Suit
+[2/27/2021 11:18:10 PM]
+  TornMap: back ballast flooded
+[2/27/2021 11:18:12 PM]
+  THEGAMER300: move terc i gotta kill the egg
+[2/27/2021 11:18:17 PM]
+  THEGAMER300: MOVE YOUR FAT ASS
+[2/27/2021 11:18:24 PM]
+  TornMap picked up Crowbar
+[2/27/2021 11:18:37 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:18:42 PM]
+  TornMap equipped Crowbar
+[2/27/2021 11:18:49 PM]
+  TornMap placed Crowbar in Supplies Cabinet (ID: 478)
+[2/27/2021 11:18:50 PM]
+  terc picked up Revolver
+[2/27/2021 11:18:51 PM]
+  THEGAMER300: mudraptor egg desrtroyed
+[2/27/2021 11:19:01 PM]
+  terc equipped Coilgun Ammunition Box
+[2/27/2021 11:19:01 PM]
+  terc picked up Coilgun Ammunition Box
+[2/27/2021 11:19:03 PM]
+  THEGAMER300: ok sure
+[2/27/2021 11:19:04 PM]
+  THEGAMER300 picked up Diving Suit
+[2/27/2021 11:19:06 PM]
+  terc dropped Coilgun Ammunition Box
+[2/27/2021 11:19:07 PM]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[2/27/2021 11:19:09 PM]
+  TornMap placed Bandage in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:19:09 PM]
+  terc placed Revolver in Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:09 PM]
+  terc removed IC-4 Block from Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:09 PM]
+  terc removed IC-4 Block from Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:09 PM]
+  terc picked up IC-4 Block
+[2/27/2021 11:19:09 PM]
+  terc picked up IC-4 Block
+[2/27/2021 11:19:11 PM]
+  Console command "control husk" executed by tomacatx1.
+[2/27/2021 11:19:12 PM]
+  terc placed IC-4 Block in Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:12 PM]
+  terc placed IC-4 Block in Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:12 PM]
+  terc removed Revolver from Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:12 PM]
+  terc picked up Revolver
+[2/27/2021 11:19:17 PM]
+  TornMap picked up Syringe Gun
+[2/27/2021 11:19:19 PM]
+  TornMap placed Syringe Gun in Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:27 PM]
+  terc placed Revolver in Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:27 PM]
+  terc removed Harpoon Gun from Large Steel Cabinet (ID: 741)
+[2/27/2021 11:19:27 PM]
+  terc picked up Harpoon Gun
+[2/27/2021 11:19:28 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:19:31 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:19:32 PM]
+  TornMap picked up Diving Knife
+[2/27/2021 11:19:35 PM]
+  THEGAMER300: im fixing it
+[2/27/2021 11:19:46 PM]
+  terc started repairing Pump
+[2/27/2021 11:19:46 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:19:50 PM]
+  TornMap: Broken devices in junction compartment!
+[2/27/2021 11:19:51 PM]
+  THEGAMER300: i fixed the breaches
+[2/27/2021 11:19:54 PM]
+  TornMap placed Oxygen Tank in Diving Mask (ID: 378)
+[2/27/2021 11:20:07 PM]
+  TornMap picked up Captain's Pipe
+[2/27/2021 11:20:10 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[2/27/2021 11:20:14 PM]
+  Outer wall repaired by terc
+[2/27/2021 11:20:14 PM]
+  THEGAMER300: what room is this
+[2/27/2021 11:20:14 PM]
+  TornMap placed Pipe Tobacco in Captain's Pipe (ID: 4605)
+[2/27/2021 11:20:15 PM]
+  TornMap equipped Captain's Pipe
+[2/27/2021 11:20:25 PM]
+  TornMap: hey terc
+[2/27/2021 11:20:26 PM]
+  THEGAMER300 dropped Diving Suit
+[2/27/2021 11:20:27 PM]
+  TornMap: you want some of this
+[2/27/2021 11:20:36 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:20:37 PM]
+  TornMap: you need morphine
+[2/27/2021 11:20:37 PM]
+  terc started repairing Supercapacitor
+[2/27/2021 11:20:42 PM]
+  TornMap picked up Morphine
+[2/27/2021 11:20:49 PM]
+  terc failed to repair Supercapacitor
+[2/27/2021 11:20:52 PM]
+  TornMap used item Morphine
+[2/27/2021 11:20:57 PM]
+  terc started repairing Supercapacitor
+[2/27/2021 11:21:00 PM]
+  terc: thanks
+[2/27/2021 11:21:06 PM]
+  TornMap: dinkster
+[2/27/2021 11:21:08 PM]
+  THEGAMER300: wut
+[2/27/2021 11:21:09 PM]
+  TornMap: try this out

@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Mützen________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="kleidung_hüte_unteroffizier_mannschaft" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Sprite name="Mannschafts Mütze Unteroffizier item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/Mütze_Mannschaft_Unteroffizier.png" depth="0.6" sourcerect="1,1,76,50" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Mannschafts Mütze Unteroffizier" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/Mütze_Mannschaft_Unteroffizier.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="false" sourcerect="1,1,76,50" origin="0.5,0.9" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_schirmmütze_mannschaft" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Sprite name="Schirmmütze Mannschaft item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/Schirmmütze_Mannschaft.png" depth="0.6" sourcerect="0,1,82,50" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schirmmütze Mannschaft" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/Schirmmütze_Mannschaft.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="false" sourcerect="0,1,82,50" origin="0.5,1" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_schirmmütze_offizier" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Sprite name="Schirmmütze Offizier item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/Schirmmütze_Offizier.png" depth="0.6" sourcerect="0,1,82,50" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schirmmütze Offizier" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/Schirmmütze_Offizier.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="false" sourcerect="0,1,82,50" origin="0.5,1" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_schirmmütze_unteroffizier" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Sprite name="Schirmmütze Unteroffizier item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/Schirmmütze_Unteroffizier.png" depth="0.6" sourcerect="0,1,82,50" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schirmmütze Unteroffizier" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/Schirmmütze_Unteroffizier.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="false" sourcerect="0,1,82,50" origin="0.5,1" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_cap_u797" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.125" />
+    <Price locationtype="Research" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Deconstruct time="10" />
+    <Sprite name="U797 Mütze item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/cap_u797.png" depth="0.6" sourcerect="0,0,86,47" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="U797 Mütze" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/cap_u797.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="false" sourcerect="0,0,86,47" origin="0.4,0.9" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_cap_sanitäter" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.125" />
+    <Price locationtype="Research" buyprice="50" />
+    <Price locationtype="Military" buyprice="50" />
+    <Price locationtype="City" buyprice="50" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Deconstruct time="10" />
+    <Sprite name="Sanitäter Mütze item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/cap_san.png" depth="0.6" sourcerect="0,0,86,47" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Sanitäter Mütze" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Mützen/cap_san.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="false" sourcerect="0,0,86,47" origin="0.4,0.9" />
+    </Wearable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Helme_________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="kleidung_hüte_helme_u797wache" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" impactsoundtag="impact_metal_heavy" scale="0.4">
+    <Upgrade gameversion="0.9.6.0" scale="0.4" />
+    <Price locationtype="Military" buyprice="125" />
+    <Price locationtype="City" buyprice="150" />
+    <Price locationtype="Outpost" buyprice="200" />
+    <Deconstruct time="10">
+      <Item identifier="ballisticfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredItem identifier="ballisticfiber" />
+    </Fabricate>
+    <Sprite name="U797 Wachen Helm item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Helme/combat_helmet_watch_u797.png" sourcerect="0,1,73,66" depth="0.6" origin="0.5,0.5" />
+    <Body radius="30" density="50" />
+    <Wearable slots="Any,Head" armorvalue="20.0" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="internaldamage,blunttrauma,lacerations,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.2" bleedingmultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.3" bleedingmultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0" damagemultiplier="0.1" bleedingmultiplier="0.0" damagesound="LimbArmor" deflectprojectiles="true" />
+      <sprite name="U797 Wachen Helm" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Helme/combat_helmet_watch_u797.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidewearablesoftype="hair" sourcerect="0,1,73,66" origin="0.5,0.7" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_helme_u797sani" category="Equipment" tags="smallitem" cargocontaineridentifier="metalcrate" description="" impactsoundtag="impact_metal_heavy" scale="0.4">
+    <Upgrade gameversion="0.9.6.0" scale="0.4" />
+    <Price locationtype="Military" buyprice="125" />
+    <Price locationtype="City" buyprice="150" />
+    <Price locationtype="Outpost" buyprice="200" />
+    <Deconstruct time="10">
+      <Item identifier="ballisticfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredItem identifier="ballisticfiber" />
+    </Fabricate>
+    <Sprite name="U797 Sani Helm item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Helme/combat_helmet_san_u797.png" sourcerect="0,1,73,66" depth="0.6" origin="0.5,0.5" />
+    <Body radius="30" density="50" />
+    <Wearable slots="Any,Head" armorvalue="20.0" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="internaldamage,blunttrauma,lacerations,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.2" bleedingmultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.3" bleedingmultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0" damagemultiplier="0.1" bleedingmultiplier="0.0" damagesound="LimbArmor" deflectprojectiles="true" />
+      <sprite name="U797 Sani Helm" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Helme/combat_helmet_san_u797.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidewearablesoftype="hair" sourcerect="0,1,73,66" origin="0.5,0.7" />
+    </Wearable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Schiffchen____________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="kleidung_hüte_schiffchen_offiziere" category="Misc" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="60" />
+    <Price locationtype="Military" buyprice="40" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="120" />
+    <Deconstruct time="5">
+      <Item identifier="ballisticfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredItem identifier="ballisticfiber" />
+    </Fabricate>
+    <Sprite name="Schiffchen Offiziere item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_Offiziere.png" depth="0.6" sourcerect="71,81,59,37" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schiffchen Offiziere" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_Offiziere.png" limb="Head" inheritlimbdepth="true" hidelimb="false" hideotherwearables="false" inherittexturescale="true" inheritorigin="false" sourcerect="63,69,78,70" origin="0.547122,0.76733446" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_schiffchen_unteroffiziere" category="Misc" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="60" />
+    <Price locationtype="Military" buyprice="40" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="120" />
+    <Deconstruct time="5">
+      <Item identifier="ballisticfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredItem identifier="ballisticfiber" />
+    </Fabricate>
+    <Sprite name="Schiffchen Unteroffiziere item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_Unteroffiziere.png" depth="0.6" sourcerect="71,81,59,37" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schiffchen Unteroffiziere" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_Unteroffiziere.png" limb="Head" inheritlimbdepth="true" hidelimb="false" hideotherwearables="false" inherittexturescale="true" inheritorigin="false" sourcerect="63,69,78,70" origin="0.547122,0.76733446" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_schiffchen_mannschaft" category="Misc" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="60" />
+    <Price locationtype="Military" buyprice="40" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="120" />
+    <Deconstruct time="5">
+      <Item identifier="ballisticfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredItem identifier="ballisticfiber" />
+    </Fabricate>
+    <Sprite name="Schiffchen Mannschaft item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_Mannschaft.png" depth="0.6" sourcerect="71,81,59,37" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schiffchen Mannschaft" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_Mannschaft.png" limb="Head" inheritlimbdepth="true" hidelimb="false" hideotherwearables="false" inherittexturescale="true" inheritorigin="false" sourcerect="63,69,78,70" origin="0.547122,0.76733446" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_schiffchen_sani_mannschaft" category="Misc" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="60" />
+    <Price locationtype="Military" buyprice="40" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="120" />
+    <Deconstruct time="5">
+      <Item identifier="ballisticfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredItem identifier="ballisticfiber" />
+    </Fabricate>
+    <Sprite name="Schiffchen San Mannschaft item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_San_Mannschaft_3.png" depth="0.6" sourcerect="71,81,59,37" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schiffchen San Mannschaft" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_San_Mannschaft_3.png" limb="Head" inheritlimbdepth="true" hidelimb="false" hideotherwearables="false" inherittexturescale="true" inheritorigin="false" sourcerect="63,69,78,70" origin="0.547122,0.76733446" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_schiffchen_sani_unteroffiziere" category="Misc" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="60" />
+    <Price locationtype="Military" buyprice="40" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="120" />
+    <Deconstruct time="5">
+      <Item identifier="ballisticfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredItem identifier="ballisticfiber" />
+    </Fabricate>
+    <Sprite name="Schiffchen San Unteroffiziere item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_San_Unteroffiziere_3.png" depth="0.6" sourcerect="71,81,59,37" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schiffchen San Unteroffiziere" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_San_Unteroffiziere_3.png" limb="Head" inheritlimbdepth="true" hidelimb="false" hideotherwearables="false" inherittexturescale="true" inheritorigin="false" sourcerect="63,69,78,70" origin="0.547122,0.76733446" />
+    </Wearable>
+  </Item>
+  <Item name="" identifier="kleidung_hüte_schiffchen_sani_offiziere" category="Misc" tags="smallitem" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Price locationtype="Research" buyprice="60" />
+    <Price locationtype="Military" buyprice="40" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="120" />
+    <Deconstruct time="5">
+      <Item identifier="ballisticfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredItem identifier="ballisticfiber" />
+    </Fabricate>
+    <Sprite name="Schiffchen San Offiziere item" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_San_Offiziere_3.png" depth="0.6" sourcerect="71,81,59,37" origin="0.5,0.5" />
+    <Body width="75" height="50" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Schiffchen San Offiziere" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Schiffchen/Schiffchen_San_Offiziere_3.png" limb="Head" inheritlimbdepth="true" hidelimb="false" hideotherwearables="false" inherittexturescale="true" inheritorigin="false" sourcerect="63,69,78,70" origin="0.547122,0.76733446" />
+    </Wearable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Masken________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_divingmask" description="Klein genug, um am Körper getragen zu werden, bietet aber keinen Schutz vor dem Wasserdruck im Falle eines kompletten Hüllenbruchs." scale="0.5" category="Equipment" Tags="smallitem,diving,divingmask" cargocontaineridentifier="metalcrate" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="divingcab" minamount="1" maxamount="2" spawnprobability="1" />
+    <PreferredContainer primary="supplycab" minamount="1" maxamount="1" spawnprobability="0.25" />
+    <Price locationtype="Research" buyprice="55" />
+    <Price locationtype="City" buyprice="55" />
+    <Price locationtype="Military" buyprice="55" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Deconstruct time="10">
+      <Item identifier="plastic" />
+      <Item identifier="rubber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="mechanical" level="25" />
+      <RequiredItem identifier="plastic" />
+      <RequiredItem identifier="rubber" />
+      <RequiredItem identifier="rubber" />
+    </Fabricate>
+    <InventoryIcon texture="Masken\mask_u797_item.png" sourcerect="0,0,52,57" origin="0.5,0.5" />
+    <Sprite name="Diving Mask" texture="Masken\mask_u797.png" depth="0.55" sourcerect="0,0,71,69" origin="0.5,0.5" />
+    <Body width="26" height="18" density="15" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect" displaycontainedstatus="true">
+      <sprite name="Diving Mask Wearable" texture="Mods/U797 - Content Pack/Items/Kleidung/Hüte/Masken/mask_u797.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidelimb="false" hideotherwearables="false" sourcerect="0,0,71,69" origin="0.4,0.3" hidewearablesoftype="moustache,beard" />
+      <StatusEffect type="OnWearing" target="Character" HideFace="true" ObstructVision="true" SpeedMultiplier="0.9" setvalue="true" disabledeltatime="true" />
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1000.0" Condition="-0.5" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygentank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="-100.0" Oxygen="-5.0" Condition="-5.0">
+        <Conditional IsDead="false" />
+        <RequiredItem items="weldingfueltank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="-100.0" Oxygen="-7.0" Condition="-5.0">
+        <RequiredItem items="incendiumfueltank" type="Contained" />
+        <Affliction identifier="burn" amount="0.1" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1000.0" Condition="-0.3" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygeniteshard" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" OxygenAvailable="1500.0" Condition="-0.1" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygenitetank" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" SpeedMultiplier="1.1" setvalue="true" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygeniteshard" type="Contained" />
+      </StatusEffect>
+      <StatusEffect type="OnWearing" target="Contained,Character" SpeedMultiplier="1.2" setvalue="true" comparison="Or">
+        <Conditional IsDead="false" />
+        <RequiredItem items="oxygenitetank" type="Contained" />
+      </StatusEffect>
+    </Wearable>
+    <ItemContainer capacity="1" hideitems="true">
+      <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="0,157,92,27" />
+      <Containable items="oxygensource,weldingfuel" />
+    </ItemContainer>
+  </Item>
+</Items>

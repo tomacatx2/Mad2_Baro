@@ -1,0 +1,422 @@
+﻿[2/27/2021 8:50:01 PM]
+  Starting the server...
+[2/27/2021 8:50:01 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[2/27/2021 8:50:08 PM]
+  Server started
+[2/27/2021 8:51:24 PM]
+  tomacatx1 has joined the server.
+[2/27/2021 8:51:24 PM]
+  Saving client permissions
+[2/27/2021 8:54:17 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/27/2021 8:54:17 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/27/2021 8:54:17 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/27/2021 8:54:21 PM]
+  Client "tomacatx1" started the round.
+[2/27/2021 8:54:21 PM]
+  Starting a new round...
+[2/27/2021 8:54:25 PM]
+  Mission: Terminate a Swarm
+[2/27/2021 8:54:25 PM]
+  A small swarm of Crawler has been terrorizing vessels traveling between Pelorus Linea Station and Aylesbury. A reward of 2,600 marks has been promised to any crew that can neutralize it.
+[2/27/2021 8:54:25 PM]
+  Game mode: Mission
+[2/27/2021 8:54:25 PM]
+  Submarine: Humpback
+[2/27/2021 8:54:25 PM]
+  Level seed: JK0uW4rx
+[2/27/2021 8:54:25 PM]
+  Mission: Terminate a Swarm
+[2/27/2021 8:54:26 PM]
+  Round started.
+[2/27/2021 8:54:31 PM]
+  Pete Nunez: Did you hear that?
+[2/27/2021 8:54:47 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/27/2021 8:55:00 PM]
+  tomacatx1 picked up Fuel Rod
+[2/27/2021 8:55:00 PM]
+  tomacatx1 picked up Fuel Rod
+[2/27/2021 8:55:12 PM]
+  tomacatx1: Pete Nunez, man the weapons!
+[2/27/2021 8:55:13 PM]
+  Pete Nunez: Aye!
+[2/27/2021 8:55:17 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:55:17 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:55:18 PM]
+  tomacatx1 equipped Chemical Crate
+[2/27/2021 8:55:18 PM]
+  tomacatx1 picked up Chemical Crate
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:23 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:28 PM]
+  tomacatx1 placed Chemical Crate in Crate Shelf (ID: 109)
+[2/27/2021 8:55:36 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/27/2021 8:55:39 PM]
+  tomacatx1 equipped Metal Crate
+[2/27/2021 8:55:39 PM]
+  tomacatx1 picked up Metal Crate
+[2/27/2021 8:55:42 PM]
+  tomacatx1 picked up Toolbelt
+[2/27/2021 8:55:43 PM]
+  tomacatx1 picked up Body Armor
+[2/27/2021 8:55:45 PM]
+  tomacatx1 placed Renegade's Hat in Metal Crate (ID: 3750)
+[2/27/2021 8:55:45 PM]
+  tomacatx1 removed Ballistic Helmet from Metal Crate (ID: 3750)
+[2/27/2021 8:55:45 PM]
+  tomacatx1 picked up Ballistic Helmet
+[2/27/2021 8:55:49 PM]
+  tomacatx1 placed Welding Tool in Toolbelt (ID: 3824)
+[2/27/2021 8:55:51 PM]
+  tomacatx1 picked up Diving Mask
+[2/27/2021 8:55:53 PM]
+  tomacatx1 placed Renegade's Hat in Supplies Cabinet (ID: 377)
+[2/27/2021 8:55:56 PM]
+  tomacatx1 picked up Wrench
+[2/27/2021 8:55:57 PM]
+  tomacatx1 picked up Screwdriver
+[2/27/2021 8:55:58 PM]
+  tomacatx1 placed Crowbar in Toolbelt (ID: 3824)
+[2/27/2021 8:56:00 PM]
+  tomacatx1 placed Screwdriver in Toolbelt (ID: 3824)
+[2/27/2021 8:56:01 PM]
+  tomacatx1 placed Wrench in Toolbelt (ID: 3824)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:13 PM]
+  tomacatx1 placed Thorium in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:15 PM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:16 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 865)
+[2/27/2021 8:56:33 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:33 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:33 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:33 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:34 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:44 PM]
+  tomacatx1 placed Crowbar in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:46 PM]
+  tomacatx1 placed Blue Paint in Metal Crate (ID: 3750)
+[2/27/2021 8:56:46 PM]
+  tomacatx1 removed Crowbar from Metal Crate (ID: 3750)
+[2/27/2021 8:56:46 PM]
+  tomacatx1 placed Crowbar in Medium Steel Cabinet (ID: 539)
+[2/27/2021 8:56:47 PM]
+  tomacatx1 placed Red Paint in Metal Crate (ID: 3750)
+[2/27/2021 8:56:48 PM]
+  tomacatx1 placed Sprayer in Metal Crate (ID: 3750)
+[2/27/2021 8:56:49 PM]
+  tomacatx1 placed Sprayer in Metal Crate (ID: 3750)
+[2/27/2021 8:57:01 PM]
+  tomacatx1 picked up Stun Gun
+[2/27/2021 8:57:03 PM]
+  tomacatx1 placed Stun Gun in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:05 PM]
+  tomacatx1 placed SMG Magazine in SMG (ID: 3291)
+[2/27/2021 8:57:06 PM]
+  tomacatx1 placed SMG Magazine in SMG (ID: 3292)
+[2/27/2021 8:57:10 PM]
+  tomacatx1 placed SMG Magazine in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:12 PM]
+  tomacatx1 placed SMG Magazine in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:16 PM]
+  tomacatx1 placed SMG Magazine in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:18 PM]
+  tomacatx1 placed Ballistic Helmet in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:20 PM]
+  tomacatx1 placed Diving Knife in Metal Crate (ID: 3750)
+[2/27/2021 8:57:20 PM]
+  tomacatx1 removed Body Armor from Metal Crate (ID: 3750)
+[2/27/2021 8:57:20 PM]
+  tomacatx1 placed Body Armor in Large Steel Cabinet (ID: 741)
+[2/27/2021 8:57:27 PM]
+  tomacatx1 picked up Riot Shotgun
+[2/27/2021 8:57:35 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:57:36 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:57:38 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:57:39 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/27/2021 8:57:44 PM]
+  tomacatx1 placed Metal Crate in Crate Shelf (ID: 109)
+[2/27/2021 8:57:49 PM]
+  tomacatx1 equipped Guitar
+[2/27/2021 8:57:49 PM]
+  tomacatx1 picked up Guitar
+[2/27/2021 8:57:55 PM]
+  tomacatx1 dropped Guitar
+[2/27/2021 8:57:56 PM]
+  tomacatx1 picked up Captain's Pipe
+[2/27/2021 8:57:58 PM]
+  tomacatx1 equipped Medic Crate
+[2/27/2021 8:57:58 PM]
+  tomacatx1 picked up Medic Crate
+[2/27/2021 8:58:01 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 8:58:01 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 8:58:01 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/27/2021 8:58:04 PM]
+  tomacatx1 placed Pipe Tobacco in Captain's Pipe (ID: 3819)
+[2/27/2021 8:58:08 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:08 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:09 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:10 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:10 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:10 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:10 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/27/2021 8:58:13 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3824)
+[2/27/2021 8:58:13 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3824)
+[2/27/2021 8:58:15 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3824)
+[2/27/2021 8:58:16 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3824)
+[2/27/2021 8:58:21 PM]
+  tomacatx1 placed Medic Crate in Crate Shelf (ID: 109)
+[2/27/2021 8:58:47 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 8:58:47 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/27/2021 8:58:55 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[2/27/2021 8:58:58 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 8:58:58 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/27/2021 8:59:01 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[2/27/2021 8:59:23 PM]
+  Saving client permissions
+[2/27/2021 8:59:36 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/27/2021 9:01:30 PM]
+  Console command "spawn balloon cursor" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "spawn balloon cursor" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "spawn Assistant cursor" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "spawn c" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "spawn Captain cursor" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "spawncharacter Assistant cursor" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "spawn" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[2/27/2021 9:01:30 PM]
+  Client "tomacatx1" ended the round.
+[2/27/2021 9:01:30 PM]
+  Ending the round...
+[2/27/2021 9:01:30 PM]
+  Round ended.
+[2/27/2021 9:01:30 PM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[2/27/2021 9:01:46 PM]
+  tomacatx1 has joined the server.
+[2/27/2021 9:01:46 PM]
+  Saving client permissions
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed AutoRestartInterval to 300
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed EndVoteRequiredRatio to 1
+[2/27/2021 9:02:28 PM]
+  Client "tomacatx1" started the round.
+[2/27/2021 9:02:28 PM]
+  Starting a new round...
+[2/27/2021 9:02:31 PM]
+  Mission: Killing a Moloch
+[2/27/2021 9:02:31 PM]
+  A particularly aggressive Moloch has been terrorizing vessels traveling between Sidon Flexus Mine and Hyldemoer Habitation Outpost. A reward of 5,000 marks has been promised to those who kill the creature.
+[2/27/2021 9:02:31 PM]
+  Game mode: Mission
+[2/27/2021 9:02:31 PM]
+  Submarine: Humpback
+[2/27/2021 9:02:31 PM]
+  Level seed: BKVG2NrM
+[2/27/2021 9:02:31 PM]
+  Mission: Killing a Moloch
+[2/27/2021 9:02:31 PM]
+  Round started.
+[2/27/2021 9:02:36 PM]
+  Trudy Mason: Are we there yet?
+[2/27/2021 9:02:45 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/27/2021 9:02:59 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 9:02:59 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/27/2021 9:03:11 PM]
+  Console command "spawn balloon cursor" executed by tomacatx1.
+[2/27/2021 9:03:17 PM]
+  Console command "spawn Assistant cursor" executed by tomacatx1.
+[2/27/2021 9:03:18 PM]
+  Josef Summitt: Need to find a diving suit!
+[2/27/2021 9:03:22 PM]
+  Josef Summitt has died (Cause of death: Barotrauma)
+[2/27/2021 9:03:31 PM]
+  Console command "spawn crawler_hatchling cursor" executed by tomacatx1.
+[2/27/2021 9:03:59 PM]
+  Ending round (no living players left and respawning is not enabled during this round)
+[2/27/2021 9:03:59 PM]
+  Ending the round...
+[2/27/2021 9:03:59 PM]
+  Round ended.
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed RespawnInterval to 600
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed MinRespawnRatio to 0
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed AllowRespawn to True
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/27/2021 9:04:31 PM]
+  Client "tomacatx1" started the round.
+[2/27/2021 9:04:31 PM]
+  Starting a new round...
+[2/27/2021 9:04:33 PM]
+  Mission: Terminate a Swarm
+[2/27/2021 9:04:33 PM]
+  A small swarm of Crawler has been terrorizing vessels traveling between Topol Habitation Outpost and Arid Troma Mine. A reward of 2,600 marks has been promised to any crew that can neutralize it.
+[2/27/2021 9:04:33 PM]
+  Game mode: Mission
+[2/27/2021 9:04:33 PM]
+  Submarine: Humpback
+[2/27/2021 9:04:33 PM]
+  Level seed: I5DmpbAU
+[2/27/2021 9:04:33 PM]
+  Mission: Terminate a Swarm
+[2/27/2021 9:04:33 PM]
+  Round started.
+[2/27/2021 9:04:38 PM]
+  Siena Maynard: I miss the sun.
+[2/27/2021 9:04:43 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/27/2021 9:04:47 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 9:05:08 PM]
+  Console command "spawn humanhusk cursor" executed by tomacatx1.
+[2/27/2021 9:05:19 PM]
+  Console command "spawn hammerhead_m cursor" executed by tomacatx1.
+[2/27/2021 9:05:20 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:05:31 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:05:43 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:05:54 PM]
+  Console command "spawn mudraptor_hatchling cursor" executed by tomacatx1.
+[2/27/2021 9:06:07 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:06:10 PM]
+  Siena Maynard: Need to find a diving suit!
+[2/27/2021 9:06:22 PM]
+  Siena Maynard: I'm bleeding out!
+[2/27/2021 9:06:29 PM]
+  Console command "spawn swarmcrawler cursor" executed by tomacatx1.
+[2/27/2021 9:06:44 PM]
+  Console command "spawn tigerthresher_hatchling cursor" executed by tomacatx1.
+[2/27/2021 9:06:48 PM]
+  Inner wall breached by Tigerthresher_hatchling
+[2/27/2021 9:06:55 PM]
+  Siena Maynard: Help, I'm bleeding!
+[2/27/2021 9:07:02 PM]
+  Siena Maynard: Need medical assistance in upper mid!
+[2/27/2021 9:07:13 PM]
+  Siena Maynard equipped Bandage
+[2/27/2021 9:07:19 PM]
+  Siena Maynard equipped Blood Pack
+[2/27/2021 9:07:22 PM]
+  Tigerthresher_hatchling has died (Cause of death: Bite wounds)
+[2/27/2021 9:07:26 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:07:27 PM]
+  Client "tomacatx1" ended the round.
+[2/27/2021 9:07:27 PM]
+  Ending the round...

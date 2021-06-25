@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Straw Hat" identifier="strawhat" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Straw Hat" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="0,0,117,70"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="0,0,117,70" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Straw Hat Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair" inherittexturescale="true" sourcerect="0,0,117,70"  origin="0.48,0.68" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Deerstalker" identifier="deerstalker" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="200" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Deerstalker" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="118,0,117,60"  origin="0.5,0.5" scale="0.5" />
+    <Body width="60" radius="60" density="60" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="118,0,94,60" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Deerstalker Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="118,0,117,60"  origin="0.39,0.90" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Bowler" identifier="bowler" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="300" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Bowler" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="213,0,89,60"  origin="0.5,0.5" scale="0.5" />
+    <Body width="60" radius="60" density="60" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="213,0,89,60" />
+    <Deconstruct time="10">
+      <Item identifier="steel" />
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Bowler Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="213,0,89,60"  origin="0.55,0.90" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Carbon Skull Mask" identifier="skullmaskcarbon" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="200" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Carbon Skull Mask" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="302,0,52,70" origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="302,0,52,70" />
+    <Deconstruct time="10">
+      <Item identifier="carbon" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Carbon Skull Mask Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="302,0,52,70"  origin="0.30,0.44" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Tam O'Shanter" identifier="tamcap" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Tam O'Shanter" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="353,0,75,70" origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="353,0,75,70" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Tam O'Shanter Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="353,0,75,70"  origin="0.58,0.90" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+
+  <Item name="Imperial Tricorn" identifier="imperialTricorn" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="200" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="2" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Imperial Tricorn" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="0,70,100,87"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="0,70,100,87" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Imperial Tricorn Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="0,70,100,87"  origin="0.55,0.55" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Rastacap" identifier="rastacap" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="300" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.005"/>
+    <Sprite name="Rastacap" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="100,70,84,70"  origin="0.5,0.5" scale="0.5" />
+    <Body width="60" radius="60" density="60" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="100,70,84,70" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Rastacap Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="100,70,84,70"  origin="0.58,0.64" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Flower Crown" identifier="flowercrown" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Flower Crown" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="184,70,109,87"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="184,70,109,87" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Flower Crown Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="184,70,109,87"  origin="0.50,0.60" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Jotaro's Cap" identifier="jotaroscap" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Jotaro's Cap" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="293,70,99,70"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="293,70,99,70" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+      <Item identifier="copper" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Jotaro's Cap Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="293,70,99,70"  origin="0.51,0.68" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+	  <StatusEffect tags="medical" type="OnWearing" target="Character" disabledeltatime="true">
+			<Conditional strengthen="lt 100"/>
+			<Affliction identifier="strengthen" amount="1" />
+		</StatusEffect>
+    </Wearable>
+  </Item>
+  
+  <Item name="Kylo's Mask" identifier="kylomask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Kylo's Mask" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="391,70,79,80"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="391,70,79,80" />
+    <Deconstruct time="10">
+      <Item identifier="carbon" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Wearable limbtype="Head" armorvalue="20" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations, burn" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.3" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <sprite name="Kylo's Mask Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="false" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="391,70,79,80"  origin="0.55,0.55" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+	  <StatusEffect tags="medical" type="OnWearing" target="Character" disabledeltatime="true">
+			<Conditional strengthen="lt 100"/>
+			<Affliction identifier="strengthen" amount="1" />
+		</StatusEffect>
+    </Wearable>
+  </Item>
+  
+  <Item name="Centurion Helmet" identifier="centurionhelmet" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="3" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Centurion Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="0,157,118,140"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="0,157,118,140" />
+    <Deconstruct time="10">
+      <Item identifier="steel" />
+    </Deconstruct>
+        <Wearable limbtype="Head" armorvalue="30" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.2" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <sprite name="Centurion Helmet Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="false" inherittexturescale="true" sourcerect="0,157,118,140"  origin="0.60,0.71" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Tengai Hat" identifier="tengaihat" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="50" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Tengai Hat" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="118,173,120,120"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="118,173,120,120" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+        <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Tengai Hat Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="false" inherittexturescale="true" sourcerect="118,173,120,120"  origin="0.55,0.65" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Horse Hat" identifier="horsehat" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="999" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.005"/>
+    <Sprite name="Horse Hat" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="238,150,154,148"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="238,150,154,148" />
+    <Deconstruct time="10">
+      <Item identifier="copper" />
+      <Item identifier="copper" />
+      <Item identifier="tin" />
+    </Deconstruct>
+        <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Horse Hat Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" hidewearablesoftype="item, hair, faceattachment" inheritlimbdepth="false" inherittexturescale="true" sourcerect="238,150,154,148"  origin="0.30,0.70" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Pirate Hat" identifier="piratehat" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Pirate Hat" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="394,150,118,81"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="394,150,118,81" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+        <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Pirate Hat Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="394,150,118,81"  origin="0.60,0.65" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Stormtrooper Helmet" identifier="stormtrooperhelmet" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="300" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Stormtrooper Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="431,232,81,87"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="431,232,81,87" />
+    <Deconstruct time="10">
+      <Item identifier="carbon" />
+      <Item identifier="plastic" />
+      <Item identifier="fpgacircuit" />
+    </Deconstruct>
+	<Turret HudTint="0.0,0.5,0.0,0.1" drawhudwhenequipped="true" />
+       <Wearable limbtype="Head" armorvalue="20" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations, burn" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.5" probabilitymultiplier="0.6" damagesound="LimbArmor" deflectprojectiles="false" />
+      <sprite name="Stormtrooper Helmet Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="431,232,81,87"  origin="0.55,0.55" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Chiralium Mask" identifier="chiraliummask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="400" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="3" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Chiralium Mask" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="0,298,45,47"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="0,298,45,47" />
+    <Deconstruct time="10">
+      <Item identifier="copper" />
+      <Item identifier="copper" />
+      <Item identifier="zinc" />
+    </Deconstruct>
+        <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Chiralium Mask Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="0,298,45,47"  origin="0.20,0.23" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Party Hat" identifier="partyhat" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="200" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" minamount="2" maxamount="4" spawnprobability="0.005"/>
+    <Sprite name="Party Hat" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="45,302,42,53"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="45,302,42,53" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+        <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Party Hat Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="45,302,42,53"  origin="0.63,1.35" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+   <Item name="Laurel Crown" identifier="laurelcrown" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Laurel Crown" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="0,358,80,43"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="0,358,80,43" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Laurel Crown Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="0,358,80,43"  origin="0.47,0.85" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Feldmutze" identifier="feldmutze" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Feldmutze" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="79,358,75,44"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="79,358,75,44" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Feldmutze Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="79,358,75,44"  origin="0.55,1.05" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+
+   <Item name="Bounty Hunter Helmet" identifier="bobbahelmet" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Bounty Hunter Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="154,323,74,89"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="154,323,74,89" />
+    <Deconstruct time="10">
+      <Item identifier="carbon" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Wearable limbtype="Head" armorvalue="20" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations, burn" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.2" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <sprite name="Bounty Hunter Helmet Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="false" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="154,323,74,89"  origin="0.55,0.55" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Blinding Mask" identifier="blindingmask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="50" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Blinding Mask" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="228,323,64,89"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="228,323,64,89" />
+    <Deconstruct time="10">
+      <Item identifier="rubber" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Turret HudTint="0.0,0.0,0.001,0.999" drawhudwhenequipped="true" />
+	<Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Blinding Mask Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, faceattachment" inherittexturescale="true" sourcerect="228,323,64,89"  origin="0.47,0.45" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Haven Helmet" identifier="havenhelmet" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="300" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Haven Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="292,323,83,90"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="292,323,83,90" />
+    <Deconstruct time="10">
+      <Item identifier="carbon" />
+      <Item identifier="plastic" />
+      <Item identifier="steel" />
+	  <Item identifier="fpgacircuit" />
+    </Deconstruct>
+	<Turret HudTint="0.3,0.0,0.0,0.1" drawhudwhenequipped="true" />
+    <Wearable limbtype="Head" armorvalue="30" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations,burn,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.2" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="true" />
+      <sprite name="Haven Helmet Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="292,323,83,90"  origin="0.55,0.50" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Zer0 Helmet" identifier="zer0helmet" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="400" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Zer0 Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="375,319,89,94"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="375,319,89,94" />
+    <Deconstruct time="10">
+      <Item identifier="carbon" />
+      <Item identifier="plastic" />
+      <Item identifier="organicfiber" />
+	  <Item identifier="fpgacircuit" />
+    </Deconstruct>
+	<Turret HudTint="0.4,0.0,0.0,0.1" drawhudwhenequipped="true" />
+    <Wearable limbtype="Head" armorvalue="30" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations,burn,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.2" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="true" />
+      <sprite name="Zer0 Helmet Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="375,319,89,94"  origin="0.50,0.57" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Conquistador Helmet" identifier="conquistadorhelmet" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="100" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="2" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="2" sold="false" />
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Conquistador Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="0,400,92,112" origin="0.5,0.5" scale="0.5" />
+    <Body width="80" radius="80" density="80" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="0,400,92,112" />
+    <Deconstruct time="10">
+      <Item identifier="steel" />
+    </Deconstruct>
+    <Wearable limbtype="Head" armorvalue="20" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations" armorsector="0.0,360.0" damagemultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.2" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <sprite name="Conquistador Helmet Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair" inherittexturescale="true" sourcerect="0,400,92,112" origin="0.50,0.62" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Waterproof Paper Bag" identifier="paperbag" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="1" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Waterproof Paper Bag" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="96,413,76,99"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="96,413,76,99" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Paper Bag Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="96,413,76,99"  origin="0.55,0.55" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Mars Miner Helmet" identifier="marsminer" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="1" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Mars Miner Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="172,413,77,89"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="172,413,77,89" />
+    <Deconstruct time="10">
+      <Item identifier="steel" />
+    </Deconstruct>
+	<CustomInterface canbeselected="false" drawhudwhenequipped="true">
+      <GuiFrame relativesize="0.15,0.1" anchor="TopRight" absoluteoffset="0,20" style="ItemUI" color="1,0.9,0,0.1" />
+      <TickBox text="Mining Light">
+        <StatusEffect type="OnUse" targettype="This" IsOn="true" />
+        <StatusEffect type="OnSecondaryUse" targettype="This" IsOn="false" />
+      </TickBox>
+    </CustomInterface>
+	<Wearable limbtype="Head" armorvalue="20" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.3" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <sprite name="Mars Miner Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="false" hidewearablesoftype="hair" inherittexturescale="true" sourcerect="172,413,77,89"  origin="0.65,0.47" >
+	  <LightComponent LightColor="0.5,4.0,0.0,1.0" Flicker="0.02" range="333" powerconsumption="0" IsOn="true">
+			<StatusEffect type="OnWearing" target="This,Character" Voltage="1.0" setvalue="true">
+				<Conditional IsDead="false" />
+			</StatusEffect>
+			<LightTexture texture="Content/Lights/lightcone.png" origin="0.00, 0.49" size="1.0,1.0" />
+		</LightComponent>
+		</sprite>
+	  <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Czapka" identifier="czapka" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="1" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Uhlan Cap" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="249,412,85,100"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="249,412,85,100" />
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Czapka Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="249,412,85,100"  origin="0.63,0.95" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="false" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Rocketeer Helmet" identifier="rocketeerHelmet" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="1" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Rocketeer Helmet" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="334,416,87,96"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="334,416,87,96" />
+    <Deconstruct time="10">
+      <Item identifier="copper" />
+      <Item identifier="copper" />
+      <Item identifier="tin" />
+    </Deconstruct>
+    	<Wearable limbtype="Head" armorvalue="20" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.3" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <sprite name="Rocketeer Helmet Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="334,416,87,96"  origin="0.57,0.60" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  <Item name="Stahlhelm with Gasmask" identifier="stahlhelm" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="" scale="0.4">
+    <Price baseprice="1" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer secondary="wreckstoragecab" spawnprobability="0.01"/>
+    <Sprite name="Stahlhelm with Gasmask" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" depth="0.1" sourcerect="421,413,91,99"  origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="40" density="40" />
+    <InventoryIcon texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" sourcerect="421,413,91,99" />
+    <Deconstruct time="10">
+      <Item identifier="steel" />
+      <Item identifier="rubber" />
+    </Deconstruct>
+    	<Wearable limbtype="Head" armorvalue="20" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations" armorsector="0.0,360.0" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="false" />
+	  <damagemodifier afflictionidentifiers="bitewounds, gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="false" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0"  damagemultiplier="0.3" probabilitymultiplier="0.5" damagesound="LimbArmor" deflectprojectiles="false" />
+      <sprite name="Stahl Helmet Gasmask Wearable" texture="Mods/MoreHeadgear/MoreMoreMoreMoreHeadgear.png" limb="Head" inheritlimbdepth="true" hidewearablesoftype="item, hair, faceattachment" inherittexturescale="true" sourcerect="421,413,91,99"  origin="0.44,0.45" />
+      <StatusEffect tags="" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  
+  </Items>

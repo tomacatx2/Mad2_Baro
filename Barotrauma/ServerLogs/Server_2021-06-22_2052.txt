@@ -1,0 +1,854 @@
+﻿[6/22/2021 8:30:44 PM]
+  Starting the server...
+[6/22/2021 8:30:44 PM]
+  Using SteamP2P networking.
+[6/22/2021 8:30:44 PM]
+  Server started
+[6/22/2021 8:30:44 PM]
+  The Supreme Gentleman has joined the server.
+[6/22/2021 8:30:44 PM]
+  Saving client permissions
+[6/22/2021 8:30:44 PM]
+  Saving client permissions
+[6/22/2021 8:30:44 PM]
+  Gamemode changed to Campaign
+[6/22/2021 8:31:00 PM]
+  Gamemode changed to Mission
+[6/22/2021 8:31:04 PM]
+  The Supreme Gentleman is ready to start the game.
+[6/22/2021 8:31:13 PM]
+  Client "The Supreme Gentleman" started the round.
+[6/22/2021 8:31:13 PM]
+  Starting a new round...
+[6/22/2021 8:31:17 PM]
+  Pirate Greaser equipped Wrench
+[6/22/2021 8:31:17 PM]
+  Pirate Greaser unequipped Wrench
+[6/22/2021 8:31:17 PM]
+  Pirate Greaser equipped Screwdriver
+[6/22/2021 8:31:17 PM]
+  Pirate Fuelboy equipped Wrench
+[6/22/2021 8:31:17 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/22/2021 8:31:17 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:31:17 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:31:17 PM]
+  Pirate Fuelboy equipped Crowbar
+[6/22/2021 8:31:17 PM]
+  Mission: Pirate Vessel
+[6/22/2021 8:31:17 PM]
+  Seek out the pirate vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[6/22/2021 8:31:17 PM]
+  Game mode: Mission
+[6/22/2021 8:31:17 PM]
+  Submarine: Piranha v1 re-1
+[6/22/2021 8:31:17 PM]
+  Level seed: Eybui2ma
+[6/22/2021 8:31:17 PM]
+  Mission: Pirate Vessel
+[6/22/2021 8:31:18 PM]
+  Round started.
+[6/22/2021 8:31:18 PM]
+  Pirate Fuelboy unequipped Crowbar
+[6/22/2021 8:31:19 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/22/2021 8:31:23 PM]
+  Pirate Recruit: I read an old sailor's manual the other day.
+[6/22/2021 8:31:24 PM]
+  Pirate Captain: Pirate Fuelboy, operate the reactor!
+[6/22/2021 8:31:27 PM]
+  Pirate Recruit: Couldn't wrap my head around some parts because of all the weird, ancient terminology.
+[6/22/2021 8:31:31 PM]
+  Pirate Captain: Pirate Fuelboy, you are dismissed!
+[6/22/2021 8:31:32 PM]
+  Pirate Recruit: For instance, what the hell is a starboard?
+[6/22/2021 8:31:33 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/22/2021 8:31:34 PM]
+  The Supreme Gentleman: I'll set the course onwards!
+[6/22/2021 8:31:37 PM]
+  Pirate Fuelboy: Your guess is as good as mine.
+[6/22/2021 8:31:39 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/22/2021 8:31:39 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/22/2021 8:31:39 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/22/2021 8:31:41 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/22/2021 8:31:41 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/22/2021 8:31:41 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/22/2021 8:31:43 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/22/2021 8:31:43 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/22/2021 8:31:43 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/22/2021 8:31:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 20 %
+[6/22/2021 8:31:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/22/2021 8:31:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/22/2021 8:31:47 PM]
+  The Supreme Gentleman picked up Marine SMG (Flashlight)
+[6/22/2021 8:31:49 PM]
+  The Supreme Gentleman placed Harmonica in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:50 PM]
+  The Supreme Gentleman placed Stun Baton in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:51 PM]
+  The Supreme Gentleman picked up Renegade Combat Armor
+[6/22/2021 8:31:53 PM]
+  The Supreme Gentleman equipped Storage Container
+[6/22/2021 8:31:53 PM]
+  The Supreme Gentleman picked up Storage Container
+[6/22/2021 8:31:54 PM]
+  The Supreme Gentleman placed Frag Grenade in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:54 PM]
+  The Supreme Gentleman placed Frag Grenade in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:57 PM]
+  The Supreme Gentleman picked up 5.7x28mm Magazine
+[6/22/2021 8:31:57 PM]
+  The Supreme Gentleman picked up 5.7x28mm Magazine
+[6/22/2021 8:31:58 PM]
+  The Supreme Gentleman placed C-4 Block in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:58 PM]
+  The Supreme Gentleman placed C-4 Block in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:58 PM]
+  The Supreme Gentleman placed C-4 Block in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:58 PM]
+  The Supreme Gentleman placed C-4 Block in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:58 PM]
+  The Supreme Gentleman placed C-4 Block in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:58 PM]
+  The Supreme Gentleman placed C-4 Block in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:59 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Material Storage Locker (ID: 48)
+[6/22/2021 8:31:59 PM]
+  The Supreme Gentleman placed Storage Container in Material Storage Locker (ID: 48)
+[6/22/2021 8:32:00 PM]
+  The Supreme Gentleman picked up 5.7x28mm Magazine
+[6/22/2021 8:32:01 PM]
+  The Supreme Gentleman equipped Tactical Backpack
+[6/22/2021 8:32:01 PM]
+  The Supreme Gentleman picked up Tactical Backpack
+[6/22/2021 8:32:03 PM]
+  The Supreme Gentleman placed Frag Grenade in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:03 PM]
+  The Supreme Gentleman placed Frag Grenade in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:05 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:05 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:06 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:09 PM]
+  The Supreme Gentleman picked up Welding Tool
+[6/22/2021 8:32:10 PM]
+  The Supreme Gentleman picked up Diving Mask
+[6/22/2021 8:32:11 PM]
+  The Supreme Gentleman picked up Wrench
+[6/22/2021 8:32:13 PM]
+  The Supreme Gentleman picked up Screwdriver
+[6/22/2021 8:32:15 PM]
+  The Supreme Gentleman placed Rebreather Unit in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:17 PM]
+  The Supreme Gentleman picked up Underwater Scooter
+[6/22/2021 8:32:19 PM]
+  The Supreme Gentleman equipped Storage Container
+[6/22/2021 8:32:19 PM]
+  The Supreme Gentleman picked up Storage Container
+[6/22/2021 8:32:20 PM]
+  The Supreme Gentleman picked up Handgun (Flashlight)
+[6/22/2021 8:32:22 PM]
+  The Supreme Gentleman placed 9mm Magazine (High-Capacity) in Handgun (Flashlight) (ID: 244)
+[6/22/2021 8:32:25 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:25 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:25 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:26 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:26 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:26 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:29 PM]
+  The Supreme Gentleman placed Storage Container in Material Storage Locker (ID: 48)
+[6/22/2021 8:32:30 PM]
+  The Supreme Gentleman equipped Storage Container
+[6/22/2021 8:32:30 PM]
+  The Supreme Gentleman picked up Storage Container
+[6/22/2021 8:32:31 PM]
+  The Supreme Gentleman placed Bandage in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:31 PM]
+  The Supreme Gentleman placed Bandage in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:31 PM]
+  The Supreme Gentleman placed Bandage in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:31 PM]
+  The Supreme Gentleman placed Bandage in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:31 PM]
+  The Supreme Gentleman placed Bandage in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:31 PM]
+  The Supreme Gentleman placed Bandage in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:31 PM]
+  The Supreme Gentleman placed Bandage in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:31 PM]
+  The Supreme Gentleman placed Bandage in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:33 PM]
+  The Supreme Gentleman placed Opium in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:33 PM]
+  The Supreme Gentleman placed Opium in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:33 PM]
+  The Supreme Gentleman placed Opium in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:33 PM]
+  The Supreme Gentleman placed Opium in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:33 PM]
+  The Supreme Gentleman placed Opium in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:34 PM]
+  The Supreme Gentleman placed Blood Pack in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:34 PM]
+  The Supreme Gentleman placed Blood Pack in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:34 PM]
+  The Supreme Gentleman placed Blood Pack in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:34 PM]
+  The Supreme Gentleman placed Blood Pack in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:34 PM]
+  The Supreme Gentleman placed Blood Pack in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:35 PM]
+  The Supreme Gentleman placed Antibiotic Glue in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:35 PM]
+  The Supreme Gentleman placed Antibiotic Glue in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:35 PM]
+  The Supreme Gentleman placed Antibiotic Glue in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:35 PM]
+  The Supreme Gentleman placed Antibiotic Glue in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:37 PM]
+  The Supreme Gentleman placed Morphine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:37 PM]
+  The Supreme Gentleman placed Morphine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:37 PM]
+  The Supreme Gentleman placed Morphine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:37 PM]
+  The Supreme Gentleman placed Morphine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:37 PM]
+  The Supreme Gentleman placed Morphine in Tactical Backpack (ID: 201)
+[6/22/2021 8:32:39 PM]
+  The Supreme Gentleman placed Storage Container in Material Storage Locker (ID: 48)
+[6/22/2021 8:35:27 PM]
+  The Supreme Gentleman picked up Renegade Helmet
+[6/22/2021 8:35:33 PM]
+  The Supreme Gentleman placed Admiral's Hat in Material Storage Locker (ID: 48)
+[6/22/2021 8:36:17 PM]
+  Pirate Captain: Pirate Greaser, repair damaged systems!
+[6/22/2021 8:36:18 PM]
+  Pirate Greaser equipped Screwdriver
+[6/22/2021 8:36:19 PM]
+  Pirate Greaser started repairing Battery
+[6/22/2021 8:36:23 PM]
+  Pirate Captain: Pirate Fuelboy, take care of broken devices!
+[6/22/2021 8:36:24 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/22/2021 8:37:58 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:37:59 PM]
+  Pirate Greaser equipped Screwdriver
+[6/22/2021 8:37:59 PM]
+  Pirate Fuelboy started repairing Battery
+[6/22/2021 8:38:02 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/22/2021 8:38:03 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:39:24 PM]
+  Pirate Greaser equipped Screwdriver
+[6/22/2021 8:39:24 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:39:30 PM]
+  Pirate Greaser started repairing Navigation Terminal
+[6/22/2021 8:39:33 PM]
+  Pirate Fuelboy started repairing Navigation Terminal
+[6/22/2021 8:39:33 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/22/2021 8:39:34 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:39:46 PM]
+  Mission info: Pirates detected - Neutralize the crew or make the submarine sink to the bottom of the sea!
+[6/22/2021 8:39:47 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:39:47 PM]
+  Pirate Fuelboy started repairing Supercapacitor
+[6/22/2021 8:39:50 PM]
+  Pirate Captain: Pirate Recruit, operate the weapons!
+[6/22/2021 8:39:51 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:39:52 PM]
+  Pirate Greaser: Ever seen one of those things that guard the ruins?
+[6/22/2021 8:39:55 PM]
+  Pirate Captain: Pirate Greaser, man the weapons!
+[6/22/2021 8:39:57 PM]
+  Pirate Recruit: They have one at the institute.
+[6/22/2021 8:40:01 PM]
+  Pirate Recruit: They say it's not organic—closer to a robot than an animal.
+[6/22/2021 8:40:02 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:40:02 PM]
+  Pirate Fuelboy started repairing Status Monitor
+[6/22/2021 8:40:06 PM]
+  Pirate Greaser: They don't bleed; that's for sure.
+[6/22/2021 8:40:08 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:40:11 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:40:11 PM]
+  Pirate Captain: Pirate Greaser, repair damaged systems!
+[6/22/2021 8:40:18 PM]
+  Pirate Captain: Pirate Recruit, man the guns!
+[6/22/2021 8:40:24 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:40:25 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:40:25 PM]
+  Pirate Captain: Pirate Recruit, man the weapons!
+[6/22/2021 8:40:26 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:40:26 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:40:35 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:40:35 PM]
+  Pirate Greaser equipped Screwdriver
+[6/22/2021 8:40:36 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:40:38 PM]
+  Pirate Captain: Pirate Recruit, you are dismissed!
+[6/22/2021 8:40:38 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/22/2021 8:40:40 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:40:42 PM]
+  Pirate Greaser equipped Screwdriver
+[6/22/2021 8:40:42 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:40:46 PM]
+  Pirate Fuelboy started repairing Supercapacitor
+[6/22/2021 8:40:47 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/22/2021 8:40:50 PM]
+  Pirate Greaser equipped Screwdriver
+[6/22/2021 8:40:51 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:40:54 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/22/2021 8:40:54 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:40:55 PM]
+  Console command "spawnitem "Depth Charge Shell" cursor" executed by The Supreme Gentleman.
+[6/22/2021 8:40:56 PM]
+  Console command "spawnitem "Depth Charge Shell" cursor" executed by The Supreme Gentleman.
+[6/22/2021 8:40:58 PM]
+  Console command "enablecheats" executed by The Supreme Gentleman.
+[6/22/2021 8:40:58 PM]
+  Console command "spawnitem "Depth Charge Shell" cursor" executed by The Supreme Gentleman.
+[6/22/2021 8:40:59 PM]
+  Console command "spawnitem "Depth Charge Shell" cursor" executed by The Supreme Gentleman.
+[6/22/2021 8:40:59 PM]
+  Console command "spawnitem "Depth Charge Shell" cursor" executed by The Supreme Gentleman.
+[6/22/2021 8:41:00 PM]
+  Console command "spawnitem "Depth Charge Shell" cursor" executed by The Supreme Gentleman.
+[6/22/2021 8:41:00 PM]
+  Console command "spawnitem "Depth Charge Shell" cursor" executed by The Supreme Gentleman.
+[6/22/2021 8:41:03 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:41:03 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:41:04 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/22/2021 8:41:04 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/22/2021 8:41:04 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/22/2021 8:41:04 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/22/2021 8:41:04 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/22/2021 8:41:04 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/22/2021 8:41:06 PM]
+  The Supreme Gentleman equipped Depth Charge Shell
+[6/22/2021 8:41:07 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:41:08 PM]
+  The Supreme Gentleman placed C-4 Block in Depth Charge Shell (ID: 4264)
+[6/22/2021 8:41:09 PM]
+  The Supreme Gentleman placed Depth Charge Shell in Depth Charge Loader (ID: 124)
+[6/22/2021 8:41:10 PM]
+  The Supreme Gentleman equipped Depth Charge Shell
+[6/22/2021 8:41:11 PM]
+  The Supreme Gentleman placed C-4 Block in Depth Charge Shell (ID: 4373)
+[6/22/2021 8:41:13 PM]
+  The Supreme Gentleman placed Depth Charge Shell in Depth Charge Loader (ID: 119)
+[6/22/2021 8:41:14 PM]
+  The Supreme Gentleman equipped Depth Charge Shell
+[6/22/2021 8:41:15 PM]
+  The Supreme Gentleman placed C-4 Block in Depth Charge Shell (ID: 4374)
+[6/22/2021 8:41:16 PM]
+  The Supreme Gentleman placed Depth Charge Shell in Depth Charge Loader (ID: 127)
+[6/22/2021 8:41:17 PM]
+  The Supreme Gentleman equipped Depth Charge Shell
+[6/22/2021 8:41:19 PM]
+  The Supreme Gentleman placed C-4 Block in Depth Charge Shell (ID: 4371)
+[6/22/2021 8:41:21 PM]
+  The Supreme Gentleman placed Depth Charge Shell in Depth Charge Loader (ID: 130)
+[6/22/2021 8:41:22 PM]
+  The Supreme Gentleman equipped Depth Charge Shell
+[6/22/2021 8:41:23 PM]
+  The Supreme Gentleman placed C-4 Block in Depth Charge Shell (ID: 4372)
+[6/22/2021 8:41:25 PM]
+  The Supreme Gentleman placed Depth Charge Shell in Depth Charge Loader (ID: 131)
+[6/22/2021 8:41:31 PM]
+  Console command "fixitems" executed by The Supreme Gentleman.
+[6/22/2021 8:41:32 PM]
+  Pirate Captain: Pirate Recruit, man the weapons!
+[6/22/2021 8:41:37 PM]
+  Pirate Captain: Pirate Greaser, man the guns!
+[6/22/2021 8:42:04 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:42:04 PM]
+  Outer wall breached by Pirate Greaser
+[6/22/2021 8:42:05 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:42:05 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:42:05 PM]
+  Outer wall breached by Pirate Greaser
+[6/22/2021 8:42:06 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:42:06 PM]
+  Outer wall breached by Pirate Greaser
+[6/22/2021 8:42:06 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:42:06 PM]
+  Outer wall breached by Pirate Greaser
+[6/22/2021 8:42:06 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:42:07 PM]
+  Outer wall breached by Pirate Greaser
+[6/22/2021 8:42:08 PM]
+  Pirate Captain: Pirate Greaser, take care of any leaks!
+[6/22/2021 8:42:08 PM]
+  Pirate Fuelboy equipped Wrench
+[6/22/2021 8:42:09 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/22/2021 8:42:09 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:42:16 PM]
+  Pirate Captain: Pirate Recruit, start fixing leaks!
+[6/22/2021 8:42:22 PM]
+  Pirate Captain: Pirate Recruit, operate the weapons!
+[6/22/2021 8:42:22 PM]
+  Pirate Recruit equipped Welding Tool
+[6/22/2021 8:42:26 PM]
+  Pirate Greaser equipped Welding Tool
+[6/22/2021 8:42:26 PM]
+  Pirate Recruit unequipped Welding Tool
+[6/22/2021 8:42:29 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:42:29 PM]
+  Pirate Fuelboy equipped Wrench
+[6/22/2021 8:42:30 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/22/2021 8:42:30 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:42:38 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:42:38 PM]
+  Pirate Fuelboy equipped Wrench
+[6/22/2021 8:42:39 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/22/2021 8:42:39 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:42:49 PM]
+  The Supreme Gentleman picked up Combat Diving Suit
+[6/22/2021 8:42:53 PM]
+  The Supreme Gentleman placed Renegade Combat Armor in Material Storage Locker (ID: 48)
+[6/22/2021 8:42:55 PM]
+  The Supreme Gentleman picked up Crowbar
+[6/22/2021 8:42:57 PM]
+  The Supreme Gentleman placed C-4 Block in Material Storage Locker (ID: 48)
+[6/22/2021 8:42:57 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:42:57 PM]
+  Pirate Fuelboy equipped Wrench
+[6/22/2021 8:42:58 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/22/2021 8:42:58 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:43:01 PM]
+  The Supreme Gentleman equipped Crowbar
+[6/22/2021 8:43:06 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:43:06 PM]
+  Pirate Fuelboy equipped Wrench
+[6/22/2021 8:43:07 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/22/2021 8:43:07 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:43:09 PM]
+  Pirate Fuelboy started repairing Navigation Terminal
+[6/22/2021 8:43:10 PM]
+  Outer wall repaired by Pirate Greaser
+[6/22/2021 8:43:14 PM]
+  Pirate Captain: Pirate Greaser, man the guns!
+[6/22/2021 8:43:14 PM]
+  Pirate Greaser unequipped Welding Tool
+[6/22/2021 8:43:21 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:43:21 PM]
+  Pirate Fuelboy equipped Wrench
+[6/22/2021 8:43:23 PM]
+  Pirate Fuelboy started repairing Engine
+[6/22/2021 8:43:25 PM]
+  Pirate Captain has died (Cause of death: Burn)
+[6/22/2021 8:43:38 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/22/2021 8:43:38 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:43:43 PM]
+  Console command "teleport" executed by The Supreme Gentleman.
+[6/22/2021 8:43:45 PM]
+  The Supreme Gentleman equipped Underwater Scooter
+[6/22/2021 8:43:46 PM]
+  Pirate Fuelboy started repairing Navigation Terminal
+[6/22/2021 8:43:56 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:56 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:57 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:57 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:57 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:58 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:58 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:58 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:59 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:59 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:59 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:43:59 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:00 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:00 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:00 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:01 PM]
+  Pirate Recruit launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:01 PM]
+  Outer wall breached by Pirate Recruit
+[6/22/2021 8:44:02 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:44:02 PM]
+  Pirate Fuelboy equipped Wrench
+[6/22/2021 8:44:10 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:10 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:10 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:11 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:11 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:11 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:12 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:12 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:12 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:12 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:13 PM]
+  Pirate Greaser launched Coilgun (projectile: Coilgun Bolt)
+[6/22/2021 8:44:14 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/22/2021 8:44:14 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/22/2021 8:44:18 PM]
+  The Supreme Gentleman picked up Frag Grenade
+[6/22/2021 8:44:18 PM]
+  The Supreme Gentleman picked up Frag Grenade
+[6/22/2021 8:44:18 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:44:19 PM]
+  The Supreme Gentleman equipped Frag Grenade
+[6/22/2021 8:44:22 PM]
+  The Supreme Gentleman threw Frag Grenade
+[6/22/2021 8:44:25 PM]
+  Outer wall breached by The Supreme Gentleman
+[6/22/2021 8:44:28 PM]
+  Console command "heal" executed by The Supreme Gentleman.
+[6/22/2021 8:44:34 PM]
+  Console command "heal "The Supreme Gentleman"" executed by The Supreme Gentleman.
+[6/22/2021 8:44:36 PM]
+  The Supreme Gentleman equipped Frag Grenade
+[6/22/2021 8:44:37 PM]
+  The Supreme Gentleman threw Frag Grenade
+[6/22/2021 8:44:38 PM]
+  Pirate Fuelboy started repairing Supercapacitor
+[6/22/2021 8:44:40 PM]
+  Outer wall breached by The Supreme Gentleman
+[6/22/2021 8:44:40 PM]
+  Outer wall breached by The Supreme Gentleman
+[6/22/2021 8:44:40 PM]
+  Outer wall breached by The Supreme Gentleman
+[6/22/2021 8:44:40 PM]
+  Pirate Fuelboy started repairing Supercapacitor
+[6/22/2021 8:44:43 PM]
+  Console command "spawnitem "Plasma Cutter" inventory" executed by The Supreme Gentleman.
+[6/22/2021 8:44:49 PM]
+  Pirate Fuelboy started repairing Supercapacitor
+[6/22/2021 8:44:50 PM]
+  Console command "spawnitem "Oxygen Tank" inventory" executed by The Supreme Gentleman.
+[6/22/2021 8:44:51 PM]
+  Console command "spawnitem "Oxygen Tank" inventory" executed by The Supreme Gentleman.
+[6/22/2021 8:44:51 PM]
+  Console command "spawnitem "Oxygen Tank" inventory" executed by The Supreme Gentleman.
+[6/22/2021 8:44:53 PM]
+  The Supreme Gentleman placed Oxygen Tank in Plasma Cutter (ID: 273)
+[6/22/2021 8:44:55 PM]
+  The Supreme Gentleman placed Reinforced Oxygen Tank in Tactical Backpack (ID: 201)
+[6/22/2021 8:44:56 PM]
+  The Supreme Gentleman placed Rebreather Unit in Combat Diving Suit (ID: 51)
+[6/22/2021 8:44:57 PM]
+  The Supreme Gentleman placed Oxygen Tank in Tactical Backpack (ID: 201)
+[6/22/2021 8:44:57 PM]
+  The Supreme Gentleman placed Oxygen Tank in Tactical Backpack (ID: 201)
+[6/22/2021 8:45:01 PM]
+  The Supreme Gentleman equipped Plasma Cutter
+[6/22/2021 8:45:08 PM]
+  Pirate Fuelboy started repairing Navigation Terminal
+[6/22/2021 8:45:09 PM]
+  Pirate Fuelboy started repairing Navigation Terminal
+[6/22/2021 8:45:10 PM]
+  Pirate Fuelboy started repairing Navigation Terminal
+[6/22/2021 8:45:11 PM]
+  Pirate Fuelboy started repairing Navigation Terminal
+[6/22/2021 8:45:26 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:45:30 PM]
+  Console command "heal "The Supreme Gentleman"" executed by The Supreme Gentleman.
+[6/22/2021 8:45:32 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:45:39 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:45:45 PM]
+  The Supreme Gentleman equipped Marine SMG (Flashlight)
+[6/22/2021 8:45:45 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:45:51 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:45:56 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/22/2021 8:46:00 PM]
+  Pirate Fuelboy started repairing Battery
+[6/22/2021 8:46:12 PM]
+  Pirate Fuelboy started repairing Battery
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser equipped Welding Tool
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:19 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:20 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:20 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:20 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:20 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:20 PM]
+  Pirate Recruit equipped Harpoon Gun
+[6/22/2021 8:46:20 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:20 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:20 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:21 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:21 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:21 PM]
+  Inner wall breached by Pirate Recruit
+[6/22/2021 8:46:22 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:22 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 4.1334
+[6/22/2021 8:46:22 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:23 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/22/2021 8:46:23 PM]
+  Pirate Fuelboy equipped Crowbar
+[6/22/2021 8:46:25 PM]
+  Pirate Greaser has died (Cause of death: Gunshot wound)
+[6/22/2021 8:46:26 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:46:26 PM]
+  The Supreme Gentleman removed 5.7x28mm Magazine from Tactical Backpack (ID: 201)
+[6/22/2021 8:46:26 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Marine SMG (Flashlight) (ID: 67)
+[6/22/2021 8:46:26 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 4.1334
+[6/22/2021 8:46:26 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:26 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:27 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:27 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:27 PM]
+  Pirate Greaser attacked by The Supreme Gentleman. Gunshot wound: 4.1334
+[6/22/2021 8:46:27 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:27 PM]
+  Inner wall breached by Pirate Recruit
+[6/22/2021 8:46:27 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/22/2021 8:46:27 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 4.1334
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit unequipped Harpoon Gun
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit equipped Diving Knife
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 4.1334
+[6/22/2021 8:46:28 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 4.1334
+[6/22/2021 8:46:30 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/22/2021 8:46:30 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/22/2021 8:46:31 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/22/2021 8:46:31 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/22/2021 8:46:31 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/22/2021 8:46:36 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 201)
+[6/22/2021 8:46:36 PM]
+  The Supreme Gentleman removed 5.7x28mm Magazine from Tactical Backpack (ID: 201)
+[6/22/2021 8:46:36 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Marine SMG (Flashlight) (ID: 67)
+[6/22/2021 8:46:43 PM]
+  Pirate Fuelboy has died (Cause of death: Blood loss)
+[6/22/2021 8:46:44 PM]
+  Pirate Recruit has died (Cause of death: Gunshot wound)
+[6/22/2021 8:46:44 PM]
+  Mission info: Pirates eliminated - Navigate the submarine to New Iapetus Mine to claim your reward.
+[6/22/2021 8:48:12 PM]
+  The Supreme Gentleman picked up ID Card
+[6/22/2021 8:48:39 PM]
+  The Supreme Gentleman equipped Welding Tool
+[6/22/2021 8:48:39 PM]
+  Outer wall repaired by The Supreme Gentleman
+[6/22/2021 8:48:44 PM]
+  Console command "teleport" executed by The Supreme Gentleman.
+[6/22/2021 8:48:49 PM]
+  The Supreme Gentleman placed Combat Diving Suit in Diving Suit Locker (ID: 49)
+[6/22/2021 8:48:53 PM]
+  The Supreme Gentleman equipped Screwdriver
+[6/22/2021 8:48:53 PM]
+  The Supreme Gentleman equipped Wrench
+[6/22/2021 8:48:54 PM]
+  The Supreme Gentleman started repairing Supercapacitor
+[6/22/2021 8:49:09 PM]
+  The Supreme Gentleman started repairing Diesel Generator (Small)
+[6/22/2021 8:49:34 PM]
+  The Supreme Gentleman failed to repair Junction Box
+[6/22/2021 8:49:44 PM]
+  The Supreme Gentleman started repairing Battery
+[6/22/2021 8:49:58 PM]
+  The Supreme Gentleman started repairing Junction Box
+[6/22/2021 8:50:10 PM]
+  The Supreme Gentleman started repairing Battery
+[6/22/2021 8:50:23 PM]
+  The Supreme Gentleman placed Crowbar in Tactical Backpack (ID: 201)
+[6/22/2021 8:50:24 PM]
+  The Supreme Gentleman placed Plasma Cutter in Tactical Backpack (ID: 201)
+[6/22/2021 8:50:26 PM]
+  The Supreme Gentleman placed Underwater Scooter in Tactical Backpack (ID: 201)
+[6/22/2021 8:50:27 PM]
+  The Supreme Gentleman placed ID Card in Tactical Backpack (ID: 201)
+[6/22/2021 8:50:28 PM]
+  The Supreme Gentleman failed to repair Junction Box
+[6/22/2021 8:50:37 PM]
+  The Supreme Gentleman started repairing Junction Box
+[6/22/2021 8:50:48 PM]
+  The Supreme Gentleman started repairing Battery
+[6/22/2021 8:51:04 PM]
+  The Supreme Gentleman started repairing Shuttle Oxygen Generator
+[6/22/2021 8:51:19 PM]
+  The Supreme Gentleman failed to repair Battery
+[6/22/2021 8:51:26 PM]
+  The Supreme Gentleman started repairing Battery
+[6/22/2021 8:51:44 PM]
+  The Supreme Gentleman started repairing Junction Box
+[6/22/2021 8:51:57 PM]
+  The Supreme Gentleman failed to repair Navigation Terminal
+[6/22/2021 8:52:02 PM]
+  Console command "heal "The Supreme Gentleman"" executed by The Supreme Gentleman.
+[6/22/2021 8:52:02 PM]
+  The Supreme Gentleman failed to repair Navigation Terminal
+[6/22/2021 8:52:04 PM]
+  Console command "heal "The Supreme Gentleman"" executed by The Supreme Gentleman.
+[6/22/2021 8:52:07 PM]
+  The Supreme Gentleman started repairing Navigation Terminal
+[6/22/2021 8:52:30 PM]
+  The Supreme Gentleman placed Marine SMG (Flashlight) in Weapon Holder (ID: 66)
+[6/22/2021 8:52:58 PM]
+  Client "The Supreme Gentleman" ended the round.
+[6/22/2021 8:52:58 PM]
+  Ending the round...

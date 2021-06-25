@@ -1,0 +1,686 @@
+﻿[6/24/2021 5:16:17 PM]
+  Starting the server...
+[6/24/2021 5:16:17 PM]
+  Using SteamP2P networking.
+[6/24/2021 5:16:17 PM]
+  Server started
+[6/24/2021 5:16:17 PM]
+  The Supreme Gentleman has joined the server.
+[6/24/2021 5:16:17 PM]
+  Saving client permissions
+[6/24/2021 5:16:17 PM]
+  Saving client permissions
+[6/24/2021 5:16:22 PM]
+  Client "The Supreme Gentleman" started the round.
+[6/24/2021 5:16:22 PM]
+  Starting a new round...
+[6/24/2021 5:16:29 PM]
+  Pirate Technician equipped Wrench
+[6/24/2021 5:16:29 PM]
+  Pirate Technician unequipped Wrench
+[6/24/2021 5:16:29 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 5:16:29 PM]
+  Pirate Fuelboy equipped Wrench
+[6/24/2021 5:16:29 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/24/2021 5:16:29 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 5:16:29 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/24/2021 5:16:29 PM]
+  Pirate Fuelboy equipped Crowbar
+[6/24/2021 5:16:29 PM]
+  Mission: Pirate Vessel
+[6/24/2021 5:16:29 PM]
+  Seek out the pirate vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[6/24/2021 5:16:29 PM]
+  Game mode: Mission
+[6/24/2021 5:16:29 PM]
+  Submarine: ECS. Hammerhead var A v1 re-5
+[6/24/2021 5:16:29 PM]
+  Level seed: 81PDYqN5
+[6/24/2021 5:16:29 PM]
+  Mission: Pirate Vessel
+[6/24/2021 5:16:31 PM]
+  Round started.
+[6/24/2021 5:16:31 PM]
+  Pirate Fuelboy unequipped Crowbar
+[6/24/2021 5:16:32 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 5:16:36 PM]
+  Pirate Technician: You know, I had a brilliant business idea the other day.
+[6/24/2021 5:16:37 PM]
+  Pirate Captain: Pirate Fuelboy, operate the reactor!
+[6/24/2021 5:16:41 PM]
+  Pirate Technician: Hear me out. We could make lots of money with this.
+[6/24/2021 5:16:44 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 5:16:44 PM]
+  Pirate Captain: Pirate Fuelboy, you are dismissed!
+[6/24/2021 5:16:45 PM]
+  The Supreme Gentleman: I'll set the course onwards!
+[6/24/2021 5:16:46 PM]
+  Pirate Technician: What if someone started making bigger oxygen tanks?
+[6/24/2021 5:16:51 PM]
+  Pirate Technician: Ones that last like an hour or two?
+[6/24/2021 5:16:54 PM]
+  Pirate Technician: I'm not an expert but I think it'd be technically possible.
+[6/24/2021 5:16:59 PM]
+  Pirate Captain: I don't know…there has to be some technical reason. Otherwise they'd be making those already.
+[6/24/2021 5:17:22 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 20 %
+[6/24/2021 5:17:22 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:17:22 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:17:22 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 5:17:22 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:17:24 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:17:24 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:17:25 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:17:25 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:17:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 5:17:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:17:34 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 4969, Fission rate: 54, Turbine output: 37, Autotemp OFF
+[6/24/2021 5:17:35 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 4854, Fission rate: 54, Turbine output: 40, Autotemp OFF
+[6/24/2021 5:17:36 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 3991, Fission rate: 54, Turbine output: 71, Autotemp OFF
+[6/24/2021 5:17:37 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 2991, Fission rate: 52, Turbine output: 69, Autotemp ON
+[6/24/2021 5:17:41 PM]
+  Console command "spawn Engineer cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:17:43 PM]
+  Console command "enablecheats" executed by The Supreme Gentleman.
+[6/24/2021 5:17:44 PM]
+  Console command "spawn Engineer cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:17:50 PM]
+  The Supreme Gentleman: Tommie Wheeling, power up the reactor!
+[6/24/2021 5:17:51 PM]
+  Tommie Wheeling: Got it!
+[6/24/2021 5:17:53 PM]
+  Console command "spawn Engineer cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:17:57 PM]
+  Console command "spawn Mechanic cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:18:02 PM]
+  Console command "spawn Mechanic cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:18:06 PM]
+  The Supreme Gentleman: Frances Gregory, take care of any leaks!
+[6/24/2021 5:18:07 PM]
+  Frances Gregory: Sure thing!
+[6/24/2021 5:18:07 PM]
+  The Supreme Gentleman: Will Geist, take care of mechanical devices!
+[6/24/2021 5:18:08 PM]
+  Will Geist: Copy that.
+[6/24/2021 5:18:10 PM]
+  The Supreme Gentleman: Velma Larsen, take care of electrical devices!
+[6/24/2021 5:18:11 PM]
+  Velma Larsen: Aye!
+[6/24/2021 5:18:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 5:18:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:18:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:18:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:18:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:18:30 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:18:30 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:18:33 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 20 %
+[6/24/2021 5:18:33 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 5:18:33 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:18:33 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:18:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 10 %
+[6/24/2021 5:18:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 20 %
+[6/24/2021 5:18:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 5:18:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:18:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:18:48 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 10 %
+[6/24/2021 5:18:49 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 5:18:49 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:18:49 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:18:50 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:19:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 10 %
+[6/24/2021 5:19:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 5:19:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:19:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:19:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:19:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:20:23 PM]
+  Tommie Wheeling: Loading more fuel to the reactor!
+[6/24/2021 5:20:25 PM]
+  Will Geist equipped Wrench
+[6/24/2021 5:20:27 PM]
+  Will Geist started repairing Small Pump
+[6/24/2021 5:20:37 PM]
+  Console command "control "Tommie Wheeling"" executed by The Supreme Gentleman.
+[6/24/2021 5:20:38 PM]
+  Tommie Wheeling set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 5:20:40 PM]
+  Console command "control "The Supreme Gentleman"" executed by The Supreme Gentleman.
+[6/24/2021 5:20:42 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 5:21:24 PM]
+  Velma Larsen equipped Screwdriver
+[6/24/2021 5:21:31 PM]
+  Velma Larsen started repairing Battery
+[6/24/2021 5:21:34 PM]
+  Velma Larsen failed to repair Battery
+[6/24/2021 5:21:47 PM]
+  Velma Larsen started repairing Supercapacitor
+[6/24/2021 5:21:58 PM]
+  Velma Larsen started repairing Supercapacitor
+[6/24/2021 5:22:13 PM]
+  Pirate Captain: Pirate Technician, repair damaged systems!
+[6/24/2021 5:22:15 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 5:22:16 PM]
+  Pirate Technician failed to repair Junction Box
+[6/24/2021 5:22:19 PM]
+  Pirate Captain: Pirate Fuelboy, repair damaged systems!
+[6/24/2021 5:22:21 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 5:22:21 PM]
+  Velma Larsen started repairing Distributor Junction
+[6/24/2021 5:22:22 PM]
+  Pirate Fuelboy started repairing Junction Box
+[6/24/2021 5:22:23 PM]
+  Pirate Technician started repairing Battery
+[6/24/2021 5:22:26 PM]
+  Pirate Fuelboy started repairing Battery
+[6/24/2021 5:22:27 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/24/2021 5:22:30 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 5:22:30 PM]
+  Pirate Technician equipped Bandage
+[6/24/2021 5:22:55 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 5:22:56 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 5:22:57 PM]
+  Pirate Fuelboy started repairing Battery
+[6/24/2021 5:22:59 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 5:23:01 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/24/2021 5:23:36 PM]
+  The Supreme Gentleman placed Captain's Pipe in Large Steel Cabinet (ID: 573)
+[6/24/2021 5:23:36 PM]
+  The Supreme Gentleman placed Revolver in Large Steel Cabinet (ID: 573)
+[6/24/2021 5:23:39 PM]
+  The Supreme Gentleman picked up Welding Tool
+[6/24/2021 5:23:46 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/24/2021 5:23:46 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/24/2021 5:23:46 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/24/2021 5:23:46 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/24/2021 5:23:46 PM]
+  The Supreme Gentleman picked up C-4 Block
+[6/24/2021 5:23:52 PM]
+  Tommie Wheeling: Loading more fuel to the reactor!
+[6/24/2021 5:23:53 PM]
+  Tommie Wheeling equipped Thorium Fuel Rod
+[6/24/2021 5:24:03 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by The Supreme Gentleman.
+[6/24/2021 5:24:09 PM]
+  The Supreme Gentleman equipped Heavy Railgun Shell
+[6/24/2021 5:24:09 PM]
+  The Supreme Gentleman picked up Heavy Railgun Shell
+[6/24/2021 5:24:10 PM]
+  The Supreme Gentleman placed C-4 Block in Heavy Railgun Shell (ID: 1634)
+[6/24/2021 5:24:10 PM]
+  The Supreme Gentleman placed C-4 Block in Heavy Railgun Shell (ID: 1634)
+[6/24/2021 5:24:15 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 5:24:17 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 5:24:20 PM]
+  Pirate Fuelboy started repairing Supercapacitor
+[6/24/2021 5:24:20 PM]
+  Console command "fixitems" executed by The Supreme Gentleman.
+[6/24/2021 5:24:21 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/24/2021 5:24:22 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 5:24:24 PM]
+  The Supreme Gentleman placed Heavy Railgun Shell in Heavy Railgun Loader Single (ID: 2343)
+[6/24/2021 5:24:25 PM]
+  Velma Larsen failed to repair Battery
+[6/24/2021 5:24:27 PM]
+  The Supreme Gentleman equipped Heavy Railgun Shell
+[6/24/2021 5:24:27 PM]
+  The Supreme Gentleman picked up Heavy Railgun Shell
+[6/24/2021 5:24:28 PM]
+  The Supreme Gentleman placed C-4 Block in Heavy Railgun Shell (ID: 1633)
+[6/24/2021 5:24:28 PM]
+  The Supreme Gentleman placed C-4 Block in Heavy Railgun Shell (ID: 1633)
+[6/24/2021 5:24:31 PM]
+  Velma Larsen started repairing Battery
+[6/24/2021 5:24:38 PM]
+  The Supreme Gentleman placed Heavy Railgun Shell in Heavy Railgun Loader Single (ID: 2344)
+[6/24/2021 5:24:46 PM]
+  The Supreme Gentleman equipped Heavy Railgun Shell
+[6/24/2021 5:24:46 PM]
+  The Supreme Gentleman picked up Heavy Railgun Shell
+[6/24/2021 5:24:47 PM]
+  The Supreme Gentleman placed C-4 Block in Heavy Railgun Shell (ID: 1635)
+[6/24/2021 5:24:47 PM]
+  The Supreme Gentleman placed C-4 Block in Heavy Railgun Shell (ID: 1635)
+[6/24/2021 5:24:56 PM]
+  The Supreme Gentleman dropped Heavy Railgun Shell
+[6/24/2021 5:25:10 PM]
+  Will Geist: I need diving gear!
+[6/24/2021 5:25:10 PM]
+  Frances Gregory: Need to find a diving suit!
+[6/24/2021 5:25:10 PM]
+  Velma Larsen: I need diving gear!
+[6/24/2021 5:25:16 PM]
+  Will Geist unequipped Wrench
+[6/24/2021 5:25:31 PM]
+  Velma Larsen unequipped Screwdriver
+[6/24/2021 5:25:38 PM]
+  Velma Larsen equipped Diving Suit
+[6/24/2021 5:25:42 PM]
+  Mission info: Pirates detected - Neutralize the crew or make the submarine sink to the bottom of the sea!
+[6/24/2021 5:25:43 PM]
+  Pirate Captain: Pirate Gunner, man the weapons!
+[6/24/2021 5:25:49 PM]
+  Pirate Captain: Pirate Recruit, operate the weapons!
+[6/24/2021 5:25:53 PM]
+  The Supreme Gentleman launched Spinal-Mount Heavy Railgun A (projectile: Heavy Railgun Shell, contained items: C-4 Block, C-4 Block)
+[6/24/2021 5:25:54 PM]
+  Outer wall breached by The Supreme Gentleman
+[6/24/2021 5:25:54 PM]
+  Pirate Captain has died (Cause of death: Burn)
+[6/24/2021 5:25:54 PM]
+  Pirate Recruit has died (Cause of death: Burn)
+[6/24/2021 5:25:58 PM]
+  The Supreme Gentleman launched Spinal-Mount Heavy Railgun A (projectile: Heavy Railgun Shell, contained items: C-4 Block, C-4 Block)
+[6/24/2021 5:26:00 PM]
+  Pirate Fuelboy has died (Cause of death: Burn)
+[6/24/2021 5:26:01 PM]
+  Pirate Technician equipped Wrench
+[6/24/2021 5:26:03 PM]
+  Will Geist equipped Wrench
+[6/24/2021 5:26:06 PM]
+  Will Geist started repairing Small Pump
+[6/24/2021 5:26:08 PM]
+  Will Geist: Can I put all my annoying problems inside a decoy?
+[6/24/2021 5:26:09 PM]
+  Will Geist unequipped Wrench
+[6/24/2021 5:26:10 PM]
+  Pirate Technician started repairing Nuclear Reactor
+[6/24/2021 5:26:14 PM]
+  Pirate Technician started repairing Nuclear Reactor
+[6/24/2021 5:26:15 PM]
+  The Supreme Gentleman picked up Marine SMG
+[6/24/2021 5:26:18 PM]
+  The Supreme Gentleman equipped Storage Container
+[6/24/2021 5:26:18 PM]
+  The Supreme Gentleman picked up Storage Container
+[6/24/2021 5:26:19 PM]
+  The Supreme Gentleman picked up 5.7x28mm Magazine
+[6/24/2021 5:26:19 PM]
+  The Supreme Gentleman picked up 5.7x28mm Magazine
+[6/24/2021 5:26:20 PM]
+  The Supreme Gentleman picked up 5.7x28mm Magazine
+[6/24/2021 5:26:20 PM]
+  The Supreme Gentleman picked up 5.7x28mm Magazine
+[6/24/2021 5:26:21 PM]
+  The Supreme Gentleman picked up 9mm Magazine
+[6/24/2021 5:26:21 PM]
+  The Supreme Gentleman picked up 9mm Magazine
+[6/24/2021 5:26:21 PM]
+  The Supreme Gentleman picked up 9mm Magazine
+[6/24/2021 5:26:22 PM]
+  The Supreme Gentleman picked up 9mm Magazine
+[6/24/2021 5:26:22 PM]
+  The Supreme Gentleman picked up 9mm Magazine
+[6/24/2021 5:26:22 PM]
+  The Supreme Gentleman picked up 9mm Magazine
+[6/24/2021 5:26:23 PM]
+  The Supreme Gentleman placed Storage Container in Material Storage Locker (ID: 2258)
+[6/24/2021 5:26:27 PM]
+  Pirate Technician unequipped Wrench
+[6/24/2021 5:26:27 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 5:26:29 PM]
+  Console command "spawnitem "Tactical Backpack" inventory" executed by The Supreme Gentleman.
+[6/24/2021 5:26:29 PM]
+  The Supreme Gentleman equipped Tactical Backpack
+[6/24/2021 5:26:33 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:33 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:33 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:34 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:34 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:34 PM]
+  The Supreme Gentleman placed 9mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:35 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:35 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:36 PM]
+  Velma Larsen equipped Screwdriver
+[6/24/2021 5:26:37 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:37 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:40 PM]
+  The Supreme Gentleman picked up Handgun
+[6/24/2021 5:26:43 PM]
+  Pirate Technician started repairing Navigation Terminal
+[6/24/2021 5:26:43 PM]
+  The Supreme Gentleman picked up Plasma Cutter
+[6/24/2021 5:26:45 PM]
+  The Supreme Gentleman picked up Diving Mask
+[6/24/2021 5:26:47 PM]
+  Velma Larsen started repairing Status Monitor
+[6/24/2021 5:26:49 PM]
+  The Supreme Gentleman placed Crowbar in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:51 PM]
+  Velma Larsen unequipped Screwdriver
+[6/24/2021 5:26:53 PM]
+  The Supreme Gentleman picked up Combat Diving Suit
+[6/24/2021 5:26:54 PM]
+  The Supreme Gentleman picked up Reinforced Oxygen Tank
+[6/24/2021 5:26:54 PM]
+  The Supreme Gentleman picked up Reinforced Oxygen Tank
+[6/24/2021 5:26:55 PM]
+  The Supreme Gentleman picked up Reinforced Oxygen Tank
+[6/24/2021 5:26:56 PM]
+  The Supreme Gentleman placed Reinforced Oxygen Tank in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:56 PM]
+  The Supreme Gentleman placed Reinforced Oxygen Tank in Tactical Backpack (ID: 300)
+[6/24/2021 5:26:56 PM]
+  The Supreme Gentleman placed Reinforced Oxygen Tank in Tactical Backpack (ID: 300)
+[6/24/2021 5:27:03 PM]
+  Velma Larsen equipped Screwdriver
+[6/24/2021 5:27:03 PM]
+  Will Geist equipped Wrench
+[6/24/2021 5:27:06 PM]
+  The Supreme Gentleman placed Heavy Railgun Shell in Heavy Railgun Loader Single (ID: 2343)
+[6/24/2021 5:27:12 PM]
+  Velma Larsen started repairing Navigation Terminal
+[6/24/2021 5:27:17 PM]
+  Will Geist started repairing Oxygen Generator
+[6/24/2021 5:27:18 PM]
+  Pirate Technician started repairing Junction Box
+[6/24/2021 5:27:25 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:27:26 PM]
+  Velma Larsen started repairing Supercapacitor
+[6/24/2021 5:27:26 PM]
+  Will Geist failed to repair Shuttle Oxygen Generator
+[6/24/2021 5:27:29 PM]
+  Velma Larsen started repairing Supercapacitor
+[6/24/2021 5:27:36 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 5:27:36 PM]
+  Pirate Technician equipped Wrench
+[6/24/2021 5:27:36 PM]
+  Pirate Technician started repairing Small Pump
+[6/24/2021 5:27:42 PM]
+  Velma Larsen started repairing Junction Box
+[6/24/2021 5:27:44 PM]
+  Velma Larsen started repairing Junction Box
+[6/24/2021 5:27:53 PM]
+  Velma Larsen started repairing Junction Box
+[6/24/2021 5:27:55 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:27:56 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:27:58 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:27:59 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:00 PM]
+  The Supreme Gentleman equipped Marine SMG
+[6/24/2021 5:28:00 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:01 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:01 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:02 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:03 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:04 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:05 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 3.2602503 Gunshot wound: 2.4401999
+[6/24/2021 5:28:05 PM]
+  Pirate Gunner equipped Revolver
+[6/24/2021 5:28:05 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.7100997
+[6/24/2021 5:28:05 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:05 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:05 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.7100997
+[6/24/2021 5:28:06 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:07 PM]
+  Will Geist started repairing Shuttle Oxygen Generator
+[6/24/2021 5:28:07 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.7100997
+[6/24/2021 5:28:07 PM]
+  Pirate Technician unequipped Wrench
+[6/24/2021 5:28:07 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 5:28:07 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 5:28:07 PM]
+  Pirate Technician equipped Welding Tool
+[6/24/2021 5:28:07 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:07 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.7100997
+[6/24/2021 5:28:08 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/24/2021 5:28:08 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/24/2021 5:28:08 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/24/2021 5:28:08 PM]
+  Pirate Recruit attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/24/2021 5:28:08 PM]
+  Pirate Fuelboy attacked by The Supreme Gentleman. Bleeding: 14 Gunshot wound: 4.7250004
+[6/24/2021 5:28:08 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:08 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 3.2602503 Gunshot wound: 2.4401999
+[6/24/2021 5:28:08 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 2.4401999
+[6/24/2021 5:28:17 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:28:17 PM]
+  The Supreme Gentleman removed 5.7x28mm Magazine from Tactical Backpack (ID: 300)
+[6/24/2021 5:28:17 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Marine SMG (ID: 2394)
+[6/24/2021 5:28:18 PM]
+  Pirate Technician unequipped Welding Tool
+[6/24/2021 5:28:19 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 5:28:20 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 5:28:20 PM]
+  Pirate Technician equipped Wrench
+[6/24/2021 5:28:21 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:21 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.7100997
+[6/24/2021 5:28:21 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.7100997
+[6/24/2021 5:28:21 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:21 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 3.2602503 Gunshot wound: 2.4401999
+[6/24/2021 5:28:21 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:21 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:22 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:22 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Gunshot wound: 3.7100997
+[6/24/2021 5:28:22 PM]
+  Pirate Gunner attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.7100997
+[6/24/2021 5:28:25 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/24/2021 5:28:25 PM]
+  Pirate Technician unequipped Wrench
+[6/24/2021 5:28:25 PM]
+  Pirate Technician equipped Welding Tool
+[6/24/2021 5:28:25 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/24/2021 5:28:27 PM]
+  The Supreme Gentleman equipped Handgun
+[6/24/2021 5:28:27 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 4.8
+[6/24/2021 5:28:28 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Bleeding: 7 Gunshot wound: 4.5
+[6/24/2021 5:28:29 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 4.5
+[6/24/2021 5:28:29 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 4.5
+[6/24/2021 5:28:29 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 4.5
+[6/24/2021 5:28:30 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 4.5
+[6/24/2021 5:28:34 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:28:34 PM]
+  The Supreme Gentleman removed 5.7x28mm Magazine from Tactical Backpack (ID: 300)
+[6/24/2021 5:28:34 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Marine SMG (ID: 2394)
+[6/24/2021 5:28:34 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/24/2021 5:28:35 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/24/2021 5:28:35 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/24/2021 5:28:35 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/24/2021 5:28:36 PM]
+  Pirate Technician unequipped Welding Tool
+[6/24/2021 5:28:37 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 5:28:38 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 5:28:38 PM]
+  Pirate Technician equipped Wrench
+[6/24/2021 5:28:38 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/24/2021 5:28:38 PM]
+  Pirate Technician unequipped Wrench
+[6/24/2021 5:28:38 PM]
+  Pirate Technician equipped Welding Tool
+[6/24/2021 5:28:38 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/24/2021 5:28:39 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/24/2021 5:28:39 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Bleeding: 8.05 Gunshot wound: 3.92175
+[6/24/2021 5:28:42 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/24/2021 5:28:42 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/24/2021 5:28:42 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/24/2021 5:28:42 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/24/2021 5:28:42 PM]
+  Pirate Technician attacked by The Supreme Gentleman. Gunshot wound: 3.92175
+[6/24/2021 5:28:46 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Tactical Backpack (ID: 300)
+[6/24/2021 5:28:46 PM]
+  The Supreme Gentleman removed 5.7x28mm Magazine from Tactical Backpack (ID: 300)
+[6/24/2021 5:28:46 PM]
+  The Supreme Gentleman placed 5.7x28mm Magazine in Marine SMG (ID: 2394)
+[6/24/2021 5:28:49 PM]
+  The Supreme Gentleman placed 9mm Magazine (High-Capacity) in Tactical Backpack (ID: 300)
+[6/24/2021 5:28:49 PM]
+  The Supreme Gentleman removed 9mm Magazine from Tactical Backpack (ID: 300)
+[6/24/2021 5:28:49 PM]
+  The Supreme Gentleman placed 9mm Magazine in Handgun (ID: 2309)
+[6/24/2021 5:29:00 PM]
+  The Supreme Gentleman equipped Storage Container
+[6/24/2021 5:29:00 PM]
+  The Supreme Gentleman picked up Storage Container
+[6/24/2021 5:29:03 PM]
+  The Supreme Gentleman used item Blood Pack
+[6/24/2021 5:29:03 PM]
+  Pirate Gunner has died (Cause of death: Blood loss)
+[6/24/2021 5:29:04 PM]
+  The Supreme Gentleman used item Morphine
+[6/24/2021 5:29:06 PM]
+  The Supreme Gentleman used item Bandage
+[6/24/2021 5:29:07 PM]
+  The Supreme Gentleman used item Bandage
+[6/24/2021 5:29:11 PM]
+  Pirate Technician has died (Cause of death: Gunshot wound)
+[6/24/2021 5:29:11 PM]
+  Mission info: Pirates eliminated - Navigate the submarine to The city of Alkonost to claim your reward.
+[6/24/2021 5:29:12 PM]
+  The Supreme Gentleman used item Bandage
+[6/24/2021 5:29:15 PM]
+  The Supreme Gentleman placed Storage Container in Material Storage Locker (ID: 2258)
+[6/24/2021 5:29:19 PM]
+  The Supreme Gentleman placed Combat Diving Suit in Diving Suit Locker (ID: 2266)
+[6/24/2021 5:29:22 PM]
+  Frances Gregory: There's something alien growing in gunnery compartment.
+[6/24/2021 5:29:55 PM]
+  Will Geist started repairing Small Pump
+[6/24/2021 5:30:13 PM]
+  Frances Gregory: There's something alien growing in gunnery compartment.
+[6/24/2021 5:31:15 PM]
+  Frances Gregory: There's something alien growing in gunnery compartment.
+[6/24/2021 5:31:25 PM]
+  Client "The Supreme Gentleman" ended the round.
+[6/24/2021 5:31:25 PM]
+  Ending the round...

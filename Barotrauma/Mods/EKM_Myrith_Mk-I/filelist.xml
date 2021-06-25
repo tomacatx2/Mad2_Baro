@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EKM_Myrith_Mk-I" path="Mods/EKM_Myrith_Mk-I/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2412296462" installtime="1623967589">
+  <Submarine file="Mods/EKM_Myrith_Mk-I/EKM_Myrith_Mk-III.sub" />
+</contentpackage>

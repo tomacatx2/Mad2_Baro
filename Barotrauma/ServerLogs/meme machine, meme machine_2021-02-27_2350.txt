@@ -1,0 +1,1602 @@
+﻿[2/27/2021 11:21:09 PM]
+  TornMap: try this out
+[2/27/2021 11:21:10 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:21:11 PM]
+  TornMap dropped Captain's Pipe
+[2/27/2021 11:21:14 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:21:16 PM]
+  THEGAMER300 picked up Captain's Pipe
+[2/27/2021 11:21:18 PM]
+  THEGAMER300 equipped Captain's Pipe
+[2/27/2021 11:21:24 PM]
+  terc started repairing Battery
+[2/27/2021 11:21:37 PM]
+  terc started repairing Battery
+[2/27/2021 11:21:38 PM]
+  THEGAMER300: epic meal time
+[2/27/2021 11:21:43 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:21:45 PM]
+  Outer wall breached by Mudraptor
+[2/27/2021 11:21:53 PM]
+  terc equipped Welding Fuel Tank
+[2/27/2021 11:22:03 PM]
+  THEGAMER300: fixed it i think
+[2/27/2021 11:22:04 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:22:04 PM]
+  Mudraptor attacked by TornMap. Lacerations: 6.25 Bleeding: 0.5
+[2/27/2021 11:22:05 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:22:06 PM]
+  Mudraptor attacked by TornMap. Lacerations: 1.25
+[2/27/2021 11:22:06 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:22:06 PM]
+  Mudraptor attacked by TornMap. Lacerations: 25 Bleeding: 2
+[2/27/2021 11:22:06 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:22:07 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:22:09 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:22:09 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:22:14 PM]
+  THEGAMER300: torn you do it
+[2/27/2021 11:22:16 PM]
+  THEGAMER300: noob
+[2/27/2021 11:22:18 PM]
+  TornMap: do what
+[2/27/2021 11:22:23 PM]
+  THEGAMER300: get on upper gun
+[2/27/2021 11:22:28 PM]
+  TornMap: i am on the UPPER GUN
+[2/27/2021 11:22:32 PM]
+  THEGAMER300: No.
+[2/27/2021 11:22:33 PM]
+  tomacatx1: e
+[2/27/2021 11:22:39 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:22:44 PM]
+  THEGAMER300 failed to repair Junction Box
+[2/27/2021 11:22:44 PM]
+  TornMap: on our blind spot?
+[2/27/2021 11:22:47 PM]
+  THEGAMER300: aaaaaaaaaaaaaa
+[2/27/2021 11:22:49 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:22:52 PM]
+  terc: wheres all the ammo
+[2/27/2021 11:22:53 PM]
+  THEGAMER300: torn i need burn medicine
+[2/27/2021 11:22:59 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:23:14 PM]
+  TornMap picked up Morphine
+[2/27/2021 11:23:16 PM]
+  TornMap: r
+[2/27/2021 11:23:17 PM]
+  TornMap: i got you dude
+[2/27/2021 11:23:17 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:23:23 PM]
+  THEGAMER300: im at suit storage
+[2/27/2021 11:23:25 PM]
+  TornMap: where are you
+[2/27/2021 11:23:28 PM]
+  terc placed Harpoon Gun in Large Steel Cabinet (ID: 741)
+[2/27/2021 11:23:28 PM]
+  terc removed Grenade Launcher from Large Steel Cabinet (ID: 741)
+[2/27/2021 11:23:28 PM]
+  terc picked up Grenade Launcher
+[2/27/2021 11:23:28 PM]
+  THEGAMER300: suit storage
+[2/27/2021 11:23:33 PM]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[2/27/2021 11:23:33 PM]
+  terc equipped Grenade Launcher
+[2/27/2021 11:23:37 PM]
+  Console command "control husk1" executed by tomacatx1.
+[2/27/2021 11:23:38 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:23:41 PM]
+  Console command "control husk2" executed by tomacatx1.
+[2/27/2021 11:23:41 PM]
+  TornMap: you are not
+[2/27/2021 11:23:42 PM]
+  TornMap: AA
+[2/27/2021 11:23:42 PM]
+  THEGAMER300: DISASTER
+[2/27/2021 11:23:42 PM]
+  Console command "control husk 1" executed by tomacatx1.
+[2/27/2021 11:23:44 PM]
+  THEGAMER300: GET OUT OF GERE
+[2/27/2021 11:23:48 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:23:52 PM]
+  Console command "control husk" executed by tomacatx1.
+[2/27/2021 11:23:53 PM]
+  TornMap placed Morphine in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:23:58 PM]
+  THEGAMER300 picked up Diving Suit
+[2/27/2021 11:24:05 PM]
+  TornMap equipped Diving Knife
+[2/27/2021 11:24:09 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:24:15 PM]
+  Outer wall repaired by TornMap
+[2/27/2021 11:24:20 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:20 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:20 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:20 PM]
+  Hammerhead attacked by terc.
+[2/27/2021 11:24:21 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:21 PM]
+  Hammerhead attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:24:21 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:24:21 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:21 PM]
+  Hammerhead attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:24:21 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:21 PM]
+  Hammerhead attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:24:21 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:22 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:22 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:22 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:23 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:23 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:23 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:23 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:24 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:24 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:24 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:33 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:24:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:37 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:24:38 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:38 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:38 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:24:38 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:38 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:39 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:24:42 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:24:47 PM]
+  THEGAMER300 dropped Diving Suit
+[2/27/2021 11:24:47 PM]
+  TornMap equipped Piercing Ammunition Box
+[2/27/2021 11:24:47 PM]
+  TornMap picked up Piercing Ammunition Box
+[2/27/2021 11:24:50 PM]
+  TornMap dropped Piercing Ammunition Box
+[2/27/2021 11:24:53 PM]
+  Outer wall repaired by terc
+[2/27/2021 11:25:03 PM]
+  terc started repairing Supercapacitor
+[2/27/2021 11:25:07 PM]
+  TornMap: there was a BIG MOTHERFUCKER
+[2/27/2021 11:25:15 PM]
+  THEGAMER300 started repairing Small Pump
+[2/27/2021 11:25:15 PM]
+  Husk has died (Cause of death: Bite wounds)
+[2/27/2021 11:25:25 PM]
+  terc failed to repair Nuclear Reactor
+[2/27/2021 11:25:28 PM]
+  Lester picked up Fuel Rod
+[2/27/2021 11:25:30 PM]
+  terc: shit
+[2/27/2021 11:25:33 PM]
+  terc started repairing Nuclear Reactor
+[2/27/2021 11:25:41 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/27/2021 11:25:46 PM]
+  terc adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/27/2021 11:25:48 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:25:49 PM]
+  terc adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/27/2021 11:25:53 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:25:53 PM]
+  terc: i got all the fuel
+[2/27/2021 11:25:53 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:25:58 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:25:58 PM]
+  TornMap: AAAAAAAAAAAAA
+[2/27/2021 11:26:00 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:26:00 PM]
+  Husk attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:26:01 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:26:01 PM]
+  Husk attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:26:03 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:26:03 PM]
+  Husk attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:26:05 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:26:05 PM]
+  Husk has died (Cause of death: Lacerations)
+[2/27/2021 11:26:05 PM]
+  Husk attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:26:13 PM]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[2/27/2021 11:26:15 PM]
+  THEGAMER300 started repairing Status Monitor
+[2/27/2021 11:26:15 PM]
+  Console command "control husk 2" executed by tomacatx1.
+[2/27/2021 11:26:23 PM]
+  TornMap: well
+[2/27/2021 11:26:24 PM]
+  THEGAMER300: ok bro
+[2/27/2021 11:26:24 PM]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[2/27/2021 11:26:25 PM]
+  TornMap: we have hit something
+[2/27/2021 11:26:28 PM]
+  Console command "control husk4" executed by tomacatx1.
+[2/27/2021 11:26:30 PM]
+  Console command "control husk 3" executed by tomacatx1.
+[2/27/2021 11:26:30 PM]
+  THEGAMER300 picked up Diving Suit
+[2/27/2021 11:26:46 PM]
+  TornMap: RUND
+[2/27/2021 11:26:47 PM]
+  THEGAMER300 dropped Boiler Suit
+[2/27/2021 11:26:49 PM]
+  THEGAMER300 picked up Boiler Suit
+[2/27/2021 11:26:51 PM]
+  THEGAMER300 dropped Diving Suit
+[2/27/2021 11:26:52 PM]
+  TornMap attacked by Lester. Bleeding: 6 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:26:52 PM]
+  TornMap attacked by Lester. Bleeding: 6 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:26:52 PM]
+  TornMap attacked by Lester. Bleeding: 6 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:26:52 PM]
+  TornMap attacked by Lester. Bleeding: 6 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:26:52 PM]
+  TornMap attacked by Lester. Bleeding: 6 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:26:52 PM]
+  TornMap attacked by Lester. Bleeding: 6 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:26:52 PM]
+  TornMap attacked by Lester. Bleeding: 6 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:26:52 PM]
+  TornMap attacked by Lester. Bleeding: 6 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:26:52 PM]
+  Lester has contracted space herpes due to low karma.
+[2/27/2021 11:26:58 PM]
+  THEGAMER300: damn
+[2/27/2021 11:26:58 PM]
+  TornMap: motherucvker UYOU SHOT ME
+[2/27/2021 11:27:03 PM]
+  THEGAMER300: did he shoot a nigga
+[2/27/2021 11:27:05 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:27:06 PM]
+  TornMap picked up Bandage
+[2/27/2021 11:27:12 PM]
+  TornMap used item Bandage
+[2/27/2021 11:27:23 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:23 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:23 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:23 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:23 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:23 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:23 PM]
+  Husk has died (Cause of death: Gunshot wound)
+[2/27/2021 11:27:23 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:23 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:25 PM]
+  TornMap placed Broad-spectrum Antibiotics in Toxin Cabinet (ID: 212)
+[2/27/2021 11:27:25 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:25 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:25 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:25 PM]
+  Husk attacked by Lester. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/27/2021 11:27:26 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:27:28 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:27:28 PM]
+  THEGAMER300: DAAAMN
+[2/27/2021 11:27:31 PM]
+  TornMap picked up Morphine
+[2/27/2021 11:27:36 PM]
+  TornMap used item Morphine
+[2/27/2021 11:27:36 PM]
+  terc started repairing Junction Box
+[2/27/2021 11:27:43 PM]
+  THEGAMER300: WHERE ARE DA 02 TANKS
+[2/27/2021 11:27:48 PM]
+  terc started repairing Large Engine
+[2/27/2021 11:27:50 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:27:54 PM]
+  TornMap placed Morphine in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:27:54 PM]
+  TornMap placed Morphine in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:28:02 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:28:02 PM]
+  Lester placed Shotgun Shell in Riot Shotgun (ID: 4067)
+[2/27/2021 11:28:05 PM]
+  TornMap: ARE YOU OKAY TERC
+[2/27/2021 11:28:05 PM]
+  terc picked up Diving Suit
+[2/27/2021 11:28:08 PM]
+  terc dropped Diving Suit
+[2/27/2021 11:28:09 PM]
+  THEGAMER300: someone tell me where the o2 tanks are
+[2/27/2021 11:28:14 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:28:22 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:28:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:28:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:28:23 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:28:23 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:28:24 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:28:24 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:28:24 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:28:24 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:28:25 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:28:25 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:28:25 PM]
+  terc picked up Diving Suit
+[2/27/2021 11:28:25 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:28:27 PM]
+  Lester picked up Welding Tool
+[2/27/2021 11:28:28 PM]
+  THEGAMER300 picked up Diving Mask
+[2/27/2021 11:28:29 PM]
+  Lester equipped Welding Tool
+[2/27/2021 11:28:32 PM]
+  THEGAMER300: I SEE A HUSK
+[2/27/2021 11:28:35 PM]
+  THEGAMER300: AAAAAAAAAA
+[2/27/2021 11:28:36 PM]
+  terc started repairing Small Pump
+[2/27/2021 11:28:40 PM]
+  TornMap: KILL EM
+[2/27/2021 11:28:41 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:28:44 PM]
+  Outer wall repaired by Lester
+[2/27/2021 11:28:47 PM]
+  THEGAMER300 placed Oxygen Tank in Diving Suit (ID: 202)
+[2/27/2021 11:28:47 PM]
+  THEGAMER300 picked up Diving Suit
+[2/27/2021 11:28:51 PM]
+  terc: are husts the big motherfuckers
+[2/27/2021 11:29:13 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:29:14 PM]
+  TornMap used item Blood Pack
+[2/27/2021 11:29:14 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:29:16 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:29:23 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:29:25 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:29:25 PM]
+  Husk attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:29:25 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:29:26 PM]
+  Husk attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:29:26 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:29:26 PM]
+  Husk attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:29:26 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:29:26 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:29:29 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:29:32 PM]
+  Lester picked up Diving Suit
+[2/27/2021 11:29:33 PM]
+  THEGAMER300: leak was in the ballost, should  b fixed now
+[2/27/2021 11:29:41 PM]
+  terc started repairing Supercapacitor
+[2/27/2021 11:29:44 PM]
+  Lester placed Oxygen Tank in Diving Mask (ID: 484)
+[2/27/2021 11:29:44 PM]
+  Lester removed Oxygen Tank from Diving Mask (ID: 484)
+[2/27/2021 11:29:44 PM]
+  Lester placed Oxygen Tank in Diving Suit (ID: 195)
+[2/27/2021 11:29:47 PM]
+  terc: i killed one of the monsters
+[2/27/2021 11:29:53 PM]
+  THEGAMER300: WHATS GOING OOON
+[2/27/2021 11:30:01 PM]
+  TornMap: oh fuck
+[2/27/2021 11:30:01 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:30:02 PM]
+  tomacatx1: dead?
+[2/27/2021 11:30:04 PM]
+  TornMap: i am experiencing high pressure
+[2/27/2021 11:30:04 PM]
+  terc launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[2/27/2021 11:30:05 PM]
+  Hammerhead attacked by terc. Lacerations: 100 Bleeding: 75 Stun: 15
+[2/27/2021 11:30:05 PM]
+  Hammerhead has died (Cause of death: Lacerations)
+[2/27/2021 11:30:05 PM]
+  tomacatx1: welcome to the land of the dead
+[2/27/2021 11:30:14 PM]
+  tomacatx1: this is what we call
+[2/27/2021 11:30:17 PM]
+  tomacatx1: The Wild Ride
+[2/27/2021 11:30:17 PM]
+  terc: big sunuvabitch is dead
+[2/27/2021 11:30:20 PM]
+  terc started repairing Supercapacitor
+[2/27/2021 11:30:26 PM]
+  TornMap picked up Diving Suit
+[2/27/2021 11:30:36 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:30:44 PM]
+  THEGAMER300: E
+[2/27/2021 11:30:46 PM]
+  THEGAMER300: I GOT BITTEN
+[2/27/2021 11:30:46 PM]
+  terc launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[2/27/2021 11:30:47 PM]
+  TornMap started repairing Junction Box
+[2/27/2021 11:30:47 PM]
+  Mudraptor attacked by terc. Lacerations: 270 Bleeding: 150 Stun: 15
+[2/27/2021 11:30:47 PM]
+  Mudraptor attacked by terc. Lacerations: 100 Bleeding: 75 Stun: 15
+[2/27/2021 11:30:51 PM]
+  THEGAMER300: IT SAYS I FEEL SOMETHING IN MY THROAAAT
+[2/27/2021 11:30:53 PM]
+  Lester opened Custom Door
+[2/27/2021 11:30:57 PM]
+  Outer wall repaired by Lester
+[2/27/2021 11:30:59 PM]
+  TornMap: Oh no.
+[2/27/2021 11:31:08 PM]
+  terc started repairing Navigation Terminal
+[2/27/2021 11:31:11 PM]
+  THEGAMER300: TORN COME ON AND OPEN THE MED CABINET
+[2/27/2021 11:31:11 PM]
+  Lester removed Oxygen Tank from Diving Suit (ID: 195)
+[2/27/2021 11:31:12 PM]
+  Lester equipped Oxygen Tank
+[2/27/2021 11:31:14 PM]
+  Lester placed Oxygen Tank in Diving Suit (ID: 195)
+[2/27/2021 11:31:20 PM]
+  TornMap: what did you say helped again
+[2/27/2021 11:31:26 PM]
+  THEGAMER300: TORN YOU LITTLE SHIT
+[2/27/2021 11:31:28 PM]
+  TornMap picked up Calyxanide
+[2/27/2021 11:31:28 PM]
+  TornMap picked up Calyxanide
+[2/27/2021 11:31:29 PM]
+  THEGAMER300: IVE GONE INSANE
+[2/27/2021 11:31:33 PM]
+  TornMap used item Calyxanide
+[2/27/2021 11:31:41 PM]
+  THEGAMER300: TORN INJECT ME
+[2/27/2021 11:31:44 PM]
+  THEGAMER300: FUCKING HURRY UP
+[2/27/2021 11:31:47 PM]
+  TornMap used item Blood Pack
+[2/27/2021 11:31:47 PM]
+  THEGAMER300: IM DYINGA
+[2/27/2021 11:31:48 PM]
+  tomacatx1: hahahaha
+[2/27/2021 11:31:56 PM]
+  Lester dropped Diving Suit
+[2/27/2021 11:31:56 PM]
+  THEGAMER300: HEEAAAL MEEE
+[2/27/2021 11:31:58 PM]
+  terc has died (Cause of death: Internal damage)
+[2/27/2021 11:32:03 PM]
+  TornMap placed Bandage in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:32:07 PM]
+  TornMap used item Bandage
+[2/27/2021 11:32:09 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:09 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:09 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:09 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:09 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:09 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:09 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:09 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:11 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:11 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:11 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:11 PM]
+  THEGAMER300: LET GO OF ME
+[2/27/2021 11:32:12 PM]
+  TornMap used item Blood Pack
+[2/27/2021 11:32:13 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:13 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:13 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:13 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:13 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:13 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:13 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:13 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:13 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:32:13 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:32:14 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:14 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:14 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:15 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:32:15 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:32:16 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:32:16 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:32:16 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:16 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:16 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:16 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:16 PM]
+  terc attacked by Lester. Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:16 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:16 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:16 PM]
+  terc attacked by Lester. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[2/27/2021 11:32:16 PM]
+  tomacatx1: hahahaha
+[2/27/2021 11:32:20 PM]
+  tomacatx1: welcome to huskdom
+[2/27/2021 11:32:21 PM]
+  terc attacked by Lester. Bleeding: 20 Gunshot wound: 12 Stun: 0.4
+[2/27/2021 11:32:22 PM]
+  tomacatx1: terc
+[2/27/2021 11:32:23 PM]
+  terc attacked by TornMap. Lacerations: 1
+[2/27/2021 11:32:23 PM]
+  TornMap used Screwdriver on terc.
+[2/27/2021 11:32:24 PM]
+  THEGAMER300 attacked by Lester. Gunshot wound: 12 Stun: 0.4
+[2/27/2021 11:32:24 PM]
+  THEGAMER300 attacked by Lester. Blunt force trauma: 1.6
+[2/27/2021 11:32:24 PM]
+  Lester used Stun Baton (Battery Cell) on THEGAMER300.
+[2/27/2021 11:32:24 PM]
+  Lester has lost more than 25 karma in the past minute.
+[2/27/2021 11:32:24 PM]
+  Lester has contracted space herpes due to low karma.
+[2/27/2021 11:32:24 PM]
+  Lester has been warned for having dangerously low karma.
+[2/27/2021 11:32:25 PM]
+  terc attacked by TornMap. Lacerations: 2 Stun: 0.2
+[2/27/2021 11:32:25 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:32:26 PM]
+  terc attacked by TornMap. Lacerations: 2 Stun: 0.2
+[2/27/2021 11:32:26 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:32:26 PM]
+  THEGAMER300: OW
+[2/27/2021 11:32:30 PM]
+  TornMap: STAB STAB STAB
+[2/27/2021 11:32:34 PM]
+  terc: ekki
+[2/27/2021 11:32:39 PM]
+  tomacatx1: this is what we call
+[2/27/2021 11:32:40 PM]
+  tomacatx1: the wild ride
+[2/27/2021 11:32:40 PM]
+  THEGAMER300: EEE
+[2/27/2021 11:32:44 PM]
+  terc attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:32:44 PM]
+  THEGAMER300 used Wrench on terc.
+[2/27/2021 11:32:50 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:32:50 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:32:51 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:32:51 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:32:56 PM]
+  THEGAMER300 failed to repair Coilgun Loader
+[2/27/2021 11:33:01 PM]
+  TornMap: are you okay
+[2/27/2021 11:33:03 PM]
+  THEGAMER300: I THINK IM FINE NOW
+[2/27/2021 11:33:03 PM]
+  TornMap: dinkster is that you
+[2/27/2021 11:33:06 PM]
+  THEGAMER300 started repairing Coilgun Loader
+[2/27/2021 11:33:12 PM]
+  TornMap placed Calyxanide in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:33:16 PM]
+  THEGAMER300 launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:33:18 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:33:18 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:33:20 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:33:20 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:33:20 PM]
+  THEGAMER300 has contracted space herpes due to low karma.
+[2/27/2021 11:33:20 PM]
+  TornMap used item Morphine
+[2/27/2021 11:33:21 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:33:21 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:33:22 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:33:22 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:33:26 PM]
+  THEGAMER300 dropped Boiler Suit
+[2/27/2021 11:33:28 PM]
+  THEGAMER300 picked up Boiler Suit
+[2/27/2021 11:33:31 PM]
+  THEGAMER300 dropped Diving Suit
+[2/27/2021 11:33:36 PM]
+  THEGAMER300: i have SPACE HERPES
+[2/27/2021 11:33:37 PM]
+  Lester placed Fuel Rod in Toolbelt (ID: 4715)
+[2/27/2021 11:33:38 PM]
+  THEGAMER300: OH NO
+[2/27/2021 11:33:42 PM]
+  TornMap: AAAAAAAAAAAA
+[2/27/2021 11:33:42 PM]
+  Lester placed Fuel Rod in Toolbelt (ID: 4715)
+[2/27/2021 11:33:47 PM]
+  THEGAMER300: CHEATS ENABLED?
+[2/27/2021 11:33:49 PM]
+  TornMap: Oh no.
+[2/27/2021 11:33:53 PM]
+  THEGAMER300: MILITAMAN THEME STARTS PLAYING
+[2/27/2021 11:34:00 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:34:00 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:34:01 PM]
+  terc: /spawn
+[2/27/2021 11:34:03 PM]
+  HOST: 
+[2/27/2021 11:34:06 PM]
+  terc: didnt work
+[2/27/2021 11:34:06 PM]
+  TornMap: fuck
+[2/27/2021 11:34:07 PM]
+  HOST: enabled cheats
+[2/27/2021 11:34:08 PM]
+  THEGAMER300: GOD
+[2/27/2021 11:34:09 PM]
+  HOST: so i can spectate
+[2/27/2021 11:34:09 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:34:09 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:34:10 PM]
+  TornMap: we're gonna die in the pink room
+[2/27/2021 11:34:11 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:34:11 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:34:12 PM]
+  HOST: lighting command
+[2/27/2021 11:34:12 PM]
+  TornMap attacked by THEGAMER300. Blunt force trauma: 1.6
+[2/27/2021 11:34:12 PM]
+  THEGAMER300 used Wrench on TornMap.
+[2/27/2021 11:34:14 PM]
+  TornMap: you HIT ME FOOL
+[2/27/2021 11:34:21 PM]
+  Lester: Broken devices in engine room!
+[2/27/2021 11:34:21 PM]
+  terc has left the server. Reason: terc has disconnected.
+[2/27/2021 11:34:21 PM]
+  TornMap dropped Diving Suit
+[2/27/2021 11:34:21 PM]
+  Lester: Need someone to repair devices in engine room!
+[2/27/2021 11:34:22 PM]
+  Lester: Need someone to repair devices in engine room!
+[2/27/2021 11:34:31 PM]
+  THEGAMER300: im shellshocked
+[2/27/2021 11:34:33 PM]
+  THEGAMER300: idk what to do
+[2/27/2021 11:34:34 PM]
+  TornMap: uhh
+[2/27/2021 11:34:37 PM]
+  THEGAMER300: im SHELLSHOCKED
+[2/27/2021 11:34:39 PM]
+  TornMap: Lester?
+[2/27/2021 11:34:45 PM]
+  TornMap: oh god oh fuck
+[2/27/2021 11:34:57 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:34:57 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/27/2021 11:34:58 PM]
+  Lester equipped Fuel Rod
+[2/27/2021 11:34:58 PM]
+  Lester picked up Fuel Rod
+[2/27/2021 11:35:01 PM]
+  TornMap started repairing Junction Box
+[2/27/2021 11:35:02 PM]
+  Outer wall breached by Hammerhead
+[2/27/2021 11:35:09 PM]
+  TornMap: r
+[2/27/2021 11:35:14 PM]
+  TornMap: we're flooding?
+[2/27/2021 11:35:14 PM]
+  Console command "heal Lester" executed by tomacatx1.
+[2/27/2021 11:35:16 PM]
+  Lester placed Fuel Rod in Toolbelt (ID: 4715)
+[2/27/2021 11:35:17 PM]
+  Console command "revive Lester" executed by tomacatx1.
+[2/27/2021 11:35:17 PM]
+  Lester has contracted space herpes due to low karma.
+[2/27/2021 11:35:20 PM]
+  THEGAMER300 started repairing Large Engine
+[2/27/2021 11:35:30 PM]
+  Console command "togglekarma" executed by tomacatx1.
+[2/27/2021 11:35:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:31 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:31 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:32 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:39 PM]
+  THEGAMER300 started repairing Nuclear Reactor
+[2/27/2021 11:35:41 PM]
+  Husk has died (Cause of death: Blunt force trauma)
+[2/27/2021 11:35:41 PM]
+  Lester picked up Diving Suit
+[2/27/2021 11:35:47 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:47 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:47 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:47 PM]
+  Hammerhead attacked by TornMap.
+[2/27/2021 11:35:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:48 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:48 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:48 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:48 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:48 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:49 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:49 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:50 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:50 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:51 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:51 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:51 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:51 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:51 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:52 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:52 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:35:52 PM]
+  Hammerhead attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:35:58 PM]
+  TornMap launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[2/27/2021 11:35:59 PM]
+  Hammerhead attacked by TornMap. Stun: 15
+[2/27/2021 11:35:59 PM]
+  Hammerhead has died (Cause of death: Lacerations)
+[2/27/2021 11:36:02 PM]
+  TornMap: killed it
+[2/27/2021 11:36:04 PM]
+  THEGAMER300: WHATS GOING OOON
+[2/27/2021 11:36:12 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:36:14 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:36:16 PM]
+  THEGAMER300: ENGINE ROOM IS BEING DAMAGED
+[2/27/2021 11:36:23 PM]
+  Lester dropped Diving Suit
+[2/27/2021 11:36:33 PM]
+  Outer wall repaired by Lester
+[2/27/2021 11:36:51 PM]
+  THEGAMER300 picked up Diving Mask
+[2/27/2021 11:36:53 PM]
+  THEGAMER300 equipped Oxygen Tank
+[2/27/2021 11:36:53 PM]
+  TornMap picked up Pomegrenade Extract
+[2/27/2021 11:36:54 PM]
+  Lester placed Oxygen Tank in terc
+[2/27/2021 11:36:56 PM]
+  TornMap used item Pomegrenade Extract
+[2/27/2021 11:37:02 PM]
+  Lester placed Oxygen Tank in Diving Suit (ID: 13)
+[2/27/2021 11:37:02 PM]
+  Lester removed Diving Suit from terc
+[2/27/2021 11:37:30 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:38:00 PM]
+  TornMap started repairing Supercapacitor
+[2/27/2021 11:38:02 PM]
+  THEGAMER300 started repairing Pump
+[2/27/2021 11:38:02 PM]
+  TornMap: well
+[2/27/2021 11:38:04 PM]
+  TornMap: we're gonna die
+[2/27/2021 11:38:12 PM]
+  TornMap: we're gonna die
+[2/27/2021 11:38:13 PM]
+  THEGAMER300: E
+[2/27/2021 11:38:15 PM]
+  Outer wall repaired by Lester
+[2/27/2021 11:38:16 PM]
+  Outer wall repaired by Lester
+[2/27/2021 11:38:18 PM]
+  tomacatx1: e
+[2/27/2021 11:38:23 PM]
+  TornMap started repairing Supercapacitor
+[2/27/2021 11:38:32 PM]
+  THEGAMER300 started repairing Medical Fabricator
+[2/27/2021 11:38:52 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:38:54 PM]
+  THEGAMER300 started repairing Railgun Loader
+[2/27/2021 11:38:55 PM]
+  TornMap placed Oxygen Tank in Diving Mask (ID: 378)
+[2/27/2021 11:38:59 PM]
+  TornMap: Broken devices in junction compartment!
+[2/27/2021 11:39:10 PM]
+  THEGAMER300 started repairing Supercapacitor
+[2/27/2021 11:39:16 PM]
+  TornMap picked up Frag Grenade
+[2/27/2021 11:39:36 PM]
+  TornMap started repairing Junction Box
+[2/27/2021 11:39:41 PM]
+  TornMap: dinkster where did you put that pipe
+[2/27/2021 11:39:44 PM]
+  THEGAMER300: NEED SOME HELP FIXING O2
+[2/27/2021 11:39:48 PM]
+  THEGAMER300: ITS ALL BROKEN
+[2/27/2021 11:39:50 PM]
+  THEGAMER300 started repairing Oxygen Generator
+[2/27/2021 11:40:12 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:40:17 PM]
+  TornMap: something is smoking bad down here
+[2/27/2021 11:40:23 PM]
+  THEGAMER300: MY ASS
+[2/27/2021 11:40:31 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:40:45 PM]
+  TornMap picked up Wrench
+[2/27/2021 11:40:47 PM]
+  TornMap equipped Wrench
+[2/27/2021 11:40:49 PM]
+  TornMap failed to repair Deconstructor
+[2/27/2021 11:40:51 PM]
+  TornMap started repairing Deconstructor
+[2/27/2021 11:40:53 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:41:02 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/27/2021 11:41:04 PM]
+  THEGAMER300: i still have the pipe
+[2/27/2021 11:41:04 PM]
+  Lester picked up Fuel Rod
+[2/27/2021 11:41:08 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:41:10 PM]
+  TornMap: smoke it
+[2/27/2021 11:41:11 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:41:13 PM]
+  THEGAMER300: i did
+[2/27/2021 11:41:15 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:41:15 PM]
+  TornMap failed to repair Fabricator
+[2/27/2021 11:41:17 PM]
+  TornMap failed to repair Fabricator
+[2/27/2021 11:41:19 PM]
+  TornMap started repairing Fabricator
+[2/27/2021 11:41:35 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:41:37 PM]
+  TornMap: can we search tercs body in the ballast
+[2/27/2021 11:41:42 PM]
+  THEGAMER300: yea
+[2/27/2021 11:41:44 PM]
+  Lester: Need someone to repair devices in engine room!
+[2/27/2021 11:41:45 PM]
+  Lester: Need someone to repair devices in engine room!
+[2/27/2021 11:41:45 PM]
+  Lester: Broken devices in engine room!
+[2/27/2021 11:41:46 PM]
+  TornMap started repairing Small Pump
+[2/27/2021 11:41:52 PM]
+  THEGAMER300: okok
+[2/27/2021 11:42:02 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:42:06 PM]
+  TornMap started repairing Junction Box
+[2/27/2021 11:42:21 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:42:24 PM]
+  TornMap equipped Frag Grenade
+[2/27/2021 11:42:34 PM]
+  THEGAMER300: torn fix da 02 pls
+[2/27/2021 11:42:37 PM]
+  TornMap placed Blood Pack in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:42:39 PM]
+  TornMap placed Blood Pack in Medic's Fatigues (ID: 4608)
+[2/27/2021 11:42:42 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:43:04 PM]
+  THEGAMER300 started repairing Coilgun Loader
+[2/27/2021 11:43:07 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:09 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:10 PM]
+  TornMap started repairing Battery
+[2/27/2021 11:43:11 PM]
+  THEGAMER300: dude i hear some scary shit
+[2/27/2021 11:43:12 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:15 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:15 PM]
+  TornMap: we're dead
+[2/27/2021 11:43:21 PM]
+  Outer wall repaired by THEGAMER300
+[2/27/2021 11:43:21 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:22 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:23 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:24 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:31 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:43:35 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:35 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:35 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:36 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:36 PM]
+  Outer wall breached by TornMap
+[2/27/2021 11:43:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:36 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:36 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:36 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:37 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:37 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:37 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:37 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:38 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:38 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:38 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:38 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:39 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:39 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:39 PM]
+  Lester picked up Diving Suit
+[2/27/2021 11:43:40 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:40 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:40 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:40 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:40 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:40 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:40 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:41 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:41 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:41 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:41 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:41 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:41 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:42 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:42 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:42 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:42 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:42 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:42 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:42 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:43 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:47 PM]
+  TornMap: there was a creature
+[2/27/2021 11:43:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:49 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:49 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:50 PM]
+  THEGAMER300: faggot ABOVE O2 ROOM BREAKING IT
+[2/27/2021 11:43:50 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:50 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:50 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:52 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:53 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:53 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:54 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:54 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:54 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:54 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:55 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:55 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:56 PM]
+  THEGAMER300: SHOOT THE THING ABOVE THE O2 ROOM
+[2/27/2021 11:43:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:56 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:57 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:57 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:57 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:57 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:57 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:57 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:58 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:58 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:58 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:58 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:58 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:43:58 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:59 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:43:59 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:43:59 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:43:59 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:44:01 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:02 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:03 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:05 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:06 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:07 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:08 PM]
+  TornMap: i need more ammo
+[2/27/2021 11:44:09 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:10 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:11 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:12 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:13 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:15 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:16 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:17 PM]
+  TornMap equipped Coilgun Ammunition Box
+[2/27/2021 11:44:17 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/27/2021 11:44:19 PM]
+  TornMap picked up Diving Suit
+[2/27/2021 11:44:19 PM]
+  THEGAMER300: MY ELDER WONT LAST FOREVER
+[2/27/2021 11:44:20 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:21 PM]
+  TornMap removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[2/27/2021 11:44:21 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:23 PM]
+  TornMap placed Coilgun Ammunition Box in Coilgun Loader (ID: 913)
+[2/27/2021 11:44:25 PM]
+  THEGAMER300: WELDER
+[2/27/2021 11:44:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:26 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:27 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:28 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:44:28 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:28 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:29 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:44:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:29 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:44:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:29 PM]
+  Outer wall breached by Bonethresher
+[2/27/2021 11:44:29 PM]
+  Bonethresher attacked by TornMap. Lacerations: 1.25 Bleeding: 0.1
+[2/27/2021 11:44:29 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:30 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:44:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:30 PM]
+  Bonethresher has died (Cause of death: Lacerations)
+[2/27/2021 11:44:30 PM]
+  Bonethresher attacked by TornMap. Lacerations: 12.5 Bleeding: 1
+[2/27/2021 11:44:30 PM]
+  TornMap launched Coilgun (projectile: Coilgun Bolt)
+[2/27/2021 11:44:33 PM]
+  TornMap: it's dead
+[2/27/2021 11:44:37 PM]
+  THEGAMER300: AWESOME
+[2/27/2021 11:44:44 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:44:47 PM]
+  HOST: that is what we call a bonethresher
+[2/27/2021 11:44:54 PM]
+  THEGAMER300: someone fix da junctions while i fix the o2
+[2/27/2021 11:45:02 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:45:04 PM]
+  TornMap started repairing Small Pump
+[2/27/2021 11:45:06 PM]
+  Console command "fixhulls" executed by tomacatx1.
+[2/27/2021 11:45:17 PM]
+  Lester picked up Welding Fuel Tank
+[2/27/2021 11:45:17 PM]
+  Lester picked up Welding Fuel Tank
+[2/27/2021 11:45:17 PM]
+  Lester picked up Welding Fuel Tank
+[2/27/2021 11:45:17 PM]
+  Lester picked up Welding Fuel Tank
+[2/27/2021 11:45:17 PM]
+  Lester picked up Welding Fuel Tank
+[2/27/2021 11:45:20 PM]
+  Lester placed Riot Shotgun in terc
+[2/27/2021 11:45:24 PM]
+  Lester placed Wrench in terc
+[2/27/2021 11:45:26 PM]
+  Lester picked up Wrench
+[2/27/2021 11:45:30 PM]
+  Lester placed Revolver Round in Revolver (ID: 4059)
+[2/27/2021 11:45:30 PM]
+  Lester placed Revolver Round in Revolver (ID: 4059)
+[2/27/2021 11:45:30 PM]
+  TornMap failed to repair Navigation Terminal
+[2/27/2021 11:45:32 PM]
+  Lester placed Revolver Round in terc
+[2/27/2021 11:45:36 PM]
+  Lester picked up Screwdriver
+[2/27/2021 11:45:36 PM]
+  Lester closed Custom Door
+[2/27/2021 11:45:37 PM]
+  TornMap started repairing Navigation Terminal
+[2/27/2021 11:45:39 PM]
+  Lester opened Custom Door
+[2/27/2021 11:45:52 PM]
+  TornMap: always keep a grenade on your person
+[2/27/2021 11:45:58 PM]
+  TornMap: you never know when you need to Martyrdom
+[2/27/2021 11:46:06 PM]
+  Lester equipped Wrench
+[2/27/2021 11:46:09 PM]
+  Lester dropped Diving Suit
+[2/27/2021 11:46:11 PM]
+  THEGAMER300 started repairing Small Pump
+[2/27/2021 11:46:13 PM]
+  Lester equipped Screwdriver
+[2/27/2021 11:46:15 PM]
+  Lester started repairing Supercapacitor
+[2/27/2021 11:46:16 PM]
+  TornMap dropped Diving Suit
+[2/27/2021 11:46:17 PM]
+  HOST: proschaite, ya dernul kaltso....
+[2/27/2021 11:46:17 PM]
+  TornMap dropped Diving Mask
+[2/27/2021 11:46:18 PM]
+  THEGAMER300: dont be shy kill her kill her now
+[2/27/2021 11:46:20 PM]
+  TornMap picked up Diving Mask
+[2/27/2021 11:46:23 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:46:35 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:46:36 PM]
+  Lester failed to repair Supercapacitor
+[2/27/2021 11:46:37 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:46:39 PM]
+  Lester started repairing Supercapacitor
+[2/27/2021 11:46:45 PM]
+  TornMap: we need to Recharge some oxygen containers
+[2/27/2021 11:46:51 PM]
+  THEGAMER300: true!!!
+[2/27/2021 11:46:57 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:46:57 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:47:01 PM]
+  Lester started repairing Supercapacitor
+[2/27/2021 11:47:04 PM]
+  THEGAMER300: w
+[2/27/2021 11:47:13 PM]
+  TornMap dropped Oxygen Tank
+[2/27/2021 11:47:13 PM]
+  TornMap dropped Oxygen Tank
+[2/27/2021 11:47:14 PM]
+  Lester started repairing Supercapacitor
+[2/27/2021 11:47:17 PM]
+  THEGAMER300: i will kill you
+[2/27/2021 11:47:25 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:47:28 PM]
+  THEGAMER300 placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:47:32 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:47:37 PM]
+  TornMap equipped Coilgun Ammunition Box
+[2/27/2021 11:47:37 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/27/2021 11:47:44 PM]
+  TornMap dropped Coilgun Ammunition Box
+[2/27/2021 11:47:45 PM]
+  THEGAMER300 started repairing Battery
+[2/27/2021 11:47:47 PM]
+  Lester placed Diving Mask in Medium Steel Cabinet (ID: 901)
+[2/27/2021 11:47:55 PM]
+  TornMap: do we have anymore ammunition
+[2/27/2021 11:47:55 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:47:57 PM]
+  Console command "spawn endworm cursor" executed by tomacatx1.
+[2/27/2021 11:48:04 PM]
+  THEGAMER300 placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:48:10 PM]
+  THEGAMER300: just fabricate some morea
+[2/27/2021 11:48:12 PM]
+  THEGAMER300: 4head
+[2/27/2021 11:48:21 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/27/2021 11:48:24 PM]
+  TornMap dropped Coilgun Ammunition Box
+[2/27/2021 11:48:27 PM]
+  Lester picked up Diving Mask
+[2/27/2021 11:48:28 PM]
+  THEGAMER300: ok
+[2/27/2021 11:48:32 PM]
+  THEGAMER300 picked up Oxygen Tank
+[2/27/2021 11:48:33 PM]
+  THEGAMER300 placed Oxygen Tank in Diving Mask (ID: 431)
+[2/27/2021 11:48:35 PM]
+  Lester started repairing Junction Box
+[2/27/2021 11:48:49 PM]
+  TornMap placed Oxygen Tank in Diving Mask (ID: 378)
+[2/27/2021 11:48:52 PM]
+  Lester started repairing Junction Box
+[2/27/2021 11:48:58 PM]
+  TornMap picked up Diving Mask
+[2/27/2021 11:49:01 PM]
+  TornMap picked up Oxygen Tank
+[2/27/2021 11:49:01 PM]
+  TornMap placed Diving Mask in Supplies Cabinet (ID: 377)
+[2/27/2021 11:49:11 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 502)
+[2/27/2021 11:49:15 PM]
+  Lester started repairing Fabricator
+[2/27/2021 11:49:17 PM]
+  THEGAMER300: mfwd
+[2/27/2021 11:49:25 PM]
+  THEGAMER300 started repairing Small Pump
+[2/27/2021 11:49:40 PM]
+  TornMap: is terc y'know Alive
+[2/27/2021 11:49:44 PM]
+  THEGAMER300: no
+[2/27/2021 11:49:48 PM]
+  TornMap: it says he's unconscious
+[2/27/2021 11:49:49 PM]
+  Lester started repairing Deconstructor
+[2/27/2021 11:49:50 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:49:51 PM]
+  TornMap: oh well
+[2/27/2021 11:49:53 PM]
+  THEGAMER300: he was a husk
+[2/27/2021 11:49:57 PM]
+  THEGAMER300 started repairing Junction Box
+[2/27/2021 11:50:00 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:00 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:02 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:02 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:03 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:03 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:04 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:04 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:10 PM]
+  TornMap: i'll just stab him to death
+[2/27/2021 11:50:14 PM]
+  THEGAMER300: true
+[2/27/2021 11:50:14 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:14 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:15 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:15 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:16 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:16 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:17 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[2/27/2021 11:50:17 PM]
+  TornMap used Diving Knife on terc.
+[2/27/2021 11:50:18 PM]
+  terc attacked by TornMap. Lacerations: 5 Bleeding: 10 Stun: 0.2

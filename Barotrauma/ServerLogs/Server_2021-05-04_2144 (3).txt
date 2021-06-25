@@ -1,0 +1,58 @@
+﻿[5/4/2021 9:40:46 PM]
+  Saving client permissions
+[5/4/2021 9:40:49 PM]
+  Client "tomacatx1" started the round.
+[5/4/2021 9:40:49 PM]
+  Starting a new round...
+[5/4/2021 9:41:15 PM]
+  Game mode: Sandbox
+[5/4/2021 9:41:15 PM]
+  Submarine: Azimuth
+[5/4/2021 9:41:15 PM]
+  Level seed: ULIfR00Y
+[5/4/2021 9:41:15 PM]
+  Round started.
+[5/4/2021 9:41:21 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[5/4/2021 9:41:30 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[5/4/2021 9:41:35 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/4/2021 9:42:24 PM]
+  Client "tomacatx1" ended the round.
+[5/4/2021 9:42:24 PM]
+  Ending the round...
+[5/4/2021 9:42:24 PM]
+  Round ended.
+[5/4/2021 9:42:36 PM]
+  Gamemode changed to Mission
+[5/4/2021 9:42:40 PM]
+  tomacatx1 is ready to start the game.
+[5/4/2021 9:42:54 PM]
+  Client "tomacatx1" started the round.
+[5/4/2021 9:42:54 PM]
+  Starting a new round...
+[5/4/2021 9:42:54 PM]
+  Mission: Activate beacon
+[5/4/2021 9:42:54 PM]
+  The beacon station between Alkonost Outpost and Thaw Habitation Outpost is down—get in there, and get it back online and transmitting an active sonar signal.
+[5/4/2021 9:42:54 PM]
+  Game mode: Mission
+[5/4/2021 9:42:54 PM]
+  Submarine: Azimuth
+[5/4/2021 9:42:54 PM]
+  Level seed: XWu56oCX
+[5/4/2021 9:42:54 PM]
+  Mission: Activate beacon
+[5/4/2021 9:42:54 PM]
+  Round started.
+[5/4/2021 9:42:58 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[5/4/2021 9:43:07 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/4/2021 9:44:14 PM]
+  Client "tomacatx1" ended the round.
+[5/4/2021 9:44:14 PM]
+  Ending the round...
+[5/4/2021 9:44:14 PM]
+  Round ended.

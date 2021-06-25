@@ -1,0 +1,76 @@
+﻿[6/20/2021 10:04:53 PM]
+  Saving client permissions
+[6/20/2021 10:04:58 PM]
+  Gamemode changed to Campaign
+[6/20/2021 10:05:16 PM]
+  Starting a new round...
+[6/20/2021 10:05:38 PM]
+  Game mode: Campaign
+[6/20/2021 10:05:38 PM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/20/2021 10:05:38 PM]
+  Level seed: Anid
+[6/20/2021 10:05:38 PM]
+  Kerry Reynolds equipped Wrench
+[6/20/2021 10:05:38 PM]
+  Kerry Reynolds unequipped Wrench
+[6/20/2021 10:05:38 PM]
+  Kerry Reynolds equipped Screwdriver
+[6/20/2021 10:05:38 PM]
+  Lamont Radice equipped Wrench
+[6/20/2021 10:05:38 PM]
+  Lamont Radice unequipped Wrench
+[6/20/2021 10:05:38 PM]
+  Lamont Radice equipped Screwdriver
+[6/20/2021 10:05:38 PM]
+  Candace Hampton equipped Wrench
+[6/20/2021 10:05:38 PM]
+  Candace Hampton unequipped Wrench
+[6/20/2021 10:05:38 PM]
+  Candace Hampton equipped Screwdriver
+[6/20/2021 10:05:38 PM]
+  Devin Ram equipped Wrench
+[6/20/2021 10:05:38 PM]
+  Devin Ram unequipped Wrench
+[6/20/2021 10:05:38 PM]
+  Devin Ram equipped Screwdriver
+[6/20/2021 10:05:38 PM]
+  Devin Ram unequipped Screwdriver
+[6/20/2021 10:05:38 PM]
+  Devin Ram equipped Crowbar
+[6/20/2021 10:05:38 PM]
+  Lauren Hefner equipped Wrench
+[6/20/2021 10:05:38 PM]
+  Lauren Hefner unequipped Wrench
+[6/20/2021 10:05:38 PM]
+  Lauren Hefner equipped Screwdriver
+[6/20/2021 10:05:39 PM]
+  Thea Robertson equipped Screwdriver
+[6/20/2021 10:05:39 PM]
+  Arturo Rhymer equipped Screwdriver
+[6/20/2021 10:05:39 PM]
+  Kathy Huber equipped Wrench
+[6/20/2021 10:05:39 PM]
+  Claire Frye equipped Screwdriver
+[6/20/2021 10:05:39 PM]
+  Round started.
+[6/20/2021 10:05:39 PM]
+  Boyce Fleig equipped Crowbar
+[6/20/2021 10:05:39 PM]
+  Claire Frye unequipped Screwdriver
+[6/20/2021 10:05:39 PM]
+  Arturo Rhymer unequipped Screwdriver
+[6/20/2021 10:05:39 PM]
+  Kathy Huber unequipped Wrench
+[6/20/2021 10:05:39 PM]
+  Boyce Fleig unequipped Crowbar
+[6/20/2021 10:05:40 PM]
+  Kerry Reynolds unequipped Screwdriver
+[6/20/2021 10:05:40 PM]
+  Devin Ram unequipped Crowbar
+[6/20/2021 10:05:40 PM]
+  Thea Robertson unequipped Screwdriver
+[6/20/2021 10:05:48 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/20/2021 10:06:13 PM]
+  Devin Ram: I'm cold.

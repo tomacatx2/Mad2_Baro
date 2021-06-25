@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EK Marauder Mk-II" path="Mods/EK Marauder Mk-II/filelist.xml" corepackage="false" gameversion="0.13.0.11" steamworkshopid="2272163571" installtime="1619118991">
+  <Submarine file="Mods/EK Marauder Mk-II/EK_Marauder_Mk-IV.sub" />
+</contentpackage>

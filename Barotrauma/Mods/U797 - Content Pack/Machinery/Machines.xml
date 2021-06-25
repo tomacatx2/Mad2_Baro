@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Brücke________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_navterminal" tags="command,navterminal,u797_navterminal" linkable="true" allowedlinks="u797_statusmonitor,statusmonitor" category="Machine" damagedbyexplosions="true" explosiondamagemultiplier="0.2">
+    <Sprite name="u797_navterminal 1" texture="Brücke\commandpanel_1_u797.png" depth="0.8" sourcerect="0,0,187,194" origin="0.5,0.5" />
+    <BrokenSprite name="u797_navterminal 2" texture="Brücke\commandpanel_2_u797.png" sourcerect="0,0,187,194" depth="0.8" maxcondition="80" fadein="true" origin="0.5,0.5" />
+    <BrokenSprite name="u797_navterminal 3" texture="Brücke\commandpanel_3_u797.png" sourcerect="0,0,187,194" depth="0.8" maxcondition="0" origin="0.5,0.5" />
+    <Steering minvoltage="0.5" canbeselected="true" powerconsumption="10" linkuitocomponent="Sonar" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.55,0.59" anchor="CenterLeft" style="OuterGlow" color="0,0,0,0.8" relativeoffset="0.125,-0.075" />
+      <StatusEffect type="InWater" target="This" condition="-0.5" />
+      <poweronsound file="Content/Items/PowerOnLight1.ogg" range="1000" loop="false" />
+      <MaintainPosIndicator texture="Mods/U797 - Content Pack/UI/Brücke/NavUI_u797.png" sourcerect="50,0,60,61" />
+      <MaintainPosOriginIndicator texture="Mods/U797 - Content Pack/UI/Brücke/NavUI_u797.png" sourcerect="0,0,50,54" />
+      <SteeringIndicator texture="Mods/U797 - Content Pack/UI/Brücke/NavUI_u797.png" sourcerect="0,135,362,16" origin="0,0.5" />
+      <LightComponent range="10.0" lightcolor="255,255,255,0" powerconsumption="5" IsOn="true" castshadows="false" allowingameediting="false">
+        <Upgrade gameversion="0.9.600.0" lightcolor="255,255,255,0" />
+        <sprite texture="Content/Items/Command/navigatorLights.png" depth="0.025" origin="0.367,0.38" alpha="1.0" />
+      </LightComponent>
+      <LightComponent range="10.0" lightcolor="255,255,255,0" powerconsumption="5" IsOn="true" castshadows="false" blinkfrequency="1" allowingameediting="false">
+        <Upgrade gameversion="0.9.600.0" lightcolor="255,255,255,0" />
+        <sprite texture="Content/Items/Command/navigatorLightsBlinking.png" depth="0.025" origin="0.367,0.38" alpha="1.0" />
+      </LightComponent>
+    </Steering>
+    <aitarget sightrange="200" soundrange="10000" staticsight="true" fadeouttime="5" />
+    <Sonar canbeselected="true" powerconsumption="100" displaybordersize="-0.1">
+      <GuiFrame relativesize="0.55,0.59" anchor="CenterLeft" relativeoffset="0.125,-0.075" />
+      <sound file="Content/Items/Command/SonarPing.ogg" type="OnUse" range="1000.0" />
+      <sound file="Content/Items/Command/SonarPing2.ogg" type="OnUse" range="1000.0" />
+      <StatusEffect type="OnUse">
+        <sound file="Content/Items/Command/SonarPingFar.ogg" type="OnUse" range="6000.0" />
+      </StatusEffect>
+      <PingCircle texture="Mods/U797 - Content Pack/UI/Brücke/pingCircle.png" origin="0.5,0.5" />
+      <DirectionalPingCircle texture="Mods/U797 - Content Pack/UI/Brücke/directionalPingCircle_u797.png" origin="0.0,0.5" />
+      <ScreenOverlay texture="Mods/U797 - Content Pack/UI/Brücke/sonarOverlay_u797.png" origin="0.5,0.5" />
+      <ScreenBackground texture="Mods/U797 - Content Pack/UI/Brücke/sonarBackground_u797.png" origin="0.5,0.5" />
+      <DirectionalPingBackground texture="Content/Items/Command/directionalPingBackground.png" origin="0.5,0.5" />
+      <DirectionalPingButton index="0" texture="Content/Items/Command/directionalPingButton.png" sourcerect="0,0,91,266" origin="-4.5275,0.5" />
+      <DirectionalPingButton index="1" texture="Content/Items/Command/directionalPingButton.png" sourcerect="133,0,91,266" origin="-4.5275,0.5" />
+      <DirectionalPingButton index="2" texture="Content/Items/Command/directionalPingButton.png" sourcerect="266,0,91,266" origin="-4.5275,0.5" />
+      <Blip texture="Mods/U797 - Content Pack/UI/Brücke/sonarBlip_u797.png" origin="0.5,0.5" />
+      <LineSprite texture="Mods/U797 - Content Pack/UI/Brücke/NavUI_u797.png" sourcerect="181,141,109,4" origin="0,0.5" />
+      <icon identifier="outpost" texture="Content/UI/MainIconsAtlas.png" sourcerect="352,398,16,8" origin="0.5,0.5" />
+      <icon identifier="submarine" texture="Content/UI/MainIconsAtlas.png" sourcerect="353,407,14,6" origin="0.5,0.5" />
+      <icon identifier="shuttle" texture="Content/UI/MainIconsAtlas.png" sourcerect="336,407,8,6" origin="0.5,0.5" />
+      <icon identifier="artifact" texture="Content/UI/MainIconsAtlas.png" sourcerect="336,414,8,8" origin="0.5,0.5" />
+      <icon identifier="" texture="Content/UI/MainIconsAtlas.png" sourcerect="346,416,4,4" origin="0.5,0.5" />
+    </Sonar>
+    <CustomInterface canbeselected="true">
+      <GuiFrame relativesize="0.15,0.18" anchor="CenterRight" pivot="TopRight" relativeoffset="0.1125,0" style="ItemUI" />
+      <Button text="Signal out #1" connection="signal_out1" />
+      <Button text="Signal out #2" connection="signal_out2" />
+      <Button text="Signal out #3" connection="signal_out3" />
+    </CustomInterface>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredSkill identifier="electrical" level="70" />
+      <StatusEffect type="OnFailure" target="Character" targetlimbs="LeftHand,RightHand">
+        <Sound file="Content/Items/Weapons/ElectricalDischarger.ogg" range="1000" />
+        <Explosion range="100.0" stun="0" force="5.0" flames="false" shockwave="false" sparks="true" underwaterbubble="false" />
+        <Affliction identifier="stun" strength="5" />
+        <Affliction identifier="burn" strength="5" />
+      </StatusEffect>
+      <requireditem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="transducer_in" displayname="connection.sonartransducerin" />
+      <input name="velocity_in" displayname="connection.steeringvelocityin" />
+      <output name="velocity_x_out" displayname="connection.velocityxout" />
+      <output name="velocity_y_out" displayname="connection.velocityyout" />
+      <output name="signal_out1" displayname="connection.signaloutx~[num]=1" />
+      <output name="signal_out2" displayname="connection.signaloutx~[num]=2" />
+      <output name="signal_out3" displayname="connection.signaloutx~[num]=3" />
+      <output name="toggle_docking" displayname="connection.toggledocking" />
+    </ConnectionPanel>
+    <Repairable selectkey="Action" header="electricalrepairsheader" deteriorationspeed="0.125" mindeteriorationdelay="180" maxdeteriorationdelay="720" mindeteriorationcondition="0" RepairThreshold="80" fixDurationHighSkill="5" fixDurationLowSkill="25" msg="ItemMsgRepairScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.16" minsize="400,180" maxsize="480,216" anchor="Center" relativeoffset="0.0,0.27" style="ItemUI" />
+      <RequiredSkill identifier="electrical" level="55" />
+      <RequiredItem items="screwdriver" type="equipped" />
+      <ParticleEmitter particle="damagebubbles" particleburstamount="2" particleburstinterval="2.0" particlespersecond="2" scalemin="0.5" scalemax="1.5" anglemin="0" anglemax="359" velocitymin="-10" velocitymax="10" mincondition="0.0" maxcondition="50.0" />
+      <ParticleEmitter particle="spark" particleburstamount="5" particlespersecond="5" anglemin="0" anglemax="359" velocitymin="100" velocitymax="500" particleburstinterval="2" scalemin="0.5" scalemax="1" mincondition="0.0" maxcondition="15.0" />
+      <ParticleEmitter particle="fleshsmoke" particlespersecond="2" scalemin="1" scalemax="2" mincondition="0.0" maxcondition="50.0" />
+      <StatusEffect type="OnFailure" target="Character" targetlimbs="LeftHand,RightHand">
+        <Sound file="Content/Items/Weapons/ElectricalDischarger.ogg" range="1000" />
+        <Affliction identifier="stun" strength="5" />
+        <Affliction identifier="burn" strength="5" />
+      </StatusEffect>
+    </Repairable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_statusmonitor" tags="command,statusmonitor,u797_statusmonitor" aliases="MiniMap" category="Machine" linkable="true" allowedlinks="navterminal,u797_navterminal" damagedbyexplosions="true" explosiondamagemultiplier="0.2">
+    <Sprite name="u797_statusmonitor 1" texture="Brücke\status_monitor_1_u797.png" sourcerect="0,0,111,193" depth="0.8" origin="0.5,0.5" />
+    <BrokenSprite name="u797_statusmonitor 2" texture="Brücke\status_monitor_2_u797.png" sourcerect="0,0,111,193" depth="0.8" maxcondition="80" fadein="true" origin="0.5,0.5" />
+    <BrokenSprite name="u797_statusmonitor 3" texture="Brücke\status_monitor_3_u797.png" sourcerect="0,0,111,193" depth="0.8" maxcondition="0" origin="0.5,0.5" />
+    <MiniMap MinVoltage="0.5" PowerConsumption="100" canbeselected="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.5,0.5" anchor="CenterRight" style="ItemUI" />
+      <AlternativeLayout relativesize="0.2725,0.3" pivot="BottomRight" />
+      <poweronsound file="Content/Items/PowerOnLight3.ogg" range="1000" loop="false" />
+    </MiniMap>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <AlternativeLayout anchor="CenterRight" />
+      <RequiredSkill identifier="electrical" level="70" />
+      <StatusEffect type="OnFailure" target="Character" targetlimbs="LeftHand,RightHand">
+        <Sound file="Content/Items/Weapons/ElectricalDischarger.ogg" range="1000" />
+        <Explosion range="100.0" stun="0" force="5.0" flames="false" shockwave="false" sparks="true" underwaterbubble="false" />
+        <Affliction identifier="stun" strength="5" />
+        <Affliction identifier="burn" strength="5" />
+      </StatusEffect>
+      <requireditem items="screwdriver" type="Equipped" />
+      <input name="power_in" displayname="connection.powerin" />
+      <input name="water_data_in" displayname="connection.waterdatain" />
+      <input name="oxygen_data_in" displayname="connection.oxygendatain" />
+    </ConnectionPanel>
+    <Repairable selectkey="Action" header="electricalrepairsheader" deteriorationspeed="0.15" mindeteriorationdelay="120" maxdeteriorationdelay="480" MinDeteriorationCondition="0" fixDurationHighSkill="5" fixDurationLowSkill="25" msg="ItemMsgRepairScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.16" minsize="400,180" maxsize="480,216" anchor="Center" relativeoffset="0.0,0.27" style="ItemUI" />
+      <RequiredSkill identifier="electrical" level="55" />
+      <RequiredItem items="screwdriver" type="equipped" />
+      <ParticleEmitter particle="damagebubbles" particleburstamount="2" particleburstinterval="2.0" particlespersecond="2" scalemin="0.5" scalemax="1.5" anglemin="0" anglemax="359" velocitymin="-10" velocitymax="10" mincondition="0.0" maxcondition="50.0" />
+      <ParticleEmitter particle="spark" particleburstamount="5" particlespersecond="5" anglemin="0" anglemax="359" velocitymin="100" velocitymax="500" particleburstinterval="2" scalemin="0.5" scalemax="1" mincondition="0.0" maxcondition="15.0" />
+      <ParticleEmitter particle="fleshsmoke" particlespersecond="2" scalemin="1" scalemax="2" mincondition="0.0" maxcondition="50.0" />
+      <StatusEffect type="OnFailure" target="Character" targetlimbs="LeftHand,RightHand">
+        <Sound file="Content/Items/Weapons/ElectricalDischarger.ogg" range="1000" />
+        <Affliction identifier="stun" strength="5" />
+        <Affliction identifier="burn" strength="5" />
+      </StatusEffect>
+    </Repairable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Waffen________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_c1" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_c1_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_c2" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_c2_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_c3" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_c3_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_c4" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_c4_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_c5" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_c5_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_c6" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_c6_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_r1" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_r1_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_r2" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_r2_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_r3" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_r3_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" description="" identifier="u797_periscope_r4" tags="periscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Waffen\periscope_r4_u797.png" depth="0.1" sourcerect="0,0,128,202" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="-10,-135" />
+      <limbposition limb="Torso" position="-10,-200" />
+      <limbposition limb="LeftHand" position="67,-170" />
+      <limbposition limb="RightHand" position="67,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Knöpfe________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_button_orange" category="Electrical" tags="smallitem,button" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Sprite texture="Knöpfe\button_orange_u797.png" sourcerect="0,0,41,44" depth="0.8" origin="0.5,0.5" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="25" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Body width="36" height="40" density="40" />
+    <Controller direction="None" canbepicked="true" msg="ItemMsgPressSelect">
+      <RequiredItem identifier="idcard" type="Picked" msg="ItemMsgUnauthorizedAccess" />
+      <sound file="Content/Items/Button/Button.ogg" type="OnUse" range="500.0" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem identifier="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="10.0" aimpos="35,-10" handle1="0,0" attachable="true" attachedbydefault="true" aimable="true">
+      <requireditem identifier="wrench" type="Equipped" />
+    </Holdable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_button_darkblue" category="Electrical" tags="smallitem,button" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Sprite texture="Knöpfe\button_darkblue_u797.png" sourcerect="0,0,41,44" depth="0.8" origin="0.5,0.5" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="25" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Body width="36" height="40" density="40" />
+    <Controller direction="None" canbepicked="true" msg="ItemMsgPressSelect">
+      <RequiredItem identifier="idcard" type="Picked" msg="ItemMsgUnauthorizedAccess" />
+      <sound file="Content/Items/Button/Button.ogg" type="OnUse" range="500.0" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem identifier="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="10.0" aimpos="35,-10" handle1="0,0" attachable="true" attachedbydefault="true" aimable="true">
+      <requireditem identifier="wrench" type="Equipped" />
+    </Holdable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_button_darkgreen" category="Electrical" tags="smallitem,button" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Sprite texture="Knöpfe\button_darkgreen_u797.png" sourcerect="0,0,41,44" depth="0.8" origin="0.5,0.5" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="25" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Body width="36" height="40" density="40" />
+    <Controller direction="None" canbepicked="true" msg="ItemMsgPressSelect">
+      <RequiredItem identifier="idcard" type="Picked" msg="ItemMsgUnauthorizedAccess" />
+      <sound file="Content/Items/Button/Button.ogg" type="OnUse" range="500.0" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem identifier="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="10.0" aimpos="35,-10" handle1="0,0" attachable="true" attachedbydefault="true" aimable="true">
+      <requireditem identifier="wrench" type="Equipped" />
+    </Holdable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_button_darkred" category="Electrical" tags="smallitem,button" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Sprite texture="Knöpfe\button_darkred_u797.png" sourcerect="0,0,41,44" depth="0.8" origin="0.5,0.5" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="25" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Body width="36" height="40" density="40" />
+    <Controller direction="None" canbepicked="true" msg="ItemMsgPressSelect">
+      <RequiredItem identifier="idcard" type="Picked" msg="ItemMsgUnauthorizedAccess" />
+      <sound file="Content/Items/Button/Button.ogg" type="OnUse" range="500.0" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem identifier="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="10.0" aimpos="35,-10" handle1="0,0" attachable="true" attachedbydefault="true" aimable="true">
+      <requireditem identifier="wrench" type="Equipped" />
+    </Holdable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_button_green" category="Electrical" tags="smallitem,button" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Sprite texture="Knöpfe\button_green_u797.png" sourcerect="0,0,41,44" depth="0.8" origin="0.5,0.5" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="25" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Body width="36" height="40" density="40" />
+    <Controller direction="None" canbepicked="true" msg="ItemMsgPressSelect">
+      <RequiredItem identifier="idcard" type="Picked" msg="ItemMsgUnauthorizedAccess" />
+      <sound file="Content/Items/Button/Button.ogg" type="OnUse" range="500.0" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem identifier="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="10.0" aimpos="35,-10" handle1="0,0" attachable="true" attachedbydefault="true" aimable="true">
+      <requireditem identifier="wrench" type="Equipped" />
+    </Holdable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_button_lightblue" category="Electrical" tags="smallitem,button" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Sprite texture="Knöpfe\button_lightblue_u797.png" sourcerect="0,0,41,44" depth="0.8" origin="0.5,0.5" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="25" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Body width="36" height="40" density="40" />
+    <Controller direction="None" canbepicked="true" msg="ItemMsgPressSelect">
+      <RequiredItem identifier="idcard" type="Picked" msg="ItemMsgUnauthorizedAccess" />
+      <sound file="Content/Items/Button/Button.ogg" type="OnUse" range="500.0" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem identifier="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="10.0" aimpos="35,-10" handle1="0,0" attachable="true" attachedbydefault="true" aimable="true">
+      <requireditem identifier="wrench" type="Equipped" />
+    </Holdable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_button_purple" category="Electrical" tags="smallitem,button" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Sprite texture="Knöpfe\button_purple_u797.png" sourcerect="0,0,41,44" depth="0.8" origin="0.5,0.5" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="25" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Body width="36" height="40" density="40" />
+    <Controller direction="None" canbepicked="true" msg="ItemMsgPressSelect">
+      <RequiredItem identifier="idcard" type="Picked" msg="ItemMsgUnauthorizedAccess" />
+      <sound file="Content/Items/Button/Button.ogg" type="OnUse" range="500.0" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem identifier="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="10.0" aimpos="35,-10" handle1="0,0" attachable="true" attachedbydefault="true" aimable="true">
+      <requireditem identifier="wrench" type="Equipped" />
+    </Holdable>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Buzzer________________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_doorbuzzer" category="Electrical" Tags="smallitem,sound" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="reactorcab,storagecab" />
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab" minamount="0" maxamount="1" spawnprobability="0.06" />
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="tin" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="30" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="steel" />
+    </Fabricate>
+    <Sprite texture="Buzzer\buzzer_blue.png" depth="0.8" sourcerect="0,0,40,62" origin="0.5,0.5" />
+    <LightComponent canbeselected="false" lightcolor="255,0,0,100" castshadows="false" blinkfrequency="2.6" range="20">
+      <Sprite texture="Content/Items/Electricity/signalcomp.png" sourcerect="2,191,42,63" origin="0.5,0.5" alpha="1.0" />
+      <sound file="Mods/U797 - Content Pack/Machinery/Buzzer/u797_doorbuzzer.ogg" type="OnActive" range="500.0" loop="true" volume="0.5" />
+    </LightComponent>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="toggle" displayname="connection.togglestate" />
+      <input name="set_state" displayname="connection.setstate" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_announcementbuzzer" category="Electrical" Tags="smallitem,sound" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="reactorcab,storagecab" />
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab" minamount="0" maxamount="1" spawnprobability="0.06" />
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="tin" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="30" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="steel" />
+    </Fabricate>
+    <Sprite texture="Buzzer\buzzer_camo.png" depth="0.8" sourcerect="0,0,40,62" origin="0.5,0.5" />
+    <LightComponent canbeselected="false" lightcolor="255,0,0,100" castshadows="false" blinkfrequency="2.6" range="20">
+      <Sprite texture="Content/Items/Electricity/signalcomp.png" sourcerect="2,191,42,63" origin="0.5,0.5" alpha="1.0" />
+      <sound file="Mods/U797 - Content Pack/Machinery/Buzzer/u797_announcement.ogg" type="OnActive" range="1000.0" loop="true" volume="0.6" />
+    </LightComponent>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="toggle" displayname="connection.togglestate" />
+      <input name="set_state" displayname="connection.setstate" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_combatbuzzer" category="Electrical" Tags="smallitem,sound" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="reactorcab,storagecab" />
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab" minamount="0" maxamount="1" spawnprobability="0.06" />
+    <Price locationtype="Research" buyprice="75" />
+    <Price locationtype="City" buyprice="80" />
+    <Price locationtype="Outpost" buyprice="80" />
+    <Price locationtype="Military" buyprice="80" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="tin" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="30" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="steel" />
+    </Fabricate>
+    <Sprite texture="Buzzer\buzzer_green_camo.png" depth="0.8" sourcerect="0,0,40,62" origin="0.5,0.5" />
+    <LightComponent canbeselected="false" lightcolor="255,0,0,100" castshadows="false" blinkfrequency="2.6" range="20">
+      <Sprite texture="Content/Items/Electricity/signalcomp.png" sourcerect="2,191,42,63" origin="0.5,0.5" alpha="1.0" />
+      <sound file="Mods/U797 - Content Pack/Machinery/Buzzer/u797_gefechtsalarm.ogg" type="OnActive" range="1000.0" loop="true" volume="0.5" />
+    </LightComponent>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="toggle" displayname="connection.togglestate" />
+      <input name="set_state" displayname="connection.setstate" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_pipesirene" category="Electrical" Tags="smallitem,sound" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="reactorcab,storagecab" />
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab" minamount="0" maxamount="1" spawnprobability="0.06" />
+    <Price locationtype="Research" buyprice="80" />
+    <Price locationtype="City" buyprice="100" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Price locationtype="Military" buyprice="100" />
+    <Deconstruct time="10">
+      <Item identifier="fpgacircuit" />
+      <Item identifier="steel" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10">
+      <RequiredSkill identifier="electrical" level="30" />
+      <RequiredItem identifier="fpgacircuit" />
+      <RequiredItem identifier="tin" />
+    </Fabricate>
+    <Sprite texture="Buzzer\buzzer2_camo.png" depth="0.8" sourcerect="0,0,42,58" origin="0.5,0.5" />
+    <LightComponent canbeselected="false" lightcolor="255,0,0,100" castshadows="false" blinkfrequency="0.68" range="20">
+      <Sprite texture="Content/Items/Electricity/signalcomp.png" sourcerect="49,195,42,58" origin="0.5,0.5" alpha="1.0" />
+      <sound file="Mods/U797 - Content Pack/Machinery/Buzzer/u797_pipe.ogg" type="OnActive" range="2000.0" loop="true" volume="0.3" />
+    </LightComponent>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="toggle" displayname="connection.togglestate" />
+      <input name="set_state" displayname="connection.setstate" />
+    </ConnectionPanel>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Schränke______________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_smallcabinet_blue" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_b_s_u797.png" depth="0.84" sourcerect="0,0,167,374" origin="0.5,0.5" />
+    <ItemContainer capacity="15" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.35" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_smallcabinet_green" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_g_s_u797.png" depth="0.84" sourcerect="0,0,167,374" origin="0.5,0.5" />
+    <ItemContainer capacity="15" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.35" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_smallcabinet_yellow" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_gb_s_u797.png" depth="0.84" sourcerect="0,0,167,374" origin="0.5,0.5" />
+    <ItemContainer capacity="15" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.35" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_smallcabinet_orange" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_o_s_u797.png" depth="0.84" sourcerect="0,0,167,374" origin="0.5,0.5" />
+    <ItemContainer capacity="15" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.35" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_smallcabinet_red" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_r_s_u797.png" depth="0.84" sourcerect="0,0,167,374" origin="0.5,0.5" />
+    <ItemContainer capacity="15" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.35" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_smallcabinet_purple" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_v_s_u797.png" depth="0.84" sourcerect="0,0,167,374" origin="0.5,0.5" />
+    <ItemContainer capacity="15" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.35" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_bigcabinet_blue" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_b_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_bigcabinet_green" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_g_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_bigcabinet_yellow" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_gb_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_bigcabinet_orange" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_o_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_bigcabinet_red" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_r_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_bigcabinet_purple" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_v_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_windowedbigcabinet_blue" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_b_f_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_windowedbigcabinet_green" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_g_f_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_windowedbigcabinet_yellow" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_gb_f_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_windowedbigcabinet_orange" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_o_f_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_windowedbigcabinet_red" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_r_f_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_windowedbigcabinet_purple" tags="locker,container" linkable="true" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\locker_v_f_u797.png" depth="0.84" sourcerect="0,0,271,375" origin="0.5,0.5" />
+    <ItemContainer capacity="30" slotsperrow="6" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_safe_red" tags="locker,container,securecontainer" linkable="true" spritecolor="255,255,255,255" pickdistance="150" scale="0.5">
+    <Sprite texture="Schränke\tresor_rot.png" depth="0.84" sourcerect="0,0,105,160" origin="0.5,0.5" />
+    <ItemContainer capacity="20" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.45" anchor="Center" style="ItemUI" />
+      <RequiredItem items="idcard" type="Picked" msg="ItemMsgUnauthorizedAccess" ignoreineditor="true" />
+      <Containable items="smallitem,mediumitem" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <!--______________________________________________________________________Jukebox_______________________________________________________________________________________________-->
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="Jukebox" category="Misc" Tags="" scale="0.5" description="" pickdistance="150">
+    <Sprite texture="Jukebox\jukebox_v3_u797.png" sourcerect="113,66,174,334" depth="0.55" origin="0.5,0.5" />
+    <CustomInterface canbeselected="true">
+      <GuiFrame relativesize="0.15,0.1" anchor="CenterLeft" absoluteoffset="20,20" style="ItemUI" />
+      <TickBox text="powerlabel">
+        <StatusEffect type="OnUse" targettype="This" IsOn="true" />
+        <StatusEffect type="OnSecondaryUse" targettype="This" IsOn="false" />
+      </TickBox>
+    </CustomInterface>
+    <LightComponent range="100.0" lightcolor="202,254,254,100" powerconsumption="0" IsOn="true" castshadows="false" blinkfrequency="1.3" allowingameediting="true">
+      <Upgrade gameversion="0.9.600.0" lightcolor="255,255,255,0" />
+      <sprite texture="Mods\U797 - Content Pack\Machinery\Jukebox\jukebox_v3_lightmap_blue_s_u797.png" sourcerect="113,66,174,334" origin="0.5,0.5" alpha="1.0" />
+    </LightComponent>
+    <LightComponent range="100.0" lightcolor="254,73,73,100" powerconsumption="0" IsOn="true" castshadows="false" blinkfrequency="1.2" allowingameediting="true">
+      <Upgrade gameversion="0.9.600.0" lightcolor="255,255,255,0" />
+      <sprite texture="Mods\U797 - Content Pack\Machinery\Jukebox\jukebox_v3_lightmap_red_s_u797.png" sourcerect="113,66,174,334" origin="0.5,0.5" alpha="1.0" />
+    </LightComponent>
+    <LightComponent range="100.0" lightcolor="254,237,110,100" powerconsumption="0" IsOn="true" castshadows="false" blinkfrequency="1.1" allowingameediting="true">
+      <Upgrade gameversion="0.9.600.0" lightcolor="255,255,255,0" />
+      <sprite texture="Mods\U797 - Content Pack\Machinery\Jukebox\jukebox_v3_lightmap_yellow_s_u797.png" sourcerect="113,66,174,334" origin="0.5,0.5" alpha="1.0" />
+    </LightComponent>
+    <LightComponent LightColor="0,0,0,0" range="7" powerconsumption="10" IsOn="true" castshadows="false" vulnerabletoemp="true" canbeselected="false" allowingameediting="false">
+      <StatusEffect type="Always" targettype="This">
+        <RequiredItems items="u797_musicdisk_foolish" type="Contained" />
+        <Sound file="Mods\U797 - Content Pack\Items\Musicdisks\Foolish - Trisha Ryan - IRISHTRISH.ogg" volume="2" range="650" loop="true" />
+      </StatusEffect>
+      <StatusEffect type="Always" targettype="This">
+        <RequiredItems items="u797_musicdisk_intotheabyss" type="Contained" />
+        <Sound file="Mods\U797 - Content Pack\Items\Musicdisks\Into The Abyss - Trisha Ryan - IRISHTRISH.ogg" volume="2" range="650" loop="true" />
+      </StatusEffect>
+    </LightComponent>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredSkill identifier="electrical" level="70" />
+      <StatusEffect type="OnFailure" target="Character" targetlimbs="LeftHand,RightHand">
+        <Sound file="Content/Items/Weapons/ElectricalDischarger.ogg" range="1000" />
+        <Explosion range="100.0" stun="0" force="5.0" flames="false" shockwave="false" sparks="true" underwaterbubble="false" />
+        <Affliction identifier="stun" strength="5" />
+        <Affliction identifier="burn" strength="5" />
+      </StatusEffect>
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="power" displayname="connection.power" />
+    </ConnectionPanel>
+    <ItemContainer capacity="1" hideitems="true" canbeselected="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.18,0.15" minsize="350,160" maxsize="420,192" anchor="Center" relativeoffset="0,-0.1" style="ItemUI" msg="ItemMsgInteractSelect" />
+      <Containable items="musicdisk" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+  <Item name="" identifier="u797_divingsuitlocker2" tags="container,divingsuitcontainer,divingsuitcontainerhorizontal" pickdistance="50" scale="0.6">
+    <Sprite name="Large Diving Suit Locker" texture="Mods/U797 - Content Pack/Items/DivingSuitLocker_u797.png" depth="0.84" sourcerect="82,0,248,338" origin="0.5,0.5" />
+    <ItemContainer hideitems="false" drawinventory="true" capacity="5" slotsperrow="5" itempos="124,-45" iteminterval="0,-66" itemrotation="0" containedspritedepth="0.83" canbeselected="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.25,0.2" anchor="Center" style="ItemUI" />
+      <Containable items="divingsuit" />
+    </ItemContainer>
+  </Item>
+  <!--____________________________________________________________________________________________________________________________________________________________________________-->
+</Items>

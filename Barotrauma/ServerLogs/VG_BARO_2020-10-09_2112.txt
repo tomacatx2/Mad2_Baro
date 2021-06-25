@@ -1,0 +1,20 @@
+﻿[10/9/2020 9:11:02 PM]
+  Saving client permissions
+[10/9/2020 9:11:02 PM]
+  Saving client permissions
+[10/9/2020 9:11:10 PM]
+  Gamemode changed to Mission
+[10/9/2020 9:11:23 PM]
+  VG_BARO changed PlayStyle to Casual
+[10/9/2020 9:11:23 PM]
+  VG_BARO changed SubSelectionMode to Manual
+[10/9/2020 9:11:23 PM]
+  VG_BARO changed ModeSelectionMode to Manual
+[10/9/2020 9:11:31 PM]
+  Player VG_BARO has changed their name to tomacatx1.
+[10/9/2020 9:12:48 PM]
+  tomacatx1 changed PlayStyle to Casual
+[10/9/2020 9:12:48 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[10/9/2020 9:12:48 PM]
+  tomacatx1 changed ModeSelectionMode to Manual

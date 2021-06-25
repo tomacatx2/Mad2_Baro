@@ -1,0 +1,180 @@
+<Items>
+
+  <Item name="ChessBoard" identifier="chessboard" tags="smallitem,chessboard" linkable="false" pickdistance="150" waterproof="true" scale="0.5" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="1" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="60" >
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <Sprite texture="chessboard_full.png" depth="0.84" sourcerect="0,0,165,80" origin="0.5,0.5" />
+		<InventoryIcon texture="chessboard_full.png" sourcerect="0,0,165,80" />
+		<Body width="165" height="80" density="40" />
+		<Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="5.0" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true" />
+    <ItemContainer capacity="64" slotsperrow="8" canbeselected="true" hideitems="true" msg="ItemMsgInteractSelect">
+      <GuiFrame relativesize="0.35,0.7" anchor="Center" style="ItemUI" />
+      <Containable items="chesspiece" />
+    </ItemContainer>
+  </Item>
+
+    <!-- Black Chess Pieces -->
+
+  <Item name="Black Pawn" identifier="blackpawn" tags="smallitem,chesspiece" maxstacksize="8" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.125" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="20" amount="8">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="0,6,20,42" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="0,6,20,42" origin="0.5,0.5" />
+		<Body width="20" height="42" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="Black Rook" identifier="blackrook" tags="smallitem,chesspiece" maxstacksize="2" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.5" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="2">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="26,6,20,42" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="26,6,20,42" origin="0.5,0.5" />
+		<Body width="20" height="42" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="Black Knight" identifier="blackknight" tags="smallitem,chesspiece" maxstacksize="2" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.5" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="2">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="50,6,25,42" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="50,6,25,42" origin="0.5,0.5" />
+		<Body width="20" height="42" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="Black Bishop" identifier="blackbishop" tags="smallitem,chesspiece" maxstacksize="2" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.5" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="2">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="83,6,20,42" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="83,6,20,42" origin="0.5,0.5" />
+		<Body width="20" height="42" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="Black King" identifier="blackking" tags="smallitem,chesspiece" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="1" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="1">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="111,0,20,48" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="111,0,20,48" origin="0.5,0.5" />
+		<Body width="20" height="48" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="Black Queen" identifier="blackqueen" tags="smallitem,chesspiece" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="1" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="1">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="138,0,20,48" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="138,0,20,48" origin="0.5,0.5" />
+		<Body width="20" height="48" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+    <!-- White Chess Pieces -->
+
+  <Item name="White Pawn" identifier="whitepawn" tags="smallitem,chesspiece" maxstacksize="8" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.125" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="20" amount="8">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="0,59,20,42" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="0,59,20,42" origin="0.5,0.5" />
+		<Body width="20" height="42" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="White Rook" identifier="whiterook" tags="smallitem,chesspiece" maxstacksize="2" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.5" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="2">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="26,59,20,42" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="26,59,20,42" origin="0.5,0.5" />
+		<Body width="20" height="42" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="White Knight" identifier="whiteknight" tags="smallitem,chesspiece" maxstacksize="2" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.5" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="2">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="50,59,25,42" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="50,59,25,42" origin="0.5,0.5" />
+		<Body width="20" height="42" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="White Bishop" identifier="whitebishop" tags="smallitem,chesspiece" maxstacksize="2" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="0.5" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="2">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="83,59,20,42" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="83,59,20,42" origin="0.5,0.5" />
+		<Body width="20" height="42" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="White King" identifier="whiteking" tags="smallitem,chesspiece" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="1" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="1">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="111,53,20,48" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="111,53,20,48" origin="0.5,0.5" />
+		<Body width="20" height="48" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+  <Item name="White Queen" identifier="whitequeen" tags="smallitem,chesspiece" pickdistance="150" waterproof="true" scale="0.5" impactsoundtag="impact_soft" >
+		<Deconstruct time="5">
+			<Item identifier="plastic" outcondition="1" />
+		</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="10" amount="1">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+		<InventoryIcon texture="chesspiece_atlas.png" sourcerect="138,53,20,48" origin="0.5,0.5" />
+    <Sprite texture="chesspiece_atlas.png" depth="0.83" sourcerect="138,53,20,48" origin="0.5,0.5" />
+		<Body width="20" height="48" />
+		<Holdable canbecombined="false" slots="Any,RightHand,LeftHand" holdpos="30,-15" handle1="0,5" handle2="0,-5" msg="ItemMsgPickUpSelect" />
+  </Item>
+
+</Items>

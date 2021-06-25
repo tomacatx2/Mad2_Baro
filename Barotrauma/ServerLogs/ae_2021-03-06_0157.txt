@@ -1,0 +1,204 @@
+﻿[3/6/2021 1:38:01 AM]
+  Saving client permissions
+[3/6/2021 1:38:42 AM]
+  tomacatx1 is ready to start the game.
+[3/6/2021 1:38:44 AM]
+  Gamemode changed to Mission
+[3/6/2021 1:38:54 AM]
+  Client "tomacatx1" started the round.
+[3/6/2021 1:38:54 AM]
+  Starting a new round...
+[3/6/2021 1:39:19 AM]
+  Mission: Mining outpost material transport
+[3/6/2021 1:39:19 AM]
+  The security team at Hyperenor Linea Mine needs to be resupplied with materials for weapon fabrication. There's 1,500 marks for you if you get these supplies to them.
+[3/6/2021 1:39:19 AM]
+  Game mode: Mission
+[3/6/2021 1:39:19 AM]
+  Submarine: Kastrull v2.0 re-4
+[3/6/2021 1:39:19 AM]
+  Level seed: N7qrZFSn
+[3/6/2021 1:39:19 AM]
+  Mission: Mining outpost material transport
+[3/6/2021 1:39:19 AM]
+  Round started.
+[3/6/2021 1:39:23 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 1:41:42 AM]
+  tomacatx1 equipped Metal Crate
+[3/6/2021 1:41:42 AM]
+  tomacatx1 picked up Metal Crate
+[3/6/2021 1:41:42 AM]
+  Console command "spawn miner cursor" executed by tomacatx1.
+[3/6/2021 1:41:42 AM]
+  Console command "spawn explorer cursor" executed by tomacatx1.
+[3/6/2021 1:41:42 AM]
+  Console command "spawn Engineer cursor" executed by tomacatx1.
+[3/6/2021 1:41:42 AM]
+  Console command "spawnitem "Advanced Sonar Beacon" inventory" executed by tomacatx1.
+[3/6/2021 1:41:42 AM]
+  Console command "spawnitem "Battery Cell" inventory" executed by tomacatx1.
+[3/6/2021 1:41:43 AM]
+  tomacatx1 placed Metal Crate in Crate Shelf (ID: 443)
+[3/6/2021 1:41:43 AM]
+  tomacatx1 dropped Advanced Sonar Beacon
+[3/6/2021 1:41:43 AM]
+  tomacatx1 dropped Battery Cell
+[3/6/2021 1:42:00 AM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[3/6/2021 1:42:01 AM]
+  tomacatx1 adjusted reactor settings: Temperature: 13, Fission rate: 1, Turbine output: 0, Autotemp ON
+[3/6/2021 1:42:09 AM]
+  tomacatx1: Beaulah Huber, power up the reactor!
+[3/6/2021 1:42:10 AM]
+  Beaulah Huber: Got it!
+[3/6/2021 1:42:21 AM]
+  Console command "spawnitem "Advanced Sonar Beacon" inventory" executed by tomacatx1.
+[3/6/2021 1:42:22 AM]
+  Console command "spawnitem "Battery Cell" inventory" executed by tomacatx1.
+[3/6/2021 1:42:24 AM]
+  tomacatx1 placed Battery Cell in Advanced Sonar Beacon (ID: 4503)
+[3/6/2021 1:42:30 AM]
+  tomacatx1: I'll wait here!
+[3/6/2021 1:42:32 AM]
+  tomacatx1 placed Advanced Sonar Beacon in Medium Windowed Steel Cabinet (ID: 629)
+[3/6/2021 1:42:45 AM]
+  tomacatx1: Carmen Summitt, stay where you are!
+[3/6/2021 1:42:46 AM]
+  Carmen Summitt: Sure thing!
+[3/6/2021 1:42:57 AM]
+  Console command "control "Carmen Summitt" " executed by tomacatx1.
+[3/6/2021 1:42:58 AM]
+  Carmen Summitt set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 1:43:08 AM]
+  Carmen Summitt placed Battery Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:08 AM]
+  Carmen Summitt placed Battery Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:08 AM]
+  Carmen Summitt placed Battery Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:08 AM]
+  Carmen Summitt placed Battery Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:08 AM]
+  Carmen Summitt placed Battery Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:08 AM]
+  Carmen Summitt placed Battery Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:08 AM]
+  Carmen Summitt placed Battery Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:08 AM]
+  Carmen Summitt placed Battery Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:10 AM]
+  Carmen Summitt placed Electric Drill in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:12 AM]
+  Carmen Summitt placed Laser Pistol Cell in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:14 AM]
+  Carmen Summitt picked up Underwater Scooter
+[3/6/2021 1:43:15 AM]
+  Carmen Summitt picked up Handheld Sonar
+[3/6/2021 1:43:19 AM]
+  Carmen Summitt picked up Flare Gun
+[3/6/2021 1:43:22 AM]
+  Carmen Summitt placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:22 AM]
+  Carmen Summitt placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:22 AM]
+  Carmen Summitt placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:22 AM]
+  Carmen Summitt placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:22 AM]
+  Carmen Summitt placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:22 AM]
+  Carmen Summitt placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:22 AM]
+  Carmen Summitt placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:22 AM]
+  Carmen Summitt placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:24 AM]
+  Carmen Summitt picked up Advanced Sonar Beacon
+[3/6/2021 1:43:26 AM]
+  Carmen Summitt placed Diving Knife in Mining Backpack (ID: 4468)
+[3/6/2021 1:43:32 AM]
+  Carmen Summitt picked up Utility Mk-I Hardsuit
+[3/6/2021 1:43:39 AM]
+  Carmen Summitt (as ???) equipped Underwater Scooter
+[3/6/2021 1:43:49 AM]
+  Carmen Summitt (as ???) equipped Advanced Sonar Beacon
+[3/6/2021 1:44:26 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 1:44:27 AM]
+  Carmen Summitt: I need diving gear!
+[3/6/2021 1:44:27 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 1:44:39 AM]
+  Console command "control "Carmen Summitt"" executed by tomacatx1.
+[3/6/2021 1:44:41 AM]
+  Carmen Summitt set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 1:44:57 AM]
+  Console command "disablecrewai" executed by tomacatx1.
+[3/6/2021 1:45:01 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 1:45:02 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 1:45:15 AM]
+  Console command "control "Carmen Summitt"" executed by tomacatx1.
+[3/6/2021 1:45:16 AM]
+  Carmen Summitt set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 1:45:26 AM]
+  Console command "spawnitem "Sonar Beacon" inventory" executed by tomacatx1.
+[3/6/2021 1:45:33 AM]
+  Console command "spawnitem "Battery Cell" inventory" executed by tomacatx1.
+[3/6/2021 1:45:34 AM]
+  Carmen Summitt (as ???) placed Battery Cell in Sonar Beacon (ID: 4505)
+[3/6/2021 1:45:35 AM]
+  Carmen Summitt (as ???) equipped Sonar Beacon
+[3/6/2021 1:45:52 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 1:45:53 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 1:46:00 AM]
+  Console command "spawnitem "Health Scanner HUD" inventory" executed by tomacatx1.
+[3/6/2021 1:50:15 AM]
+  Ben Maxwell: Awfully quiet in here.
+[3/6/2021 1:50:43 AM]
+  Console command "control "Carmen Summitt"" executed by tomacatx1.
+[3/6/2021 1:50:43 AM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/6/2021 1:50:46 AM]
+  Carmen Summitt (as ???) has died (Cause of death: Oxygen low)
+[3/6/2021 1:50:48 AM]
+  Console command "heal "Carmen Summitt"" executed by tomacatx1.
+[3/6/2021 1:50:50 AM]
+  Console command "revive "Carmen Summitt"" executed by tomacatx1.
+[3/6/2021 1:50:52 AM]
+  Console command "heal "Carmen Summitt"" executed by tomacatx1.
+[3/6/2021 1:50:55 AM]
+  Console command "control "Carmen Summitt"" executed by tomacatx1.
+[3/6/2021 1:50:58 AM]
+  Carmen Summitt (as ???) picked up Oxygen Tank
+[3/6/2021 1:50:59 AM]
+  Carmen Summitt (as ???) placed Oxygen Tank in Utility Mk-I Hardsuit (ID: 427)
+[3/6/2021 1:51:00 AM]
+  Carmen Summitt (as ???) placed Oxygen Tank in Mining Backpack (ID: 4468)
+[3/6/2021 1:51:29 AM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/6/2021 1:51:30 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/6/2021 1:52:11 AM]
+  Console command "spawnitem "Label Printer" inventory" executed by tomacatx1.
+[3/6/2021 1:52:13 AM]
+  tomacatx1 equipped Label Printer
+[3/6/2021 1:52:24 AM]
+  Console command "spawnitem Label inventory" executed by tomacatx1.
+[3/6/2021 1:54:30 AM]
+  Console command "fixitems" executed by tomacatx1.
+[3/6/2021 1:54:39 AM]
+  tomacatx1 placed Veteran's Cap in Label Printer (ID: 4509)
+[3/6/2021 1:54:48 AM]
+  tomacatx1 removed Metal Crate from Crate Shelf (ID: 1472)
+[3/6/2021 1:54:59 AM]
+  tomacatx1 picked up Veteran's Cap
+[3/6/2021 1:55:02 AM]
+  tomacatx1 placed Tin in Label Printer (ID: 4509)
+[3/6/2021 1:55:36 AM]
+  tomacatx1 equipped Revolver
+[3/6/2021 1:55:51 AM]
+  tomacatx1 picked up Tin

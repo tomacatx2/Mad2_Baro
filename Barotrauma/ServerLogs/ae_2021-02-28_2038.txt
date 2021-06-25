@@ -1,0 +1,42 @@
+﻿[2/28/2021 8:35:00 PM]
+  Starting the server...
+[2/28/2021 8:35:00 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[2/28/2021 8:35:01 PM]
+  Server started
+[2/28/2021 8:35:05 PM]
+  tomacatx1 has joined the server.
+[2/28/2021 8:35:05 PM]
+  Saving client permissions
+[2/28/2021 8:35:27 PM]
+  Client "tomacatx1" started the round.
+[2/28/2021 8:35:27 PM]
+  Starting a new round...
+[2/28/2021 8:35:31 PM]
+  Game mode: Sandbox
+[2/28/2021 8:35:31 PM]
+  Submarine: Humpback v1.03 re-1
+[2/28/2021 8:35:31 PM]
+  Level seed: vvXHwg0g
+[2/28/2021 8:35:32 PM]
+  Round started.
+[2/28/2021 8:35:53 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/28/2021 8:36:17 PM]
+  Console command "spawn miner cursor" executed by tomacatx1.
+[2/28/2021 8:36:21 PM]
+  Console command "control "Summer Box"" executed by tomacatx1.
+[2/28/2021 8:36:23 PM]
+  Summer Box set the value "Channel" of the item "Headset" to "0".
+[2/28/2021 8:36:30 PM]
+  Summer Box adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[2/28/2021 8:36:31 PM]
+  Summer Box adjusted reactor settings: Temperature: 74, Fission rate: 2, Turbine output: 1, Autotemp ON
+[2/28/2021 8:37:03 PM]
+  Summer Box equipped Laser Pistol
+[2/28/2021 8:37:05 PM]
+  Summer Box equipped Electric Drill
+[2/28/2021 8:38:56 PM]
+  Saving banlist
+[2/28/2021 8:38:56 PM]
+  Shutting down the server...

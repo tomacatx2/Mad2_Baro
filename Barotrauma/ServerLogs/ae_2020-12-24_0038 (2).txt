@@ -1,0 +1,1336 @@
+﻿[12/24/2020 12:07:22 AM]
+  Starting the server...
+[12/24/2020 12:07:22 AM]
+  Using SteamP2P networking.
+[12/24/2020 12:07:22 AM]
+  Server started
+[12/24/2020 12:07:23 AM]
+  tomacatx1 has joined the server.
+[12/24/2020 12:07:23 AM]
+  Saving client permissions
+[12/24/2020 12:07:23 AM]
+  Saving client permissions
+[12/24/2020 12:07:40 AM]
+  Gamemode changed to PvP
+[12/24/2020 12:07:41 AM]
+  Gamemode changed to Mission
+[12/24/2020 12:07:43 AM]
+  Gamemode changed to Sandbox
+[12/24/2020 12:07:43 AM]
+  Gamemode changed to Mission
+[12/24/2020 12:07:53 AM]
+  tomacatx1 is ready to start the game.
+[12/24/2020 12:08:01 AM]
+  Client "tomacatx1" started the round.
+[12/24/2020 12:08:01 AM]
+  Starting a new round...
+[12/24/2020 12:08:06 AM]
+  Mission: Activate Beacon
+[12/24/2020 12:08:06 AM]
+  The beacon station between Hyldemoer Institute of Astrobiology and Minos Linea Mine is down - get in there and get it back online and transmitting an active sonar signal.
+[12/24/2020 12:08:06 AM]
+  Game mode: Mission
+[12/24/2020 12:08:06 AM]
+  Submarine: Humpback
+[12/24/2020 12:08:06 AM]
+  Level seed: 5WPxRASE
+[12/24/2020 12:08:06 AM]
+  Mission: Activate Beacon
+[12/24/2020 12:08:08 AM]
+  Round started.
+[12/24/2020 12:08:13 AM]
+  Herman Nicolosi: Do you ever feel...flat?
+[12/24/2020 12:08:30 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[12/24/2020 12:08:41 AM]
+  tomacatx1: Lelah Cluck, power up the reactor!
+[12/24/2020 12:08:42 AM]
+  Lelah Cluck: Aye aye!
+[12/24/2020 12:08:45 AM]
+  tomacatx1: Rob Lester, repair mechanical systems!
+[12/24/2020 12:08:47 AM]
+  tomacatx1: Cara Duplantier, take care of any leaks!
+[12/24/2020 12:08:48 AM]
+  Rob Lester: What do you mean? Everything is working all right.
+[12/24/2020 12:08:49 AM]
+  tomacatx1: Herman Nicolosi, repair electrical systems!
+[12/24/2020 12:08:50 AM]
+  Cara Duplantier: What leaks?
+[12/24/2020 12:08:52 AM]
+  Herman Nicolosi: There's nothing to repair.
+[12/24/2020 12:09:00 AM]
+  Console command "enablecheats" executed by tomacatx1.
+[12/24/2020 12:09:06 AM]
+  Console command "spawn human cursor" executed by tomacatx1.
+[12/24/2020 12:09:10 AM]
+  Console command "spawn human cursor" executed by tomacatx1.
+[12/24/2020 12:09:19 AM]
+  tomacatx1: Kathy Frye, man the guns!
+[12/24/2020 12:09:20 AM]
+  Kathy Frye: Sure thing!
+[12/24/2020 12:09:24 AM]
+  tomacatx1: Lynn Sacks, man the weapons!
+[12/24/2020 12:09:25 AM]
+  Lynn Sacks: Got it!
+[12/24/2020 12:10:12 AM]
+  Bill Hedrick: Hull breach in junction compartment!
+[12/24/2020 12:10:12 AM]
+  Bill Hedrick: I need diving gear!
+[12/24/2020 12:10:13 AM]
+  Cara Duplantier: Need to find a diving suit!
+[12/24/2020 12:10:15 AM]
+  Rob Lester: I need diving gear!
+[12/24/2020 12:10:26 AM]
+  Console command "spawnitem Toolbelt inventory" executed by tomacatx1.
+[12/24/2020 12:10:33 AM]
+  tomacatx1: Leak in command room!
+[12/24/2020 12:10:36 AM]
+  tomacatx1 picked up Welding Tool
+[12/24/2020 12:10:37 AM]
+  Herman Nicolosi: Need to find a diving suit!
+[12/24/2020 12:10:38 AM]
+  tomacatx1 placed Welding Tool in Toolbelt (ID: 5397)
+[12/24/2020 12:10:39 AM]
+  tomacatx1 picked up Diving Mask
+[12/24/2020 12:10:40 AM]
+  Outer wall repaired by Cara Duplantier
+[12/24/2020 12:10:40 AM]
+  Cara Duplantier: No more leaks in junction compartment!
+[12/24/2020 12:10:42 AM]
+  tomacatx1 picked up Welding Tool
+[12/24/2020 12:10:53 AM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5397)
+[12/24/2020 12:10:55 AM]
+  tomacatx1 placed Welding Tool in Toolbelt (ID: 5397)
+[12/24/2020 12:10:55 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:10:56 AM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5397)
+[12/24/2020 12:10:58 AM]
+  Console command "fixhulls" executed by tomacatx1.
+[12/24/2020 12:11:00 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:11:05 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:11:11 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:11:11 AM]
+  tomacatx1 placed Wrench in Toolbelt (ID: 5397)
+[12/24/2020 12:11:13 AM]
+  tomacatx1 placed Screwdriver in Toolbelt (ID: 5397)
+[12/24/2020 12:11:14 AM]
+  tomacatx1 placed Plasma Cutter in Toolbelt (ID: 5397)
+[12/24/2020 12:11:15 AM]
+  tomacatx1 placed Welding Fuel Tank in Toolbelt (ID: 5397)
+[12/24/2020 12:11:24 AM]
+  tomacatx1 picked up Diving Suit
+[12/24/2020 12:11:26 AM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 189)
+[12/24/2020 12:11:28 AM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 5397)
+[12/24/2020 12:11:29 AM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 5397)
+[12/24/2020 12:11:55 AM]
+  tomacatx1 picked up UEX
+[12/24/2020 12:11:56 AM]
+  tomacatx1 picked up Frag Grenade
+[12/24/2020 12:11:56 AM]
+  tomacatx1 picked up Frag Grenade
+[12/24/2020 12:11:57 AM]
+  tomacatx1 placed Frag Grenade in Large Steel Cabinet (ID: 741)
+[12/24/2020 12:11:59 AM]
+  tomacatx1 placed Frag Grenade in Large Steel Cabinet (ID: 741)
+[12/24/2020 12:12:00 AM]
+  tomacatx1 picked up Frag Grenade
+[12/24/2020 12:12:00 AM]
+  tomacatx1 picked up Frag Grenade
+[12/24/2020 12:12:01 AM]
+  tomacatx1 picked up Frag Grenade
+[12/24/2020 12:12:02 AM]
+  tomacatx1 picked up SMG
+[12/24/2020 12:12:03 AM]
+  tomacatx1 picked up Riot Shotgun
+[12/24/2020 12:12:05 AM]
+  tomacatx1 placed Diving Knife in Toolbelt (ID: 5397)
+[12/24/2020 12:12:07 AM]
+  tomacatx1 placed SMG in Toolbelt (ID: 5397)
+[12/24/2020 12:12:10 AM]
+  tomacatx1 placed Captain's Pipe in Toolbelt (ID: 5397)
+[12/24/2020 12:12:18 AM]
+  tomacatx1 picked up Grenade Launcher
+[12/24/2020 12:12:19 AM]
+  tomacatx1 placed 40mm Grenade in Large Steel Cabinet (ID: 741)
+[12/24/2020 12:12:22 AM]
+  tomacatx1 placed Grenade Launcher in Large Steel Cabinet (ID: 741)
+[12/24/2020 12:12:23 AM]
+  tomacatx1 picked up 40mm Grenade
+[12/24/2020 12:12:31 AM]
+  tomacatx1 placed Frag Grenade in Deconstructor (ID: 868)
+[12/24/2020 12:12:31 AM]
+  tomacatx1 placed Frag Grenade in Deconstructor (ID: 868)
+[12/24/2020 12:12:32 AM]
+  tomacatx1 placed Frag Grenade in Deconstructor (ID: 868)
+[12/24/2020 12:12:32 AM]
+  tomacatx1 activated Deconstructor
+[12/24/2020 12:12:34 AM]
+  tomacatx1 placed UEX in Fabricator (ID: 867)
+[12/24/2020 12:12:42 AM]
+  tomacatx1 started fabricating C-4 Block in Fabricator
+[12/24/2020 12:12:46 AM]
+  tomacatx1 picked up UEX
+[12/24/2020 12:13:00 AM]
+  tomacatx1 picked up UEX
+[12/24/2020 12:13:03 AM]
+  tomacatx1 placed UEX in Large Steel Cabinet (ID: 865)
+[12/24/2020 12:13:04 AM]
+  tomacatx1 placed UEX in Large Steel Cabinet (ID: 865)
+[12/24/2020 12:13:06 AM]
+  tomacatx1 placed 40mm Grenade in Deconstructor (ID: 868)
+[12/24/2020 12:13:07 AM]
+  tomacatx1 activated Deconstructor
+[12/24/2020 12:13:08 AM]
+  tomacatx1 picked up UEX
+[12/24/2020 12:13:09 AM]
+  tomacatx1 placed UEX in Large Steel Cabinet (ID: 865)
+[12/24/2020 12:13:22 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:13:28 AM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[12/24/2020 12:13:29 AM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[12/24/2020 12:13:30 AM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[12/24/2020 12:13:30 AM]
+  Herman Nicolosi failed to repair Supercapacitor
+[12/24/2020 12:13:30 AM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[12/24/2020 12:13:31 AM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[12/24/2020 12:13:36 AM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 521)
+[12/24/2020 12:13:36 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:13:37 AM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 522)
+[12/24/2020 12:13:38 AM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 523)
+[12/24/2020 12:13:39 AM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 518)
+[12/24/2020 12:13:40 AM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 520)
+[12/24/2020 12:13:53 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:14:33 AM]
+  Rob Lester started repairing Fabricator
+[12/24/2020 12:14:43 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:14:59 AM]
+  Herman Nicolosi failed to repair Junction Box
+[12/24/2020 12:15:05 AM]
+  Herman Nicolosi: Need medical assistance in junction compartment!
+[12/24/2020 12:15:05 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:15:09 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:15:26 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:15:36 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:16:12 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:16:16 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:16:16 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:17 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:18 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:18 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:18 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:19 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:20 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:20 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:20 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:20 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:21 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:16:21 AM]
+  Lynn Sacks: Enemy down!
+[12/24/2020 12:16:21 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:21 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:21 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:16:21 AM]
+  Lynn Sacks: I think I got it!
+[12/24/2020 12:16:21 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:21 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:16:22 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:22 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:22 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:22 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:23 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:23 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:16:23 AM]
+  Lynn Sacks: Enemy down!
+[12/24/2020 12:16:24 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:16:24 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:25 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:26 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:26 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:26 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:26 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:16:27 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:27 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:16:27 AM]
+  Lynn Sacks: Enemy down!
+[12/24/2020 12:16:27 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:16:27 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:16:28 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:28 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:28 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:28 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:16:29 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:30 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:30 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:30 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:30 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:31 AM]
+  Lynn Sacks: Fire in the hole!
+[12/24/2020 12:16:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:16:32 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:16:32 AM]
+  Lynn Sacks: I think I got it!
+[12/24/2020 12:16:33 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:17:02 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:17:06 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:17:06 AM]
+  Rob Lester started repairing Oxygen Generator
+[12/24/2020 12:17:19 AM]
+  Rob Lester started repairing Fabricator
+[12/24/2020 12:17:36 AM]
+  Rob Lester started repairing Small Pump
+[12/24/2020 12:17:38 AM]
+  Rob Lester: I need diving gear!
+[12/24/2020 12:18:07 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:18:17 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:19:49 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:19:52 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:20:13 AM]
+  Kathy Frye: Firing!
+[12/24/2020 12:20:13 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:13 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:13 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:13 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:14 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:14 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:16 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:16 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:17 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:17 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:20:17 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:17 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:17 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:17 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:18 AM]
+  Kathy Frye: Firing!
+[12/24/2020 12:20:18 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:18 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:19 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:19 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:19 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:19 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:21 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:21 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:22 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:22 AM]
+  Kathy Frye: Leak in command room!
+[12/24/2020 12:20:23 AM]
+  Kathy Frye: Fire in the hole!
+[12/24/2020 12:20:23 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:23 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:20:23 AM]
+  Kathy Frye: Enemy down!
+[12/24/2020 12:20:24 AM]
+  Cara Duplantier: I need diving gear!
+[12/24/2020 12:20:24 AM]
+  Kathy Frye: Hull breach in command room!
+[12/24/2020 12:20:24 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:20:24 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:24 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:24 AM]
+  Outer wall breached by Lynn Sacks
+[12/24/2020 12:20:24 AM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[12/24/2020 12:20:24 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:20:24 AM]
+  Kathy Frye: Target down!
+[12/24/2020 12:20:24 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:24 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:25 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:25 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:25 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:25 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:25 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:26 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:26 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:20:26 AM]
+  Kathy Frye: Target down!
+[12/24/2020 12:20:26 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:26 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:26 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:27 AM]
+  Rob Lester: Leak in engineering!
+[12/24/2020 12:20:27 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:27 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:27 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:27 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:27 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:28 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:28 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:28 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:28 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:28 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:28 AM]
+  Kathy Frye: Fire in the hole!
+[12/24/2020 12:20:28 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:29 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:29 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:29 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:29 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:20:29 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:29 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:29 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:29 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:29 AM]
+  Bill Hedrick: Need a medic in engine room!
+[12/24/2020 12:20:29 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:30 AM]
+  Lelah Cluck: Loading more fuel to the reactor!
+[12/24/2020 12:20:30 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:30 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:30 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:30 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:30 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:31 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:31 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:31 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:20:31 AM]
+  Lynn Sacks: I think I got it!
+[12/24/2020 12:20:31 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:32 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:32 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:32 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:32 AM]
+  Lelah Cluck: I'm losing blood!
+[12/24/2020 12:20:32 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:32 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:33 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:33 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:33 AM]
+  Kathy Frye: Fire in the hole!
+[12/24/2020 12:20:33 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:34 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:20:34 AM]
+  Kathy Frye: I think I got it!
+[12/24/2020 12:20:34 AM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[12/24/2020 12:20:36 AM]
+  Herman Nicolosi: I need diving gear!
+[12/24/2020 12:20:36 AM]
+  Bill Hedrick: Giving first aid to Lelah Cluck in engine room!
+[12/24/2020 12:20:36 AM]
+  Bill Hedrick: Lelah Cluck is back in shape!
+[12/24/2020 12:20:37 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:37 AM]
+  Lynn Sacks: Lelah Cluck is back in shape!
+[12/24/2020 12:20:37 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:37 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:37 AM]
+  Outer wall repaired by Rob Lester
+[12/24/2020 12:20:37 AM]
+  Rob Lester: No more leaks in command room!
+[12/24/2020 12:20:40 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:42 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:42 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:42 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:43 AM]
+  Lelah Cluck: Leak in engine room!
+[12/24/2020 12:20:43 AM]
+  Kathy Frye: Firing!
+[12/24/2020 12:20:43 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:44 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:45 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:45 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:46 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:46 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:46 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:47 AM]
+  Lynn Sacks: Fire in the hole!
+[12/24/2020 12:20:47 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:20:47 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:20:47 AM]
+  Lynn Sacks: Aand it's dead!
+[12/24/2020 12:20:49 AM]
+  Rob Lester: Need to find a diving suit!
+[12/24/2020 12:20:55 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:56 AM]
+  Outer wall breached by Spineling
+[12/24/2020 12:20:57 AM]
+  Inner wall breached by Spineling
+[12/24/2020 12:20:58 AM]
+  Herman Nicolosi: Leak in engineering!
+[12/24/2020 12:21:01 AM]
+  Lynn Sacks: Fire in the hole!
+[12/24/2020 12:21:01 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:01 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:01 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:02 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:02 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:02 AM]
+  tomacatx1 picked up Fuel Rod
+[12/24/2020 12:21:02 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:03 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:03 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:03 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:03 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:03 AM]
+  Cara Duplantier: Need to find a diving suit!
+[12/24/2020 12:21:04 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:04 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:04 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:06 AM]
+  Lelah Cluck: Help, I'm bleeding!
+[12/24/2020 12:21:08 AM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[12/24/2020 12:21:19 AM]
+  Lynn Sacks: Fire in the hole!
+[12/24/2020 12:21:19 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:19 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:19 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:19 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:21:19 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:20 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:20 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:20 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:21 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:21 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:21 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:21:21 AM]
+  Spineling has died (Cause of death: Lacerations)
+[12/24/2020 12:21:21 AM]
+  Lynn Sacks: Target down!
+[12/24/2020 12:21:22 AM]
+  tomacatx1 picked up Railgun Shell
+[12/24/2020 12:21:24 AM]
+  Lelah Cluck: Leak in engine room!
+[12/24/2020 12:21:24 AM]
+  Outer wall repaired by Rob Lester
+[12/24/2020 12:21:24 AM]
+  Rob Lester: No more leaks in ballast tank b!
+[12/24/2020 12:21:24 AM]
+  Rob Lester: Can't get to the leak near lower mid!
+[12/24/2020 12:21:24 AM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 914)
+[12/24/2020 12:21:25 AM]
+  Outer wall repaired by Cara Duplantier
+[12/24/2020 12:21:28 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:21:29 AM]
+  tomacatx1 picked up Railgun Shell
+[12/24/2020 12:21:32 AM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 914)
+[12/24/2020 12:21:38 AM]
+  Rob Lester started repairing Large Engine
+[12/24/2020 12:21:41 AM]
+  Lelah Cluck: I'm losing blood!
+[12/24/2020 12:21:41 AM]
+  tomacatx1 picked up Welding Tool
+[12/24/2020 12:21:49 AM]
+  Outer wall repaired by Rob Lester
+[12/24/2020 12:21:49 AM]
+  Outer wall repaired by Rob Lester
+[12/24/2020 12:21:49 AM]
+  Rob Lester: No more leaks in lower mid!
+[12/24/2020 12:21:49 AM]
+  Cara Duplantier opened Custom Door
+[12/24/2020 12:21:50 AM]
+  tomacatx1 picked up C-4 Block
+[12/24/2020 12:21:50 AM]
+  Cara Duplantier: Hull breach in ballast tank b!
+[12/24/2020 12:21:50 AM]
+  tomacatx1 started fabricating C-4 Block in Fabricator
+[12/24/2020 12:21:52 AM]
+  Outer wall repaired by Cara Duplantier
+[12/24/2020 12:21:52 AM]
+  Cara Duplantier: All leaks repaired in ballast tank b!
+[12/24/2020 12:21:56 AM]
+  Herman Nicolosi started repairing Navigation Terminal
+[12/24/2020 12:21:57 AM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 226)
+[12/24/2020 12:22:01 AM]
+  Herman Nicolosi: Is it ‘thalamuses’ or ‘thalami’?
+[12/24/2020 12:22:04 AM]
+  Lelah Cluck: When a ruined sub spits out amoebas and shoots railgun shells at me, I don't ask how it would like to be addressed.
+[12/24/2020 12:22:15 AM]
+  Console command "fixhulls" executed by tomacatx1.
+[12/24/2020 12:22:21 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:22:21 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:22:25 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:22:34 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:22:51 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:22:52 AM]
+  Rob Lester started repairing Pump
+[12/24/2020 12:23:01 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:23:16 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:23:18 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:23:18 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:23:23 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:23:51 AM]
+  Kathy Frye: Fire in the hole!
+[12/24/2020 12:23:51 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:51 AM]
+  Rob Lester started repairing Small Pump
+[12/24/2020 12:23:52 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:52 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:52 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:53 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:53 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:54 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:54 AM]
+  Outer wall breached by Crawler
+[12/24/2020 12:23:54 AM]
+  Kathy Frye: Leak in command room!
+[12/24/2020 12:23:54 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:54 AM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell)
+[12/24/2020 12:23:55 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:55 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:55 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:55 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:56 AM]
+  Crawler has died (Cause of death: Lacerations)
+[12/24/2020 12:23:56 AM]
+  Kathy Frye: Fire in the hole!
+[12/24/2020 12:23:56 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:57 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:58 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:59 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:23:59 AM]
+  Outer wall repaired by Cara Duplantier
+[12/24/2020 12:23:59 AM]
+  Cara Duplantier: All leaks repaired in ballast tank b!
+[12/24/2020 12:24:00 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:00 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:00 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:01 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:01 AM]
+  Crawler has died (Cause of death: Lacerations)
+[12/24/2020 12:24:01 AM]
+  Kathy Frye: Aand it's dead!
+[12/24/2020 12:24:01 AM]
+  Kathy Frye: Firing!
+[12/24/2020 12:24:01 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:03 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:03 AM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[12/24/2020 12:24:03 AM]
+  Crawler has died (Cause of death: Lacerations)
+[12/24/2020 12:24:03 AM]
+  Crawler attacked by tomacatx1. Lacerations: 100 Bleeding: 75 Stun: 15
+[12/24/2020 12:24:03 AM]
+  Kathy Frye: I think I got it!
+[12/24/2020 12:24:04 AM]
+  Outer wall breached by Crawler
+[12/24/2020 12:24:14 AM]
+  Lelah Cluck: Hull breach in engine room!
+[12/24/2020 12:24:18 AM]
+  Rob Lester failed to repair Fabricator
+[12/24/2020 12:24:23 AM]
+  Outer wall breached by Crawler
+[12/24/2020 12:24:24 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:24:24 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:24 AM]
+  Rob Lester started repairing Fabricator
+[12/24/2020 12:24:24 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:24 AM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[12/24/2020 12:24:25 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:26 AM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[12/24/2020 12:24:26 AM]
+  tomacatx1 set the recharge speed of Supercapacitor to 80 %
+[12/24/2020 12:24:26 AM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[12/24/2020 12:24:26 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:27 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:28 AM]
+  Kathy Frye: Firing!
+[12/24/2020 12:24:28 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:28 AM]
+  Outer wall breached by Crawler
+[12/24/2020 12:24:29 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:29 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:24:29 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:29 AM]
+  Outer wall breached by Lynn Sacks
+[12/24/2020 12:24:29 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:30 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:30 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:30 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:30 AM]
+  Outer wall breached by Crawler
+[12/24/2020 12:24:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:31 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:31 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:24:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:31 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:31 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:31 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:31 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:32 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:32 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:32 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:32 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:33 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:33 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:33 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:34 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:34 AM]
+  Lynn Sacks: Fire in the hole!
+[12/24/2020 12:24:34 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:35 AM]
+  Cara Duplantier opened Custom Door
+[12/24/2020 12:24:35 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:35 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:35 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:35 AM]
+  Cara Duplantier: Hull breach in ballast tank b!
+[12/24/2020 12:24:36 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:36 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:36 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:36 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:24:37 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:37 AM]
+  Crawler has died (Cause of death: Lacerations)
+[12/24/2020 12:24:37 AM]
+  Lynn Sacks: Enemy down!
+[12/24/2020 12:24:37 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:38 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:39 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:39 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:24:39 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:40 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:40 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:40 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:40 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:41 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:41 AM]
+  Outer wall repaired by Cara Duplantier
+[12/24/2020 12:24:41 AM]
+  Cara Duplantier: All leaks repaired in ballast tank b!
+[12/24/2020 12:24:41 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:41 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:42 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:42 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:42 AM]
+  Crawler has died (Cause of death: Lacerations)
+[12/24/2020 12:24:42 AM]
+  Lynn Sacks: I think I got it!
+[12/24/2020 12:24:43 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:44 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:44 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:24:44 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:44 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:44 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:45 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:45 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:45 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:46 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:46 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:46 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:46 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:47 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:47 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:24:47 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:01 AM]
+  Kathy Frye: Fire in the hole!
+[12/24/2020 12:25:01 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:02 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:02 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:02 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:03 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:03 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:25:03 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:03 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:03 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:03 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:04 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:04 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:04 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:04 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:04 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:04 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:04 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:04 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:05 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:05 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:05 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:05 AM]
+  Kathy Frye launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:05 AM]
+  Crawler has died (Cause of death: Lacerations)
+[12/24/2020 12:25:05 AM]
+  Kathy Frye: Enemy down!
+[12/24/2020 12:25:05 AM]
+  Crawler has died (Cause of death: Internal damage)
+[12/24/2020 12:25:06 AM]
+  Herman Nicolosi: Leak in engine room!
+[12/24/2020 12:25:08 AM]
+  Lynn Sacks: Firing!
+[12/24/2020 12:25:08 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:08 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:09 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:09 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:09 AM]
+  Lynn Sacks launched Coilgun (projectile: Coilgun Bolt)
+[12/24/2020 12:25:09 AM]
+  Crawler has died (Cause of death: Lacerations)
+[12/24/2020 12:25:09 AM]
+  Lynn Sacks: I think I got it!
+[12/24/2020 12:25:12 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:25:12 AM]
+  Rob Lester started repairing Small Pump
+[12/24/2020 12:25:25 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:25:30 AM]
+  Herman Nicolosi started repairing Status Monitor
+[12/24/2020 12:25:37 AM]
+  tomacatx1 picked up Railgun Shell
+[12/24/2020 12:25:40 AM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 914)
+[12/24/2020 12:25:40 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:25:44 AM]
+  tomacatx1 picked up Railgun Shell
+[12/24/2020 12:25:47 AM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 914)
+[12/24/2020 12:25:54 AM]
+  tomacatx1 picked up C-4 Block
+[12/24/2020 12:25:55 AM]
+  tomacatx1 started fabricating C-4 Block in Fabricator
+[12/24/2020 12:26:00 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:26:03 AM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 222)
+[12/24/2020 12:26:14 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:26:19 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:26:32 AM]
+  Rob Lester failed to repair Fabricator
+[12/24/2020 12:26:35 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:26:41 AM]
+  Rob Lester started repairing Nuclear Reactor
+[12/24/2020 12:27:04 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:27:22 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:27:45 AM]
+  Rob Lester: Broken devices in central access passage!
+[12/24/2020 12:27:54 AM]
+  Cara Duplantier started repairing Fabricator
+[12/24/2020 12:28:04 AM]
+  Rob Lester started repairing Oxygen Generator
+[12/24/2020 12:28:20 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:28:29 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:28:35 AM]
+  tomacatx1 picked up Diving Suit
+[12/24/2020 12:28:37 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:28:37 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:28:37 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:28:37 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:28:38 AM]
+  tomacatx1 opened Custom Hatch
+[12/24/2020 12:28:43 AM]
+  tomacatx1 closed Custom Hatch
+[12/24/2020 12:28:53 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:28:54 AM]
+  tomacatx1 opened Custom Hatch
+[12/24/2020 12:28:57 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:28:58 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:28:59 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:29:01 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:29:03 AM]
+  tomacatx1 closed Custom Hatch
+[12/24/2020 12:29:03 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:29:21 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:29:25 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:29:30 AM]
+  tomacatx1 picked up Screwdriver
+[12/24/2020 12:29:32 AM]
+  tomacatx1 picked up Wrench
+[12/24/2020 12:29:34 AM]
+  tomacatx1 started repairing Nuclear Reactor
+[12/24/2020 12:30:02 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:30:11 AM]
+  Console command "spawnitem "Fuel Rod" inventory" executed by tomacatx1.
+[12/24/2020 12:30:16 AM]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 3845)
+[12/24/2020 12:30:18 AM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[12/24/2020 12:30:19 AM]
+  tomacatx1 adjusted reactor settings: Temperature: 27, Fission rate: 0, Turbine output: 0, Autotemp ON
+[12/24/2020 12:30:20 AM]
+  Rob Lester started repairing Pump
+[12/24/2020 12:30:22 AM]
+  tomacatx1 started repairing Junction Box
+[12/24/2020 12:30:44 AM]
+  tomacatx1 opened Custom Hatch
+[12/24/2020 12:30:44 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:30:50 AM]
+  tomacatx1 closed Custom Hatch
+[12/24/2020 12:30:55 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:30:56 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:30:57 AM]
+  tomacatx1 opened Custom Hatch
+[12/24/2020 12:30:57 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:31:11 AM]
+  tomacatx1 started repairing Sonar Monitor
+[12/24/2020 12:31:17 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:31:48 AM]
+  tomacatx1 started repairing Nuclear Reactor
+[12/24/2020 12:31:55 AM]
+  tomacatx1 started repairing Junction Box
+[12/24/2020 12:32:09 AM]
+  tomacatx1 failed to repair Small Pump
+[12/24/2020 12:32:12 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:32:17 AM]
+  tomacatx1 failed to repair Small Pump
+[12/24/2020 12:32:26 AM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 5397)
+[12/24/2020 12:32:27 AM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 13)
+[12/24/2020 12:32:28 AM]
+  tomacatx1 started repairing Small Pump
+[12/24/2020 12:32:31 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:32:46 AM]
+  tomacatx1 closed Custom Hatch
+[12/24/2020 12:32:46 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:32:54 AM]
+  Lelah Cluck: Loading more fuel to the reactor!
+[12/24/2020 12:33:04 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:33:18 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:33:35 AM]
+  tomacatx1 turned on Small Pump
+[12/24/2020 12:33:35 AM]
+  tomacatx1 set the pumping speed of Small Pump to -30 %
+[12/24/2020 12:33:35 AM]
+  tomacatx1 set the pumping speed of Small Pump to -100 %
+[12/24/2020 12:33:45 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:33:49 AM]
+  tomacatx1 placed Oxygen Tank in Oxygen Generator (ID: 3846)
+[12/24/2020 12:33:52 AM]
+  tomacatx1 started repairing Oxygen Generator
+[12/24/2020 12:34:02 AM]
+  Herman Nicolosi started repairing Status Monitor
+[12/24/2020 12:34:04 AM]
+  tomacatx1 started repairing Small Pump
+[12/24/2020 12:34:13 AM]
+  tomacatx1 started repairing Nuclear Reactor
+[12/24/2020 12:34:24 AM]
+  tomacatx1 started repairing Nuclear Reactor
+[12/24/2020 12:34:55 AM]
+  tomacatx1 started repairing Sonar Monitor
+[12/24/2020 12:34:56 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:35:06 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:35:18 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:35:23 AM]
+  tomacatx1 started repairing Junction Box
+[12/24/2020 12:35:26 AM]
+  Herman Nicolosi started repairing Navigation Terminal
+[12/24/2020 12:35:41 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:36:00 AM]
+  tomacatx1 picked up Fuel Rod
+[12/24/2020 12:36:02 AM]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 3845)
+[12/24/2020 12:36:27 AM]
+  Herman Nicolosi started repairing Supercapacitor
+[12/24/2020 12:36:30 AM]
+  Herman Nicolosi: I miss the sun.
+[12/24/2020 12:36:46 AM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 3933)
+[12/24/2020 12:36:46 AM]
+  tomacatx1 removed Oxygen Tank from Oxygen Tank Shelf (ID: 3933)
+[12/24/2020 12:36:46 AM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 13)
+[12/24/2020 12:37:05 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:37:07 AM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 5397)
+[12/24/2020 12:37:16 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:37:19 AM]
+  tomacatx1 opened Custom Hatch
+[12/24/2020 12:37:19 AM]
+  tomacatx1 closed Custom Door
+[12/24/2020 12:37:19 AM]
+  tomacatx1 closed Custom Hatch
+[12/24/2020 12:37:19 AM]
+  tomacatx1 opened Custom Door
+[12/24/2020 12:37:29 AM]
+  Herman Nicolosi started repairing Battery
+[12/24/2020 12:37:47 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:37:51 AM]
+  Herman Nicolosi started repairing Junction Box
+[12/24/2020 12:37:54 AM]
+  tomacatx1 picked up Storage Container
+[12/24/2020 12:37:55 AM]
+  tomacatx1 placed Storage Container in Cabinets (ID: 3797)
+[12/24/2020 12:38:04 AM]
+  Client "tomacatx1" ended the round.
+[12/24/2020 12:38:04 AM]
+  Ending the round...
+[12/24/2020 12:38:05 AM]
+  Round ended.
+[12/24/2020 12:38:38 AM]
+  Saving banlist
+[12/24/2020 12:38:38 AM]
+  Shutting down the server...

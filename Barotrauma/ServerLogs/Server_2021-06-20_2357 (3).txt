@@ -1,0 +1,88 @@
+﻿[6/20/2021 11:55:23 PM]
+  Saving client permissions
+[6/20/2021 11:55:28 PM]
+  Gamemode changed to Campaign
+[6/20/2021 11:55:39 PM]
+  Starting a new round...
+[6/20/2021 11:56:02 PM]
+  Game mode: Campaign
+[6/20/2021 11:56:02 PM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/20/2021 11:56:02 PM]
+  Level seed: Anid
+[6/20/2021 11:56:02 PM]
+  Kerry Reynolds equipped Wrench
+[6/20/2021 11:56:02 PM]
+  Kerry Reynolds unequipped Wrench
+[6/20/2021 11:56:02 PM]
+  Kerry Reynolds equipped Screwdriver
+[6/20/2021 11:56:02 PM]
+  Lamont Radice equipped Wrench
+[6/20/2021 11:56:02 PM]
+  Lamont Radice unequipped Wrench
+[6/20/2021 11:56:02 PM]
+  Lamont Radice equipped Screwdriver
+[6/20/2021 11:56:02 PM]
+  Candace Hampton equipped Wrench
+[6/20/2021 11:56:03 PM]
+  Candace Hampton unequipped Wrench
+[6/20/2021 11:56:03 PM]
+  Candace Hampton equipped Screwdriver
+[6/20/2021 11:56:03 PM]
+  Devin Ram equipped Wrench
+[6/20/2021 11:56:03 PM]
+  Devin Ram unequipped Wrench
+[6/20/2021 11:56:03 PM]
+  Devin Ram equipped Screwdriver
+[6/20/2021 11:56:03 PM]
+  Devin Ram unequipped Screwdriver
+[6/20/2021 11:56:03 PM]
+  Devin Ram equipped Crowbar
+[6/20/2021 11:56:03 PM]
+  Lauren Hefner equipped Wrench
+[6/20/2021 11:56:03 PM]
+  Lauren Hefner unequipped Wrench
+[6/20/2021 11:56:03 PM]
+  Lauren Hefner equipped Screwdriver
+[6/20/2021 11:56:04 PM]
+  Thea Robertson equipped Screwdriver
+[6/20/2021 11:56:04 PM]
+  Arturo Rhymer equipped Screwdriver
+[6/20/2021 11:56:04 PM]
+  Kathy Huber equipped Wrench
+[6/20/2021 11:56:04 PM]
+  Claire Frye equipped Screwdriver
+[6/20/2021 11:56:04 PM]
+  Round started.
+[6/20/2021 11:56:04 PM]
+  Mikaela Hampton equipped Wrench
+[6/20/2021 11:56:04 PM]
+  Devin Ram unequipped Crowbar
+[6/20/2021 11:56:04 PM]
+  Kerry Reynolds unequipped Screwdriver
+[6/20/2021 11:56:04 PM]
+  Mikaela Hampton unequipped Wrench
+[6/20/2021 11:56:04 PM]
+  Arturo Rhymer unequipped Screwdriver
+[6/20/2021 11:56:05 PM]
+  Kathy Huber unequipped Wrench
+[6/20/2021 11:56:05 PM]
+  Claire Frye unequipped Screwdriver
+[6/20/2021 11:56:05 PM]
+  Thea Robertson unequipped Screwdriver
+[6/20/2021 11:56:12 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/20/2021 11:56:18 PM]
+  Lamont Radice: That's a pretty sub you've got down there!
+[6/20/2021 11:56:26 PM]
+  Candace Hampton unequipped Screwdriver
+[6/20/2021 11:56:40 PM]
+  Jerald Bradley: I haven't been feeling well lately. This morning I passed out while brushing my teeth and this weird rash on my cheek has been getting worse.
+[6/20/2021 11:56:45 PM]
+  Arturo Rhymer: You know you just described space herpes, right?
+[6/20/2021 11:56:49 PM]
+  Jerald Bradley: I know, I know. I'm just hoping it's regular herpes or something that's easier to treat.
+[6/20/2021 11:56:54 PM]
+  Arturo Rhymer: You may not believe in karma, but personally I think there's some truth in “a good deed a day keeps the doctor away”. And no offence, you're no saint to put it mildly.
+[6/20/2021 11:56:59 PM]
+  Jerald Bradley: Don't even get started with that crap.

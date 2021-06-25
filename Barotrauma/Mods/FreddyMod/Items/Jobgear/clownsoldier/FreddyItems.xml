@@ -1,0 +1,124 @@
+<Items>
+  <Item name="Servant's Mask" identifier="shm_mask" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" description="The mask of a servant of the Honkmother." scale="0.5">
+    <Price baseprice="1" soldeverywhere="false" canbespecial="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <PreferredContainer primary="outpostcrewcabinet" minamount="0" maxamount="1" spawnprobability="0"/>
+    <Sprite name="Clown Mask" texture="Mods/FreddyMod/Items/Jobgear/clownsoldier/servant_honkmother_mask.png" depth="0.6" sourcerect="414,318,89,71" origin="0.5,0.5" scale="0.5" />
+    <Body width="40" radius="30" density="15" />
+    <Deconstruct time="10">
+      <Item identifier="bikehorn" />
+    </Deconstruct>
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Servant Mask Wearable" texture="Mods/FreddyMod/Items/Jobgear/clownsoldier/servant_honkmother_mask.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="414,318,89,71" origin="0.5,0.6" />
+      <StatusEffect tags="clown" type="OnWearing" target="Character" HideFace="true" duration="0.1" stackable="false" />
+    </Wearable>
+  </Item>
+  <Item name="Servant's Armor" identifier="servantarmor1" nameidentifier="servantarmor" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="outpostcrewcabinet,abandonedcrewcabinet" minamount="0" maxamount="1" spawnprobability="0.01"/>
+	<Deconstruct time="5">
+	  <Item identifier="servantarmor2" />
+	</Deconstruct>
+    <Price baseprice="75">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <Sprite name="servant" texture="Mods/FreddyMod/Items/Jobgear/clownsoldier/ServantIcon.png" sourcerect="15,813,212,64" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="servant Torso" texture="servant_honkmother_torso_male.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Lower Arm" texture="servant_honkmother_torso_male.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Lower Arm" texture="servant_honkmother_torso_male.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Upper Arm" texture="servant_honkmother_torso_male.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Upper Arm" texture="servant_honkmother_torso_male.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Waist" texture="servant_honkmother_legs_male.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Thigh" texture="servant_honkmother_legs_male.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Thigh" texture="servant_honkmother_legs_male.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Leg" texture="servant_honkmother_legs_male.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Leg" texture="servant_honkmother_legs_male.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Shoe" texture="servant_honkmother_legs_male.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Shoe" texture="servant_honkmother_legs_male.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Servant's Armor" identifier="servantarmor2" nameidentifier="servantarmor" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="outpostcrewcabinet,abandonedcrewcabinet" minamount="0" maxamount="1" spawnprobability="0.01"/>"
+	<Deconstruct time="3">
+	</Deconstruct>
+    <Price baseprice="75">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <Sprite name="servant" texture="Mods/FreddyMod/Items/Jobgear/clownsoldier/ServantIcon.png" sourcerect="241,813,200,64" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="servant Torso" texture="servant_honkmother_torso_female.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Lower Arm" texture="servant_honkmother_torso_female.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Lower Arm" texture="servant_honkmother_torso_female.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Upper Arm" texture="servant_honkmother_torso_female.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Upper Arm" texture="servant_honkmother_torso_female.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Waist" texture="servant_honkmother_legs_female.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Thigh" texture="servant_honkmother_legs_female.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Thigh" texture="servant_honkmother_legs_female.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Leg" texture="servant_honkmother_legs_female.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Leg" texture="servant_honkmother_legs_female.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Left Shoe" texture="servant_honkmother_legs_female.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="servant Right Shoe" texture="servant_honkmother_legs_female.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Package Honkmother" identifier="servantpackage" category="Equipment" tags="smallitem,mobilecontainer,tool" cargocontaineridentifier="" showcontentsintooltip="true" Scale="0.5" fireproof="true" description="" impactsoundtag="impact_metal_heavy">
+    <PreferredContainer primary="wreckstoragecab" spawnprobability="0.06"/>
+    <Deconstruct time="15">
+      <Item identifier="servantarmor1" />
+	  <Item identifier="shm_mask" />
+	  <Item identifier="rubberchicken" />
+    </Deconstruct>	
+	<Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="mechanical" level="20" />
+      <Item identifier="steel" />
+    </Fabricate>
+    <Price baseprice="25" >
+      <Price locationtype="city" multiplier="0.3" minavailable="0" maxavailable="1" />
+    </Price>
+    <InventoryIcon texture="Mods/FreddyMod/Items/Jobgear/clownsoldier/Atlas.png" sourcerect="640,256,64,64" origin="0.5,0.6" />
+    <Sprite texture="Mods/FreddyMod/Items/Jobgear/clownsoldier/hnkcase.png" sourcerect="314,1,94,74" origin="0.5,0.5" />
+    <!--<Sprite texture="Content/Items/Containers/crates.png" depth="0.54" sourcerect="1,0,68,39"/>-->
+    <Body width="90" height="60" density="20" />
+    <MeleeWeapon slots="RightHand,LeftHand" controlpose="true" aimpos="45,10" handle1="0,10" handle2="0,10" holdangle="90" reload="1" range="50" combatpriority="6" msg="ItemMsgPickUpSelect">
+      <Attack structuredamage="10" itemdamage="5" stun="0.6" targetimpulse="2">
+        <Affliction identifier="blunttrauma" strength="2" />
+        <Sound file="Content/Items/Weapons/Smack2.ogg" range="800" />
+      </Attack>
+    </MeleeWeapon>
+    <aitarget sightrange="1000" soundrange="1000" fadeouttime="2" />
+    <Upgrade gameversion="0.10.0.0" scale="0.5" />
+  </Item>
+  <Item name="Rubber Chicken" identifier="rubberchicken" category="Equipment" tags="weapon,smallitem" scale="0.5" cargocontaineridentifier="metalcrate" description="SQWEEEEEEE">
+    <PreferredContainer primary="crewcab"/>
+    <Price baseprice="1" soldeverywhere="false" canbespecial="false">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon texture="Mods/FreddyMod/Items/Jobgear/clownsoldier/rbrchcicon.png" sourcerect="0,0,69,69" depth="0.55" origin="0.5,0.5" />
+    <Sprite texture="Mods/FreddyMod/Items/Jobgear/clownsoldier/rubberchicken.png" sourcerect="0,0,34,115" depth="0.55" />
+    <Body width="50" height="20" density="15" />
+    <Holdable slots="Any,RightHand,LeftHand" aimpos="100,0" handle1="2,9" msg="ItemMsgPickUpSelect" />
+    <RangedWeapon reload="5">
+      <Sound file="Mods/FreddyMod/Items/Jobgear/clownsoldier/squee.ogg" type="OnUse" />
+    </RangedWeapon>
+    <aitarget soundrange="1000" fadeouttime="5" />
+    <Upgrade gameversion="0.10.0.0" scale="0.5" />
+  </Item>
+</Items>

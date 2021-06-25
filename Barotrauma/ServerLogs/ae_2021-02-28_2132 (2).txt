@@ -1,0 +1,44 @@
+﻿[2/28/2021 9:30:22 PM]
+  Saving client permissions
+[2/28/2021 9:30:31 PM]
+  tomacatx1 is ready to start the game.
+[2/28/2021 9:30:32 PM]
+  Client "tomacatx1" started the round.
+[2/28/2021 9:30:32 PM]
+  Starting a new round...
+[2/28/2021 9:30:51 PM]
+  Game mode: Sandbox
+[2/28/2021 9:30:51 PM]
+  Submarine: Humpback v1.03 re-1
+[2/28/2021 9:30:51 PM]
+  Level seed: gt6b1QjT
+[2/28/2021 9:30:51 PM]
+  Round started.
+[2/28/2021 9:30:56 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/28/2021 9:31:15 PM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[2/28/2021 9:31:20 PM]
+  Console command "control "Raphael Kidd"" executed by tomacatx1.
+[2/28/2021 9:31:21 PM]
+  Raphael Kidd set the value "Channel" of the item "Headset" to "0".
+[2/28/2021 9:31:22 PM]
+  Raphael Kidd equipped Marine SMG
+[2/28/2021 9:31:28 PM]
+  Raphael Kidd adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[2/28/2021 9:31:29 PM]
+  Raphael Kidd adjusted reactor settings: Temperature: 31, Fission rate: 1, Turbine output: 0, Autotemp ON
+[2/28/2021 9:31:58 PM]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[2/28/2021 9:32:02 PM]
+  Raphael Kidd equipped Handgun
+[2/28/2021 9:32:09 PM]
+  tomacatx1 has died (Cause of death: Gunshot wound)
+[2/28/2021 9:32:29 PM]
+  Raphael Kidd placed Handgun in Mercenary Combat Undershirt (ID: 3768)
+[2/28/2021 9:32:39 PM]
+  Client "tomacatx1" ended the round.
+[2/28/2021 9:32:39 PM]
+  Ending the round...
+[2/28/2021 9:32:39 PM]
+  Round ended.

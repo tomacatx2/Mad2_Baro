@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Alto saxophone" path="Mods/Alto saxophone/filelist.xml" corepackage="false" gameversion="0.9.0.7" steamworkshopid="1771831286" installtime="1561909885">
+  <None file="Mods/Alto saxophone/Epic.ogg" />
+  <None file="Mods/Alto saxophone/Hill.ogg" />
+  <None file="Mods/Alto saxophone/King.ogg" />
+  <None file="Mods/Alto saxophone/Sax.png" />
+  <None file="Mods/Alto saxophone/Cantina Band.ogg" />
+  <None file="Mods/Alto saxophone/Pink.ogg" />
+  <Item file="Mods/Alto saxophone/Sax.xml" />
+</contentpackage>

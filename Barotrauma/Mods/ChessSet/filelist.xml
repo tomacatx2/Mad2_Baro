@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="ChessSet" path="Mods/ChessSet/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2501146193" installtime="1622869796">
+  <Item file="Mods/ChessSet/chess.xml" />
+  <None file="Mods/ChessSet/chessboard.png" />
+  <None file="Mods/ChessSet/chessboard_full.png" />
+  <None file="Mods/ChessSet/chesspiece_atlas.png" />
+  <ItemAssembly file="Mods/ChessSet/ChessSet.xml" />
+</contentpackage>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="DelgsMod" path="Mods/DelgsMod/filelist.xml" corepackage="false" gameversion="0.9.9.1" steamworkshopurl="http://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&amp;id=2092121063" installtime="1590019526">
+  <Text file="Mods/DelgsMod/Texts/English/EnglishDelg.xml" />
+  <Item file="Mods/DelgsMod/Items/tools.xml" />
+  <Item file="Mods/DelgsMod/Items/systems.xml" />
+  <Item file="Mods/DelgsMod/Items/food.xml" />
+  <None file="Mods/DelgsMod/Items/cleaver.png" />
+  <None file="Mods/DelgsMod/Items/systems.png" />
+  <None file="Mods/DelgsMod/Items/systemsAtlas.png" />
+  <None file="Mods/DelgsMod/Items/tools.png" />
+  <None file="Mods/DelgsMod/Items/toolsAtlas.png" />
+  <None file="Mods/DelgsMod/Items/foodAtlas.png" />
+  <Submarine file="Mods/DelgsMod/Submarines/Sbubmarime [Delg's Mod].sub" />
+  <None file="Mods/DelgsMod/Items/taser.png" />
+</contentpackage>

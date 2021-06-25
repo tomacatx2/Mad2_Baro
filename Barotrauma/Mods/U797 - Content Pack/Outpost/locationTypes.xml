@@ -1,0 +1,193 @@
+<override>
+  <locationtypes>
+    <None
+    identifier="None"
+    namefile="Content/Map/locationNames.txt"
+    commonnessperzone="1: 5.0, 2: 5.0, 3: 5.0, 4: 5.0, 5: 5.0, 6: 0"
+    hasoutpost="false">
+
+      <Symbol texture="Content/Map/MapAtlas.png" sourcerect="384,640,128,128" color="68,220,161,255"/>
+      <Portrait texture="Content/Map/LocationPortraits/NaturalFormations.png" premultiplyalpha="false"/>
+
+      <!-- can only become inhabited if there's an adjacent inhabited location AND there are no adjacent lairs -->
+      <ChangeTo type="Outpost" probability="0.75" requiredduration="2"
+                requiredadjacentlocations="Outpost,Military,Research,City,Mine"
+                disallowedadjacentlocations="Lair"
+                messagetag="locationchange.none.changeto.outpost"/>
+    </None>
+    <City
+      identifier="City"
+      namefile="Content/Map/cityNames.txt"
+      commonnessperzone="1: 5.0">
+
+      <Symbol texture="Content/Map/MapAtlas.png" sourcerect="384,512,128,128" color="250,215,107,255"/>
+      <Portrait texture="Content/Map/LocationPortraits/Colony.png" premultiplyalpha="false"/>
+
+      <Hireable identifier="Kommander" commonness="5"/>
+      <Hireable identifier="Kapitaen" commonness="3"/>
+      <Hireable identifier="Wachoffizier" commonness="6"/>
+      <Hireable identifier="Materialbewirtschaftung" commonness="4"/>
+      <Hireable identifier="Leitender_Arzt" commonness="2"/>
+      <Hireable identifier="Arzt" commonness="3"/>
+      <Hireable identifier="Brueckenbootsmann" commonness="1"/>
+      <Hireable identifier="Technisches_Personal" commonness="4"/>
+      <Hireable identifier="Seemaennisches_Personal" commonness="4"/>
+      <Hireable identifier="Medizinisches_Personal" commonness="3"/>
+      <Hireable identifier="Matrose" commonness="10"/>
+    </City>
+    <Outpost
+      identifier="Outpost"
+      namefile="Content/Map/cityNames.txt"
+      commonnessperzone="2: 5.0, 3: 2.5">
+
+      <Symbol texture="Content/Map/MapAtlas.png" sourcerect="256,512,128,128" color="250,215,107,255"/>
+      <Portrait texture="Content/Map/LocationPortraits/HabitationOutpost.png" premultiplyalpha="false"/>
+
+      <Hireable identifier="Kommander" commonness="5"/>
+      <Hireable identifier="Kapitaen" commonness="3"/>
+      <Hireable identifier="Wachoffizier" commonness="6"/>
+      <Hireable identifier="Materialbewirtschaftung" commonness="1"/>
+      <Hireable identifier="Leitender_Arzt" commonness="2"/>
+      <Hireable identifier="Arzt" commonness="3"/>
+      <Hireable identifier="Brueckenbootsmann" commonness="1"/>
+      <Hireable identifier="Technisches_Personal" commonness="4"/>
+      <Hireable identifier="Seemaennisches_Personal" commonness="4"/>
+      <Hireable identifier="Medizinisches_Personal" commonness="3"/>
+      <Hireable identifier="Matrose" commonness="8"/>
+
+      <!-- can become a specialized outpost if there are no adjacent lairs -->
+      <ChangeTo type="Military" probability="0.5" requiredduration="3"
+            requiredadjacentlocations="Outpost,Military,Research,City,Mine"
+            disallowedadjacentlocations="Lair"
+            messagetag="locationchange.outpost.changeto.military"/>
+
+      <ChangeTo type="Research" probability="0.5" requiredduration="3"
+            requiredadjacentlocations="Outpost,Military,Research,City,Mine"
+            disallowedadjacentlocations="Lair"
+            messagetag="locationchange.outpost.changeto.research"/>
+
+      <ChangeTo type="Mine" probability="0.5" requiredduration="3"
+            requiredadjacentlocations="Outpost,Military,Research,City,Mine"
+            disallowedadjacentlocations="Lair"
+            messagetag="locationchange.outpost.changeto.mine"/>
+    </Outpost>
+    <Military
+    identifier="Military"
+    namefile="Content/Map/locationNames.txt"
+    commonnessperzone="1: 1.25, 2: 2.5, 3: 1.25"
+    useinmainmenu="true">
+
+      <Symbol texture="Content/Map/MapAtlas.png" sourcerect="640,512,128,128" color="155,134,75,255"/>
+      <Portrait texture="Content/Map/LocationPortraits/WorkCampMilitary.png" premultiplyalpha="false"/>
+
+      <Hireable identifier="Kommander" commonness="8"/>
+      <Hireable identifier="Kapitaen" commonness="6"/>
+      <Hireable identifier="Wachoffizier" commonness="10"/>
+      <Hireable identifier="Materialbewirtschaftung" commonness="1"/>
+      <Hireable identifier="Leitender_Arzt" commonness="1"/>
+      <Hireable identifier="Arzt" commonness="3"/>
+      <Hireable identifier="Brueckenbootsmann" commonness="2"/>
+      <Hireable identifier="Technisches_Personal" commonness="1"/>
+      <Hireable identifier="Seemaennisches_Personal" commonness="3"/>
+      <Hireable identifier="Medizinisches_Personal" commonness="2"/>
+      <Hireable identifier="Matrose" commonness="6"/>
+
+      <!-- can become a city if there are no adjacent lairs -->
+      <ChangeTo type="City" probability="0.5" requiredduration="5"
+            requiredadjacentlocations="Outpost,Military,Research,City"
+            disallowedadjacentlocations="Lair"
+            messagetag="locationchange.military.changeto.city"/>
+    </Military>
+    <Research
+    identifier="Research"
+    namefile="Content/Map/locationNames.txt"
+    commonness="3"
+    commonnessperzone="2: 1.25, 3: 2.5">
+
+      <Symbol texture="Content/Map/MapAtlas.png" sourcerect="512,512,128,128" color="117,234,255,255"/>
+      <Portrait texture="Content/Map/LocationPortraits/WorkCampResearchFacility1.png" premultiplyalpha="false"/>
+      <Portrait texture="Content/Map/LocationPortraits/WorkCampResearchFacility2.png" premultiplyalpha="false"/>
+
+      <Hireable identifier="Kommander" commonness="1"/>
+      <Hireable identifier="Wachoffizier" commonness="3"/>
+      <Hireable identifier="Materialbewirtschaftung" commonness="1"/>
+      <Hireable identifier="Leitender_Arzt" commonness="3"/>
+      <Hireable identifier="Arzt" commonness="5"/>
+      <Hireable identifier="Brueckenbootsmann" commonness="2"/>
+      <Hireable identifier="Technisches_Personal" commonness="2"/>
+      <Hireable identifier="Medizinisches_Personal" commonness="7"/>
+
+      <!-- can become a city if there are no adjacent lairs -->
+      <ChangeTo type="City" probability="0.5" requiredduration="5"
+            requiredadjacentlocations="Outpost,Military,Research,City"
+            disallowedadjacentlocations="Lair"
+            messagetag="locationchange.research.changeto.city"/>
+    </Research>
+    <Mine
+    identifier="Mine"
+    namefile="Content/Map/locationNames.txt"
+    commonness="3"
+    commonnessperzone="2: 1.25, 3: 2.5">
+
+      <Symbol texture="Content/Map/MapAtlas.png" sourcerect="256,640,128,128" color="176,133,113,255"/>
+      <Portrait texture="Content/Map/LocationPortraits/WorkCampMining1.png" premultiplyalpha="false"/>
+      <Portrait texture="Content/Map/LocationPortraits/WorkCampMining2.png" premultiplyalpha="false"/>
+      <Portrait texture="Content/Map/LocationPortraits/WorkCampMining3.png" premultiplyalpha="false"/>
+
+      <Hireable identifier="Kommander" commonness="1"/>
+      <Hireable identifier="Kapitaen" commonness="1"/>
+      <Hireable identifier="Wachoffizier" commonness="1"/>
+      <Hireable identifier="Materialbewirtschaftung" commonness="8"/>
+      <Hireable identifier="Leitender_Arzt" commonness="1"/>
+      <Hireable identifier="Arzt" commonness="1"/>
+      <Hireable identifier="Brueckenbootsmann" commonness="1"/>
+      <Hireable identifier="Technisches_Personal" commonness="4"/>
+      <Hireable identifier="Seemaennisches_Personal" commonness="1"/>
+      <Hireable identifier="Medizinisches_Personal" commonness="2"/>
+      <Hireable identifier="Matrose" commonness="5"/>
+
+      <!-- can become a city if there are no adjacent lairs -->
+      <ChangeTo type="City" probability="0.5" requiredduration="5"
+            requiredadjacentlocations="Outpost,Military,Research,City"
+            disallowedadjacentlocations="Lair"
+            messagetag="locationchange.mine.changeto.city"/>
+    </Mine>
+    <Lair
+      identifier="Lair"
+      namefile="Content/Map/alienNames.txt"
+      commonnessperzone="1: 0.25, 2: 1.0, 3: 1.25, 4: 2.5, 5: 3.5"
+      hasoutpost="false">
+
+      <Symbol texture="Content/Map/MapAtlas.png" sourcerect="767,512,128,128" color="121,99,193,255"/>
+      <Portrait texture="Content/Map/LocationPortraits/NaturalFormations.png" premultiplyalpha="false"/>
+
+      <!-- becomes an empty natural formation after being discovered (todo: require killing the monster(s) in the location) -->
+      <ChangeTo type="None" probability="1.0"
+                messagetag="locationchange.lair.changeto.none"/>
+    </Lair>
+    
+    <EndLocation
+    identifier="EndLocation"
+    namefile="Content/Map/alienNames.txt"
+    commonnessperzone="1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 1"
+    hasoutpost="false">
+      <Symbol texture="Content/Map/MapAtlas.png" sourcerect="521,648,110,110" color="67,41,39,255"/>
+      <Portrait texture="Content/Map/LocationPortraits/NaturalFormations.png" premultiplyalpha="false"/>
+    </EndLocation>
+    <!--
+  <Ruins
+    identifier="Ruins"
+    namefile="Content/Map/alienNames.txt"
+    commonnessperzone="3: 1.25, 4: 2.5, 5: 3.5, 6: 5.0, 7: 5.0, 8: 5.0, 9: 5.0"
+    halo="1,0,0,0.2"
+    useinmainmenu="true">
+
+    <Symbol texture="Content/Map/MapIconAtlas.png" sourcerect="784,847,233,158" color="216,91,80,255"/>
+    <Portrait texture="Content/Map/LocationPortraits/AlienRuins.png" premultiplyalpha="false"/>
+
+    <ChangeTo type="Outpost" probability="0.05" requiredduration="3" disallowedadjacentlocations="Lair"/>
+    <ChangeTo type="Military" probability="0.05" requiredduration="3" disallowedadjacentlocations="Lair"/>
+    <ChangeTo type="Research" probability="0.4" requiredduration="3" disallowedadjacentlocations="Lair"/>
+  </Ruins>-->
+  </locationtypes>
+</override>

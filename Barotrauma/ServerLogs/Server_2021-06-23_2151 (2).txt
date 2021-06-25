@@ -1,0 +1,226 @@
+﻿[6/23/2021 9:39:24 PM]
+  Saving client permissions
+[6/23/2021 9:39:24 PM]
+  Saving client permissions
+[6/23/2021 9:39:47 PM]
+  superhands has joined the server.
+[6/23/2021 9:39:47 PM]
+  Saving client permissions
+[6/23/2021 9:40:49 PM]
+  The Supreme Gentleman is ready to start the game.
+[6/23/2021 9:40:51 PM]
+  Gamemode changed to Sandbox
+[6/23/2021 9:40:52 PM]
+  Client "The Supreme Gentleman" started the round.
+[6/23/2021 9:40:52 PM]
+  Starting a new round...
+[6/23/2021 9:41:19 PM]
+  Game mode: Sandbox
+[6/23/2021 9:41:19 PM]
+  Submarine: ECS. Hammerhead v1 re-1
+[6/23/2021 9:41:19 PM]
+  Level seed: t4GeeWes
+[6/23/2021 9:41:19 PM]
+  Round started.
+[6/23/2021 9:41:23 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/23/2021 9:41:23 PM]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[6/23/2021 9:41:28 PM]
+  superhands placed 9mm Magazine (High-Capacity) in Handgun (ID: 5953)
+[6/23/2021 9:41:28 PM]
+  superhands equipped Handgun
+[6/23/2021 9:42:06 PM]
+  superhands picked up Laser Rifle (Flashlight)
+[6/23/2021 9:42:07 PM]
+  superhands equipped Laser Rifle (Flashlight)
+[6/23/2021 9:42:54 PM]
+  superhands equipped Nuclear Depth Charge
+[6/23/2021 9:42:54 PM]
+  superhands picked up Nuclear Depth Charge
+[6/23/2021 9:43:05 PM]
+  superhands placed Nuclear Depth Charge in Depth Charge Loader (ID: 1453)
+[6/23/2021 9:43:15 PM]
+  Client "The Supreme Gentleman" ended the round.
+[6/23/2021 9:43:15 PM]
+  Ending the round...
+[6/23/2021 9:43:15 PM]
+  Round ended.
+[6/23/2021 9:44:11 PM]
+  Client "The Supreme Gentleman" started the round.
+[6/23/2021 9:44:11 PM]
+  Starting a new round...
+[6/23/2021 9:44:25 PM]
+  Game mode: Sandbox
+[6/23/2021 9:44:25 PM]
+  Submarine: ECS. Hammerhead v1 re-1
+[6/23/2021 9:44:25 PM]
+  Level seed: 7XISQPcS
+[6/23/2021 9:44:25 PM]
+  Round started.
+[6/23/2021 9:44:28 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/23/2021 9:44:28 PM]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[6/23/2021 9:45:21 PM]
+  Console command "enablecheats" executed by The Supreme Gentleman.
+[6/23/2021 9:45:30 PM]
+  Console command "spawnitem Screwdriver inventory" executed by The Supreme Gentleman.
+[6/23/2021 9:45:31 PM]
+  The Supreme Gentleman equipped Screwdriver
+[6/23/2021 9:45:39 PM]
+  Console command "spawnitem screw superhands" executed by The Supreme Gentleman.
+[6/23/2021 9:46:07 PM]
+  Saving client permissions
+[6/23/2021 9:46:07 PM]
+  Console command "giverank "superhands" Admin" executed by The Supreme Gentleman.
+[6/23/2021 9:46:21 PM]
+  Console command "spawnitem redwire inventory" executed by superhands.
+[6/23/2021 9:46:31 PM]
+  Console command "spawnitem Screwdriver inventory" executed by superhands.
+[6/23/2021 9:46:37 PM]
+  superhands equipped Red Wire
+[6/23/2021 9:46:37 PM]
+  superhands equipped Screwdriver
+[6/23/2021 9:46:46 PM]
+  superhands: can you hear me talk
+[6/23/2021 9:47:04 PM]
+  superhands connected a wire to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:47:15 PM]
+  superhands connected a wire from Docking Hatch (set_state) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:47:26 PM]
+  The Supreme Gentleman dropped Veteran's Jacket
+[6/23/2021 9:47:27 PM]
+  The Supreme Gentleman picked up Veteran's Jacket
+[6/23/2021 9:47:29 PM]
+  superhands disconnected a wire from Docking Hatch (set_state) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:47:29 PM]
+  superhands connected a wire from Docking Hatch (toggle) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:47:49 PM]
+  Console command "spawnitem redwire inventory" executed by superhands.
+[6/23/2021 9:47:52 PM]
+  superhands equipped Oxygen Tank
+[6/23/2021 9:47:53 PM]
+  superhands equipped Red Wire
+[6/23/2021 9:47:57 PM]
+  superhands connected a wire to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:01 PM]
+  superhands connected a wire from Custom Hatch (set_state) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:07 PM]
+  superhands disconnected a wire from Custom Hatch (set_state) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:11 PM]
+  superhands disconnected a wire from Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:12 PM]
+  superhands dropped Wire
+[6/23/2021 9:48:14 PM]
+  superhands unequipped Red Wire
+[6/23/2021 9:48:16 PM]
+  superhands equipped Red Wire
+[6/23/2021 9:48:22 PM]
+  Console command "revive" executed by superhands.
+[6/23/2021 9:48:26 PM]
+  superhands connected a wire to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:29 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/23/2021 9:48:29 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/23/2021 9:48:30 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/23/2021 9:48:31 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/23/2021 9:48:31 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/23/2021 9:48:33 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/23/2021 9:48:33 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/23/2021 9:48:35 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/23/2021 9:48:35 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/23/2021 9:48:35 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/23/2021 9:48:36 PM]
+  superhands connected a wire from Docking Hatch (toggle) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/23/2021 9:48:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/23/2021 9:48:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/23/2021 9:48:42 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 4984, Fission rate: 67, Turbine output: 57, Autotemp OFF
+[6/23/2021 9:48:43 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 4978, Fission rate: 68, Turbine output: 59, Autotemp ON
+[6/23/2021 9:48:43 PM]
+  superhands disconnected a wire from Docking Hatch (toggle) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:43 PM]
+  superhands connected a wire from Docking Hatch (set_state) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:44 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 4989, Fission rate: 68, Turbine output: 59, Autotemp OFF
+[6/23/2021 9:48:45 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 4993, Fission rate: 67, Turbine output: 76, Autotemp OFF
+[6/23/2021 9:48:46 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 3993, Fission rate: 67, Turbine output: 93, Autotemp OFF
+[6/23/2021 9:48:47 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 2977, Fission rate: 67, Turbine output: 93, Autotemp OFF
+[6/23/2021 9:48:55 PM]
+  superhands disconnected a wire from Docking Hatch (set_state) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:48:55 PM]
+  superhands connected a wire from Docking Hatch (toggle) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:49:13 PM]
+  Console command "spawnitem Wire" executed by The Supreme Gentleman.
+[6/23/2021 9:49:15 PM]
+  Console command "spawnitem Wire inventory" executed by The Supreme Gentleman.
+[6/23/2021 9:49:17 PM]
+  superhands placed 9mm Magazine (High-Capacity) in Handgun (ID: 4886)
+[6/23/2021 9:49:20 PM]
+  superhands equipped Handgun
+[6/23/2021 9:49:21 PM]
+  superhands equipped 9mm Magazine (High-Capacity)
+[6/23/2021 9:49:27 PM]
+  The Supreme Gentleman equipped Wire
+[6/23/2021 9:49:37 PM]
+  The Supreme Gentleman connected a wire to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:49:42 PM]
+  The Supreme Gentleman connected a wire from Custom Hatch (toggle) to Shuttle Navigation Terminal (toggle_docking)
+[6/23/2021 9:50:12 PM]
+  superhands equipped Nuclear Depth Charge
+[6/23/2021 9:50:12 PM]
+  superhands picked up Nuclear Depth Charge
+[6/23/2021 9:50:25 PM]
+  superhands placed Nuclear Depth Charge in Depth Charge Loader (ID: 1453)
+[6/23/2021 9:50:25 PM]
+  superhands removed Depth Charge Shell from Depth Charge Loader (ID: 1453)
+[6/23/2021 9:50:25 PM]
+  superhands equipped Depth Charge Shell
+[6/23/2021 9:50:25 PM]
+  superhands picked up Depth Charge Shell
+[6/23/2021 9:50:32 PM]
+  superhands dropped Depth Charge Shell
+[6/23/2021 9:50:34 PM]
+  superhands picked up Nuclear Depth Charge
+[6/23/2021 9:50:36 PM]
+  superhands placed Nuclear Depth Charge in Depth Charge Loader (ID: 1449)
+[6/23/2021 9:50:36 PM]
+  superhands removed Depth Decoy Shell from Depth Charge Loader (ID: 1449)
+[6/23/2021 9:50:36 PM]
+  superhands equipped Depth Decoy Shell
+[6/23/2021 9:50:36 PM]
+  superhands picked up Depth Decoy Shell
+[6/23/2021 9:50:38 PM]
+  superhands dropped Depth Decoy Shell
+[6/23/2021 9:50:59 PM]
+  The Supreme Gentleman picked up Welding Tool
+[6/23/2021 9:51:00 PM]
+  The Supreme Gentleman equipped Welding Tool
+[6/23/2021 9:51:08 PM]
+  The Supreme Gentleman has died (Cause of death: Barotrauma)
+[6/23/2021 9:51:08 PM]
+  superhands has died (Cause of death: Barotrauma)
+[6/23/2021 9:51:16 PM]
+  Client "The Supreme Gentleman" ended the round.
+[6/23/2021 9:51:16 PM]
+  Ending the round...
+[6/23/2021 9:51:16 PM]
+  Round ended.

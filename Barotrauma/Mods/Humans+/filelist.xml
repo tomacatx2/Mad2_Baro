@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Humans+" path="Mods/Humans+/filelist.xml" corepackage="false" gameversion="0.9.9.1" steamworkshopurl="http://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&amp;id=2093686205" installtime="1590019458">
+  <Character file="Mods/Humans+/Characters/Human/Human.xml" />
+  <None file="Mods/Humans+/Characters/Human/Ragdolls/HumanDefaultRagdoll.xml" />
+  <None file="Mods/Humans+/Characters/Human/Animations/HumanRun.xml" />
+  <None file="Mods/Humans+/Characters/Human/Animations/HumanSwimFast.xml" />
+  <None file="Mods/Humans+/Characters/Human/Animations/HumanSwimSlow.xml" />
+  <None file="Mods/Humans+/Characters/Human/Animations/HumanWalk.xml" />
+  <Afflictions file="Mods/Humans+/Afflictions.xml" />
+  <None file="Mods/Humans+/HungerIcon.png" />
+  <None file="Mods/Humans+/ThirstIcon.png" />
+  <Item file="Mods/Humans+/Items/Items.xml" />
+  <None file="Mods/Humans+/Items/refrigerator.png" />
+  <None file="Mods/Humans+/Items/pantry.png" />
+  <None file="Mods/Humans+/Items/cupboardl.png" />
+  <None file="Mods/Humans+/Items/cupboardr.png" />
+  <None file="Mods/Humans+/Items/kitchen.png" />
+  <None file="Mods/Humans+/Items/foods.png" />
+  <Submarine file="Mods/Humans+/Submarines/Azimuth [Humans+].sub" />
+  <Submarine file="Mods/Humans+/Submarines/Berilia [Humans+].sub" />
+  <Submarine file="Mods/Humans+/Submarines/Dugong [Humans+].sub" />
+  <Submarine file="Mods/Humans+/Submarines/Humpback [Humans+].sub" />
+  <Submarine file="Mods/Humans+/Submarines/Kastrull [Humans+].sub" />
+  <Submarine file="Mods/Humans+/Submarines/Orca [Humans+].sub" />
+  <Submarine file="Mods/Humans+/Submarines/Remora [Humans+].sub" />
+  <Submarine file="Mods/Humans+/Submarines/Typhon [Humans+].sub" />
+  <Submarine file="Mods/Humans+/Submarines/Typhon2 [Humans+].sub" />
+</contentpackage>

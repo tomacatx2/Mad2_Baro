@@ -1,0 +1,22 @@
+﻿[3/6/2021 8:36:45 PM]
+  Starting the server...
+[3/6/2021 8:36:45 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[3/6/2021 8:36:48 PM]
+  Server started
+[3/6/2021 8:37:12 PM]
+  tomacatx1 has joined the server.
+[3/6/2021 8:37:12 PM]
+  Saving client permissions
+[3/6/2021 8:39:30 PM]
+  tomacatx1 changed PlayStyle to Casual
+[3/6/2021 8:39:30 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[3/6/2021 8:39:30 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[3/6/2021 8:42:49 PM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[3/6/2021 8:42:54 PM]
+  Saving banlist
+[3/6/2021 8:42:54 PM]
+  Shutting down the server...

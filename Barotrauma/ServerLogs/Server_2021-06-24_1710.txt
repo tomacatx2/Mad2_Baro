@@ -1,0 +1,196 @@
+﻿[6/24/2021 5:07:24 PM]
+  Starting the server...
+[6/24/2021 5:07:24 PM]
+  Using SteamP2P networking.
+[6/24/2021 5:07:24 PM]
+  Server started
+[6/24/2021 5:07:24 PM]
+  The Supreme Gentleman has joined the server.
+[6/24/2021 5:07:24 PM]
+  Saving client permissions
+[6/24/2021 5:07:24 PM]
+  Saving client permissions
+[6/24/2021 5:07:30 PM]
+  Client "The Supreme Gentleman" started the round.
+[6/24/2021 5:07:30 PM]
+  Starting a new round...
+[6/24/2021 5:07:37 PM]
+  Pirate Greaser equipped Wrench
+[6/24/2021 5:07:37 PM]
+  Pirate Greaser unequipped Wrench
+[6/24/2021 5:07:37 PM]
+  Pirate Greaser equipped Screwdriver
+[6/24/2021 5:07:37 PM]
+  Pirate Fuelboy equipped Wrench
+[6/24/2021 5:07:37 PM]
+  Pirate Fuelboy unequipped Wrench
+[6/24/2021 5:07:37 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 5:07:37 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/24/2021 5:07:37 PM]
+  Pirate Fuelboy equipped Crowbar
+[6/24/2021 5:07:38 PM]
+  Mission: Pirate Vessel
+[6/24/2021 5:07:38 PM]
+  Seek out the pirate vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[6/24/2021 5:07:38 PM]
+  Game mode: Mission
+[6/24/2021 5:07:38 PM]
+  Submarine: ECS. Hammerhead var A v1 re-5
+[6/24/2021 5:07:38 PM]
+  Level seed: D9uXh6WC
+[6/24/2021 5:07:38 PM]
+  Mission: Pirate Vessel
+[6/24/2021 5:07:38 PM]
+  Round started.
+[6/24/2021 5:07:39 PM]
+  Pirate Fuelboy unequipped Crowbar
+[6/24/2021 5:07:39 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/24/2021 5:07:43 PM]
+  Pirate Captain: Do you ever get the feeling the whole moon is against us?
+[6/24/2021 5:07:44 PM]
+  Pirate Captain: Pirate Fuelboy, operate the reactor!
+[6/24/2021 5:07:48 PM]
+  Pirate Recruit: We don't belong here—that's for sure.
+[6/24/2021 5:07:51 PM]
+  The Supreme Gentleman set the value "Channel" of the item "Headset" to "0".
+[6/24/2021 5:07:52 PM]
+  Pirate Captain: Pirate Fuelboy, you are dismissed!
+[6/24/2021 5:07:52 PM]
+  The Supreme Gentleman: I'll set the course onwards!
+[6/24/2021 5:08:03 PM]
+  Console command "enablecheats" executed by The Supreme Gentleman.
+[6/24/2021 5:08:10 PM]
+  Console command "spawn Mechanic cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:08:11 PM]
+  Console command "spawn Mechanic cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:08:15 PM]
+  Console command "spawn Engineer cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:08:15 PM]
+  Console command "spawn Engineer cursor" executed by The Supreme Gentleman.
+[6/24/2021 5:08:20 PM]
+  The Supreme Gentleman: Claude Roman, power up the reactor!
+[6/24/2021 5:08:21 PM]
+  Claude Roman: Aye!
+[6/24/2021 5:08:22 PM]
+  The Supreme Gentleman: Jc Hedrick, take care of electrical devices!
+[6/24/2021 5:08:23 PM]
+  Jc Hedrick: Sure thing!
+[6/24/2021 5:08:24 PM]
+  The Supreme Gentleman: Roderick Gregory, take care of mechanical devices!
+[6/24/2021 5:08:25 PM]
+  Roderick Gregory: Copy that.
+[6/24/2021 5:08:26 PM]
+  The Supreme Gentleman: Hector Rangel, take care of any leaks!
+[6/24/2021 5:08:27 PM]
+  Hector Rangel: Got it!
+[6/24/2021 5:08:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 5:08:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:08:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:08:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 5:08:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 5:08:45 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:08:47 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 5:08:47 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 5:08:47 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:08:48 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:08:50 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 5:08:50 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:08:50 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:08:52 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:08:54 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 5:08:55 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:08:55 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:08:56 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:08:59 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 20 %
+[6/24/2021 5:08:59 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:08:59 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:09:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:09:07 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 5:09:07 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:09:07 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:09:12 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 5:09:12 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:09:18 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 5:09:18 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:09:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 10 %
+[6/24/2021 5:09:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 5:09:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 5:09:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 5:09:28 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:09:40 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 10 %
+[6/24/2021 5:09:41 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:09:41 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 5:09:41 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:09:57 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 5:09:57 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:10:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:10:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 5:10:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 5:10:00 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:10:02 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 5:10:02 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 5:10:02 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:10:04 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 5:10:11 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 5000, Fission rate: 69, Turbine output: 60, Autotemp OFF
+[6/24/2021 5:10:12 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 5063, Fission rate: 69, Turbine output: 59, Autotemp OFF
+[6/24/2021 5:10:13 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 4230, Fission rate: 69, Turbine output: 98, Autotemp OFF
+[6/24/2021 5:10:14 PM]
+  The Supreme Gentleman adjusted reactor settings: Temperature: 3230, Fission rate: 71, Turbine output: 96, Autotemp ON
+[6/24/2021 5:10:51 PM]
+  Client "The Supreme Gentleman" ended the round.
+[6/24/2021 5:10:51 PM]
+  Ending the round...

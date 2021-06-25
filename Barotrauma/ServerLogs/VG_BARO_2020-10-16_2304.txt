@@ -1,0 +1,1600 @@
+﻿[10/16/2020 10:41:15 PM]
+  DOOOOOOOC!!! picked up Welding Tool
+[10/16/2020 10:41:20 PM]
+  tomacatx1 picked up Green Paint
+[10/16/2020 10:41:22 PM]
+  tomacatx1 placed Green Paint in Deconstructor (ID: 3089)
+[10/16/2020 10:41:23 PM]
+  tomacatx1 activated Deconstructor
+[10/16/2020 10:41:56 PM]
+  tomacatx1 picked up Steel Bar
+[10/16/2020 10:41:56 PM]
+  tomacatx1 picked up Steel Bar
+[10/16/2020 10:41:58 PM]
+  tomacatx1 placed Steel Bar in Deconstructor (ID: 3089)
+[10/16/2020 10:41:58 PM]
+  tomacatx1 placed Steel Bar in Deconstructor (ID: 3089)
+[10/16/2020 10:41:59 PM]
+  tomacatx1 activated Deconstructor
+[10/16/2020 10:42:00 PM]
+  tomacatx1 picked up Copper
+[10/16/2020 10:42:00 PM]
+  tomacatx1 picked up Rubber
+[10/16/2020 10:42:02 PM]
+  tomacatx1 placed Rubber in Large Steel Cabinet (ID: 3082)
+[10/16/2020 10:42:03 PM]
+  tomacatx1 placed Copper in Large Steel Cabinet (ID: 3082)
+[10/16/2020 10:42:11 PM]
+  tomacatx1 picked up Iron
+[10/16/2020 10:42:12 PM]
+  tomacatx1 picked up Iron
+[10/16/2020 10:42:15 PM]
+  tomacatx1 placed Iron in Fabricator (ID: 3104)
+[10/16/2020 10:42:15 PM]
+  tomacatx1 placed Iron in Fabricator (ID: 3104)
+[10/16/2020 10:42:19 PM]
+  tomacatx1 started fabricating Screwdriver in Fabricator
+[10/16/2020 10:42:27 PM]
+  Guy Fieri picked up Riot Helmet
+[10/16/2020 10:42:29 PM]
+  Guy Fieri picked up Diving Knife
+[10/16/2020 10:42:29 PM]
+  tomacatx1 picked up Screwdriver
+[10/16/2020 10:42:29 PM]
+  tomacatx1 started fabricating Wrench in Fabricator
+[10/16/2020 10:42:31 PM]
+  Guy Fieri picked up Handcuffs
+[10/16/2020 10:42:34 PM]
+  Guy Fieri picked up Stun Gun
+[10/16/2020 10:42:37 PM]
+  tomacatx1 picked up Wrench
+[10/16/2020 10:42:48 PM]
+  DOOOOOOOC!!! attacked by Guy Fieri. Lacerations: 0.5 Stun: 10
+[10/16/2020 10:42:48 PM]
+  DOOOOOOOC!!! attacked by Guy Fieri. Blunt force trauma: 2
+[10/16/2020 10:42:48 PM]
+  Guy Fieri used Wrench on DOOOOOOOC!!!.
+[10/16/2020 10:42:55 PM]
+  tomacatx1 placed Morphine in Toolbox (ID: 4357)
+[10/16/2020 10:43:35 PM]
+  Sailol has joined the server.
+[10/16/2020 10:43:35 PM]
+  Saving client permissions
+[10/16/2020 10:43:41 PM]
+  Aero picked up Screwdriver
+[10/16/2020 10:43:41 PM]
+  Guy Fieri placed Wrench in Medium Steel Cabinet (ID: 593)
+[10/16/2020 10:43:41 PM]
+  Guy Fieri removed Stun Baton from Medium Steel Cabinet (ID: 593)
+[10/16/2020 10:43:41 PM]
+  Guy Fieri picked up Stun Baton
+[10/16/2020 10:43:42 PM]
+  Client "tomacatx1" ended the round.
+[10/16/2020 10:43:42 PM]
+  Ending the round...
+[10/16/2020 10:43:42 PM]
+  Round ended.
+[10/16/2020 10:43:46 PM]
+  Sailol is ready to start the game.
+[10/16/2020 10:43:55 PM]
+  Aero is ready to start the game.
+[10/16/2020 10:44:04 PM]
+  Guy Fieri is ready to start the game.
+[10/16/2020 10:44:05 PM]
+  DOOOOOOOC!!! is ready to start the game.
+[10/16/2020 10:44:52 PM]
+  Sailol is not ready to start the game.
+[10/16/2020 10:44:52 PM]
+  Player Sailol has changed their name to Bronte Polson.
+[10/16/2020 10:45:00 PM]
+  DOOOOOOOC!!! is not ready to start the game.
+[10/16/2020 10:45:00 PM]
+  Player DOOOOOOOC!!! has changed their name to TF2 Medic.
+[10/16/2020 10:45:15 PM]
+  Player tomacatx1 has changed their name to Kapitan Kolesnikov.
+[10/16/2020 10:45:23 PM]
+  Aero is not ready to start the game.
+[10/16/2020 10:45:23 PM]
+  Player Aero has changed their name to Donte VIII.
+[10/16/2020 10:45:29 PM]
+  Bronte Polson is ready to start the game.
+[10/16/2020 10:45:33 PM]
+  Kapitan Kolesnikov is ready to start the game.
+[10/16/2020 10:45:34 PM]
+  Donte VIII is ready to start the game.
+[10/16/2020 10:45:42 PM]
+  Player TF2 Medic has changed their name to Doctor.
+[10/16/2020 10:45:44 PM]
+  Doctor is ready to start the game.
+[10/16/2020 10:45:47 PM]
+  Client "Kapitan Kolesnikov" started the round.
+[10/16/2020 10:45:47 PM]
+  Starting a new round...
+[10/16/2020 10:45:49 PM]
+  Mission: Terminate a Swarm
+[10/16/2020 10:45:49 PM]
+  A small swarm of Crawler has been terrorizing vessels traveling between Tormsdale Linea and Dyfed Facility. A reward of 2,600 marks has been promised to any crew that can neutralize it.
+[10/16/2020 10:45:49 PM]
+  Game mode: Mission
+[10/16/2020 10:45:49 PM]
+  Submarine: Humpback
+[10/16/2020 10:45:49 PM]
+  Level seed: KTv6mmEY
+[10/16/2020 10:45:49 PM]
+  Mission: Terminate a Swarm
+[10/16/2020 10:45:49 PM]
+  Round started.
+[10/16/2020 10:46:02 PM]
+  Donte VIII picked up Wrench
+[10/16/2020 10:46:04 PM]
+  Donte VIII picked up Welding Tool
+[10/16/2020 10:46:11 PM]
+  Doctor placed Saline in Medicine Cabinet (ID: 1247)
+[10/16/2020 10:46:13 PM]
+  Doctor placed Blood Pack in Doctor's Uniform (ID: 3713)
+[10/16/2020 10:46:19 PM]
+  Doctor picked up Plastiseal
+[10/16/2020 10:46:20 PM]
+  Doctor placed Naloxone in Medicine Cabinet (ID: 1247)
+[10/16/2020 10:46:23 PM]
+  Doctor placed Plastiseal in Doctor's Uniform (ID: 3713)
+[10/16/2020 10:46:24 PM]
+  Kapitan Kolesnikov picked up Screwdriver
+[10/16/2020 10:46:24 PM]
+  Doctor picked up Bandage
+[10/16/2020 10:46:28 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/16/2020 10:46:29 PM]
+  Donte VIII picked up Diving Mask
+[10/16/2020 10:46:30 PM]
+  Kapitan Kolesnikov picked up Steel Bar
+[10/16/2020 10:46:31 PM]
+  Kapitan Kolesnikov placed Steel Bar in Large Steel Cabinet (ID: 1316)
+[10/16/2020 10:46:34 PM]
+  Kapitan Kolesnikov picked up Welding Tool
+[10/16/2020 10:46:35 PM]
+  Kapitan Kolesnikov picked up Bandage
+[10/16/2020 10:46:36 PM]
+  Kapitan Kolesnikov picked up Blood Pack
+[10/16/2020 10:46:37 PM]
+  Kapitan Kolesnikov picked up Diving Mask
+[10/16/2020 10:46:38 PM]
+  Guy Fieri placed Crowbar in Supplies Cabinet (ID: 3395)
+[10/16/2020 10:46:38 PM]
+  Guy Fieri removed Diving Mask from Supplies Cabinet (ID: 3395)
+[10/16/2020 10:46:38 PM]
+  Guy Fieri picked up Diving Mask
+[10/16/2020 10:46:39 PM]
+  Doctor picked up Antibiotic Glue
+[10/16/2020 10:46:39 PM]
+  Guy Fieri picked up Flashlight
+[10/16/2020 10:46:41 PM]
+  Guy Fieri picked up Welding Tool
+[10/16/2020 10:46:42 PM]
+  Doctor placed Bandage in Medicine Cabinet (ID: 1247)
+[10/16/2020 10:46:42 PM]
+  Guy Fieri picked up Crowbar
+[10/16/2020 10:46:43 PM]
+  Guy Fieri picked up Bandage
+[10/16/2020 10:46:43 PM]
+  Doctor placed Bandage in Medicine Cabinet (ID: 1247)
+[10/16/2020 10:46:47 PM]
+  Doctor placed Syringe Gun in Medicine Cabinet (ID: 1247)
+[10/16/2020 10:46:57 PM]
+  Donte VIII adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/16/2020 10:47:04 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 10:47:05 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 10:47:09 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 10:47:13 PM]
+  Bronte Polson picked up Fuel Rod
+[10/16/2020 10:47:14 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 10:47:15 PM]
+  Bronte Polson picked up Fuel Rod
+[10/16/2020 10:47:36 PM]
+  Doctor picked up Morphine
+[10/16/2020 10:47:47 PM]
+  Bronte Polson entered "on" on Terminal
+[10/16/2020 10:47:50 PM]
+  Bronte Polson entered "" on Terminal
+[10/16/2020 10:47:52 PM]
+  Guy Fieri picked up Wrench
+[10/16/2020 10:47:53 PM]
+  Bronte Polson entered "off" on Terminal
+[10/16/2020 10:48:03 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 10:48:05 PM]
+  Doctor picked up Diving Mask
+[10/16/2020 10:48:07 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 10:48:10 PM]
+  Doctor picked up Flashlight
+[10/16/2020 10:48:14 PM]
+  Doctor picked up Welding Tool
+[10/16/2020 10:48:44 PM]
+  Bronte Polson attacked by Guy Fieri. Blunt force trauma: 1
+[10/16/2020 10:48:44 PM]
+  Guy Fieri used Toolbox (Screwdriver, Welding Tool, Plastic, Steel Bar, Aluminum) on Bronte Polson.
+[10/16/2020 10:48:57 PM]
+  Kapitan Kolesnikov picked up UEX
+[10/16/2020 10:48:58 PM]
+  Kapitan Kolesnikov picked up UEX
+[10/16/2020 10:48:59 PM]
+  Kapitan Kolesnikov picked up Frag Grenade
+[10/16/2020 10:49:02 PM]
+  Kapitan Kolesnikov dropped Blood Pack
+[10/16/2020 10:49:05 PM]
+  Kapitan Kolesnikov picked up Blood Pack
+[10/16/2020 10:49:06 PM]
+  Kapitan Kolesnikov placed UEX in Railgun Shell (ID: 524)
+[10/16/2020 10:49:06 PM]
+  Bronte Polson picked up Guitar
+[10/16/2020 10:49:07 PM]
+  Kapitan Kolesnikov placed UEX in Railgun Shell (ID: 529)
+[10/16/2020 10:49:08 PM]
+  Kapitan Kolesnikov placed Frag Grenade in Railgun Shell (ID: 528)
+[10/16/2020 10:49:10 PM]
+  Bronte Polson attacked by Guy Fieri. Blunt force trauma: 1
+[10/16/2020 10:49:10 PM]
+  Guy Fieri used Toolbox (Screwdriver, Welding Tool, Plastic, Steel Bar, Aluminum) on Bronte Polson.
+[10/16/2020 10:49:13 PM]
+  Kapitan Kolesnikov picked up Frag Grenade
+[10/16/2020 10:49:15 PM]
+  Kapitan Kolesnikov picked up Frag Grenade
+[10/16/2020 10:49:18 PM]
+  Kapitan Kolesnikov placed Frag Grenade in Railgun Shell (ID: 527)
+[10/16/2020 10:49:18 PM]
+  Kapitan Kolesnikov placed Frag Grenade in Railgun Shell (ID: 526)
+[10/16/2020 10:49:20 PM]
+  Bronte Polson attacked by Guy Fieri. Blunt force trauma: 1
+[10/16/2020 10:49:20 PM]
+  Guy Fieri used Toolbox (Screwdriver, Welding Tool, Plastic, Steel Bar, Aluminum) on Bronte Polson.
+[10/16/2020 10:49:28 PM]
+  Bronte Polson attacked by Guy Fieri. Blunt force trauma: 1
+[10/16/2020 10:49:28 PM]
+  Guy Fieri used Toolbox (Screwdriver, Welding Tool, Plastic, Steel Bar, Aluminum) on Bronte Polson.
+[10/16/2020 10:49:34 PM]
+  Donte VIII attacked by Guy Fieri. Blunt force trauma: 1
+[10/16/2020 10:49:34 PM]
+  Guy Fieri used Toolbox (Screwdriver, Welding Tool, Plastic, Steel Bar, Aluminum) on Donte VIII.
+[10/16/2020 10:49:36 PM]
+  Doctor attacked by Guy Fieri. Blunt force trauma: 1
+[10/16/2020 10:49:36 PM]
+  Guy Fieri used Toolbox (Screwdriver, Welding Tool, Plastic, Steel Bar, Aluminum) on Doctor.
+[10/16/2020 10:49:51 PM]
+  Guy Fieri placed Crowbar in Toolbox (ID: 3698)
+[10/16/2020 10:49:58 PM]
+  Doctor placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 10:49:59 PM]
+  Doctor started fabricating Toolbox in Fabricator
+[10/16/2020 10:49:59 PM]
+  Guy Fieri picked up Crowbar
+[10/16/2020 10:51:01 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:51:04 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:06 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:07 PM]
+  Kapitan Kolesnikov opened Custom Door
+[10/16/2020 10:51:08 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:08 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:08 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:51:08 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:10 PM]
+  Kapitan Kolesnikov closed Custom Door
+[10/16/2020 10:51:14 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:15 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:15 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:15 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:15 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:17 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:18 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:20 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:20 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:21 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:21 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:21 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:22 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:22 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:51:22 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:22 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:22 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:22 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:23 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:23 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:23 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:24 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:24 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:24 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:25 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:25 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:26 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/16/2020 10:51:26 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:26 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:26 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:26 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 10:51:26 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:28 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:29 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:29 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:29 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:29 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:29 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:29 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:30 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/16/2020 10:51:30 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:30 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:30 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:34 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:51:41 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:42 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:42 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:42 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:43 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:43 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:43 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:43 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:43 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:43 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:44 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/16/2020 10:51:44 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:44 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:51:44 PM]
+  Crawler attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:51:47 PM]
+  Outer wall repaired by Donte VIII
+[10/16/2020 10:51:54 PM]
+  Kapitan Kolesnikov opened Custom Door
+[10/16/2020 10:51:57 PM]
+  Outer wall repaired by Donte VIII
+[10/16/2020 10:52:01 PM]
+  Kapitan Kolesnikov closed Custom Door
+[10/16/2020 10:52:05 PM]
+  Guy Fieri placed Iron in Fabricator (ID: 1320)
+[10/16/2020 10:52:05 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:52:13 PM]
+  Bronte Polson dropped Guitar
+[10/16/2020 10:52:17 PM]
+  Doctor launched Railgun (projectile: Railgun Shell, contained items: UEX)
+[10/16/2020 10:52:17 PM]
+  Bonethresher attacked by Doctor. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/16/2020 10:52:17 PM]
+  Bonethresher has died (Cause of death: Lacerations)
+[10/16/2020 10:52:17 PM]
+  Bonethresher attacked by Doctor. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/16/2020 10:52:20 PM]
+  Guy Fieri placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 10:52:23 PM]
+  Guy Fieri placed Iron in Fabricator (ID: 1320)
+[10/16/2020 10:52:25 PM]
+  Guy Fieri picked up Toolbox
+[10/16/2020 10:52:27 PM]
+  Guy Fieri started fabricating Diving Knife in Fabricator
+[10/16/2020 10:52:29 PM]
+  Guy Fieri started fabricating Diving Knife in Fabricator
+[10/16/2020 10:52:46 PM]
+  Guy Fieri placed Wrench in Toolbox (ID: 3749)
+[10/16/2020 10:52:52 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 10:52:52 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 10:52:52 PM]
+  Outer wall repaired by Donte VIII
+[10/16/2020 10:52:53 PM]
+  Guy Fieri picked up Diving Suit
+[10/16/2020 10:53:01 PM]
+  Inner wall repaired by Donte VIII
+[10/16/2020 10:53:04 PM]
+  Bronte Polson picked up Diving Mask
+[10/16/2020 10:53:06 PM]
+  Bronte Polson picked up Welding Tool
+[10/16/2020 10:53:12 PM]
+  Donte VIII picked up Diving Suit
+[10/16/2020 10:53:14 PM]
+  Kapitan Kolesnikov opened Custom Door
+[10/16/2020 10:53:20 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:53:22 PM]
+  Kapitan Kolesnikov closed Custom Door
+[10/16/2020 10:53:24 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:53:26 PM]
+  Outer wall repaired by Bronte Polson
+[10/16/2020 10:53:27 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:53:27 PM]
+  Kapitan Kolesnikov opened Custom Door
+[10/16/2020 10:53:30 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:53:31 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:53:31 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:53:32 PM]
+  Kapitan Kolesnikov closed Custom Door
+[10/16/2020 10:53:33 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 10:53:37 PM]
+  Bronte Polson opened Custom Door
+[10/16/2020 10:53:37 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:53:42 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:53:43 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:44 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:44 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:44 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 10:53:44 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:44 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:44 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:45 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:45 PM]
+  Guy Fieri picked up Diving Knife
+[10/16/2020 10:53:45 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:45 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:45 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:46 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:46 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:46 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:46 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:47 PM]
+  Guy Fieri dropped Toolbox
+[10/16/2020 10:53:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:47 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:47 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:47 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:48 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:48 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:48 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:48 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:49 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:49 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:49 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:50 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:50 PM]
+  Inner wall breached by Crawler
+[10/16/2020 10:53:50 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:50 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:50 PM]
+  Guy Fieri started fabricating Diving Knife in Fabricator
+[10/16/2020 10:53:50 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:51 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:51 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:51 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:51 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:51 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:51 PM]
+  Outer wall repaired by Bronte Polson
+[10/16/2020 10:53:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:52 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/16/2020 10:53:52 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:53:53 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:53:53 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:02 PM]
+  Crawler attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 10:54:03 PM]
+  Crawler attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 10:54:04 PM]
+  Bronte Polson closed Custom Door
+[10/16/2020 10:54:06 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 10:54:07 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:54:09 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/16/2020 10:54:10 PM]
+  Bronte Polson: es seeeeeeeeeeeeeeeeeeeeeff
+[10/16/2020 10:54:12 PM]
+  Bronte Polson opened Custom Door
+[10/16/2020 10:54:13 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[10/16/2020 10:54:17 PM]
+  Crawler has died (Cause of death: Bite wounds)
+[10/16/2020 10:54:18 PM]
+  Crawler has died (Cause of death: Gunshot wound)
+[10/16/2020 10:54:19 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/16/2020 10:54:23 PM]
+  Outer wall repaired by Donte VIII
+[10/16/2020 10:54:37 PM]
+  Guy Fieri placed Welding Tool in Toolbox (ID: 3698)
+[10/16/2020 10:54:37 PM]
+  Guy Fieri removed Screwdriver from Toolbox (ID: 3698)
+[10/16/2020 10:54:37 PM]
+  Guy Fieri picked up Screwdriver
+[10/16/2020 10:54:43 PM]
+  Donte VIII dropped Diving Mask
+[10/16/2020 10:54:48 PM]
+  Donte VIII placed Diving Suit in Diving Suit Locker (ID: 2791)
+[10/16/2020 10:54:48 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:54:49 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 10:54:51 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:51 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:52 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:52 PM]
+  Doctor placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 10:54:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:52 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:52 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:54 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:54 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:54 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:55 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:55 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:55 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:55 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:55 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:55 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:56 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:56 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:56 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:56 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:56 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:56 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:57 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:57 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:57 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:57 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:57 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:58 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:58 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:54:58 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:58 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:58 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:54:58 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:58 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:59 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:59 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:54:59 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:00 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:00 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:00 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:00 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:00 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:00 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:01 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:01 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:01 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:01 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:02 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:02 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:02 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:55:02 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:02 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:03 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:55:03 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:03 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:03 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:03 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:03 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:03 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:04 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:04 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:04 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:55:04 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:04 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:04 PM]
+  Donte VIII picked up Screwdriver
+[10/16/2020 10:55:05 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:05 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:55:05 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:05 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:05 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:06 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:06 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:06 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:55:10 PM]
+  Crawler has died (Cause of death: Lacerations)
+[10/16/2020 10:55:12 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 10:55:12 PM]
+  Guy Fieri failed to repair Supercapacitor
+[10/16/2020 10:55:14 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 10:55:14 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:55:16 PM]
+  Doctor placed Oxygen Tank in Diving Mask (ID: 3408)
+[10/16/2020 10:55:21 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:55:22 PM]
+  Outer wall breached by Bronte Polson
+[10/16/2020 10:55:22 PM]
+  Guy Fieri failed to repair Supercapacitor
+[10/16/2020 10:55:23 PM]
+  Outer wall breached by Bronte Polson
+[10/16/2020 10:55:24 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:24 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:24 PM]
+  Outer wall breached by Kapitan Kolesnikov
+[10/16/2020 10:55:24 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:24 PM]
+  Tigerthresher has died (Cause of death: Lacerations)
+[10/16/2020 10:55:24 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:24 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:25 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:25 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:25 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:55:26 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:26 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:27 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:27 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:27 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:55:35 PM]
+  Bronte Polson placed Welding Tool in Toolbox (ID: 3726)
+[10/16/2020 10:55:36 PM]
+  Bronte Polson picked up Welding Tool
+[10/16/2020 10:55:37 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 10:55:37 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 10:55:41 PM]
+  Outer wall repaired by Bronte Polson
+[10/16/2020 10:55:46 PM]
+  Inner wall repaired by Bronte Polson
+[10/16/2020 10:55:54 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:56:09 PM]
+  Kapitan Kolesnikov picked up SMG
+[10/16/2020 10:56:10 PM]
+  Kapitan Kolesnikov picked up Riot Shotgun
+[10/16/2020 10:56:18 PM]
+  Bronte Polson picked up Diving Mask
+[10/16/2020 10:56:20 PM]
+  Kapitan Kolesnikov: Broken devices in engineering!
+[10/16/2020 10:56:21 PM]
+  Guy Fieri failed to repair Supercapacitor
+[10/16/2020 10:56:23 PM]
+  Kapitan Kolesnikov picked up Toolbox
+[10/16/2020 10:56:23 PM]
+  Bronte Polson picked up Oxygen Tank
+[10/16/2020 10:56:24 PM]
+  Kapitan Kolesnikov placed Blood Pack in Toolbox (ID: 3749)
+[10/16/2020 10:56:25 PM]
+  Kapitan Kolesnikov placed Bandage in Toolbox (ID: 3749)
+[10/16/2020 10:56:25 PM]
+  Bronte Polson picked up Oxygen Tank
+[10/16/2020 10:56:25 PM]
+  Bronte Polson dropped Oxygen Tank
+[10/16/2020 10:56:25 PM]
+  Bronte Polson placed Oxygen Tank in Diving Mask (ID: 3348)
+[10/16/2020 10:56:26 PM]
+  Kapitan Kolesnikov placed Welding Tool in Toolbox (ID: 3749)
+[10/16/2020 10:56:26 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:56:27 PM]
+  Kapitan Kolesnikov placed Screwdriver in Toolbox (ID: 3749)
+[10/16/2020 10:56:28 PM]
+  Kapitan Kolesnikov placed Captain's Pipe in Large Steel Cabinet (ID: 1316)
+[10/16/2020 10:56:30 PM]
+  Guy Fieri failed to repair Supercapacitor
+[10/16/2020 10:56:32 PM]
+  Kapitan Kolesnikov picked up Diving Suit
+[10/16/2020 10:56:34 PM]
+  Kapitan Kolesnikov picked up Underwater Scooter
+[10/16/2020 10:56:38 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:56:39 PM]
+  Kapitan Kolesnikov picked up Oxygen Tank
+[10/16/2020 10:56:40 PM]
+  Kapitan Kolesnikov closed Custom Door
+[10/16/2020 10:56:40 PM]
+  Kapitan Kolesnikov opened Custom Door
+[10/16/2020 10:56:40 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:56:42 PM]
+  Kapitan Kolesnikov opened Custom Hatch
+[10/16/2020 10:56:43 PM]
+  Donte VIII picked up Diving Suit
+[10/16/2020 10:56:46 PM]
+  Outer wall repaired by Bronte Polson
+[10/16/2020 10:56:46 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:46 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:46 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:46 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:46 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:46 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:46 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:46 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:48 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:48 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:48 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:48 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:48 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:48 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:48 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:48 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:49 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:49 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:49 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:49 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:49 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:50 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:56:51 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:51 PM]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[10/16/2020 10:56:51 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:51 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:51 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:51 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:51 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:51 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:51 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:56:51 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:56:52 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:52 PM]
+  Tigerthresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:52 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:52 PM]
+  Tigerthresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:52 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:52 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:52 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:52 PM]
+  Tigerthresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:53 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:53 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:53 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:53 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:53 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:54 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:54 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:54 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:56:54 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:54 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:56:54 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:55 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:55 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:55 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:55 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:56:55 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:55 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:56:56 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:56 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:56 PM]
+  Kapitan Kolesnikov picked up Welding Tool
+[10/16/2020 10:56:56 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:56 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:56 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:57 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:57 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:57 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:57 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:56:57 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:57 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:56:57 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:56:58 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:58 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:58 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:58 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:59 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:59 PM]
+  Crawler attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:59 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:59 PM]
+  Crawler attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:59 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:59 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:59 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:56:59 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:56:59 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:00 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:00 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:00 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:00 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:00 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:01 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:01 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:01 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:01 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:01 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:01 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:02 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:02 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:02 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:02 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:02 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:02 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:02 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:03 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:03 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:03 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:03 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:03 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:03 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:03 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:04 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:04 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:04 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:04 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:04 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:04 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:04 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 10:57:05 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 10:57:05 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 10:57:05 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 10:57:05 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:05 PM]
+  Bonethresher attacked by Kapitan Kolesnikov. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 10:57:06 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 10:57:06 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:06 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:06 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:06 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 10:57:06 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:06 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:06 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 10:57:06 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:06 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:06 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:06 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:07 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:07 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 10:57:07 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:07 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:07 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:07 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:08 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:08 PM]
+  Bonethresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 10:57:08 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:08 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:08 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:09 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:09 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:09 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:09 PM]
+  Bonethresher attacked by Doctor. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 10:57:10 PM]
+  Outer wall repaired by Bronte Polson
+[10/16/2020 10:57:11 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:11 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:12 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 10:57:14 PM]
+  Bronte Polson has died (Cause of death: Barotrauma)
+[10/16/2020 10:57:14 PM]
+  Doctor has died (Cause of death: Barotrauma)
+[10/16/2020 10:57:15 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 10:57:28 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:33 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:34 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 10:57:35 PM]
+  Kapitan Kolesnikov closed Custom Hatch
+[10/16/2020 10:57:37 PM]
+  Kapitan Kolesnikov opened Custom Door
+[10/16/2020 10:57:37 PM]
+  Kapitan Kolesnikov closed Custom Door
+[10/16/2020 10:57:38 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:40 PM]
+  Guy Fieri started repairing Navigation Terminal
+[10/16/2020 10:57:41 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:42 PM]
+  Doctor: FUCK
+[10/16/2020 10:57:48 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:49 PM]
+  Bonethresher has died (Cause of death: Lacerations)
+[10/16/2020 10:57:51 PM]
+  Outer wall repaired by Donte VIII
+[10/16/2020 10:57:57 PM]
+  Guy Fieri placed Oxygen Tank in Diving Mask (ID: 3401)
+[10/16/2020 10:57:57 PM]
+  Guy Fieri removed Oxygen Tank from Diving Mask (ID: 3401)
+[10/16/2020 10:57:57 PM]
+  Guy Fieri placed Oxygen Tank in Diving Suit (ID: 2813)
+[10/16/2020 10:58:05 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 10:58:06 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 10:58:07 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 10:58:08 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:08 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:08 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:08 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:09 PM]
+  Donte VIII attacked by Kapitan Kolesnikov. Gunshot wound: 12 Stun: 0.4
+[10/16/2020 10:58:11 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:11 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:12 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:12 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:12 PM]
+  Donte VIII attacked by Guy Fieri. Lacerations: 2 Bleeding: 5 Stun: 0.2
+[10/16/2020 10:58:12 PM]
+  Guy Fieri used Diving Knife on Donte VIII.
+[10/16/2020 10:58:13 PM]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[10/16/2020 10:58:13 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:13 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:13 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:13 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:14 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:14 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:14 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:14 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:15 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:15 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:16 PM]
+  Kapitan Kolesnikov picked up Revolver
+[10/16/2020 10:58:16 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:16 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:16 PM]
+  Tigerthresher attacked by Donte VIII. Blunt force trauma: 2
+[10/16/2020 10:58:16 PM]
+  Donte VIII used Toolbox (Plasma Cutter) on Tigerthresher.
+[10/16/2020 10:58:16 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:58:19 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:19 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:20 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:20 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:20 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:20 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:22 PM]
+  Kapitan Kolesnikov attacked by Guy Fieri. Lacerations: 1 Bleeding: 1
+[10/16/2020 10:58:22 PM]
+  Guy Fieri used Screwdriver on Kapitan Kolesnikov.
+[10/16/2020 10:58:30 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 10:58:31 PM]
+  Guy Fieri started repairing Navigation Terminal
+[10/16/2020 10:58:32 PM]
+  Kapitan Kolesnikov used item Blood Pack
+[10/16/2020 10:58:33 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 10:58:36 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 10:58:58 PM]
+  Kapitan Kolesnikov entered "on" on Terminal
+[10/16/2020 10:58:59 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:58:59 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:59:05 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:59:12 PM]
+  Kapitan Kolesnikov removed Fuel Rod from Nuclear Reactor (ID: 2395)
+[10/16/2020 10:59:15 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:59:32 PM]
+  Kapitan Kolesnikov picked up Fuel Rod
+[10/16/2020 10:59:39 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:59:43 PM]
+  Kapitan Kolesnikov placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 10:59:53 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Oxygen Tank Shelf (ID: 2815)
+[10/16/2020 10:59:53 PM]
+  Kapitan Kolesnikov removed Oxygen Tank from Oxygen Tank Shelf (ID: 2815)
+[10/16/2020 10:59:53 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Diving Mask (ID: 3425)
+[10/16/2020 10:59:54 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Oxygen Tank Shelf (ID: 2815)
+[10/16/2020 10:59:54 PM]
+  Kapitan Kolesnikov removed Oxygen Tank from Oxygen Tank Shelf (ID: 2815)
+[10/16/2020 10:59:54 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Diving Suit (ID: 2804)
+[10/16/2020 11:00:04 PM]
+  Kapitan Kolesnikov placed Bandage in Toolbox (ID: 3749)
+[10/16/2020 11:00:05 PM]
+  Kapitan Kolesnikov placed Blood Pack in Toolbox (ID: 3749)
+[10/16/2020 11:00:10 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:00:17 PM]
+  Donte VIII picked up Oxygen Tank
+[10/16/2020 11:00:20 PM]
+  Donte VIII picked up Oxygen Tank
+[10/16/2020 11:00:21 PM]
+  Kapitan Kolesnikov used item Blood Pack
+[10/16/2020 11:00:21 PM]
+  Donte VIII placed Oxygen Tank in Diving Suit (ID: 2797)
+[10/16/2020 11:00:24 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:00:28 PM]
+  Guy Fieri: thanks
+[10/16/2020 11:00:34 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:00:36 PM]
+  Outer wall breached by Crawler
+[10/16/2020 11:00:43 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:00:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:46 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:00:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:47 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:00:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:48 PM]
+  Bronte Polson: ayo based dead niggas
+[10/16/2020 11:00:52 PM]
+  Kapitan Kolesnikov set the recharge speed of Supercapacitor to 60 %
+[10/16/2020 11:00:52 PM]
+  Kapitan Kolesnikov set the recharge speed of Supercapacitor to 100 %
+[10/16/2020 11:00:55 PM]
+  Kapitan Kolesnikov set the recharge speed of Supercapacitor to 80 %
+[10/16/2020 11:00:55 PM]
+  Kapitan Kolesnikov set the recharge speed of Supercapacitor to 100 %
+[10/16/2020 11:00:56 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:01:00 PM]
+  Kapitan Kolesnikov removed Coilgun Ammunition Box from Coilgun Loader (ID: 842)
+[10/16/2020 11:01:00 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:01:02 PM]
+  Kapitan Kolesnikov picked up Coilgun Ammunition Box
+[10/16/2020 11:01:03 PM]
+  Kapitan Kolesnikov placed Coilgun Ammunition Box in Coilgun Loader (ID: 842)
+[10/16/2020 11:01:04 PM]
+  Doctor: chad water pressure crushed niggas
+[10/16/2020 11:01:15 PM]
+  Donte VIII started repairing Deconstructor
+[10/16/2020 11:01:16 PM]
+  Kapitan Kolesnikov entered "on" on Terminal
+[10/16/2020 11:01:20 PM]
+  Bronte Polson: how many suits are there even
+[10/16/2020 11:01:27 PM]
+  Doctor: theres like 5
+[10/16/2020 11:01:27 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:01:28 PM]
+  Bronte Polson: I couldn't finde one
+[10/16/2020 11:01:29 PM]
+  Doctor: i think
+[10/16/2020 11:01:33 PM]
+  Doctor: get ready for respawn
+[10/16/2020 11:01:36 PM]
+  Kapitan Kolesnikov placed Fuel Rod in Toolbox (ID: 3749)
+[10/16/2020 11:01:36 PM]
+  Doctor: in 40 sec
+[10/16/2020 11:01:38 PM]
+  Kapitan Kolesnikov picked up Screwdriver
+[10/16/2020 11:01:40 PM]
+  Kapitan Kolesnikov started repairing Junction Box
+[10/16/2020 11:01:40 PM]
+  Donte VIII started repairing Fabricator
+[10/16/2020 11:02:00 PM]
+  Bronte Polson: maybe I shouldn't respawn
+[10/16/2020 11:02:03 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:02:07 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:02:10 PM]
+  Bronte Polson: I need a sec
+[10/16/2020 11:02:13 PM]
+  Kapitan Kolesnikov placed Revolver in Toolbox (ID: 3749)
+[10/16/2020 11:02:14 PM]
+  Respawning everyone in main sub.
+[10/16/2020 11:02:14 PM]
+  Respawning Doctor (79.101.83.46) as Medical Doctor
+[10/16/2020 11:02:14 PM]
+  Respawning Bronte Polson (189.216.151.136) as Engineer
+[10/16/2020 11:02:14 PM]
+  Kapitan Kolesnikov picked up Wrench
+[10/16/2020 11:02:16 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:02:18 PM]
+  Kapitan Kolesnikov failed to repair Small Pump
+[10/16/2020 11:02:19 PM]
+  Doctor has died (Cause of death: Barotrauma)
+[10/16/2020 11:02:19 PM]
+  Bronte Polson has died (Cause of death: Barotrauma)
+[10/16/2020 11:02:26 PM]
+  Bronte Polson: Based
+[10/16/2020 11:02:27 PM]
+  Kapitan Kolesnikov started repairing Small Pump
+[10/16/2020 11:02:28 PM]
+  Doctor: what the fuck
+[10/16/2020 11:02:34 PM]
+  Doctor: eres no respawn shuttle
+[10/16/2020 11:02:36 PM]
+  Bronte Polson: lmao
+[10/16/2020 11:02:46 PM]
+  Bronte Polson: anyhow iumma eat
+[10/16/2020 11:02:48 PM]
+  Guy Fieri placed Diving Mask in Supplies Cabinet (ID: 484)
+[10/16/2020 11:02:48 PM]
+  Guy Fieri removed Diving Mask from Supplies Cabinet (ID: 484)
+[10/16/2020 11:02:48 PM]
+  Guy Fieri picked up Diving Mask
+[10/16/2020 11:02:49 PM]
+  Donte VIII started repairing Nuclear Reactor
+[10/16/2020 11:02:51 PM]
+  Guy Fieri placed Oxygen Tank in Diving Mask (ID: 485)
+[10/16/2020 11:02:51 PM]
+  Guy Fieri removed Oxygen Tank from Diving Mask (ID: 485)
+[10/16/2020 11:02:51 PM]
+  Guy Fieri placed Oxygen Tank in Diving Suit (ID: 2813)
+[10/16/2020 11:02:55 PM]
+  Guy Fieri placed Diving Mask in Supplies Cabinet (ID: 484)
+[10/16/2020 11:02:55 PM]
+  Guy Fieri removed Diving Mask from Supplies Cabinet (ID: 484)
+[10/16/2020 11:02:55 PM]
+  Guy Fieri picked up Diving Mask
+[10/16/2020 11:03:05 PM]
+  Doctor attacked by Guy Fieri. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[10/16/2020 11:03:05 PM]
+  Guy Fieri used Diving Knife on Doctor.
+[10/16/2020 11:03:05 PM]
+  Kapitan Kolesnikov started repairing Junction Box
+[10/16/2020 11:03:14 PM]
+  Donte VIII started repairing Large Engine
+[10/16/2020 11:03:26 PM]
+  Bronte Polson attacked by Guy Fieri. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[10/16/2020 11:03:26 PM]
+  Guy Fieri used Diving Knife on Bronte Polson.
+[10/16/2020 11:03:26 PM]
+  Bronte Polson attacked by Guy Fieri. Lacerations: 2.5 Bleeding: 2
+[10/16/2020 11:03:26 PM]
+  Guy Fieri used Screwdriver on Bronte Polson.
+[10/16/2020 11:03:27 PM]
+  Bronte Polson attacked by Guy Fieri. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[10/16/2020 11:03:27 PM]
+  Guy Fieri used Diving Knife on Bronte Polson.
+[10/16/2020 11:03:32 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:03:39 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:03:39 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:03:40 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:03:45 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:03:47 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:04:12 PM]
+  Client "Kapitan Kolesnikov" ended the round.
+[10/16/2020 11:04:12 PM]
+  Ending the round...

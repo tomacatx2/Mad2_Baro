@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  
+  <Item name="Small Camera A" identifier="ekdockyard_camerasmall1" category="Electrical" 
+  description="High-resolution camera on a robust gimbal for a wide range of motion."
+  tags="smallitem,camera" focusonselected="true" offsetonselected="750" linkable="true" Scale="0.5" spritecolor="150,150,150,255" >
+    <Sprite texture="Mods/EK Dockyard/Items/Electricity/cameras_advanced1.png" depth="0.8" sourcerect="0,0,88,88" origin="0.5, 0.42" />
+    <Turret canbeselected="true" linkable="true" barrelpos="44,44" reload="999999999"
+      rotationlimits="0,360"
+      powerconsumption="10000.0"
+      showchargeindicator="true"
+      showprojectileindicator="true"
+      springstiffnesslowskill="25" springstiffnesshighskill="25"
+      springdampinglowskill="10" springdampinghighskill="10"
+      rotationspeedlowskill="90" rotationspeedhighskill="90">
+      <BarrelSprite texture="Mods/EK Dockyard/Items/Electricity/cameras_advanced1.png" depth="0.805" sourcerect="88,0,48,80" origin="0.5, 0.65" />
+      <Crosshair texture="Content/Items/Weapons/Crosshairs.png" sourcerect="256,0,256,256" />
+      <CrosshairPointer texture="Content/Items/Weapons/Crosshairs.png" sourcerect="0,0,256,256" />
+    </Turret>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="position_in" displayname="connection.turretaimingin"/>
+    </ConnectionPanel>
+  </Item>
+  
+</Items>

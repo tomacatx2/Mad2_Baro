@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <Item name="Seated Periscope" description="" identifier="seatedperiscope" tags="seatedperiscope" category="Machine" type="Controller" disableitemusagewhenselected="true" scale="0.5" isshootable="true" requireaimtouse="false" requireaimtosecondaryuse="false">
+    <Sprite texture="Mods/Seated Operators/Content/Items/Periscope/pilotweapon.png" depth="0.1" sourcerect="0,0,193,421" origin="0.5,0.5" />
+    <Controller UserPos="-35.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgInteractSelect">
+      <limbposition limb="Head" position="55,-135" />
+      <limbposition limb="Torso" position="60,-205" />
+	  <limbposition limb="Waist" position="60,-275" />
+      <limbposition limb="RightFoot" position="115,-350" />
+      <limbposition limb="LeftFoot" position="115,-350" />
+      <limbposition limb="LeftHand" position="137,-170" />
+      <limbposition limb="RightHand" position="137,-170" />
+    </Controller>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="position_out" displayname="connection.turretaimingout" fallbackdisplayname="inputtype.aim" />
+      <output name="trigger_out" displayname="connection.turrettriggerout" fallbackdisplayname="inputtype.shoot" />
+    </ConnectionPanel>
+  </Item>
+</Items>

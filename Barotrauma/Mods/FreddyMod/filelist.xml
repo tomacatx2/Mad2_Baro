@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="FreddyMod" path="Mods/FreddyMod/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2474358176" installtime="1623984589">
+  <Item file="Mods/FreddyMod/Items/Jobgear/clownsoldier/FreddyItems.xml" />
+  <Item file="Mods/FreddyMod/Items/Jobgear/Hawaii/FreddyHawaii.xml" />
+</contentpackage>

@@ -1,0 +1,1600 @@
+﻿[2/22/2021 5:03:35 PM]
+  Saving client permissions
+[2/22/2021 5:12:44 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/22/2021 5:12:44 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/22/2021 5:12:44 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/22/2021 5:28:45 PM]
+  tomacatx1 changed MaxTransportTime to 0
+[2/22/2021 5:28:45 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/22/2021 5:28:45 PM]
+  tomacatx1 changed AllowRespawn to False
+[2/22/2021 5:28:45 PM]
+  tomacatx1 changed TraitorsMinPlayerCount to 5
+[2/22/2021 5:28:45 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/22/2021 5:28:45 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/22/2021 5:30:54 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/22/2021 5:30:54 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/22/2021 5:30:54 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/22/2021 5:31:12 PM]
+  Lester has joined the server.
+[2/22/2021 5:31:12 PM]
+  Saving client permissions
+[2/22/2021 5:31:45 PM]
+  TornMap has joined the server.
+[2/22/2021 5:31:45 PM]
+  Saving client permissions
+[2/22/2021 5:31:45 PM]
+  TornMap has left the server. Reason: TornMap has disconnected.
+[2/22/2021 5:32:35 PM]
+  TornMap has joined the server.
+[2/22/2021 5:32:35 PM]
+  Saving client permissions
+[2/22/2021 5:32:42 PM]
+  TornMap: FUUUUUUUUUUUUUUUUUUUUUUCK
+[2/22/2021 5:33:02 PM]
+  TornMap: ew dude i can go bald
+[2/22/2021 5:33:22 PM]
+  Lester: I will pick the only caucasian looking man
+[2/22/2021 5:33:27 PM]
+  Lester: Chad Thundercock.
+[2/22/2021 5:33:33 PM]
+  TornMap: Future Submariner Demographic
+[2/22/2021 5:34:16 PM]
+  TornMap: no NO NO NO NO NO
+[2/22/2021 5:35:25 PM]
+  Lester: I very vaguely remember how wiring works, so be ready for surprise chinese fireworks
+[2/22/2021 5:35:57 PM]
+  TornMap: hell yeah dude 
+[2/22/2021 5:36:06 PM]
+  TornMap: three fucks who don't know what they're doing 
+[2/22/2021 5:36:12 PM]
+  tomacatx1: hey man
+[2/22/2021 5:36:13 PM]
+  tomacatx1: im experienced
+[2/22/2021 5:36:14 PM]
+  tomacatx1: :)
+[2/22/2021 5:39:00 PM]
+  TornMap: three man crew!!!111 <3<3<3<3<3
+[2/22/2021 5:39:06 PM]
+  tomacatx1 is ready to start the game.
+[2/22/2021 5:39:11 PM]
+  TornMap is ready to start the game.
+[2/22/2021 5:39:15 PM]
+  Lester: If you type like a woman I will beat you like a woman
+[2/22/2021 5:39:16 PM]
+  Lester is ready to start the game.
+[2/22/2021 5:39:21 PM]
+  Client "tomacatx1" started the round.
+[2/22/2021 5:39:21 PM]
+  Starting a new round...
+[2/22/2021 5:39:42 PM]
+  Mission: Activate beacon
+[2/22/2021 5:39:42 PM]
+  The beacon station between Balagtan Fortification and Sermilik City is down—get in there, and get it back online and transmitting an active sonar signal.
+[2/22/2021 5:39:42 PM]
+  Game mode: Mission
+[2/22/2021 5:39:42 PM]
+  Submarine: Humpback
+[2/22/2021 5:39:42 PM]
+  Level seed: wTj1BfKd
+[2/22/2021 5:39:42 PM]
+  Mission: Activate beacon
+[2/22/2021 5:39:42 PM]
+  Round started.
+[2/22/2021 5:39:47 PM]
+  Lester set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 5:39:48 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 5:39:52 PM]
+  TornMap set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 5:39:59 PM]
+  TornMap: i am unironically ironic right now
+[2/22/2021 5:40:07 PM]
+  TornMap: worst sounding name
+[2/22/2021 5:40:13 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:40:13 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:40:13 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:40:13 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:40:16 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 5:40:17 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 5:40:17 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 5:40:22 PM]
+  tomacatx1 equipped Chemical Crate
+[2/22/2021 5:40:22 PM]
+  tomacatx1 picked up Chemical Crate
+[2/22/2021 5:40:24 PM]
+  tomacatx1 placed Pipe Tobacco in Chemical Crate (ID: 3737)
+[2/22/2021 5:40:24 PM]
+  tomacatx1 placed Pipe Tobacco in Chemical Crate (ID: 3737)
+[2/22/2021 5:40:24 PM]
+  tomacatx1 placed Pipe Tobacco in Chemical Crate (ID: 3737)
+[2/22/2021 5:40:25 PM]
+  tomacatx1 placed Anabolic Steroids in Chemical Crate (ID: 3737)
+[2/22/2021 5:40:30 PM]
+  tomacatx1 dropped Chemical Crate
+[2/22/2021 5:40:33 PM]
+  tomacatx1 equipped Metal Crate
+[2/22/2021 5:40:33 PM]
+  tomacatx1 picked up Metal Crate
+[2/22/2021 5:40:35 PM]
+  tomacatx1 picked up Toolbelt
+[2/22/2021 5:40:36 PM]
+  tomacatx1 placed Crowbar in Toolbelt (ID: 3756)
+[2/22/2021 5:40:37 PM]
+  tomacatx1 picked up Wrench
+[2/22/2021 5:40:37 PM]
+  tomacatx1 picked up Wrench
+[2/22/2021 5:40:38 PM]
+  TornMap: i forgot how to move up
+[2/22/2021 5:40:42 PM]
+  tomacatx1 placed Wrench in Toolbelt (ID: 3756)
+[2/22/2021 5:40:43 PM]
+  tomacatx1 placed Crowbar in Toolbelt (ID: 3756)
+[2/22/2021 5:40:46 PM]
+  tomacatx1 placed Crowbar in Metal Crate (ID: 3738)
+[2/22/2021 5:40:47 PM]
+  tomacatx1 picked up Screwdriver
+[2/22/2021 5:40:48 PM]
+  tomacatx1 placed Screwdriver in Toolbelt (ID: 3756)
+[2/22/2021 5:40:49 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 5:40:49 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 5:40:51 PM]
+  TornMap: there you go
+[2/22/2021 5:40:52 PM]
+  Lester picked up Captain's Pipe
+[2/22/2021 5:40:55 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:40:55 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:40:55 PM]
+  Lester equipped Medic Crate
+[2/22/2021 5:40:55 PM]
+  Lester picked up Medic Crate
+[2/22/2021 5:41:00 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:41:01 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:41:02 PM]
+  Lester dropped Medic Crate
+[2/22/2021 5:41:02 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:41:03 PM]
+  Lester picked up Medic Crate
+[2/22/2021 5:41:04 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:41:04 PM]
+  Lester dropped Medic Crate
+[2/22/2021 5:41:05 PM]
+  tomacatx1 placed Crowbar in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:41:07 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:41:11 PM]
+  Lester equipped Explosive Crate
+[2/22/2021 5:41:11 PM]
+  Lester picked up Explosive Crate
+[2/22/2021 5:41:11 PM]
+  tomacatx1 dropped Metal Crate
+[2/22/2021 5:41:13 PM]
+  tomacatx1 picked up Chemical Crate
+[2/22/2021 5:41:13 PM]
+  Lester dropped Explosive Crate
+[2/22/2021 5:41:14 PM]
+  TornMap: hi :)
+[2/22/2021 5:41:17 PM]
+  tomacatx1 picked up Anabolic Steroids
+[2/22/2021 5:41:17 PM]
+  tomacatx1 picked up Anabolic Steroids
+[2/22/2021 5:41:17 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 5:41:17 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 5:41:17 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 5:41:19 PM]
+  Lester: helo
+[2/22/2021 5:41:19 PM]
+  tomacatx1 dropped Chemical Crate
+[2/22/2021 5:41:20 PM]
+  tomacatx1 equipped Medic Crate
+[2/22/2021 5:41:20 PM]
+  tomacatx1 picked up Medic Crate
+[2/22/2021 5:41:21 PM]
+  tomacatx1 placed Anabolic Steroids in Medic Crate (ID: 3739)
+[2/22/2021 5:41:21 PM]
+  tomacatx1 placed Anabolic Steroids in Medic Crate (ID: 3739)
+[2/22/2021 5:41:22 PM]
+  tomacatx1 placed Pipe Tobacco in Medic Crate (ID: 3739)
+[2/22/2021 5:41:22 PM]
+  tomacatx1 placed Pipe Tobacco in Medic Crate (ID: 3739)
+[2/22/2021 5:41:22 PM]
+  tomacatx1 placed Pipe Tobacco in Medic Crate (ID: 3739)
+[2/22/2021 5:41:23 PM]
+  Lester adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[2/22/2021 5:41:28 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 5:41:28 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 5:41:28 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 5:41:29 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:29 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:29 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:30 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:30 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:31 PM]
+  tomacatx1 placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:31 PM]
+  tomacatx1 placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:32 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:32 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:32 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:32 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:33 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:33 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:34 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:34 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:34 PM]
+  Lester adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/22/2021 5:41:35 PM]
+  tomacatx1 placed Broad-spectrum Antibiotics in Medicine Cabinet (ID: 854)
+[2/22/2021 5:41:42 PM]
+  tomacatx1 dropped Medic Crate
+[2/22/2021 5:41:43 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:41:44 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:41:45 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:41:47 PM]
+  tomacatx1 picked up Chemical Crate
+[2/22/2021 5:41:50 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 5:41:50 PM]
+  tomacatx1 dropped Chemical Crate
+[2/22/2021 5:41:56 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:41:57 PM]
+  tomacatx1 equipped Explosive Crate
+[2/22/2021 5:41:57 PM]
+  tomacatx1 picked up Explosive Crate
+[2/22/2021 5:41:58 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 5:42:02 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 518)
+[2/22/2021 5:42:04 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 523)
+[2/22/2021 5:42:05 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 522)
+[2/22/2021 5:42:14 PM]
+  tomacatx1 dropped Explosive Crate
+[2/22/2021 5:42:15 PM]
+  TornMap: Good.
+[2/22/2021 5:42:17 PM]
+  Lester equipped Piercing Ammunition Box
+[2/22/2021 5:42:17 PM]
+  Lester picked up Piercing Ammunition Box
+[2/22/2021 5:42:20 PM]
+  Lester dropped Piercing Ammunition Box
+[2/22/2021 5:42:22 PM]
+  TornMap: uh-oh
+[2/22/2021 5:42:26 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[2/22/2021 5:42:26 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 5:42:30 PM]
+  TornMap equipped Railgun Shell
+[2/22/2021 5:42:30 PM]
+  TornMap picked up Railgun Shell
+[2/22/2021 5:42:36 PM]
+  TornMap placed Railgun Shell in Railgun Loader (ID: 914)
+[2/22/2021 5:42:38 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 5:42:58 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[2/22/2021 5:42:58 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 5:43:02 PM]
+  TornMap: where are we currently
+[2/22/2021 5:43:07 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 5:43:17 PM]
+  tomacatx1 picked up Ballistic Helmet
+[2/22/2021 5:43:20 PM]
+  tomacatx1 placed Renegade's Hat in Large Steel Cabinet (ID: 741)
+[2/22/2021 5:43:21 PM]
+  tomacatx1 picked up Body Armor
+[2/22/2021 5:43:24 PM]
+  tomacatx1 picked up Riot Shotgun
+[2/22/2021 5:43:57 PM]
+  tomacatx1 picked up Welding Tool
+[2/22/2021 5:43:59 PM]
+  tomacatx1 picked up Diving Mask
+[2/22/2021 5:44:03 PM]
+  tomacatx1 picked up Plastiseal
+[2/22/2021 5:44:03 PM]
+  tomacatx1 picked up Plastiseal
+[2/22/2021 5:44:03 PM]
+  tomacatx1 picked up Plastiseal
+[2/22/2021 5:44:03 PM]
+  tomacatx1 picked up Plastiseal
+[2/22/2021 5:44:03 PM]
+  tomacatx1 picked up Plastiseal
+[2/22/2021 5:44:03 PM]
+  tomacatx1 picked up Plastiseal
+[2/22/2021 5:44:03 PM]
+  tomacatx1 picked up Plastiseal
+[2/22/2021 5:44:04 PM]
+  Lester picked up Diving Mask
+[2/22/2021 5:44:05 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3756)
+[2/22/2021 5:44:05 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3756)
+[2/22/2021 5:44:05 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3756)
+[2/22/2021 5:44:05 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3756)
+[2/22/2021 5:44:10 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 5:44:10 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 5:44:10 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 5:44:13 PM]
+  tomacatx1 picked up Morphine
+[2/22/2021 5:44:13 PM]
+  tomacatx1 picked up Morphine
+[2/22/2021 5:44:13 PM]
+  tomacatx1 picked up Morphine
+[2/22/2021 5:44:13 PM]
+  tomacatx1 picked up Morphine
+[2/22/2021 5:44:14 PM]
+  TornMap: ooh lithium
+[2/22/2021 5:44:15 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 5:44:15 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 5:44:17 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3756)
+[2/22/2021 5:44:17 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 3756)
+[2/22/2021 5:44:21 PM]
+  TornMap picked up Diving Mask
+[2/22/2021 5:44:24 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 80 %
+[2/22/2021 5:44:25 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 90 %
+[2/22/2021 5:44:26 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[2/22/2021 5:44:29 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[2/22/2021 5:44:29 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[2/22/2021 5:44:31 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[2/22/2021 5:44:31 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 80 %
+[2/22/2021 5:44:32 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[2/22/2021 5:44:51 PM]
+  TornMap: Fire in command room!
+[2/22/2021 5:44:53 PM]
+  Lester: Fire in engine room!
+[2/22/2021 5:44:56 PM]
+  TornMap: Command room is on fire!
+[2/22/2021 5:45:00 PM]
+  TornMap: Fire in upper mid!
+[2/22/2021 5:45:08 PM]
+  Lester picked up Screwdriver
+[2/22/2021 5:45:10 PM]
+  Lester equipped Screwdriver
+[2/22/2021 5:45:21 PM]
+  TornMap: okay we go fix :)
+[2/22/2021 5:45:27 PM]
+  Lester set the value "LightColor" of the item "Emergency Light" to "255,0,0,255".
+[2/22/2021 5:45:31 PM]
+  Lester set the value "LightColor" of the item "Emergency Light" to "255,255,0,255".
+[2/22/2021 5:45:34 PM]
+  Lester set the value "LightColor" of the item "Emergency Light" to "255,255,250,255".
+[2/22/2021 5:45:35 PM]
+  Lester set the value "LightColor" of the item "Emergency Light" to "255,255,250,255".
+[2/22/2021 5:45:37 PM]
+  Lester set the value "LightColor" of the item "Emergency Light" to "255,255,250,255".
+[2/22/2021 5:45:45 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,0,79".
+[2/22/2021 5:45:47 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,0,227".
+[2/22/2021 5:45:49 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,100,227".
+[2/22/2021 5:45:50 PM]
+  Lester set the value "LightColor" of the item "Lamp" to "200,100,100,227".
+[2/22/2021 5:45:57 PM]
+  TornMap picked up Welding Tool
+[2/22/2021 5:46:03 PM]
+  tomacatx1 picked up UEX
+[2/22/2021 5:46:04 PM]
+  tomacatx1 picked up IC-4 Block
+[2/22/2021 5:46:07 PM]
+  tomacatx1 placed IC-4 Block in Railgun Shell (ID: 521)
+[2/22/2021 5:46:08 PM]
+  tomacatx1 placed UEX in Railgun Shell (ID: 520)
+[2/22/2021 5:46:17 PM]
+  Lester set the value "LightColor" of the item "Emergency Light" to "255,0,0,175".
+[2/22/2021 5:46:21 PM]
+  Lester set the value "LightColor" of the item "Emergency Light" to "255,100,100,175".
+[2/22/2021 5:46:38 PM]
+  TornMap: oh fuck oh fuck oh fuck
+[2/22/2021 5:46:40 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 5:46:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 5:46:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 5:46:48 PM]
+  Mudraptor attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 5:46:49 PM]
+  TornMap launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[2/22/2021 5:46:49 PM]
+  Mudraptor attacked by TornMap. Lacerations: 13.5 Stun: 15
+[2/22/2021 5:46:49 PM]
+  Mudraptor has died (Cause of death: Burn)
+[2/22/2021 5:46:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 5:47:00 PM]
+  TornMap: Boom!
+[2/22/2021 5:47:01 PM]
+  Lester entered "e" on Terminal
+[2/22/2021 5:47:05 PM]
+  tomacatx1 equipped Welding Tool
+[2/22/2021 5:47:10 PM]
+  TornMap equipped Welding Tool
+[2/22/2021 5:47:11 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 5:47:11 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 5:47:13 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 5:47:14 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 5:47:14 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 5:47:14 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 5:47:19 PM]
+  Lester disconnected a wire from Motion Detector (state_out) to Door with Buttons (set_state)
+[2/22/2021 5:47:32 PM]
+  Lester disconnected a wire from Door with Buttons (set_state)
+[2/22/2021 5:47:37 PM]
+  Lester picked up Blue Wire
+[2/22/2021 5:47:53 PM]
+  Lester placed Blue Wire in Toolbelt (ID: 3712)
+[2/22/2021 5:48:01 PM]
+  TornMap equipped Piercing Ammunition Box
+[2/22/2021 5:48:01 PM]
+  TornMap picked up Piercing Ammunition Box
+[2/22/2021 5:48:10 PM]
+  Lester picked up Sprayer
+[2/22/2021 5:48:14 PM]
+  Lester picked up Ethanol
+[2/22/2021 5:48:16 PM]
+  Lester placed Sprayer in Medium Steel Cabinet (ID: 539)
+[2/22/2021 5:48:18 PM]
+  Lester equipped Ethanol
+[2/22/2021 5:48:25 PM]
+  TornMap removed Coilgun Ammunition Box from Coilgun Loader (ID: 778)
+[2/22/2021 5:48:30 PM]
+  TornMap placed Piercing Ammunition Box in Coilgun Loader (ID: 778)
+[2/22/2021 5:48:32 PM]
+  TornMap equipped Coilgun Ammunition Box
+[2/22/2021 5:48:32 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/22/2021 5:48:35 PM]
+  TornMap: what's that
+[2/22/2021 5:48:37 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 5:48:41 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:48:47 PM]
+  TornMap dropped Coilgun Ammunition Box
+[2/22/2021 5:48:48 PM]
+  TornMap equipped Piercing Ammunition Box
+[2/22/2021 5:48:48 PM]
+  TornMap picked up Piercing Ammunition Box
+[2/22/2021 5:48:53 PM]
+  TornMap removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 5:48:57 PM]
+  TornMap placed Piercing Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 5:48:58 PM]
+  tomacatx1: Need someone to repair devices in command room!
+[2/22/2021 5:49:00 PM]
+  TornMap equipped Coilgun Ammunition Box
+[2/22/2021 5:49:00 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/22/2021 5:49:11 PM]
+  Lester picked up Welding Tool
+[2/22/2021 5:49:12 PM]
+  TornMap dropped Coilgun Ammunition Box
+[2/22/2021 5:49:17 PM]
+  Lester equipped Welding Tool
+[2/22/2021 5:49:21 PM]
+  TornMap picked up Coilgun Ammunition Box
+[2/22/2021 5:49:29 PM]
+  TornMap dropped Coilgun Ammunition Box
+[2/22/2021 5:49:32 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 5:49:35 PM]
+  TornMap: NOOOOOOOOOOOOOO
+[2/22/2021 5:49:47 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 5:50:00 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 5:50:18 PM]
+  Lester started repairing Status Monitor
+[2/22/2021 5:50:32 PM]
+  TornMap picked up Wrench
+[2/22/2021 5:50:33 PM]
+  TornMap equipped Wrench
+[2/22/2021 5:50:58 PM]
+  Lester failed to repair Junction Box
+[2/22/2021 5:51:06 PM]
+  Lester started repairing Junction Box
+[2/22/2021 5:51:21 PM]
+  Lester started repairing Junction Box
+[2/22/2021 5:51:39 PM]
+  Lester started repairing Junction Box
+[2/22/2021 5:51:39 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[2/22/2021 5:51:53 PM]
+  Lester picked up Wrench
+[2/22/2021 5:51:54 PM]
+  Lester equipped Wrench
+[2/22/2021 5:52:00 PM]
+  TornMap equipped Railgun Shell
+[2/22/2021 5:52:00 PM]
+  TornMap picked up Railgun Shell
+[2/22/2021 5:52:07 PM]
+  TornMap placed Railgun Shell in Railgun Loader (ID: 914)
+[2/22/2021 5:52:10 PM]
+  TornMap picked up Railgun Shell
+[2/22/2021 5:52:22 PM]
+  TornMap placed Railgun Shell in Railgun Shell Rack (ID: 225)
+[2/22/2021 5:52:30 PM]
+  TornMap picked up Railgun Shell
+[2/22/2021 5:52:44 PM]
+  Lester started repairing Navigation Terminal
+[2/22/2021 5:53:01 PM]
+  TornMap placed Railgun Shell in Railgun Loader (ID: 914)
+[2/22/2021 5:53:03 PM]
+  Lester failed to repair Battery
+[2/22/2021 5:53:03 PM]
+  TornMap: hmmm
+[2/22/2021 5:53:07 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:07 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:08 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:08 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:08 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:08 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:09 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:09 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:09 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:10 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:10 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:10 PM]
+  Lester started repairing Battery
+[2/22/2021 5:53:10 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:10 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:11 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:11 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:11 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:11 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:12 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:12 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:12 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:13 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:13 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:13 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:13 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:53:27 PM]
+  Lester failed to repair Battery
+[2/22/2021 5:53:34 PM]
+  Lester started repairing Battery
+[2/22/2021 5:53:51 PM]
+  Lester failed to repair Battery
+[2/22/2021 5:53:53 PM]
+  Lester started repairing Battery
+[2/22/2021 5:54:07 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:08 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:10 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 5:54:12 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 5:54:13 PM]
+  Lester started repairing Battery
+[2/22/2021 5:54:17 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 5:54:18 PM]
+  TornMap picked up Flashlight
+[2/22/2021 5:54:18 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:18 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 5:54:18 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 5:54:18 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 5:54:19 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:19 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:20 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:20 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 5:54:20 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 5:54:20 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 5:54:20 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:20 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 5:54:20 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 5:54:20 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[2/22/2021 5:54:20 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 5:54:21 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:21 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 5:54:21 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 5:54:21 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 5:54:21 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 5:54:31 PM]
+  Lester started repairing Junction Box
+[2/22/2021 5:54:34 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 5:54:35 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 5:54:38 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 5:54:44 PM]
+  Lester started repairing Junction Box
+[2/22/2021 5:54:50 PM]
+  Lester started repairing Junction Box
+[2/22/2021 5:54:51 PM]
+  TornMap equipped Oxygen Tank
+[2/22/2021 5:54:57 PM]
+  Lester started repairing Junction Box
+[2/22/2021 5:55:01 PM]
+  TornMap picked up Revolver
+[2/22/2021 5:55:04 PM]
+  tomacatx1 picked up Screwdriver
+[2/22/2021 5:55:06 PM]
+  tomacatx1 picked up Wrench
+[2/22/2021 5:55:06 PM]
+  TornMap equipped Flashlight
+[2/22/2021 5:55:06 PM]
+  Lester started repairing Oxygen Generator
+[2/22/2021 5:55:23 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 5:55:35 PM]
+  TornMap picked up Plasma Cutter
+[2/22/2021 5:55:38 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 5:55:39 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:55:40 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 5:55:41 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 5:55:44 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:55:45 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 5:55:53 PM]
+  TornMap placed Wrench in Medium Windowed Steel Cabinet (ID: 725)
+[2/22/2021 5:56:01 PM]
+  Lester picked up Plasma Cutter
+[2/22/2021 5:56:03 PM]
+  TornMap picked up Diving Suit
+[2/22/2021 5:56:06 PM]
+  TornMap picked up Underwater Scooter
+[2/22/2021 5:56:06 PM]
+  Lester placed Screwdriver in Toolbelt (ID: 3712)
+[2/22/2021 5:56:07 PM]
+  Lester placed Wrench in Toolbelt (ID: 3712)
+[2/22/2021 5:56:16 PM]
+  Lester picked up Underwater Scooter
+[2/22/2021 5:56:20 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 5:56:20 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 5:56:20 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 5:56:26 PM]
+  Lester picked up Diving Suit
+[2/22/2021 5:56:43 PM]
+  Lester picked up Flashlight
+[2/22/2021 5:56:48 PM]
+  TornMap picked up Flare
+[2/22/2021 5:56:50 PM]
+  Lester dropped FPGA Circuit
+[2/22/2021 5:56:51 PM]
+  Lester dropped Relay Component
+[2/22/2021 5:56:56 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 5:56:56 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 5:57:03 PM]
+  Lester opened Custom Door
+[2/22/2021 5:57:03 PM]
+  Lester closed Custom Door
+[2/22/2021 5:57:06 PM]
+  Lester opened Custom Hatch
+[2/22/2021 5:57:09 PM]
+  Lester equipped Underwater Scooter
+[2/22/2021 5:57:10 PM]
+  TornMap equipped Plasma Cutter
+[2/22/2021 5:57:10 PM]
+  TornMap equipped Underwater Scooter
+[2/22/2021 5:57:22 PM]
+  Lester equipped Plasma Cutter
+[2/22/2021 5:57:25 PM]
+  TornMap equipped Revolver
+[2/22/2021 5:57:36 PM]
+  TornMap equipped Oxygen Tank
+[2/22/2021 5:57:44 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 5:57:51 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 5:58:03 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 5:58:03 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 5:58:05 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 5:58:06 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 5:58:06 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 5:58:09 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 5:58:09 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 5:58:17 PM]
+  tomacatx1 equipped Screwdriver
+[2/22/2021 5:58:17 PM]
+  tomacatx1 equipped Wrench
+[2/22/2021 5:58:17 PM]
+  Lester picked up Welding Tool
+[2/22/2021 5:58:19 PM]
+  Lester placed Welding Tool in Medium Steel Cabinet (ID: 2887)
+[2/22/2021 5:58:21 PM]
+  Lester picked up Sprayer
+[2/22/2021 5:58:22 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 5:58:25 PM]
+  Lester removed Button from Toolbelt (ID: 3712)
+[2/22/2021 5:58:26 PM]
+  Lester removed Red Wire from Toolbelt (ID: 3712)
+[2/22/2021 5:58:26 PM]
+  Lester removed Orange Wire from Toolbelt (ID: 3712)
+[2/22/2021 5:58:32 PM]
+  Lester equipped Flashlight
+[2/22/2021 5:58:41 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 5:58:45 PM]
+  Lester placed Plasma Cutter in Medium Steel Cabinet (ID: 2887)
+[2/22/2021 5:58:45 PM]
+  Lester removed Plasma Cutter from Medium Steel Cabinet (ID: 2887)
+[2/22/2021 5:58:45 PM]
+  Lester picked up Plasma Cutter
+[2/22/2021 5:58:48 PM]
+  TornMap picked up Welding Tool
+[2/22/2021 5:58:56 PM]
+  TornMap equipped Welding Tool
+[2/22/2021 5:59:10 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 5:59:30 PM]
+  Lester dropped Captain's Pipe
+[2/22/2021 5:59:33 PM]
+  Lester picked up Wrench
+[2/22/2021 5:59:34 PM]
+  Lester picked up Screwdriver
+[2/22/2021 5:59:40 PM]
+  Lester failed to repair Nuclear Reactor
+[2/22/2021 5:59:46 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 6:00:01 PM]
+  TornMap picked up Screwdriver
+[2/22/2021 6:00:03 PM]
+  TornMap equipped Flare
+[2/22/2021 6:00:03 PM]
+  TornMap equipped Screwdriver
+[2/22/2021 6:00:04 PM]
+  tomacatx1 failed to repair Small Pump
+[2/22/2021 6:00:13 PM]
+  tomacatx1 started repairing Small Pump
+[2/22/2021 6:00:18 PM]
+  TornMap placed Screwdriver in Toolbelt (ID: 3726)
+[2/22/2021 6:00:18 PM]
+  TornMap removed Wrench from Toolbelt (ID: 3726)
+[2/22/2021 6:00:18 PM]
+  TornMap picked up Wrench
+[2/22/2021 6:00:19 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 2822)
+[2/22/2021 6:00:23 PM]
+  Lester adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[2/22/2021 6:00:23 PM]
+  TornMap equipped Wrench
+[2/22/2021 6:00:24 PM]
+  Lester adjusted reactor settings: Temperature: 2, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/22/2021 6:00:28 PM]
+  TornMap started repairing Oxygen Generator
+[2/22/2021 6:00:35 PM]
+  tomacatx1 started repairing Supercapacitor
+[2/22/2021 6:00:38 PM]
+  TornMap: yes
+[2/22/2021 6:00:48 PM]
+  tomacatx1 failed to repair Supercapacitor
+[2/22/2021 6:01:00 PM]
+  tomacatx1 started repairing Supercapacitor
+[2/22/2021 6:01:03 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 6:01:03 PM]
+  Lester dropped Oxygen Tank
+[2/22/2021 6:01:03 PM]
+  Lester placed Oxygen Tank in Diving Suit (ID: 13)
+[2/22/2021 6:01:08 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:01:15 PM]
+  tomacatx1 started repairing Supercapacitor
+[2/22/2021 6:01:40 PM]
+  TornMap dropped Wrench
+[2/22/2021 6:01:43 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 6:01:47 PM]
+  TornMap placed Oxygen Tank in Diving Suit (ID: 195)
+[2/22/2021 6:01:49 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:02:00 PM]
+  TornMap picked up Wrench
+[2/22/2021 6:02:03 PM]
+  TornMap placed Wrench in Toolbelt (ID: 3726)
+[2/22/2021 6:02:03 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:02:23 PM]
+  tomacatx1 failed to repair Junction Box
+[2/22/2021 6:02:24 PM]
+  Lester opened Custom Hatch
+[2/22/2021 6:02:24 PM]
+  Lester closed Custom Door
+[2/22/2021 6:02:31 PM]
+  tomacatx1 failed to repair Junction Box
+[2/22/2021 6:02:40 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:03:00 PM]
+  tomacatx1 started repairing Pump
+[2/22/2021 6:03:09 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 6:03:28 PM]
+  TornMap dropped Oxygen Tank
+[2/22/2021 6:03:33 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:03:35 PM]
+  TornMap picked up Wrench
+[2/22/2021 6:03:58 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 6:04:00 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 6:04:08 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:04:11 PM]
+  Lester closed Custom Hatch
+[2/22/2021 6:04:11 PM]
+  Lester opened Custom Door
+[2/22/2021 6:04:21 PM]
+  tomacatx1 failed to repair Junction Box
+[2/22/2021 6:04:30 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:04:46 PM]
+  TornMap: oh
+[2/22/2021 6:04:53 PM]
+  Lester equipped Plasma Cutter
+[2/22/2021 6:04:58 PM]
+  TornMap dropped Flare
+[2/22/2021 6:05:01 PM]
+  Outer wall breached by Lester
+[2/22/2021 6:05:03 PM]
+  TornMap picked up Screwdriver
+[2/22/2021 6:05:06 PM]
+  tomacatx1 placed Body Armor in Large Steel Cabinet (ID: 865)
+[2/22/2021 6:05:07 PM]
+  tomacatx1 placed Ballistic Helmet in Large Steel Cabinet (ID: 865)
+[2/22/2021 6:05:11 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 6:05:13 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 3756)
+[2/22/2021 6:05:14 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 3756)
+[2/22/2021 6:05:15 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 3756)
+[2/22/2021 6:05:20 PM]
+  tomacatx1 picked up Underwater Scooter
+[2/22/2021 6:05:22 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:05:22 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:05:23 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:05:23 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:05:24 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:05:24 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:05:25 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:05:26 PM]
+  tomacatx1 equipped Underwater Scooter
+[2/22/2021 6:05:55 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:05:57 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:05:59 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:05:59 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:05:59 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:06:00 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:06:00 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:06:12 PM]
+  Lester removed Oxygen Tank from Diving Suit (ID: 13)
+[2/22/2021 6:06:14 PM]
+  Lester placed Oxygen Tank in Diving Suit (ID: 13)
+[2/22/2021 6:06:31 PM]
+  tomacatx1 started repairing Navigation Terminal
+[2/22/2021 6:06:45 PM]
+  TornMap: yeah stop moving :(
+[2/22/2021 6:06:56 PM]
+  Lester placed Wrench in Toolbelt (ID: 3712)
+[2/22/2021 6:06:58 PM]
+  Lester picked up Blue Wire
+[2/22/2021 6:07:00 PM]
+  Lester equipped Blue Wire
+[2/22/2021 6:07:02 PM]
+  Lester connected a wire to Sonar Transducer (power_in)
+[2/22/2021 6:07:08 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 6:07:08 PM]
+  TornMap dropped Oxygen Tank
+[2/22/2021 6:07:08 PM]
+  TornMap placed Oxygen Tank in Diving Suit (ID: 195)
+[2/22/2021 6:07:09 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:07:09 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:07:11 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:07:11 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:07:14 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:07:19 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:07:39 PM]
+  Lester connected a wire from Nuclear Reactor (power_out) to Sonar Transducer (power_in)
+[2/22/2021 6:07:46 PM]
+  Lester picked up Wrench
+[2/22/2021 6:08:01 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 6:08:17 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 5007, Fission rate: 0, Turbine output: 0, Autotemp ON
+[2/22/2021 6:08:19 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 3924, Fission rate: 5, Turbine output: 0, Autotemp ON
+[2/22/2021 6:08:23 PM]
+  TornMap placed Oxygen Tank in Oxygen Tank Shelf (ID: 2910)
+[2/22/2021 6:08:23 PM]
+  TornMap removed Oxygen Tank from Oxygen Tank Shelf (ID: 2910)
+[2/22/2021 6:08:23 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 6:08:28 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 6:08:40 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:08:40 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:08:42 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:08:42 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:08:57 PM]
+  tomacatx1 started repairing Pump
+[2/22/2021 6:09:15 PM]
+  Inner wall repaired by tomacatx1
+[2/22/2021 6:09:16 PM]
+  Inner wall repaired by tomacatx1
+[2/22/2021 6:09:17 PM]
+  TornMap started repairing Pump
+[2/22/2021 6:09:40 PM]
+  TornMap: i think it's fixed
+[2/22/2021 6:09:45 PM]
+  TornMap equipped Oxygen Tank
+[2/22/2021 6:10:00 PM]
+  Lester opened Custom Hatch
+[2/22/2021 6:10:00 PM]
+  Lester closed Custom Door
+[2/22/2021 6:10:11 PM]
+  Lester opened Custom Door
+[2/22/2021 6:10:11 PM]
+  Lester closed Custom Hatch
+[2/22/2021 6:10:13 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 6:10:14 PM]
+  tomacatx1 picked up Oxygen Tank
+[2/22/2021 6:10:15 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 204)
+[2/22/2021 6:10:23 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 6:10:29 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:11:06 PM]
+  tomacatx1 turned on Pump
+[2/22/2021 6:11:14 PM]
+  tomacatx1 turned on Small Pump
+[2/22/2021 6:11:17 PM]
+  tomacatx1 turned off Small Pump
+[2/22/2021 6:11:17 PM]
+  tomacatx1 turned on Small Pump
+[2/22/2021 6:11:19 PM]
+  tomacatx1 set the pumping speed of Small Pump to -100 %
+[2/22/2021 6:11:20 PM]
+  tomacatx1 turned off Small Pump
+[2/22/2021 6:11:35 PM]
+  Lester placed Oxygen Tank in Diving Mask (ID: 3212)
+[2/22/2021 6:11:35 PM]
+  Lester removed Oxygen Tank from Diving Mask (ID: 3212)
+[2/22/2021 6:11:35 PM]
+  Lester placed Oxygen Tank in Diving Suit (ID: 13)
+[2/22/2021 6:11:42 PM]
+  Lester placed Wrench in Toolbelt (ID: 3712)
+[2/22/2021 6:11:44 PM]
+  Lester picked up Blue Wire
+[2/22/2021 6:11:44 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:11:44 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:11:46 PM]
+  Lester equipped Blue Wire
+[2/22/2021 6:12:04 PM]
+  Lester disconnected a wire from Nuclear Reactor (power_out) to Sonar Transducer (power_in)
+[2/22/2021 6:12:10 PM]
+  Lester connected a wire to Nuclear Reactor (power_out)
+[2/22/2021 6:12:15 PM]
+  Lester connected a wire from Junction Box (power) to Nuclear Reactor (power_out)
+[2/22/2021 6:12:31 PM]
+  TornMap dropped Screwdriver
+[2/22/2021 6:12:31 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:12:31 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:12:34 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 6:12:36 PM]
+  TornMap placed Oxygen Tank in Diving Suit (ID: 195)
+[2/22/2021 6:12:50 PM]
+  TornMap dropped Oxygen Tank
+[2/22/2021 6:12:50 PM]
+  tomacatx1 turned off Pump
+[2/22/2021 6:12:51 PM]
+  tomacatx1 turned on Pump
+[2/22/2021 6:12:53 PM]
+  TornMap picked up Screwdriver
+[2/22/2021 6:13:15 PM]
+  Lester turned on Small Pump
+[2/22/2021 6:13:17 PM]
+  Lester set the pumping speed of Small Pump to -90 %
+[2/22/2021 6:13:17 PM]
+  Lester set the pumping speed of Small Pump to -70 %
+[2/22/2021 6:13:17 PM]
+  Lester set the pumping speed of Small Pump to -30 %
+[2/22/2021 6:13:17 PM]
+  Lester set the pumping speed of Small Pump to 40 %
+[2/22/2021 6:13:17 PM]
+  Lester set the pumping speed of Small Pump to 100 %
+[2/22/2021 6:13:18 PM]
+  Lester set the pumping speed of Small Pump to 90 %
+[2/22/2021 6:13:18 PM]
+  Lester set the pumping speed of Small Pump to 10 %
+[2/22/2021 6:13:18 PM]
+  Lester set the pumping speed of Small Pump to -80 %
+[2/22/2021 6:13:18 PM]
+  Lester set the pumping speed of Small Pump to -100 %
+[2/22/2021 6:13:24 PM]
+  TornMap equipped Oxygen Tank
+[2/22/2021 6:13:34 PM]
+  Lester picked up Orange Wire
+[2/22/2021 6:13:36 PM]
+  Lester equipped Orange Wire
+[2/22/2021 6:13:40 PM]
+  Lester connected a wire to Small Pump (power_in)
+[2/22/2021 6:13:51 PM]
+  tomacatx1 turned off Pump
+[2/22/2021 6:13:53 PM]
+  tomacatx1 turned on Pump
+[2/22/2021 6:13:57 PM]
+  Lester connected a wire from Junction Box (power) to Small Pump (power_in)
+[2/22/2021 6:14:02 PM]
+  TornMap: deflood faster
+[2/22/2021 6:14:18 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:14:18 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:14:21 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:14:21 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:14:29 PM]
+  tomacatx1 equipped Oxygen Tank
+[2/22/2021 6:14:31 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:14:36 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:14:44 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:15:08 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:15:10 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:15:12 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:15:13 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:15:14 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:15:14 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:15:15 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:15:15 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:15:17 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 189)
+[2/22/2021 6:15:24 PM]
+  Lester placed Underwater Scooter in Toolbelt (ID: 3712)
+[2/22/2021 6:15:24 PM]
+  Lester removed Wrench from Toolbelt (ID: 3712)
+[2/22/2021 6:15:24 PM]
+  Lester picked up Wrench
+[2/22/2021 6:15:26 PM]
+  Lester picked up Underwater Scooter
+[2/22/2021 6:15:31 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:15:33 PM]
+  TornMap: CCP Facial Recognition System
+[2/22/2021 6:15:48 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:15:57 PM]
+  Lester turned off Small Pump
+[2/22/2021 6:15:59 PM]
+  Lester turned on Small Pump
+[2/22/2021 6:16:19 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:16:27 PM]
+  Lester opened Custom Hatch
+[2/22/2021 6:16:27 PM]
+  Lester closed Custom Door
+[2/22/2021 6:16:32 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:16:56 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:17:02 PM]
+  TornMap removed Oxygen Tank from Diving Suit (ID: 195)
+[2/22/2021 6:17:03 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 6:17:03 PM]
+  Lester dropped Oxygen Tank
+[2/22/2021 6:17:03 PM]
+  Lester placed Oxygen Tank in Diving Suit (ID: 13)
+[2/22/2021 6:17:04 PM]
+  TornMap placed Oxygen Tank in Diving Suit (ID: 195)
+[2/22/2021 6:17:21 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 6:17:42 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:17:42 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:17:47 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 6:18:08 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:19:10 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 6:19:12 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:19:12 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:19:14 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:19:14 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:19:15 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:19:17 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:19:20 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 6:19:21 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:19:22 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:19:22 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:19:27 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 2823)
+[2/22/2021 6:19:37 PM]
+  Lester dropped Diving Suit
+[2/22/2021 6:19:45 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 6:19:53 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 2823)
+[2/22/2021 6:19:54 PM]
+  tomacatx1 disconnected a wire from Sonar Transducer (power_in)
+[2/22/2021 6:19:54 PM]
+  tomacatx1 picked up Blue Wire
+[2/22/2021 6:19:54 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 2823)
+[2/22/2021 6:19:56 PM]
+  tomacatx1 equipped Blue Wire
+[2/22/2021 6:19:57 PM]
+  tomacatx1 connected a wire to Sonar Transducer (power_in)
+[2/22/2021 6:19:59 PM]
+  TornMap placed Oxygen Tank in Diving Suit (ID: 195)
+[2/22/2021 6:20:09 PM]
+  TornMap dropped Diving Suit
+[2/22/2021 6:20:14 PM]
+  tomacatx1 equipped Revolver
+[2/22/2021 6:20:18 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:20:18 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:20:18 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:20:18 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:20:32 PM]
+  Lester placed Sprayer in Medium Steel Cabinet (ID: 2887)
+[2/22/2021 6:20:32 PM]
+  tomacatx1 connected a wire to Junction Box (power)
+[2/22/2021 6:20:33 PM]
+  Lester picked up Sprayer
+[2/22/2021 6:20:35 PM]
+  Lester placed Ethanol in Toolbelt (ID: 3712)
+[2/22/2021 6:20:37 PM]
+  Lester dropped Sprayer
+[2/22/2021 6:20:38 PM]
+  TornMap picked up Oxygen Tank
+[2/22/2021 6:20:38 PM]
+  Lester placed Oxygen Tank in Medium Steel Cabinet (ID: 2887)
+[2/22/2021 6:20:42 PM]
+  Lester placed Welding Tool in Medium Steel Cabinet (ID: 2887)
+[2/22/2021 6:20:42 PM]
+  Lester placed Plasma Cutter in Medium Steel Cabinet (ID: 2887)
+[2/22/2021 6:20:43 PM]
+  TornMap placed Oxygen Tank in Oxygen Generator (ID: 2823)
+[2/22/2021 6:20:43 PM]
+  Lester picked up Plasma Cutter
+[2/22/2021 6:20:44 PM]
+  Lester picked up Welding Tool
+[2/22/2021 6:20:49 PM]
+  Lester picked up Blue Paint
+[2/22/2021 6:20:54 PM]
+  TornMap: :(
+[2/22/2021 6:20:55 PM]
+  Lester picked up Sprayer
+[2/22/2021 6:20:57 PM]
+  Lester placed Blue Paint in Sprayer (ID: 3670)
+[2/22/2021 6:20:59 PM]
+  Lester equipped Sprayer
+[2/22/2021 6:21:10 PM]
+  tomacatx1 dropped Diving Suit
+[2/22/2021 6:21:24 PM]
+  TornMap picked up Outpost Security Uniform
+[2/22/2021 6:21:29 PM]
+  TornMap: heyy looke me
+[2/22/2021 6:21:38 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 6:21:47 PM]
+  Lester dropped Sprayer
+[2/22/2021 6:21:49 PM]
+  Lester picked up Crowbar
+[2/22/2021 6:21:54 PM]
+  Lester equipped Crowbar
+[2/22/2021 6:21:58 PM]
+  tomacatx1 connected a wire to Junction Box (power)
+[2/22/2021 6:22:01 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:22:01 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:22:10 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:22:10 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:22:12 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:22:12 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:22:17 PM]
+  tomacatx1 connected a wire from Sonar Transducer (power_in) to Junction Box (power)
+[2/22/2021 6:22:22 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:22:22 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:22:22 PM]
+  Lester placed Diving Mask in Medium Steel Cabinet (ID: 2887)
+[2/22/2021 6:22:25 PM]
+  TornMap: shitty ass outpost stupid outpost 
+[2/22/2021 6:22:25 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:22:25 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:22:38 PM]
+  Lester picked up Button
+[2/22/2021 6:22:38 PM]
+  Lester detached Button from a wall
+[2/22/2021 6:22:41 PM]
+  Lester picked up Red Wire
+[2/22/2021 6:22:43 PM]
+  Lester dropped Button
+[2/22/2021 6:22:58 PM]
+  Lester equipped Red Wire
+[2/22/2021 6:23:01 PM]
+  Lester connected a wire to Sonar Monitor (transducer_in)
+[2/22/2021 6:23:12 PM]
+  TornMap picked up Diving Suit
+[2/22/2021 6:23:12 PM]
+  Lester picked up Diving Suit
+[2/22/2021 6:23:22 PM]
+  TornMap placed Oxygen Tank in Toolbelt (ID: 3726)
+[2/22/2021 6:23:23 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:23:23 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:23:24 PM]
+  TornMap placed Oxygen Tank in Toolbelt (ID: 3726)
+[2/22/2021 6:23:36 PM]
+  Lester connected a wire from Sonar Transducer (data_out) to Sonar Monitor (transducer_in)
+[2/22/2021 6:23:43 PM]
+  TornMap closed Custom Hatch
+[2/22/2021 6:23:43 PM]
+  TornMap opened Custom Door
+[2/22/2021 6:23:46 PM]
+  TornMap closed Custom Door
+[2/22/2021 6:23:46 PM]
+  TornMap opened Custom Hatch
+[2/22/2021 6:23:49 PM]
+  Lester disconnected a wire from Sonar Transducer (power_in) to Junction Box (power)
+[2/22/2021 6:23:52 PM]
+  Lester connected a wire from Sonar Transducer (power_in) to Junction Box (power)
+[2/22/2021 6:24:03 PM]
+  Lester turned off Pump
+[2/22/2021 6:24:04 PM]
+  Lester turned on Pump
+[2/22/2021 6:24:11 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:24:11 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:24:12 PM]
+  TornMap set the value "LightColor" of the item "Light Component" to "255,255,0,255".
+[2/22/2021 6:24:20 PM]
+  TornMap set the value "LightColor" of the item "Light Component" to "22,200,0,255".
+[2/22/2021 6:24:23 PM]
+  TornMap set the value "LightColor" of the item "Light Component" to "22,77,0,255".
+[2/22/2021 6:24:25 PM]
+  TornMap set the value "LightColor" of the item "Light Component" to "22,77,0,255".
+[2/22/2021 6:24:28 PM]
+  TornMap set the value "LightColor" of the item "Light Component" to "166,77,255,255".
+[2/22/2021 6:24:30 PM]
+  TornMap set the value "LightColor" of the item "Light Component" to "166,77,255,255".
+[2/22/2021 6:24:32 PM]
+  TornMap set the value "LightColor" of the item "Light Component" to "255,77,255,255".
+[2/22/2021 6:24:33 PM]
+  TornMap set the value "LightColor" of the item "Light Component" to "255,77,255,255".
+[2/22/2021 6:24:36 PM]
+  Lester placed Oxygen Tank in Oxygen Generator (ID: 2823)
+[2/22/2021 6:24:37 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 6:24:52 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 2910)
+[2/22/2021 6:24:52 PM]
+  tomacatx1 removed Oxygen Tank from Oxygen Tank Shelf (ID: 2910)
+[2/22/2021 6:24:52 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 188)
+[2/22/2021 6:24:55 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:24:55 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:25:25 PM]
+  tomacatx1 opened Custom Hatch
+[2/22/2021 6:25:28 PM]
+  tomacatx1 closed Custom Hatch
+[2/22/2021 6:25:28 PM]
+  Lester closed Custom Door
+[2/22/2021 6:25:28 PM]
+  Lester opened Custom Door
+[2/22/2021 6:25:31 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:25:31 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:25:33 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 6)
+[2/22/2021 6:25:34 PM]
+  Lester dropped Diving Suit
+[2/22/2021 6:25:36 PM]
+  tomacatx1 placed Underwater Scooter in Medium Windowed Steel Cabinet (ID: 725)
+[2/22/2021 6:25:38 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 6:25:40 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 182)
+[2/22/2021 6:25:42 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 6:25:48 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:25:49 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:25:52 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 539)
+[2/22/2021 6:25:52 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 539)
+[2/22/2021 6:25:53 PM]
+  tomacatx1 picked up Ballistic Helmet
+[2/22/2021 6:25:55 PM]
+  tomacatx1 picked up Body Armor
+[2/22/2021 6:25:58 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:25:58 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:25:59 PM]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 3756)
+[2/22/2021 6:26:00 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:26:00 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:26:01 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:26:01 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:26:01 PM]
+  TornMap dropped Diving Suit
+[2/22/2021 6:26:04 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 6:26:04 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 6:26:10 PM]
+  tomacatx1 failed to repair Supercapacitor
+[2/22/2021 6:26:11 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:26:13 PM]
+  TornMap: ew what's that
+[2/22/2021 6:26:15 PM]
+  tomacatx1 started repairing Supercapacitor
+[2/22/2021 6:26:21 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 6:26:30 PM]
+  tomacatx1 started repairing Supercapacitor
+[2/22/2021 6:26:40 PM]
+  Lester picked up Ethanol
+[2/22/2021 6:26:41 PM]
+  Lester equipped Ethanol
+[2/22/2021 6:26:49 PM]
+  TornMap: PMC in South Africa
+[2/22/2021 6:26:55 PM]
+  tomacatx1 failed to repair Junction Box
+[2/22/2021 6:27:04 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 6:27:16 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 6:27:17 PM]
+  tomacatx1 failed to repair Status Monitor
+[2/22/2021 6:27:32 PM]
+  TornMap failed to repair Battery
+[2/22/2021 6:27:33 PM]
+  TornMap failed to repair Battery
+[2/22/2021 6:27:33 PM]
+  TornMap started repairing Battery
+[2/22/2021 6:27:34 PM]
+  Lester started repairing Status Monitor
+[2/22/2021 6:27:35 PM]
+  tomacatx1: Need someone to repair devices in command room!
+[2/22/2021 6:27:55 PM]
+  TornMap started repairing Battery
+[2/22/2021 6:28:00 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 6:28:00 PM]
+  TornMap: Broken devices in junction compartment!
+[2/22/2021 6:28:02 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 6:28:06 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:28:20 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:28:20 PM]
+  TornMap failed to repair Junction Box
+[2/22/2021 6:28:37 PM]
+  Lester started repairing Battery
+[2/22/2021 6:28:56 PM]
+  Lester started repairing Battery
+[2/22/2021 6:29:09 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 6:29:15 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:29:15 PM]
+  tomacatx1 started repairing Small Pump
+[2/22/2021 6:29:15 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 6:29:21 PM]
+  TornMap: We are the superior species.

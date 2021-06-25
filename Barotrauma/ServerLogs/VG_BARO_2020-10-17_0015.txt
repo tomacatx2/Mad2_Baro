@@ -1,0 +1,1600 @@
+﻿[10/16/2020 11:36:34 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:34 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:36:34 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:35 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:35 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:35 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:35 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:36 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:36 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:36 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:38 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:36:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:38 PM]
+  Donte VIII picked up Duffel Bag
+[10/16/2020 11:36:38 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:38 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:39 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:39 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:39 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:36:40 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:42 PM]
+  Donte VIII picked up Wrench
+[10/16/2020 11:36:44 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:44 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:36:44 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:45 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:45 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:45 PM]
+  Donte VIII dropped Duffel Bag
+[10/16/2020 11:36:45 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:46 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:46 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:47 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:36:47 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:47 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:48 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:48 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:48 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:49 PM]
+  Outer wall breached by Bronte Polson
+[10/16/2020 11:36:49 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:49 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:49 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:36:49 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:36:50 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:50 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:50 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:50 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:50 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:51 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:51 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:51 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:51 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:51 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:51 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:51 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:52 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:52 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:53 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:53 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:53 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:53 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:36:54 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:54 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:36:54 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:36:57 PM]
+  Guy Fieri placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 11:36:58 PM]
+  Guy Fieri placed Plastic in Fabricator (ID: 1320)
+[10/16/2020 11:36:59 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:59 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:59 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:36:59 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:37:00 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:00 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:00 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:01 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:01 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:01 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:01 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:37:01 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:02 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:37:02 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:02 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:02 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:05 PM]
+  Guy Fieri removed Toolbox from Fabricator (ID: 1320)
+[10/16/2020 11:37:05 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:37:06 PM]
+  Bronte Polson picked up Diving Suit
+[10/16/2020 11:37:07 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:07 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:08 PM]
+  Guy Fieri started fabricating Harpoon Gun in Fabricator
+[10/16/2020 11:37:08 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:08 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:09 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:37:09 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:11 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:12 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:12 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:12 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:37:12 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:13 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:13 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:37:15 PM]
+  Doctor picked up Bandage
+[10/16/2020 11:37:17 PM]
+  Doctor used item Bandage
+[10/16/2020 11:37:19 PM]
+  Bronte Polson picked up Coilgun Ammunition Box
+[10/16/2020 11:37:20 PM]
+  Guy Fieri started repairing Nuclear Reactor
+[10/16/2020 11:37:20 PM]
+  Doctor used item Bandage
+[10/16/2020 11:37:22 PM]
+  Bronte Polson placed Coilgun Ammunition Box in Coilgun Loader (ID: 2542)
+[10/16/2020 11:37:22 PM]
+  Bronte Polson removed Coilgun Ammunition Box from Coilgun Loader (ID: 2542)
+[10/16/2020 11:37:22 PM]
+  Bronte Polson picked up Coilgun Ammunition Box
+[10/16/2020 11:37:22 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:37:22 PM]
+  Doctor used item Bandage
+[10/16/2020 11:37:23 PM]
+  Donte VIII picked up Diving Suit
+[10/16/2020 11:37:24 PM]
+  Bronte Polson placed Coilgun Ammunition Box in Coilgun Loader (ID: 842)
+[10/16/2020 11:37:26 PM]
+  Doctor used item Blood Pack
+[10/16/2020 11:37:28 PM]
+  Doctor used item Blood Pack
+[10/16/2020 11:37:32 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:37:33 PM]
+  Doctor used item Plastiseal
+[10/16/2020 11:37:36 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:36 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:37:36 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:36 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:37:36 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:37:36 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:36 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:37:37 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:37 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:37:37 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:37 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:37:37 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:37 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:37:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:38 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:37:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:38 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:37:38 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 5 Stun: 0.25
+[10/16/2020 11:37:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:38 PM]
+  Bonethresher has died (Cause of death: Lacerations)
+[10/16/2020 11:37:38 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 1.25 Bleeding: 0.1
+[10/16/2020 11:37:39 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:39 PM]
+  Bonethresher attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:37:40 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 5 Stun: 0.25
+[10/16/2020 11:37:42 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:37:43 PM]
+  Doctor placed Blood Pack in Doctor's Uniform (ID: 2581)
+[10/16/2020 11:37:43 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:37:43 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:37:44 PM]
+  Doctor picked up Bandage
+[10/16/2020 11:37:47 PM]
+  Doctor used item Bandage
+[10/16/2020 11:37:48 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 11:37:54 PM]
+  Kapitan Kolesnikov picked up Diving Suit
+[10/16/2020 11:37:54 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:37:56 PM]
+  Kapitan Kolesnikov picked up Underwater Scooter
+[10/16/2020 11:37:58 PM]
+  Doctor placed Methamphetamine in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:37:58 PM]
+  Guy Fieri placed Fuel Rod in Medium Steel Cabinet (ID: 2496)
+[10/16/2020 11:38:01 PM]
+  Doctor picked up Saline
+[10/16/2020 11:38:03 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:38:05 PM]
+  Bronte Polson failed to repair Supercapacitor
+[10/16/2020 11:38:09 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:38:11 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:38:12 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:38:12 PM]
+  Guy Fieri failed to repair Nuclear Reactor
+[10/16/2020 11:38:13 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 60 Lacerations: 60 Stun: 0.25
+[10/16/2020 11:38:15 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:38:16 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[10/16/2020 11:38:16 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 80 Gunshot wound: 60 Stun: 0.4
+[10/16/2020 11:38:17 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:38:20 PM]
+  Guy Fieri started repairing Nuclear Reactor
+[10/16/2020 11:38:27 PM]
+  Bronte Polson placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:38:28 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 11:38:29 PM]
+  Bronte Polson placed Oxygen Tank in Diving Suit (ID: 1709)
+[10/16/2020 11:38:30 PM]
+  Doctor picked up Diving Suit
+[10/16/2020 11:38:30 PM]
+  Kapitan Kolesnikov picked up Harpoon
+[10/16/2020 11:38:31 PM]
+  Kapitan Kolesnikov picked up Harpoon
+[10/16/2020 11:38:34 PM]
+  Bronte Polson started repairing Battery
+[10/16/2020 11:38:35 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:38:38 PM]
+  Donte VIII started repairing Supercapacitor
+[10/16/2020 11:38:40 PM]
+  Guy Fieri started repairing Large Engine
+[10/16/2020 11:38:44 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:38:48 PM]
+  Inner wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:38:49 PM]
+  Doctor placed Saline in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:38:49 PM]
+  Doctor removed Oxygen Tank from Medicine Cabinet (ID: 1247)
+[10/16/2020 11:38:49 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:38:50 PM]
+  Doctor placed Sufforin Antidote in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:38:50 PM]
+  Doctor removed Oxygen Tank from Medicine Cabinet (ID: 1247)
+[10/16/2020 11:38:50 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:38:52 PM]
+  Doctor placed Hyperzine in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:38:52 PM]
+  Doctor removed Oxygen Tank from Medicine Cabinet (ID: 1247)
+[10/16/2020 11:38:52 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:38:55 PM]
+  Kapitan Kolesnikov entered "on" on Terminal
+[10/16/2020 11:38:58 PM]
+  Bronte Polson placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:39:01 PM]
+  Bronte Polson placed Oxygen Tank in Diving Suit (ID: 1709)
+[10/16/2020 11:39:02 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 11:39:09 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:39:10 PM]
+  Doctor dropped Oxygen Tank
+[10/16/2020 11:39:11 PM]
+  Doctor dropped Oxygen Tank
+[10/16/2020 11:39:11 PM]
+  Doctor dropped Oxygen Tank
+[10/16/2020 11:39:13 PM]
+  Bronte Polson picked up Diving Mask
+[10/16/2020 11:39:14 PM]
+  Bronte Polson dropped Diving Mask
+[10/16/2020 11:39:15 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 11:39:17 PM]
+  Bronte Polson placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:39:19 PM]
+  Donte VIII picked up Fuel Rod
+[10/16/2020 11:39:24 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:39:25 PM]
+  Donte VIII placed Fuel Rod in Medium Steel Cabinet (ID: 2496)
+[10/16/2020 11:39:25 PM]
+  Bronte Polson placed Oxygen Tank in Diving Suit (ID: 1709)
+[10/16/2020 11:39:26 PM]
+  Doctor used item Bandage
+[10/16/2020 11:39:27 PM]
+  Donte VIII placed Fuel Rod in Medium Steel Cabinet (ID: 2496)
+[10/16/2020 11:39:28 PM]
+  Donte VIII placed Fuel Rod in Toolbox (ID: 2530)
+[10/16/2020 11:39:29 PM]
+  Doctor dropped Health Scanner HUD
+[10/16/2020 11:39:32 PM]
+  Bronte Polson failed to repair Battery
+[10/16/2020 11:39:34 PM]
+  Bronte Polson started repairing Battery
+[10/16/2020 11:39:35 PM]
+  Doctor picked up Health Scanner HUD
+[10/16/2020 11:39:37 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:39:39 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:39:43 PM]
+  Guy Fieri started repairing Nuclear Reactor
+[10/16/2020 11:39:45 PM]
+  Donte VIII started repairing Supercapacitor
+[10/16/2020 11:39:48 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 11:39:49 PM]
+  Doctor used item Bandage
+[10/16/2020 11:39:49 PM]
+  Kapitan Kolesnikov placed Harpoon in Harpoon Gun (ID: 2345)
+[10/16/2020 11:39:50 PM]
+  Kapitan Kolesnikov placed Harpoon in Harpoon Gun (ID: 2345)
+[10/16/2020 11:39:51 PM]
+  Kapitan Kolesnikov picked up Screwdriver
+[10/16/2020 11:39:52 PM]
+  Kapitan Kolesnikov picked up Wrench
+[10/16/2020 11:39:55 PM]
+  Doctor used item Blood Pack
+[10/16/2020 11:39:56 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Toolbox (ID: 3828)
+[10/16/2020 11:39:57 PM]
+  Kapitan Kolesnikov placed Diving Mask in Toolbox (ID: 3828)
+[10/16/2020 11:39:57 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:39:58 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Diving Suit (ID: 154)
+[10/16/2020 11:39:59 PM]
+  Doctor used item Blood Pack
+[10/16/2020 11:39:59 PM]
+  Bronte Polson placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:40:04 PM]
+  Doctor used item Plastiseal
+[10/16/2020 11:40:06 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:40:06 PM]
+  Donte VIII started repairing Supercapacitor
+[10/16/2020 11:40:08 PM]
+  Bronte Polson placed Oxygen Tank in Diving Suit (ID: 1709)
+[10/16/2020 11:40:11 PM]
+  Kapitan Kolesnikov started repairing Junction Box
+[10/16/2020 11:40:16 PM]
+  Bronte Polson dropped Diving Suit
+[10/16/2020 11:40:20 PM]
+  Donte VIII started repairing Navigation Terminal
+[10/16/2020 11:40:26 PM]
+  Bronte Polson started repairing Junction Box
+[10/16/2020 11:40:41 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:40:42 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:40:44 PM]
+  Bronte Polson started repairing Battery
+[10/16/2020 11:40:46 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:40:46 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:40:47 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:40:57 PM]
+  Donte VIII started repairing Coilgun Loader
+[10/16/2020 11:40:57 PM]
+  Doctor removed Diving Suit from Guy Fieri
+[10/16/2020 11:41:06 PM]
+  Bronte Polson picked up Oxygen Tank
+[10/16/2020 11:41:10 PM]
+  Kapitan Kolesnikov picked up Hyperzine
+[10/16/2020 11:41:13 PM]
+  Kapitan Kolesnikov used item Hyperzine
+[10/16/2020 11:41:14 PM]
+  Bronte Polson placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:41:16 PM]
+  Kapitan Kolesnikov placed Hyperzine in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:41:17 PM]
+  Donte VIII started repairing Coilgun Loader
+[10/16/2020 11:41:18 PM]
+  Bronte Polson picked up Oxygen Tank
+[10/16/2020 11:41:20 PM]
+  Bronte Polson placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:41:21 PM]
+  Bronte Polson picked up Oxygen Tank
+[10/16/2020 11:41:22 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:41:28 PM]
+  Bronte Polson picked up Fire Extinguisher
+[10/16/2020 11:41:31 PM]
+  Donte VIII started repairing Railgun Loader
+[10/16/2020 11:41:34 PM]
+  Guy Fieri started repairing Medical Fabricator
+[10/16/2020 11:41:34 PM]
+  Kapitan Kolesnikov dropped Diving Suit
+[10/16/2020 11:41:37 PM]
+  Kapitan Kolesnikov picked up Diving Mask
+[10/16/2020 11:41:41 PM]
+  Kapitan Kolesnikov dropped Diving Mask
+[10/16/2020 11:41:43 PM]
+  Kapitan Kolesnikov started repairing Battery
+[10/16/2020 11:41:45 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:41:47 PM]
+  Bronte Polson placed Fire Extinguisher in Fire Extinguisher Bracket (ID: 601)
+[10/16/2020 11:41:52 PM]
+  Bronte Polson started repairing Junction Box
+[10/16/2020 11:41:58 PM]
+  Donte VIII dropped Diving Suit
+[10/16/2020 11:41:58 PM]
+  Kapitan Kolesnikov started repairing Junction Box
+[10/16/2020 11:42:00 PM]
+  Guy Fieri picked up Diving Suit
+[10/16/2020 11:42:01 PM]
+  Donte VIII started repairing Supercapacitor
+[10/16/2020 11:42:07 PM]
+  Guy Fieri picked up Oxygen Tank
+[10/16/2020 11:42:07 PM]
+  Guy Fieri dropped Oxygen Tank
+[10/16/2020 11:42:07 PM]
+  Guy Fieri placed Oxygen Tank in Diving Suit (ID: 3838)
+[10/16/2020 11:42:15 PM]
+  Bronte Polson placed Oxygen Tank in Diving Mask (ID: 485)
+[10/16/2020 11:42:16 PM]
+  Kapitan Kolesnikov started repairing Junction Box
+[10/16/2020 11:42:20 PM]
+  Bronte Polson picked up Diving Suit
+[10/16/2020 11:42:22 PM]
+  Bronte Polson removed Oxygen Tank from Diving Suit (ID: 1709)
+[10/16/2020 11:42:23 PM]
+  Bronte Polson dropped Diving Suit
+[10/16/2020 11:42:24 PM]
+  Doctor placed Diving Suit in Diving Suit Locker (ID: 2798)
+[10/16/2020 11:42:24 PM]
+  Bronte Polson picked up Oxygen Tank
+[10/16/2020 11:42:26 PM]
+  Kapitan Kolesnikov started repairing Junction Box
+[10/16/2020 11:42:27 PM]
+  Bronte Polson placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:42:27 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:42:29 PM]
+  Bronte Polson picked up Diving Suit
+[10/16/2020 11:42:30 PM]
+  Doctor placed Blood Pack in Doctor's Uniform (ID: 2581)
+[10/16/2020 11:42:31 PM]
+  Kapitan Kolesnikov: Need someone to repair devices in engine room!
+[10/16/2020 11:42:32 PM]
+  Bronte Polson placed Oxygen Tank in Diving Suit (ID: 1709)
+[10/16/2020 11:42:32 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:42:33 PM]
+  Bronte Polson dropped Diving Suit
+[10/16/2020 11:42:35 PM]
+  Kapitan Kolesnikov failed to repair Nuclear Reactor
+[10/16/2020 11:42:35 PM]
+  Bronte Polson picked up Diving Suit
+[10/16/2020 11:42:37 PM]
+  Bronte Polson dropped Diving Suit
+[10/16/2020 11:42:43 PM]
+  Kapitan Kolesnikov started repairing Nuclear Reactor
+[10/16/2020 11:42:47 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:42:54 PM]
+  Doctor picked up Hyperzine
+[10/16/2020 11:42:54 PM]
+  Bronte Polson failed to repair Large Engine
+[10/16/2020 11:42:55 PM]
+  Guy Fieri started repairing Nuclear Reactor
+[10/16/2020 11:42:55 PM]
+  Bronte Polson failed to repair Large Engine
+[10/16/2020 11:42:57 PM]
+  Bronte Polson started repairing Large Engine
+[10/16/2020 11:43:07 PM]
+  Bronte Polson: Need medical assistance in engine room!
+[10/16/2020 11:43:09 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:43:10 PM]
+  Kapitan Kolesnikov picked up Physicorium Harpoon
+[10/16/2020 11:43:10 PM]
+  Kapitan Kolesnikov picked up Physicorium Harpoon
+[10/16/2020 11:43:11 PM]
+  Kapitan Kolesnikov placed Physicorium Harpoon in Harpoon Gun (ID: 2345)
+[10/16/2020 11:43:12 PM]
+  Kapitan Kolesnikov placed Physicorium Harpoon in Harpoon Gun (ID: 2345)
+[10/16/2020 11:43:13 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 11:43:16 PM]
+  Doctor used item Plastiseal
+[10/16/2020 11:43:18 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 8636, Fission rate: 61, Turbine output: 65, Autotemp OFF
+[10/16/2020 11:43:19 PM]
+  Doctor used item Plastiseal
+[10/16/2020 11:43:20 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 9819, Fission rate: 59, Turbine output: 65, Autotemp OFF
+[10/16/2020 11:43:21 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 10000, Fission rate: 39, Turbine output: 65, Autotemp OFF
+[10/16/2020 11:43:22 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 9066, Fission rate: 39, Turbine output: 42, Autotemp OFF
+[10/16/2020 11:43:23 PM]
+  Kapitan Kolesnikov placed Blood Pack in Toolbox (ID: 3828)
+[10/16/2020 11:43:25 PM]
+  Donte VIII started repairing Deconstructor
+[10/16/2020 11:43:26 PM]
+  Kapitan Kolesnikov picked up Fuel Rod
+[10/16/2020 11:43:26 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 8230, Fission rate: 36, Turbine output: 42, Autotemp OFF
+[10/16/2020 11:43:27 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 7213, Fission rate: 25, Turbine output: 42, Autotemp OFF
+[10/16/2020 11:43:28 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 6213, Fission rate: 28, Turbine output: 42, Autotemp OFF
+[10/16/2020 11:43:29 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 5213, Fission rate: 31, Turbine output: 42, Autotemp OFF
+[10/16/2020 11:43:31 PM]
+  Kapitan Kolesnikov picked up Fire Extinguisher
+[10/16/2020 11:43:38 PM]
+  Kapitan Kolesnikov adjusted reactor settings: Temperature: 745, Fission rate: 31, Turbine output: 42, Autotemp ON
+[10/16/2020 11:43:38 PM]
+  Bronte Polson picked up Fire Extinguisher
+[10/16/2020 11:43:40 PM]
+  Kapitan Kolesnikov placed Fuel Rod in Medium Steel Cabinet (ID: 2496)
+[10/16/2020 11:43:42 PM]
+  Doctor placed Bandage in Doctor's Uniform (ID: 2581)
+[10/16/2020 11:43:43 PM]
+  Kapitan Kolesnikov placed Fire Extinguisher in Fire Extinguisher Bracket (ID: 3684)
+[10/16/2020 11:43:44 PM]
+  Bronte Polson placed Fire Extinguisher in Fire Extinguisher Bracket (ID: 3685)
+[10/16/2020 11:43:45 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 2999, Fission rate: 54, Turbine output: 56, Autotemp OFF
+[10/16/2020 11:43:47 PM]
+  Donte VIII failed to repair Fabricator
+[10/16/2020 11:43:49 PM]
+  Donte VIII started repairing Fabricator
+[10/16/2020 11:43:51 PM]
+  Doctor picked up Diving Mask
+[10/16/2020 11:43:52 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:43:53 PM]
+  Doctor placed Diving Mask in Supplies Cabinet (ID: 431)
+[10/16/2020 11:43:53 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:43:54 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:43:56 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:43:56 PM]
+  Doctor placed Oxygen Tank in Diving Mask (ID: 2342)
+[10/16/2020 11:43:58 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 11:44:01 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 6484, Fission rate: 53, Turbine output: 55, Autotemp ON
+[10/16/2020 11:44:02 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:44:02 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:44:02 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:44:03 PM]
+  Doctor placed Cyanide Antidote in Deconstructor (ID: 1321)
+[10/16/2020 11:44:03 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:44:04 PM]
+  Doctor placed Deliriumine Antidote in Deconstructor (ID: 1321)
+[10/16/2020 11:44:04 PM]
+  Doctor placed Cyanide Antidote in Deconstructor (ID: 1321)
+[10/16/2020 11:44:04 PM]
+  Doctor activated Deconstructor
+[10/16/2020 11:44:08 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:44:09 PM]
+  Bronte Polson started repairing Junction Box
+[10/16/2020 11:44:10 PM]
+  Doctor picked up Duffel Bag
+[10/16/2020 11:44:14 PM]
+  Doctor dropped Duffel Bag
+[10/16/2020 11:44:15 PM]
+  Bronte Polson closed Custom Door
+[10/16/2020 11:44:15 PM]
+  Bronte Polson opened Custom Door
+[10/16/2020 11:44:16 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:44:17 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:44:19 PM]
+  Bronte Polson opened Custom Hatch
+[10/16/2020 11:44:20 PM]
+  Bronte Polson closed Custom Hatch
+[10/16/2020 11:44:20 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:44:20 PM]
+  Bronte Polson opened Custom Door
+[10/16/2020 11:44:20 PM]
+  Bronte Polson closed Custom Door
+[10/16/2020 11:44:21 PM]
+  Donte VIII picked up Diving Suit
+[10/16/2020 11:44:22 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:44:24 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:44:26 PM]
+  Doctor picked up Diving Suit
+[10/16/2020 11:44:27 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:27 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:44:28 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:28 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:28 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:28 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:29 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:29 PM]
+  Doctor placed Oxygen Tank in Diving Suit (ID: 2797)
+[10/16/2020 11:44:29 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:29 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:31 PM]
+  Donte VIII launched Railgun (projectile: Railgun Shell)
+[10/16/2020 11:44:31 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:44:32 PM]
+  Doctor placed Oxygen Tank in Oxygen Tank Shelf (ID: 2806)
+[10/16/2020 11:44:34 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:44:34 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:44:34 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:34 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:34 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:35 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:35 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:35 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:35 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:36 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:36 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:36 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:36 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:36 PM]
+  Donte VIII launched Railgun (projectile: Railgun Shell)
+[10/16/2020 11:44:36 PM]
+  Mudraptor attacked by Donte VIII. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/16/2020 11:44:36 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[10/16/2020 11:44:36 PM]
+  Mudraptor attacked by Donte VIII. Lacerations: 100 Bleeding: 75 Stun: 15
+[10/16/2020 11:44:37 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:37 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:38 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:38 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 1.25
+[10/16/2020 11:44:38 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:38 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:38 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:38 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:38 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 6.25 Bleeding: 0.5
+[10/16/2020 11:44:38 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 6.25 Bleeding: 0.5
+[10/16/2020 11:44:38 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:38 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:39 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:44:39 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:44:39 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:39 PM]
+  Bronte Polson launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:39 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:39 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:40 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:40 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:44:40 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:40 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 25 Bleeding: 2
+[10/16/2020 11:44:40 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:40 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:41 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:41 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 25 Bleeding: 2
+[10/16/2020 11:44:41 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:41 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 25 Bleeding: 2
+[10/16/2020 11:44:41 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:43 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:43 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:44 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:44:44 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:44 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 6.25 Bleeding: 0.5
+[10/16/2020 11:44:44 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:44 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:45 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:45 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:45 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:45 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:45 PM]
+  Outer wall breached by Kapitan Kolesnikov
+[10/16/2020 11:44:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:46 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:44:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:47 PM]
+  Doctor picked up Bandage
+[10/16/2020 11:44:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:48 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 25 Bleeding: 2
+[10/16/2020 11:44:48 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:48 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 6.25 Bleeding: 0.5
+[10/16/2020 11:44:48 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:48 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:48 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:50 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:51 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:44:51 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:51 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:44:51 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:51 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:52 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:52 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:52 PM]
+  Doctor picked up Tonic Liquid
+[10/16/2020 11:44:52 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:53 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:53 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:53 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:44:53 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:53 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:54 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:54 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:54 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:54 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 6.25 Bleeding: 0.5
+[10/16/2020 11:44:54 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:55 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:55 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:44:55 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:55 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:44:55 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:56 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:56 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:56 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:56 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:44:56 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:57 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:57 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:57 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:58 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1.25
+[10/16/2020 11:44:58 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:58 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:58 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:59 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:59 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:44:59 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 25 Bleeding: 2
+[10/16/2020 11:45:00 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:45:00 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:45:00 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:45:00 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:01 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[10/16/2020 11:45:01 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:45:01 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:01 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:01 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 25 Bleeding: 2
+[10/16/2020 11:45:01 PM]
+  Donte VIII dropped Diving Suit
+[10/16/2020 11:45:02 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:02 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:03 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:05 PM]
+  Donte VIII started repairing Battery
+[10/16/2020 11:45:09 PM]
+  Outer wall repaired by Bronte Polson
+[10/16/2020 11:45:10 PM]
+  Doctor used item Bandage
+[10/16/2020 11:45:14 PM]
+  Bronte Polson picked up Diving Suit
+[10/16/2020 11:45:16 PM]
+  Guy Fieri picked up Oxygen Tank
+[10/16/2020 11:45:18 PM]
+  Guy Fieri picked up Oxygen Tank
+[10/16/2020 11:45:18 PM]
+  Guy Fieri dropped Oxygen Tank
+[10/16/2020 11:45:18 PM]
+  Guy Fieri placed Oxygen Tank in Diving Suit (ID: 3838)
+[10/16/2020 11:45:21 PM]
+  Guy Fieri picked up Guitar
+[10/16/2020 11:45:21 PM]
+  Bronte Polson placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:45:21 PM]
+  Bronte Polson removed Oxygen Tank from Oxygen Generator (ID: 508)
+[10/16/2020 11:45:22 PM]
+  Kapitan Kolesnikov placed Veteran's Cap in Toolbox (ID: 3828)
+[10/16/2020 11:45:22 PM]
+  Kapitan Kolesnikov removed Diving Mask from Toolbox (ID: 3828)
+[10/16/2020 11:45:22 PM]
+  Kapitan Kolesnikov picked up Diving Mask
+[10/16/2020 11:45:22 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 11:45:22 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:45:24 PM]
+  Guy Fieri placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:45:25 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:45:26 PM]
+  Guy Fieri placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:45:26 PM]
+  Donte VIII attacked by Kapitan Kolesnikov. Bleeding: 30 Lacerations: 15 Stun: 0.25
+[10/16/2020 11:45:28 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 5 Stun: 0.25
+[10/16/2020 11:45:29 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:45:29 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:29 PM]
+  Guy Fieri placed Oxygen Tank in Oxygen Generator (ID: 508)
+[10/16/2020 11:45:29 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 30 Lacerations: 50 Stun: 0.25
+[10/16/2020 11:45:29 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:29 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:30 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:30 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:30 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:30 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:31 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:31 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:31 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:32 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:45:32 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:32 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:32 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:32 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:33 PM]
+  Guy Fieri picked up Oxygen Tank
+[10/16/2020 11:45:33 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:33 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:33 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:33 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:45:34 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:34 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:34 PM]
+  Tigerthresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:45:34 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:34 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[10/16/2020 11:45:34 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 80 Gunshot wound: 60 Stun: 0.4
+[10/16/2020 11:45:34 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:36 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:45:36 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:37 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:45:38 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 11:45:38 PM]
+  Doctor launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:45:38 PM]
+  Tigerthresher attacked by Doctor. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:45:39 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:45:40 PM]
+  Donte VIII picked up Diving Suit
+[10/16/2020 11:45:42 PM]
+  Guy Fieri attacked by Bronte Polson. Blunt force trauma: 1.6
+[10/16/2020 11:45:42 PM]
+  Bronte Polson used Stun Baton (Battery Cell) on Guy Fieri.
+[10/16/2020 11:45:42 PM]
+  Guy Fieri attacked by Bronte Polson. Blunt force trauma: 1.6
+[10/16/2020 11:45:42 PM]
+  Bronte Polson used Stun Baton (Battery Cell) on Guy Fieri.
+[10/16/2020 11:45:44 PM]
+  Guy Fieri attacked by Bronte Polson. Blunt force trauma: 1.6
+[10/16/2020 11:45:44 PM]
+  Bronte Polson used Stun Baton (Battery Cell) on Guy Fieri.
+[10/16/2020 11:45:45 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:45:49 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:45:51 PM]
+  Kapitan Kolesnikov has died (Cause of death: Bite wounds)
+[10/16/2020 11:45:53 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:45:54 PM]
+  Inner wall repaired by Doctor
+[10/16/2020 11:45:56 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:46:00 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[10/16/2020 11:46:04 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:46:09 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:46:11 PM]
+  Tigerthresher has died (Cause of death: Blunt force trauma)
+[10/16/2020 11:46:16 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:46:17 PM]
+  Bonethresher has died (Cause of death: Internal damage)
+[10/16/2020 11:46:18 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:46:18 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:46:23 PM]
+  Doctor used item Bandage
+[10/16/2020 11:46:24 PM]
+  Kapitan Kolesnikov: okay no
+[10/16/2020 11:46:25 PM]
+  Doctor used item Bandage
+[10/16/2020 11:46:28 PM]
+  Kapitan Kolesnikov: were getting out of here
+[10/16/2020 11:46:34 PM]
+  Guy Fieri has died (Cause of death: Bite wounds)
+[10/16/2020 11:46:35 PM]
+  Kapitan Kolesnikov: next shuttle were just gonna evac
+[10/16/2020 11:46:37 PM]
+  Bronte Polson has died (Cause of death: Oxygen low)
+[10/16/2020 11:46:40 PM]
+  Tigerthresher has died (Cause of death: Bite wounds)
+[10/16/2020 11:46:47 PM]
+  Bronte Polson: Dead niggas
+[10/16/2020 11:46:59 PM]
+  Tigerthresher has died (Cause of death: Bite wounds)
+[10/16/2020 11:47:00 PM]
+  Doctor used item Tonic Liquid
+[10/16/2020 11:47:04 PM]
+  Swarmcrawler has died (Cause of death: Blood loss)
+[10/16/2020 11:47:17 PM]
+  Doctor picked up Saline
+[10/16/2020 11:47:20 PM]
+  Guy Fieri: yep
+[10/16/2020 11:47:20 PM]
+  Doctor used item Saline
+[10/16/2020 11:47:22 PM]
+  Mudraptor has died (Cause of death: Unknown)
+[10/16/2020 11:47:27 PM]
+  Kapitan Kolesnikov: evac shuttle eta 3m
+[10/16/2020 11:47:28 PM]
+  Bronte Polson: We landed on a fucking lava vent
+[10/16/2020 11:47:32 PM]
+  Kapitan Kolesnikov: based
+[10/16/2020 11:47:33 PM]
+  Doctor picked up Saline
+[10/16/2020 11:47:33 PM]
+  Bronte Polson: lmao
+[10/16/2020 11:47:35 PM]
+  Kapitan Kolesnikov: wild ride
+[10/16/2020 11:47:40 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:47:42 PM]
+  Kapitan Kolesnikov: i was fighting the raptor in armory
+[10/16/2020 11:47:43 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:47:43 PM]
+  Bronte Polson:  literally never stops
+[10/16/2020 11:47:48 PM]
+  Doctor placed Oxygen Tank in Large Steel Cabinet (ID: 774)
+[10/16/2020 11:47:48 PM]
+  Doctor removed Stun Baton from Large Steel Cabinet (ID: 774)
+[10/16/2020 11:47:48 PM]
+  Doctor picked up Stun Baton
+[10/16/2020 11:47:48 PM]
+  Bronte Polson: Yeah me too
+[10/16/2020 11:47:50 PM]
+  Kapitan Kolesnikov: and i saw the lava right behind the breach
+[10/16/2020 11:47:50 PM]
+  Bonethresher has died (Cause of death: Burn)
+[10/16/2020 11:47:52 PM]
+  Kapitan Kolesnikov: i knew i was fucked
+[10/16/2020 11:47:53 PM]
+  Tigerthresher attacked by Doctor. Blunt force trauma: 4
+[10/16/2020 11:47:53 PM]
+  Doctor used Stun Baton (Battery Cell) on Tigerthresher.
+[10/16/2020 11:47:55 PM]
+  Tigerthresher attacked by Doctor. Blunt force trauma: 4
+[10/16/2020 11:47:55 PM]
+  Doctor used Stun Baton (Battery Cell) on Tigerthresher.
+[10/16/2020 11:47:56 PM]
+  Mudraptor attacked by Doctor. Blunt force trauma: 4
+[10/16/2020 11:47:56 PM]
+  Doctor used Stun Baton (Battery Cell) on Mudraptor.
+[10/16/2020 11:47:57 PM]
+  Tigerthresher attacked by Doctor. Blunt force trauma: 4
+[10/16/2020 11:47:57 PM]
+  Doctor used Stun Baton (Battery Cell) on Tigerthresher.
+[10/16/2020 11:47:58 PM]
+  Tigerthresher attacked by Doctor. Blunt force trauma: 4
+[10/16/2020 11:47:58 PM]
+  Doctor used Stun Baton (Battery Cell) on Tigerthresher.
+[10/16/2020 11:47:59 PM]
+  Tigerthresher attacked by Doctor. Blunt force trauma: 4
+[10/16/2020 11:47:59 PM]
+  Doctor used Stun Baton (Battery Cell) on Tigerthresher.
+[10/16/2020 11:48:00 PM]
+  Bronte Polson: I got chomped by a billion raptors
+[10/16/2020 11:48:00 PM]
+  Tigerthresher attacked by Doctor. Blunt force trauma: 4
+[10/16/2020 11:48:00 PM]
+  Doctor used Stun Baton (Battery Cell) on Tigerthresher.
+[10/16/2020 11:48:05 PM]
+  Bronte Polson: I only had y revolved
+[10/16/2020 11:48:06 PM]
+  Donte VIII dropped Toolbox
+[10/16/2020 11:48:07 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 11:48:10 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 11:48:13 PM]
+  Swarmcrawler has died (Cause of death: Blood loss)
+[10/16/2020 11:48:15 PM]
+  Donte VIII picked up Toolbox
+[10/16/2020 11:48:20 PM]
+  Bronte Polson: At the very least it seems the lava killed the worst of it
+[10/16/2020 11:48:21 PM]
+  Kapitan Kolesnikov: if they die before the shuttle arrives
+[10/16/2020 11:48:24 PM]
+  Doctor placed Stun Baton in Large Steel Cabinet (ID: 774)
+[10/16/2020 11:48:24 PM]
+  Doctor removed Frag Grenade from Large Steel Cabinet (ID: 774)
+[10/16/2020 11:48:24 PM]
+  Doctor picked up Frag Grenade
+[10/16/2020 11:48:28 PM]
+  Doctor threw Frag Grenade
+[10/16/2020 11:48:31 PM]
+  Inner wall breached by Doctor
+[10/16/2020 11:48:31 PM]
+  Tigerthresher has died (Cause of death: Lacerations)
+[10/16/2020 11:48:34 PM]
+  Kapitan Kolesnikov: hahahahahah
+[10/16/2020 11:48:36 PM]
+  Kapitan Kolesnikov: BASED
+[10/16/2020 11:48:38 PM]
+  Kapitan Kolesnikov: he pulled the pin
+[10/16/2020 11:48:39 PM]
+  Bronte Polson: BASED
+[10/16/2020 11:48:40 PM]
+  Kapitan Kolesnikov: before dying
+[10/16/2020 11:48:41 PM]
+  Doctor has died (Cause of death: Burn)
+[10/16/2020 11:48:44 PM]
+  Kapitan Kolesnikov: HAHAHAHAHA
+[10/16/2020 11:48:46 PM]
+  Doctor: ALAHU AKBAR
+[10/16/2020 11:48:50 PM]
+  Console command "heal "Donte VIII"" executed by Kapitan Kolesnikov.
+[10/16/2020 11:48:57 PM]
+  Doctor: he can fix this
+[10/16/2020 11:48:57 PM]
+  Kapitan Kolesnikov: lets evac donte
+[10/16/2020 11:49:05 PM]
+  Doctor: the thing is stuck at the top
+[10/16/2020 11:49:07 PM]
+  Kapitan Kolesnikov: well spawn in a shuttle
+[10/16/2020 11:49:08 PM]
+  Bronte Polson: Is he hurt something
+[10/16/2020 11:49:09 PM]
+  Kapitan Kolesnikov: and evac donte
+[10/16/2020 11:49:14 PM]
+  Doctor: hes bleeding
+[10/16/2020 11:49:15 PM]
+  Bronte Polson: The thing at top I think is dead
+[10/16/2020 11:49:17 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:49:18 PM]
+  Doctor: and hurt
+[10/16/2020 11:49:26 PM]
+  Doctor: theres health on him like 60%
+[10/16/2020 11:49:26 PM]
+  Donte VIII: I am screwed
+[10/16/2020 11:49:30 PM]
+  Kapitan Kolesnikov: eta 1m
+[10/16/2020 11:49:36 PM]
+  HOST: e
+[10/16/2020 11:49:39 PM]
+  HOST: dont worry
+[10/16/2020 11:49:39 PM]
+  Bronte Polson: do skills reset
+[10/16/2020 11:49:40 PM]
+  Doctor: NOOOOOOOOOOO
+[10/16/2020 11:49:41 PM]
+  HOST: evac will come soon
+[10/16/2020 11:49:44 PM]
+  Donte VIII started repairing Nuclear Reactor
+[10/16/2020 11:49:52 PM]
+  Bronte Polson: like all my skills I got repairing shit
+[10/16/2020 11:50:01 PM]
+  Bronte Polson: are they gone like tears in the rain etc etc
+[10/16/2020 11:50:04 PM]
+  HOST: survive for 1 minute
+[10/16/2020 11:50:09 PM]
+  Doctor: DONT OPEN THE DOOR
+[10/16/2020 11:50:13 PM]
+  Doctor: good god
+[10/16/2020 11:50:13 PM]
+  Guy Fieri: welp
+[10/16/2020 11:50:13 PM]
+  Bronte Polson: OBJECTIVE: SURVIVE
+[10/16/2020 11:50:14 PM]
+  Kapitan Kolesnikov: we can evac him
+[10/16/2020 11:50:17 PM]
+  Kapitan Kolesnikov: we can SAVE him
+[10/16/2020 11:50:19 PM]
+  Guy Fieri: i gotta eat so
+[10/16/2020 11:50:25 PM]
+  Guy Fieri: im off to flavor town
+[10/16/2020 11:50:29 PM]
+  Kapitan Kolesnikov: mhm
+[10/16/2020 11:50:31 PM]
+  Kapitan Kolesnikov: rejoin whenever
+[10/16/2020 11:50:34 PM]
+  Guy Fieri: bbl
+[10/16/2020 11:50:37 PM]
+  Guy Fieri has left the server. Reason: Guy Fieri has disconnected.
+[10/16/2020 11:50:52 PM]
+  Dispatching the respawn shuttle.
+[10/16/2020 11:50:52 PM]
+  Respawning Kapitan Kolesnikov (127.0.0.1) as Captain
+[10/16/2020 11:50:52 PM]
+  Respawning Doctor (79.101.83.46) as Medical Doctor
+[10/16/2020 11:50:52 PM]
+  Respawning Bronte Polson (189.216.151.136) as Security Officer
+[10/16/2020 11:50:52 PM]
+  Doctor: hes low oxy i think
+[10/16/2020 11:51:00 PM]
+  Bronte Polson picked up Diving Suit
+[10/16/2020 11:51:03 PM]
+  Bronte Polson dropped Diving Suit
+[10/16/2020 11:51:06 PM]
+  Doctor opened Custom Windowed Door
+[10/16/2020 11:51:07 PM]
+  Doctor closed Custom Windowed Door
+[10/16/2020 11:51:09 PM]
+  Doctor picked up Diving Suit
+[10/16/2020 11:51:10 PM]
+  Doctor dropped Diving Suit
+[10/16/2020 11:51:22 PM]
+  Console command "spawnitem SMg inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:51:23 PM]
+  Donte VIII dropped Diving Suit
+[10/16/2020 11:51:24 PM]
+  Donte VIII picked up Diving Suit
+[10/16/2020 11:51:27 PM]
+  Console command "spawnitem SMG inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:51:28 PM]
+  Console command "spawnitem SMG inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:51:30 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:51:32 PM]
+  Console command "spawnitem "SMG Magazine" inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:51:33 PM]
+  Console command "spawnitem "SMG Magazine" inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:51:33 PM]
+  Console command "spawnitem "SMG Magazine" inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:51:35 PM]
+  Kapitan Kolesnikov placed SMG Magazine in SMG (ID: 2400)
+[10/16/2020 11:51:36 PM]
+  Kapitan Kolesnikov placed SMG Magazine in SMG (ID: 3832)
+[10/16/2020 11:51:37 PM]
+  Kapitan Kolesnikov placed SMG Magazine in SMG (ID: 3871)
+[10/16/2020 11:51:39 PM]
+  Kapitan Kolesnikov placed SMG in Medium Steel Cabinet (ID: 339)
+[10/16/2020 11:51:40 PM]
+  Kapitan Kolesnikov placed SMG in Medium Steel Cabinet (ID: 339)
+[10/16/2020 11:51:42 PM]
+  Bronte Polson picked up Welding Tool
+[10/16/2020 11:51:45 PM]
+  Doctor picked up Crowbar
+[10/16/2020 11:51:46 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:51:48 PM]
+  Doctor placed Crowbar in Medium Steel Cabinet (ID: 339)
+[10/16/2020 11:51:56 PM]
+  Bronte Polson picked up SMG
+[10/16/2020 11:51:58 PM]
+  Doctor placed Syringe Gun in Medium Steel Cabinet (ID: 339)
+[10/16/2020 11:51:58 PM]
+  Doctor removed SMG from Medium Steel Cabinet (ID: 339)
+[10/16/2020 11:51:58 PM]
+  Doctor picked up SMG
+[10/16/2020 11:52:03 PM]
+  Doctor picked up Flare
+[10/16/2020 11:52:05 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:52:13 PM]
+  Console command "spawnitem Morphine inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:52:13 PM]
+  Console command "spawnitem Morphine inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:52:23 PM]
+  Kapitan Kolesnikov picked up Oxygen Tank
+[10/16/2020 11:52:24 PM]
+  Kapitan Kolesnikov picked up Oxygen Tank
+[10/16/2020 11:52:29 PM]
+  Console command "spawnitem Toolbox inventory" executed by Kapitan Kolesnikov.
+[10/16/2020 11:52:31 PM]
+  Kapitan Kolesnikov placed Morphine in Toolbox (ID: 3877)
+[10/16/2020 11:52:32 PM]
+  Kapitan Kolesnikov placed Morphine in Toolbox (ID: 3877)
+[10/16/2020 11:52:34 PM]
+  Donte VIII placed Harpoon in Guy Fieri
+[10/16/2020 11:52:34 PM]
+  Kapitan Kolesnikov placed Captain's Pipe in Medium Steel Cabinet (ID: 339)
+[10/16/2020 11:52:36 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Toolbox (ID: 3877)
+[10/16/2020 11:52:36 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Toolbox (ID: 3877)
+[10/16/2020 11:52:39 PM]
+  Donte VIII picked up Welding Tool
+[10/16/2020 11:52:43 PM]
+  Kapitan Kolesnikov picked up Diving Mask
+[10/16/2020 11:52:46 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Diving Mask (ID: 307)
+[10/16/2020 11:52:49 PM]
+  Outer wall repaired by Donte VIII
+[10/16/2020 11:52:50 PM]
+  Outer wall repaired by Donte VIII
+[10/16/2020 11:53:06 PM]
+  Kapitan Kolesnikov picked up Diving Suit
+[10/16/2020 11:53:09 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Toolbox (ID: 3877)
+[10/16/2020 11:53:09 PM]
+  Doctor picked up Diving Suit
+[10/16/2020 11:53:11 PM]
+  Bronte Polson picked up Diving Suit
+[10/16/2020 11:53:18 PM]
+  Tigerthresher attacked by Donte VIII. Blunt force trauma: 2
+[10/16/2020 11:53:18 PM]
+  Donte VIII used Toolbox (Fuel Rod) on Tigerthresher.
+[10/16/2020 11:53:20 PM]
+  Tigerthresher attacked by Donte VIII. Blunt force trauma: 2
+[10/16/2020 11:53:20 PM]
+  Donte VIII used Toolbox (Fuel Rod) on Tigerthresher.
+[10/16/2020 11:53:22 PM]
+  Doctor opened Custom Windowed Door
+[10/16/2020 11:53:47 PM]
+  Donte VIII has died (Cause of death: Blood loss)
+[10/16/2020 11:53:48 PM]
+  Guy Fieri attacked by Bronte Polson. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:53:48 PM]
+  Doctor attacked by Bronte Polson. Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:53:48 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:49 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:49 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:51 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:51 PM]
+  Donte VIII attacked by Bronte Polson. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:53:52 PM]
+  The respawn shuttle is leaving.
+[10/16/2020 11:53:54 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:55 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:55 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:55 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:56 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:56 PM]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[10/16/2020 11:53:56 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:57 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:57 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:57 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:57 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:57 PM]
+  Inner wall breached by Kapitan Kolesnikov
+[10/16/2020 11:53:57 PM]
+  Tigerthresher attacked by Bronte Polson. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:58 PM]
+  Guy Fieri attacked by Kapitan Kolesnikov. Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:53:58 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:59 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:59 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:59 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:59 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:59 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:53:59 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:54:00 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:54:02 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 11:54:12 PM]
+  Bronte Polson picked up Frag Grenade
+[10/16/2020 11:54:14 PM]
+  Bronte Polson dropped SMG
+[10/16/2020 11:54:22 PM]
+  The respawn shuttle has left.
+[10/16/2020 11:54:29 PM]
+  Client "Kapitan Kolesnikov" ended the round.
+[10/16/2020 11:54:29 PM]
+  Ending the round...
+[10/16/2020 11:54:29 PM]
+  Round ended.
+[10/16/2020 11:55:07 PM]
+  Kapitan Kolesnikov changed RespawnInterval to 157.5
+[10/16/2020 11:55:07 PM]
+  Kapitan Kolesnikov changed MaxTransportTime to 0
+[10/16/2020 11:55:07 PM]
+  Kapitan Kolesnikov changed PlayStyle to Casual
+[10/16/2020 11:55:07 PM]
+  Kapitan Kolesnikov changed SubSelectionMode to Manual
+[10/16/2020 11:55:07 PM]
+  Kapitan Kolesnikov changed ModeSelectionMode to Manual
+[10/16/2020 11:55:26 PM]
+  Bronte Polson has left the server. Reason: Bronte Polson has disconnected.
+[10/16/2020 11:55:27 PM]
+  Kapitan Kolesnikov has left the server. Reason: Kapitan Kolesnikov has disconnected.
+[10/16/2020 11:55:28 PM]
+  Donte VIII has left the server. Reason: Donte VIII has disconnected.
+[10/16/2020 11:56:09 PM]
+  Doctor has left the server. Reason: Doctor has disconnected.
+[10/17/2020 12:15:59 AM]
+  Saving banlist
+[10/17/2020 12:15:59 AM]
+  Shutting down the server...

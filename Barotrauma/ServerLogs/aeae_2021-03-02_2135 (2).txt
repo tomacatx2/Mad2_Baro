@@ -1,0 +1,260 @@
+﻿[3/2/2021 9:29:00 PM]
+  Saving client permissions
+[3/2/2021 9:29:00 PM]
+  Saving client permissions
+[3/2/2021 9:29:10 PM]
+  tomacatx1 is ready to start the game.
+[3/2/2021 9:29:33 PM]
+  Gamemode changed to Mission
+[3/2/2021 9:29:35 PM]
+  Gamemode changed to Campaign
+[3/2/2021 9:29:52 PM]
+  Starting a new round...
+[3/2/2021 9:29:52 PM]
+  tomacatx1 is not ready to start the game.
+[3/2/2021 9:30:04 PM]
+  Game mode: Campaign
+[3/2/2021 9:30:04 PM]
+  Submarine: Humpback v2.54 re-2
+[3/2/2021 9:30:04 PM]
+  Level seed: Skaani
+[3/2/2021 9:30:04 PM]
+  Aldo Palmieri equipped Wrench
+[3/2/2021 9:30:04 PM]
+  Aldo Palmieri unequipped Wrench
+[3/2/2021 9:30:04 PM]
+  Aldo Palmieri equipped Screwdriver
+[3/2/2021 9:30:04 PM]
+  Wilford Marchi equipped Wrench
+[3/2/2021 9:30:04 PM]
+  Wilford Marchi unequipped Wrench
+[3/2/2021 9:30:04 PM]
+  Wilford Marchi equipped Screwdriver
+[3/2/2021 9:30:04 PM]
+  Keneth Breeki equipped Wrench
+[3/2/2021 9:30:04 PM]
+  Keneth Breeki unequipped Wrench
+[3/2/2021 9:30:04 PM]
+  Keneth Breeki equipped Screwdriver
+[3/2/2021 9:30:04 PM]
+  Cinda Huber equipped Wrench
+[3/2/2021 9:30:04 PM]
+  Cinda Huber unequipped Wrench
+[3/2/2021 9:30:04 PM]
+  Cinda Huber equipped Screwdriver
+[3/2/2021 9:30:04 PM]
+  Cinda Huber unequipped Screwdriver
+[3/2/2021 9:30:04 PM]
+  Cinda Huber equipped Crowbar
+[3/2/2021 9:30:04 PM]
+  Tyler Bergman equipped Wrench
+[3/2/2021 9:30:04 PM]
+  Tyler Bergman unequipped Wrench
+[3/2/2021 9:30:04 PM]
+  Tyler Bergman equipped Screwdriver
+[3/2/2021 9:30:05 PM]
+  Santiago Lowe equipped Crowbar
+[3/2/2021 9:30:05 PM]
+  Igor Larsen equipped Wrench
+[3/2/2021 9:30:05 PM]
+  Leanne Linares equipped Screwdriver
+[3/2/2021 9:30:05 PM]
+  Round started.
+[3/2/2021 9:30:05 PM]
+  Wilford Marchi unequipped Screwdriver
+[3/2/2021 9:30:05 PM]
+  Aldo Palmieri unequipped Screwdriver
+[3/2/2021 9:30:05 PM]
+  Cinda Huber unequipped Crowbar
+[3/2/2021 9:30:05 PM]
+  Tyler Bergman unequipped Screwdriver
+[3/2/2021 9:30:05 PM]
+  Santiago Lowe unequipped Crowbar
+[3/2/2021 9:30:05 PM]
+  Keneth Breeki unequipped Screwdriver
+[3/2/2021 9:30:07 PM]
+  Leanne Linares unequipped Screwdriver
+[3/2/2021 9:30:07 PM]
+  Igor Larsen unequipped Wrench
+[3/2/2021 9:30:07 PM]
+  Marcelino Wheeling: Did a thresher eat your crew? Looking for fresh hires? Look no further!
+[3/2/2021 9:30:11 PM]
+  Leanne Linares: You people look like you could use some rest.
+[3/2/2021 9:30:22 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/2/2021 9:31:28 PM]
+  Console command "spawn Marine cursor" executed by tomacatx1.
+[3/2/2021 9:31:30 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[3/2/2021 9:31:32 PM]
+  Console command "spawn Marine cursor" executed by tomacatx1.
+[3/2/2021 9:31:36 PM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[3/2/2021 9:31:49 PM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[3/2/2021 9:31:49 PM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[3/2/2021 9:31:50 PM]
+  Console command "spawn mercenary cursor" executed by tomacatx1.
+[3/2/2021 9:32:07 PM]
+  Console command "control "Sage Swanson"" executed by tomacatx1.
+[3/2/2021 9:32:08 PM]
+  Sage Swanson set the value "Channel" of the item "Headset" to "0".
+[3/2/2021 9:32:26 PM]
+  Sage Swanson placed 9mm Magazine (High-Capacity) in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:26 PM]
+  Sage Swanson placed 9mm Magazine (High-Capacity) in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:26 PM]
+  Sage Swanson placed 9mm Magazine (High-Capacity) in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:28 PM]
+  Sage Swanson placed 9mm Magazine (High-Capacity) in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:29 PM]
+  Sage Swanson placed Handgun in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:31 PM]
+  Sage Swanson placed 9mm Magazine in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:38 PM]
+  Sage Swanson placed Stun Grenade in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:38 PM]
+  Sage Swanson placed Stun Grenade in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:38 PM]
+  Sage Swanson placed Stun Grenade in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:40 PM]
+  Sage Swanson placed Diving Grenade in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:40 PM]
+  Sage Swanson placed Diving Grenade in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:40 PM]
+  Sage Swanson placed Diving Grenade in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:40 PM]
+  Sage Swanson placed Diving Grenade in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:32:40 PM]
+  Sage Swanson placed Diving Grenade in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:01 PM]
+  Sage Swanson equipped Crate of Plastiseal
+[3/2/2021 9:33:01 PM]
+  Sage Swanson picked up Crate of Plastiseal
+[3/2/2021 9:33:07 PM]
+  Walker Huber equipped Plastiseal
+[3/2/2021 9:33:07 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:07 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:07 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:08 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:08 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:09 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:09 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:09 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:09 PM]
+  Sage Swanson picked up Plastiseal
+[3/2/2021 9:33:13 PM]
+  Sage Swanson placed Plastiseal in Medicine Cabinet (ID: 854)
+[3/2/2021 9:33:15 PM]
+  Sage Swanson picked up Morphine
+[3/2/2021 9:33:15 PM]
+  Sage Swanson picked up Morphine
+[3/2/2021 9:33:21 PM]
+  Sage Swanson placed Morphine in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:21 PM]
+  Sage Swanson placed Morphine in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:23 PM]
+  Sage Swanson placed Plastiseal in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:23 PM]
+  Sage Swanson placed Plastiseal in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:23 PM]
+  Sage Swanson placed Plastiseal in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:23 PM]
+  Sage Swanson placed Plastiseal in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:23 PM]
+  Sage Swanson placed Plastiseal in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:23 PM]
+  Sage Swanson placed Plastiseal in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:23 PM]
+  Sage Swanson placed Plastiseal in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:23 PM]
+  Sage Swanson placed Plastiseal in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson placed Stun Grenade in Medicine Cabinet (ID: 854)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson placed Stun Grenade in Medicine Cabinet (ID: 854)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson placed Stun Grenade in Medicine Cabinet (ID: 854)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson removed Blood Pack from Medicine Cabinet (ID: 854)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson removed Blood Pack from Medicine Cabinet (ID: 854)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson removed Blood Pack from Medicine Cabinet (ID: 854)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson placed Blood Pack in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson placed Blood Pack in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:27 PM]
+  Sage Swanson placed Blood Pack in Marine Combat Undershirt (ID: 2742)
+[3/2/2021 9:33:33 PM]
+  Sage Swanson picked up 5.56x45mm Magazine
+[3/2/2021 9:33:34 PM]
+  Sage Swanson placed 5.56x45mm Magazine in Marine Battle Rifle (ID: 2747)
+[3/2/2021 9:33:44 PM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by tomacatx1.
+[3/2/2021 9:33:45 PM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by tomacatx1.
+[3/2/2021 9:33:45 PM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by tomacatx1.
+[3/2/2021 9:33:45 PM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by tomacatx1.
+[3/2/2021 9:33:48 PM]
+  Console command "spawnitem "5.56x45mm Magazine" inventory" executed by tomacatx1.
+[3/2/2021 9:34:02 PM]
+  Console command "spawnitem "Marine Battle Rifle (Flashlight)" inventory" executed by tomacatx1.
+[3/2/2021 9:34:05 PM]
+  Sage Swanson placed 5.56x45mm Magazine in Marine Battle Rifle (Flashlight) (ID: 2794)
+[3/2/2021 9:34:10 PM]
+  Sage Swanson picked up Handgun
+[3/2/2021 9:34:13 PM]
+  Sage Swanson placed 5.56x45mm Magazine in Tactical Backpack (ID: 2744)
+[3/2/2021 9:34:14 PM]
+  Sage Swanson placed 5.56x45mm Magazine in Tactical Backpack (ID: 2744)
+[3/2/2021 9:34:15 PM]
+  Sage Swanson placed 5.56x45mm Magazine in Tactical Backpack (ID: 2744)
+[3/2/2021 9:34:16 PM]
+  Sage Swanson placed 5.56x45mm Magazine in Tactical Backpack (ID: 2744)
+[3/2/2021 9:34:17 PM]
+  Sage Swanson placed 5.56x45mm Magazine in Tactical Backpack (ID: 2744)
+[3/2/2021 9:34:17 PM]
+  Sage Swanson placed 5.56x45mm Magazine in Tactical Backpack (ID: 2744)
+[3/2/2021 9:34:22 PM]
+  Sage Swanson placed Marine Battle Rifle in Material Storage Locker (ID: 198)
+[3/2/2021 9:34:36 PM]
+  Console command "freecam" executed by tomacatx1.
+[3/2/2021 9:34:36 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/2/2021 9:34:45 PM]
+  Console command "spawn humanapostle" executed by tomacatx1.
+[3/2/2021 9:34:45 PM]
+  Console command "spawn humanapostle" executed by tomacatx1.
+[3/2/2021 9:34:46 PM]
+  Console command "spawn humanapostle" executed by tomacatx1.
+[3/2/2021 9:34:46 PM]
+  Console command "spawn humanapostle" executed by tomacatx1.
+[3/2/2021 9:34:46 PM]
+  Console command "spawn humanapostle" executed by tomacatx1.
+[3/2/2021 9:34:49 PM]
+  Console command "spawn humanapostle cursor" executed by tomacatx1.
+[3/2/2021 9:34:49 PM]
+  Console command "spawn humanapostle cursor" executed by tomacatx1.
+[3/2/2021 9:34:49 PM]
+  Console command "spawn humanapostle cursor" executed by tomacatx1.
+[3/2/2021 9:34:50 PM]
+  Console command "spawn humanapostle cursor" executed by tomacatx1.
+[3/2/2021 9:34:50 PM]
+  Console command "spawn humanapostle cursor" executed by tomacatx1.
+[3/2/2021 9:34:50 PM]
+  Console command "spawn humanapostle cursor" executed by tomacatx1.
+[3/2/2021 9:34:56 PM]
+  Console command "control "Sage Swanson"" executed by tomacatx1.

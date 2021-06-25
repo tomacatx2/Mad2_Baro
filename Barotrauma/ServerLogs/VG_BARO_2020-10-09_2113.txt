@@ -1,0 +1,12 @@
+﻿[10/9/2020 9:12:58 PM]
+  Saving client permissions
+[10/9/2020 9:12:58 PM]
+  Saving client permissions
+[10/9/2020 9:13:08 PM]
+  VG_BARO changed PlayStyle to Casual
+[10/9/2020 9:13:08 PM]
+  VG_BARO changed SubSelectionMode to Manual
+[10/9/2020 9:13:08 PM]
+  VG_BARO changed ModeSelectionMode to Manual
+[10/9/2020 9:13:28 PM]
+  Player VG_BARO has changed their name to tomacatx1.

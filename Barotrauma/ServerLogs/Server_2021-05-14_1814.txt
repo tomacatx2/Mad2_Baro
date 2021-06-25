@@ -1,0 +1,1602 @@
+﻿[5/14/2021 5:59:58 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:00:00 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 6:00:02 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 6:00:02 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 6:00:03 PM]
+  Amira Lawson failed to repair Junction Box
+[5/14/2021 6:00:03 PM]
+  Console command "teleportcharacter tomacatx1" executed by tomacatx1.
+[5/14/2021 6:00:07 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[5/14/2021 6:00:08 PM]
+  David Ouellette: Tod Mason, operate the weapons!
+[5/14/2021 6:00:09 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 6:00:10 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:00:10 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:00:10 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:11 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:00:11 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:00:11 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:00:11 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:00:11 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:00:12 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:12 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:12 PM]
+  Outer wall breached by Kerry Gears
+[5/14/2021 6:00:12 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:13 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:13 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:13 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:14 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:14 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:14 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 6:00:14 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:14 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:15 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:15 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:15 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:16 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:16 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:16 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:16 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:17 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:17 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:17 PM]
+  tomacatx1 equipped Plasma Cutter
+[5/14/2021 6:00:17 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:18 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:18 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:18 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:18 PM]
+  Outer wall breached by Kerry Gears
+[5/14/2021 6:00:18 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:19 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:19 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:19 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:20 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:20 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:20 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:20 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:21 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:21 PM]
+  David Ouellette: Tod Mason, man the guns!
+[5/14/2021 6:00:21 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:21 PM]
+  Outer wall breached by Kerry Gears
+[5/14/2021 6:00:21 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:22 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:22 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:22 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:22 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:23 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:23 PM]
+  Sherry Whitely equipped Wrench
+[5/14/2021 6:00:23 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:23 PM]
+  Jina Meisner equipped Wrench
+[5/14/2021 6:00:23 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:24 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:24 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:24 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:24 PM]
+  Outer wall breached by Kerry Gears
+[5/14/2021 6:00:24 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:25 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:25 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:25 PM]
+  Sherry Whitely started repairing Custom Hatch
+[5/14/2021 6:00:25 PM]
+  Sherry Whitely unequipped Wrench
+[5/14/2021 6:00:25 PM]
+  Sherry Whitely equipped Screwdriver
+[5/14/2021 6:00:25 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:26 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:26 PM]
+  David Ouellette: Tod Mason, operate the weapons!
+[5/14/2021 6:00:26 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:26 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:26 PM]
+  Lane Cluck: Need to find a diving suit!
+[5/14/2021 6:00:26 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:27 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:27 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:27 PM]
+  Inner wall breached by Kerry Gears
+[5/14/2021 6:00:27 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:28 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:28 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:28 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:28 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:29 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:29 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:29 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:29 PM]
+  Lane Cluck: Hull breach in medbay!
+[5/14/2021 6:00:29 PM]
+  Jina Meisner started repairing Custom Hatch
+[5/14/2021 6:00:29 PM]
+  Jina Meisner unequipped Wrench
+[5/14/2021 6:00:29 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 6:00:29 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:30 PM]
+  Sherry Whitely started repairing Navigation Terminal
+[5/14/2021 6:00:30 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:30 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:30 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:31 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:31 PM]
+  David Ouellette: Tod Mason, operate the weapons!
+[5/14/2021 6:00:31 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:31 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:31 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:32 PM]
+  Amira Lawson: I need diving gear!
+[5/14/2021 6:00:32 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:32 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:32 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:33 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:33 PM]
+  Amira Lawson: Swapping oxygen tanks!
+[5/14/2021 6:00:33 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:33 PM]
+  Mechelle Quinn: I need diving gear!
+[5/14/2021 6:00:33 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:33 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:34 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:34 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:34 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:34 PM]
+  Jina Meisner started repairing Junction Box
+[5/14/2021 6:00:35 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:35 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:36 PM]
+  David Ouellette: Tod Mason, man the weapons!
+[5/14/2021 6:00:38 PM]
+  Lane Cluck: I'm losing blood!
+[5/14/2021 6:00:38 PM]
+  tomacatx1 equipped Riot Shotgun
+[5/14/2021 6:00:39 PM]
+  Amira Lawson equipped Welding Tool
+[5/14/2021 6:00:41 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:42 PM]
+  Lane Cluck: Need a medic in junction compartment!
+[5/14/2021 6:00:42 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:42 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:42 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:42 PM]
+  David Ouellette: David Ouellette, you are dismissed!
+[5/14/2021 6:00:43 PM]
+  Outer wall breached by Kerry Gears
+[5/14/2021 6:00:43 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:43 PM]
+  Mechelle Quinn equipped Welding Tool
+[5/14/2021 6:00:43 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:43 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:43 PM]
+  Outer wall repaired by Mechelle Quinn
+[5/14/2021 6:00:43 PM]
+  Lane Cluck: Can't get to the leak near ballast tank b!
+[5/14/2021 6:00:43 PM]
+  Mechelle Quinn: All leaks repaired in ballast tank b!
+[5/14/2021 6:00:43 PM]
+  David Ouellette equipped Revolver
+[5/14/2021 6:00:43 PM]
+  Kerry Gears launched Coilgun (projectile: Coilgun Bolt)
+[5/14/2021 6:00:45 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 6:00:45 PM]
+  Jina Meisner equipped Wrench
+[5/14/2021 6:00:45 PM]
+  Sherry Whitely unequipped Screwdriver
+[5/14/2021 6:00:45 PM]
+  Sherry Whitely equipped Wrench
+[5/14/2021 6:00:46 PM]
+  David Ouellette attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:46 PM]
+  David Ouellette attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:46 PM]
+  David Ouellette attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:46 PM]
+  David Ouellette attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:46 PM]
+  David Ouellette attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:46 PM]
+  David Ouellette attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:46 PM]
+  David Ouellette attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:46 PM]
+  David Ouellette attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:46 PM]
+  Tod Mason equipped SMG
+[5/14/2021 6:00:46 PM]
+  Kerry Gears equipped SMG
+[5/14/2021 6:00:46 PM]
+  Jina Meisner unequipped Wrench
+[5/14/2021 6:00:46 PM]
+  Jina Meisner equipped Screwdriver
+[5/14/2021 6:00:47 PM]
+  Lane Cluck equipped Welding Tool
+[5/14/2021 6:00:47 PM]
+  Jina Meisner unequipped Screwdriver
+[5/14/2021 6:00:47 PM]
+  Jina Meisner equipped Wrench
+[5/14/2021 6:00:47 PM]
+  Inner wall repaired by Lane Cluck
+[5/14/2021 6:00:47 PM]
+  Lane Cluck: All leaks repaired in utility compartment!
+[5/14/2021 6:00:48 PM]
+  Sherry Whitely attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:48 PM]
+  Sherry Whitely attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:48 PM]
+  Sherry Whitely attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:48 PM]
+  Sherry Whitely attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:00:48 PM]
+  Jina Meisner unequipped Wrench
+[5/14/2021 6:00:48 PM]
+  Jina Meisner equipped Crowbar
+[5/14/2021 6:00:49 PM]
+  Sherry Whitely equipped Revolver
+[5/14/2021 6:00:51 PM]
+  tomacatx1 equipped SMG
+[5/14/2021 6:00:51 PM]
+  David Ouellette: Kerry Gears, you are dismissed!
+[5/14/2021 6:00:52 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:52 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:52 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:53 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:53 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:53 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:53 PM]
+  David Ouellette: Help, I've been shot!
+[5/14/2021 6:00:53 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:53 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:53 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:54 PM]
+  Tod Mason attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:54 PM]
+  Tod Mason attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:00:54 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:00:54 PM]
+  Amira Lawson unequipped Welding Tool
+[5/14/2021 6:00:54 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 6:00:55 PM]
+  Amira Lawson started repairing Junction Box
+[5/14/2021 6:00:55 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:55 PM]
+  Tod Mason attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:00:55 PM]
+  Jina Meisner has died (Cause of death: Gunshot wound)
+[5/14/2021 6:00:56 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:58 PM]
+  Jina Meisner attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:00:59 PM]
+  Amira Lawson started repairing Battery
+[5/14/2021 6:01:00 PM]
+  Sherry Whitely unequipped Revolver
+[5/14/2021 6:01:01 PM]
+  Mechelle Quinn unequipped Welding Tool
+[5/14/2021 6:01:02 PM]
+  tomacatx1 used item Anabolic Steroids
+[5/14/2021 6:01:04 PM]
+  tomacatx1 used item Blood Pack
+[5/14/2021 6:01:05 PM]
+  tomacatx1 used item Plastiseal
+[5/14/2021 6:01:06 PM]
+  tomacatx1 used item Morphine
+[5/14/2021 6:01:07 PM]
+  Lane Cluck unequipped Welding Tool
+[5/14/2021 6:01:07 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:08 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 6:01:08 PM]
+  Tod Mason attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:09 PM]
+  Tod Mason attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:09 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:10 PM]
+  Tod Mason attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:10 PM]
+  Sherry Whitely equipped Revolver
+[5/14/2021 6:01:10 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:01:10 PM]
+  Sherry Whitely attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:12 PM]
+  Amira Lawson equipped Welding Tool
+[5/14/2021 6:01:12 PM]
+  Amira Lawson unequipped Welding Tool
+[5/14/2021 6:01:12 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 6:01:13 PM]
+  Lane Cluck equipped Diving Suit
+[5/14/2021 6:01:16 PM]
+  Outer wall breached by Tod Mason
+[5/14/2021 6:01:18 PM]
+  David Ouellette has died (Cause of death: Blood loss)
+[5/14/2021 6:01:19 PM]
+  Kerry Gears unequipped SMG
+[5/14/2021 6:01:22 PM]
+  Console command "heal tomacatx1" executed by tomacatx1.
+[5/14/2021 6:01:22 PM]
+  Kerry Gears equipped SMG
+[5/14/2021 6:01:24 PM]
+  Tod Mason unequipped SMG
+[5/14/2021 6:01:24 PM]
+  Tod Mason equipped Diving Knife
+[5/14/2021 6:01:25 PM]
+  Tod Mason used Diving Knife on tomacatx1.
+[5/14/2021 6:01:27 PM]
+  Kerry Gears unequipped SMG
+[5/14/2021 6:01:28 PM]
+  Console command "heal tomacatx1" executed by tomacatx1.
+[5/14/2021 6:01:31 PM]
+  Console command "heal tomacatx1" executed by tomacatx1.
+[5/14/2021 6:01:31 PM]
+  Outer wall breached by Bonethresher
+[5/14/2021 6:01:33 PM]
+  Console command "revive tomacatx1" executed by tomacatx1.
+[5/14/2021 6:01:33 PM]
+  Kerry Gears equipped SMG
+[5/14/2021 6:01:34 PM]
+  Console command "heal tom" executed by tomacatx1.
+[5/14/2021 6:01:36 PM]
+  Mechelle Quinn equipped Wrench
+[5/14/2021 6:01:36 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:01:36 PM]
+  Tod Mason unequipped Diving Knife
+[5/14/2021 6:01:36 PM]
+  Tod Mason equipped Diving Knife
+[5/14/2021 6:01:37 PM]
+  Kerry Gears unequipped SMG
+[5/14/2021 6:01:37 PM]
+  Kerry Gears equipped Diving Knife
+[5/14/2021 6:01:37 PM]
+  Kerry Gears unequipped Diving Knife
+[5/14/2021 6:01:37 PM]
+  Kerry Gears equipped Diving Knife
+[5/14/2021 6:01:37 PM]
+  Kerry Gears unequipped Diving Knife
+[5/14/2021 6:01:38 PM]
+  Mechelle Quinn started repairing Oxygen Generator
+[5/14/2021 6:01:39 PM]
+  Console command "heal tomacatx1" executed by tomacatx1.
+[5/14/2021 6:01:42 PM]
+  Console command "spawnitem "SMG Magazine" inventory" executed by tomacatx1.
+[5/14/2021 6:01:43 PM]
+  Console command "spawnitem "SMG Magazine" inventory" executed by tomacatx1.
+[5/14/2021 6:01:45 PM]
+  tomacatx1 picked up SMG Magazine
+[5/14/2021 6:01:45 PM]
+  tomacatx1 dropped SMG Magazine
+[5/14/2021 6:01:45 PM]
+  tomacatx1 placed SMG Magazine in SMG (ID: 6354)
+[5/14/2021 6:01:46 PM]
+  Sherry Whitely has died (Cause of death: Blood loss)
+[5/14/2021 6:01:47 PM]
+  tomacatx1 picked up SMG Magazine
+[5/14/2021 6:01:47 PM]
+  tomacatx1 dropped SMG Magazine
+[5/14/2021 6:01:47 PM]
+  tomacatx1 placed SMG Magazine in SMG (ID: 6355)
+[5/14/2021 6:01:48 PM]
+  tomacatx1 dropped SMG Magazine
+[5/14/2021 6:01:49 PM]
+  tomacatx1 dropped SMG Magazine
+[5/14/2021 6:01:51 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:01:52 PM]
+  Mechelle Quinn started repairing Engine
+[5/14/2021 6:01:53 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:01:53 PM]
+  Kerry Gears equipped Diving Knife
+[5/14/2021 6:01:53 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:01:53 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:01:53 PM]
+  Outer wall breached by Bonethresher
+[5/14/2021 6:01:54 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:54 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:01:54 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:54 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:01:54 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:55 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:55 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:55 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:55 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[5/14/2021 6:01:55 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:55 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:56 PM]
+  Kerry Gears attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[5/14/2021 6:01:56 PM]
+  Mechelle Quinn unequipped Wrench
+[5/14/2021 6:02:06 PM]
+  Kerry Gears has died (Cause of death: Blood loss)
+[5/14/2021 6:02:17 PM]
+  Tod Mason attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 6:02:18 PM]
+  Amira Lawson started repairing Battery
+[5/14/2021 6:02:25 PM]
+  Outer wall breached by Bonethresher
+[5/14/2021 6:02:27 PM]
+  Tod Mason attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 6:02:27 PM]
+  Tod Mason attacked by tomacatx1. Gunshot wound: 6 Stun: 0.15
+[5/14/2021 6:02:28 PM]
+  Tod Mason attacked by tomacatx1. Bleeding: 7.5 Gunshot wound: 6 Stun: 0.15
+[5/14/2021 6:02:35 PM]
+  Outer wall breached by Tigerthresher
+[5/14/2021 6:02:35 PM]
+  Mechelle Quinn: Leak in command room!
+[5/14/2021 6:02:39 PM]
+  Lane Cluck: I need diving gear!
+[5/14/2021 6:02:40 PM]
+  Mechelle Quinn: I need diving gear!
+[5/14/2021 6:02:40 PM]
+  Amira Lawson: I need diving gear!
+[5/14/2021 6:02:42 PM]
+  Tod Mason has died (Cause of death: Blood loss)
+[5/14/2021 6:02:44 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:45 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:45 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:45 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:46 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:48 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:49 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:49 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:50 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:50 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:51 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:51 PM]
+  Lane Cluck equipped Welding Tool
+[5/14/2021 6:02:51 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:51 PM]
+  Outer wall repaired by Lane Cluck
+[5/14/2021 6:02:52 PM]
+  Amira Lawson started repairing Junction Box
+[5/14/2021 6:02:52 PM]
+  Lane Cluck: All leaks repaired in command room!
+[5/14/2021 6:02:52 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:52 PM]
+  Console command "teleport" executed by tomacatx1.
+[5/14/2021 6:02:52 PM]
+  Outer wall breached by Tigerthresher
+[5/14/2021 6:02:55 PM]
+  Outer wall repaired by Lane Cluck
+[5/14/2021 6:02:56 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 6:02:56 PM]
+  Outer wall breached by Tigerthresher
+[5/14/2021 6:02:57 PM]
+  tomacatx1 removed Oxygen Tank from Toolbelt (ID: 7136)
+[5/14/2021 6:02:57 PM]
+  tomacatx1 placed Oxygen Tank in Combat Diving Suit (ID: 7140)
+[5/14/2021 6:02:57 PM]
+  tomacatx1 removed Oxygen Tank from Combat Diving Suit (ID: 7140)
+[5/14/2021 6:02:57 PM]
+  tomacatx1 picked up Oxygen Tank
+[5/14/2021 6:03:01 PM]
+  Outer wall breached by Tigerthresher
+[5/14/2021 6:03:01 PM]
+  Amira Lawson equipped Screwdriver
+[5/14/2021 6:03:01 PM]
+  Console command "fixhulls" executed by tomacatx1.
+[5/14/2021 6:03:02 PM]
+  Amira Lawson started repairing Junction Box
+[5/14/2021 6:03:03 PM]
+  Outer wall breached by Tigerthresher
+[5/14/2021 6:03:03 PM]
+  Outer wall breached by Bonethresher
+[5/14/2021 6:03:04 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/14/2021 6:03:04 PM]
+  Outer wall repaired by Lane Cluck
+[5/14/2021 6:03:04 PM]
+  Lane Cluck: All leaks repaired in command room!
+[5/14/2021 6:03:04 PM]
+  Outer wall breached by Tigerthresher
+[5/14/2021 6:03:05 PM]
+  Amira Lawson unequipped Screwdriver
+[5/14/2021 6:03:08 PM]
+  Inner wall repaired by Lane Cluck
+[5/14/2021 6:03:09 PM]
+  Outer wall breached by Tigerthresher
+[5/14/2021 6:03:12 PM]
+  Client "tomacatx1" ended the round.
+[5/14/2021 6:03:12 PM]
+  Ending the round...
+[5/14/2021 6:03:13 PM]
+  Round ended.
+[5/14/2021 6:03:48 PM]
+  Client "tomacatx1" started the round.
+[5/14/2021 6:03:48 PM]
+  Starting a new round...
+[5/14/2021 6:03:51 PM]
+  Hortensia Banks equipped Wrench
+[5/14/2021 6:03:51 PM]
+  Mission: Terrorist Stakeout
+[5/14/2021 6:03:51 PM]
+  Separatist terrorists have been hijacking ships in this sector. We believe some of them have snuck onto your ship alongside innocent passengers. Make sure the innocent civilians make it to Adonis Linea Mine alive, and draw out the terrorists on the way. Make sure none of the terrorists survive.
+[5/14/2021 6:03:51 PM]
+  Game mode: Mission
+[5/14/2021 6:03:51 PM]
+  Submarine: DugongChaingun
+[5/14/2021 6:03:51 PM]
+  Level seed: 26SuGkLW
+[5/14/2021 6:03:51 PM]
+  Mission: Terrorist Stakeout
+[5/14/2021 6:03:51 PM]
+  Leila Mansfield equipped Toolbelt
+[5/14/2021 6:03:51 PM]
+  Siena Radice equipped Toolbelt
+[5/14/2021 6:03:52 PM]
+  Round started.
+[5/14/2021 6:03:53 PM]
+  Hortensia Banks unequipped Wrench
+[5/14/2021 6:03:57 PM]
+  Lindy Deras: This is one of the nicer ships I've been on.
+[5/14/2021 6:04:01 PM]
+  Lindy Deras: Not too many leaks. Air seems good too.
+[5/14/2021 6:04:05 PM]
+  Hortensia Banks: This is 'nice' to you?
+[5/14/2021 6:04:05 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[5/14/2021 6:04:20 PM]
+  tomacatx1: I'll set the course onwards!
+[5/14/2021 6:04:33 PM]
+  Console command "spawn engineer cursor" executed by tomacatx1.
+[5/14/2021 6:04:34 PM]
+  Console command "spawn engineer cursor" executed by tomacatx1.
+[5/14/2021 6:04:37 PM]
+  Console command "spawn mechanic cursor" executed by tomacatx1.
+[5/14/2021 6:04:38 PM]
+  Console command "spawn mechanic cursor" executed by tomacatx1.
+[5/14/2021 6:04:42 PM]
+  Console command "spawn "Security Officer" cursor" executed by tomacatx1.
+[5/14/2021 6:04:48 PM]
+  tomacatx1: Barry Serrano, repair electrical systems!
+[5/14/2021 6:04:49 PM]
+  Barry Serrano: Aye!
+[5/14/2021 6:04:49 PM]
+  tomacatx1: Shirlee Castro, power up the reactor!
+[5/14/2021 6:04:50 PM]
+  Shirlee Castro: Yes, sir!
+[5/14/2021 6:04:52 PM]
+  tomacatx1: Jc Meals, start fixing leaks!
+[5/14/2021 6:04:53 PM]
+  Jc Meals: Got it!
+[5/14/2021 6:04:53 PM]
+  tomacatx1: Tyler Tamashiro, take care of mechanical devices!
+[5/14/2021 6:04:54 PM]
+  Tyler Tamashiro: Got it!
+[5/14/2021 6:04:58 PM]
+  tomacatx1: Kizzie Ordway, follow me!
+[5/14/2021 6:04:59 PM]
+  Kizzie Ordway: Aye aye!
+[5/14/2021 6:05:28 PM]
+  Console command "spawnitem Toolbelt inventory" executed by tomacatx1.
+[5/14/2021 6:05:28 PM]
+  tomacatx1 equipped Toolbelt
+[5/14/2021 6:05:36 PM]
+  Console command "spawnitem "Ballistic Helmet" inventory" executed by tomacatx1.
+[5/14/2021 6:05:39 PM]
+  tomacatx1 picked up Riot Shotgun
+[5/14/2021 6:05:39 PM]
+  tomacatx1 placed Veteran's Cap in Secure Steel Cabinet (ID: 308)
+[5/14/2021 6:05:40 PM]
+  tomacatx1 placed Captain's Pipe in Secure Steel Cabinet (ID: 308)
+[5/14/2021 6:05:44 PM]
+  tomacatx1 placed Revolver in Secure Steel Cabinet (ID: 308)
+[5/14/2021 6:05:44 PM]
+  tomacatx1 removed SMG from Secure Steel Cabinet (ID: 308)
+[5/14/2021 6:05:44 PM]
+  tomacatx1 picked up SMG
+[5/14/2021 6:05:45 PM]
+  tomacatx1 picked up SMG
+[5/14/2021 6:05:48 PM]
+  tomacatx1 picked up Stun Gun
+[5/14/2021 6:05:56 PM]
+  Console command "spawnitem "Stun Gun Dart" inventory" executed by tomacatx1.
+[5/14/2021 6:05:56 PM]
+  Console command "spawnitem "Stun Gun Dart" inventory" executed by tomacatx1.
+[5/14/2021 6:05:56 PM]
+  Console command "spawnitem "Stun Gun Dart" inventory" executed by tomacatx1.
+[5/14/2021 6:05:58 PM]
+  tomacatx1 placed Stun Gun Dart in Stun Gun (ID: 5075)
+[5/14/2021 6:06:00 PM]
+  tomacatx1 picked up Handcuffs
+[5/14/2021 6:06:14 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:14 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:14 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:14 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:15 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:15 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:15 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:15 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:15 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:15 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:15 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:16 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:16 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:16 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:16 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:16 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:16 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:16 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:16 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:17 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:17 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:06:53 PM]
+  Console command "spawnitem "Body Armor" inventory" executed by tomacatx1.
+[5/14/2021 6:06:59 PM]
+  tomacatx1 picked up Welding Tool
+[5/14/2021 6:07:01 PM]
+  tomacatx1 picked up Diving Mask
+[5/14/2021 6:07:03 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:03 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:03 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:03 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:03 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:04 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5591)
+[5/14/2021 6:07:04 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5591)
+[5/14/2021 6:07:13 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:13 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:13 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:13 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:13 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:13 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:13 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:13 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)
+[5/14/2021 6:07:14 PM]
+  tomacatx1 placed Bandage in Medicine Cabinet (ID: 136)
+[5/14/2021 6:07:14 PM]
+  tomacatx1 placed Bandage in Medicine Cabinet (ID: 136)
+[5/14/2021 6:07:14 PM]
+  tomacatx1 placed Bandage in Medicine Cabinet (ID: 136)
+[5/14/2021 6:07:14 PM]
+  tomacatx1 placed Bandage in Medicine Cabinet (ID: 136)
+[5/14/2021 6:07:14 PM]
+  tomacatx1 placed Bandage in Medicine Cabinet (ID: 136)
+[5/14/2021 6:07:15 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5591)
+[5/14/2021 6:07:15 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5591)
+[5/14/2021 6:07:15 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 5591)
+[5/14/2021 6:07:24 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:24 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:24 PM]
+  Watcher attacked by tomacatx1. Lacerations: 62.5 Bleeding: 1
+[5/14/2021 6:07:24 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:24 PM]
+  Watcher attacked by tomacatx1. Lacerations: 62.5 Bleeding: 1
+[5/14/2021 6:07:24 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:24 PM]
+  Watcher attacked by tomacatx1. Lacerations: 62.5 Bleeding: 1
+[5/14/2021 6:07:24 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:25 PM]
+  Watcher attacked by tomacatx1. Lacerations: 62.5 Bleeding: 1
+[5/14/2021 6:07:25 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:25 PM]
+  Watcher attacked by tomacatx1. Lacerations: 62.5 Bleeding: 1
+[5/14/2021 6:07:25 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:25 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:25 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:25 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:25 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:25 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:25 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:25 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:25 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:25 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:25 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:26 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:26 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:26 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:26 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:26 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:26 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:26 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:26 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:26 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:26 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:26 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:26 PM]
+  Watcher attacked by tomacatx1. Lacerations: 1.25
+[5/14/2021 6:07:26 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:26 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:26 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:27 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:27 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:27 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:27 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:27 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:27 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:27 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:27 PM]
+  Watcher has died (Cause of death: Lacerations)
+[5/14/2021 6:07:27 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:27 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:27 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:27 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:27 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:27 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:27 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:28 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:28 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:28 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:28 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:28 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:28 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:28 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:28 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:28 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:28 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:28 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:28 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:28 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:28 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:29 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:29 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:29 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:29 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:29 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:29 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:29 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:29 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:30 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:30 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:30 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:30 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:30 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:30 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:30 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:30 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:30 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:30 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:30 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:30 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:30 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:30 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:30 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:31 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:31 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:31 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:31 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:31 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:31 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:31 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:32 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:32 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:32 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:32 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:32 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:32 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:32 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:33 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:33 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:33 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:33 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:33 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:33 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:33 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:33 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:34 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:34 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:34 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:34 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:34 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:34 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:34 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:34 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:34 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:34 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:34 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:34 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:34 PM]
+  Watcher attacked by tomacatx1. Lacerations: 1.25
+[5/14/2021 6:07:35 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:35 PM]
+  Watcher attacked by tomacatx1. Lacerations: 1.25
+[5/14/2021 6:07:35 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:35 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:35 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:35 PM]
+  Watcher attacked by tomacatx1. Lacerations: 1.25
+[5/14/2021 6:07:35 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:35 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:35 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:35 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:35 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:35 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:35 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:35 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:35 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:35 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:36 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:36 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:36 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:36 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:36 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:36 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:36 PM]
+  tomacatx1 launched Chaingun (projectile: Coilgun Bolt)
+[5/14/2021 6:07:36 PM]
+  Watcher attacked by tomacatx1. Lacerations: 1.25
+[5/14/2021 6:07:36 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:36 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:36 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:36 PM]
+  Watcher attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[5/14/2021 6:07:42 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[5/14/2021 6:07:43 PM]
+  Jc Meals: Leak in engine room!
+[5/14/2021 6:07:43 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[5/14/2021 6:07:44 PM]
+  Jc Meals equipped Welding Tool
+[5/14/2021 6:07:44 PM]
+  Jc Meals: All leaks repaired in engine room!
+[5/14/2021 6:07:45 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[5/14/2021 6:07:46 PM]
+  Jc Meals unequipped Welding Tool
+[5/14/2021 6:07:48 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 157)
+[5/14/2021 6:07:48 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 157)
+[5/14/2021 6:07:48 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[5/14/2021 6:07:48 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[5/14/2021 6:07:53 PM]
+  Console command "spawnitem Haloperidol inventory" executed by tomacatx1.
+[5/14/2021 6:07:56 PM]
+  tomacatx1 used item Haloperidol
+[5/14/2021 6:07:57 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[5/14/2021 6:07:58 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[5/14/2021 6:08:01 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 150)
+[5/14/2021 6:08:01 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 150)
+[5/14/2021 6:08:01 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[5/14/2021 6:08:01 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[5/14/2021 6:08:02 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[5/14/2021 6:08:16 PM]
+  tomacatx1 equipped Riot Shotgun
+[5/14/2021 6:08:27 PM]
+  tomacatx1 equipped Stun Gun
+[5/14/2021 6:08:29 PM]
+  Lindy Deras attacked by tomacatx1. Lacerations: 0.5 Stun: 0.1 ProgressiveStun: 1
+[5/14/2021 6:08:31 PM]
+  Lindy Deras attacked by tomacatx1. Lacerations: 0.5 Stun: 0.1 ProgressiveStun: 1
+[5/14/2021 6:08:34 PM]
+  tomacatx1 placed Stun Gun Dart in Stun Gun (ID: 5075)
+[5/14/2021 6:08:34 PM]
+  tomacatx1 placed Stun Gun Dart in Stun Gun (ID: 5075)
+[5/14/2021 6:08:48 PM]
+  Hortensia Banks attacked by tomacatx1. Lacerations: 0.5 Stun: 0.1 ProgressiveStun: 1
+[5/14/2021 6:08:53 PM]
+  Lindy Deras attacked by tomacatx1. Lacerations: 0.5 Stun: 0.1 ProgressiveStun: 1
+[5/14/2021 6:09:00 PM]
+  Console command "spawnitem "Stun Gun Dart" unv" executed by tomacatx1.
+[5/14/2021 6:09:07 PM]
+  Barry Serrano equipped Screwdriver
+[5/14/2021 6:09:08 PM]
+  Barry Serrano failed to repair Battery
+[5/14/2021 6:09:13 PM]
+  Barry Serrano started repairing Battery
+[5/14/2021 6:09:15 PM]
+  Console command "spawnitem "Stun Gun Dart" inventory" executed by tomacatx1.
+[5/14/2021 6:09:16 PM]
+  Console command "spawnitem "Stun Gun Dart" inventory" executed by tomacatx1.
+[5/14/2021 6:09:16 PM]
+  Console command "spawnitem "Stun Gun Dart" inventory" executed by tomacatx1.
+[5/14/2021 6:09:16 PM]
+  Console command "spawnitem "Stun Gun Dart" inventory" executed by tomacatx1.
+[5/14/2021 6:09:17 PM]
+  Barry Serrano unequipped Screwdriver
+[5/14/2021 6:09:18 PM]
+  tomacatx1 placed Stun Gun Dart in Stun Gun (ID: 5075)
+[5/14/2021 6:09:18 PM]
+  tomacatx1 placed Stun Gun Dart in Stun Gun (ID: 5075)
+[5/14/2021 6:09:20 PM]
+  Lindy Deras attacked by tomacatx1. Lacerations: 0.5 Stun: 0.1 ProgressiveStun: 1
+[5/14/2021 6:09:22 PM]
+  Lindy Deras attacked by tomacatx1. Lacerations: 0.5 Stun: 0.1 ProgressiveStun: 1
+[5/14/2021 6:09:24 PM]
+  tomacatx1 placed Stun Gun Dart in Stun Gun (ID: 5075)
+[5/14/2021 6:09:24 PM]
+  tomacatx1 placed Stun Gun Dart in Stun Gun (ID: 5075)
+[5/14/2021 6:09:40 PM]
+  Barry Serrano equipped Screwdriver
+[5/14/2021 6:09:40 PM]
+  Barry Serrano started repairing Battery
+[5/14/2021 6:09:44 PM]
+  Barry Serrano unequipped Screwdriver
+[5/14/2021 6:09:58 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[5/14/2021 6:09:58 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 70 %
+[5/14/2021 6:09:58 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 80 %
+[5/14/2021 6:09:58 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 90 %
+[5/14/2021 6:09:59 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[5/14/2021 6:10:00 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[5/14/2021 6:10:00 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 80 %
+[5/14/2021 6:10:00 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 90 %
+[5/14/2021 6:10:01 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[5/14/2021 6:10:21 PM]
+  Tyler Tamashiro equipped Wrench
+[5/14/2021 6:10:23 PM]
+  Tyler Tamashiro started repairing Oxygen Generator
+[5/14/2021 6:10:26 PM]
+  Tyler Tamashiro unequipped Wrench
+[5/14/2021 6:10:29 PM]
+  Kizzie Ordway: Need a medic in medbay!
+[5/14/2021 6:10:31 PM]
+  Kizzie Ordway: I'm losing blood!
+[5/14/2021 6:10:35 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:35 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:35 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:36 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:36 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:36 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:36 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:37 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:37 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:37 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:38 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:38 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:38 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:38 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:39 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:39 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:39 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:40 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:10:40 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:10:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:41 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:10:41 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:10:41 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:10:43 PM]
+  Outer wall breached by Spineling
+[5/14/2021 6:10:43 PM]
+  Inner wall breached by Spineling
+[5/14/2021 6:10:43 PM]
+  Inner wall breached by Spineling
+[5/14/2021 6:10:44 PM]
+  tomacatx1 used item Bandage
+[5/14/2021 6:10:45 PM]
+  tomacatx1 used item Bandage
+[5/14/2021 6:10:48 PM]
+  tomacatx1 used item Bandage
+[5/14/2021 6:10:48 PM]
+  Outer wall breached by Spineling
+[5/14/2021 6:10:48 PM]
+  Outer wall breached by Spineling
+[5/14/2021 6:10:52 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:53 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:53 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:53 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:54 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:10:54 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:01 PM]
+  Inner wall breached by Spineling
+[5/14/2021 6:11:02 PM]
+  Outer wall breached by Spineling
+[5/14/2021 6:11:08 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:08 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:08 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:08 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:08 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:08 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:08 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:08 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:08 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:09 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:09 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:09 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:09 PM]
+  Spineling has died (Cause of death: Lacerations)
+[5/14/2021 6:11:09 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:09 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:09 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:09 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:09 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:09 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:09 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:09 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:09 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:09 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:09 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:10 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:10 PM]
+  Spineling has died (Cause of death: Lacerations)
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:10 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 16 Bleeding: 3
+[5/14/2021 6:11:10 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:10 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:10 PM]
+  tomacatx1 launched Chaingun (projectile: Piercing Coilgun Bolt)
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:10 PM]
+  Spineling attacked by tomacatx1. Lacerations: 8 Bleeding: 1.5
+[5/14/2021 6:11:42 PM]
+  Barry Serrano equipped Screwdriver
+[5/14/2021 6:11:43 PM]
+  Barry Serrano started repairing Junction Box
+[5/14/2021 6:11:46 PM]
+  Barry Serrano failed to repair Junction Box
+[5/14/2021 6:11:52 PM]
+  Barry Serrano unequipped Screwdriver
+[5/14/2021 6:12:19 PM]
+  tomacatx1 equipped SMG
+[5/14/2021 6:12:27 PM]
+  Barry Serrano equipped Screwdriver
+[5/14/2021 6:12:27 PM]
+  Barry Serrano started repairing Junction Box
+[5/14/2021 6:12:36 PM]
+  Barry Serrano started repairing Supercapacitor
+[5/14/2021 6:12:39 PM]
+  Barry Serrano unequipped Screwdriver
+[5/14/2021 6:13:01 PM]
+  Barry Serrano equipped Screwdriver
+[5/14/2021 6:13:05 PM]
+  Barry Serrano started repairing Junction Box
+[5/14/2021 6:13:09 PM]
+  Barry Serrano started repairing Junction Box
+[5/14/2021 6:13:13 PM]
+  Hortensia Banks equipped Diving Knife
+[5/14/2021 6:13:13 PM]
+  Hortensia Banks unequipped Diving Knife
+[5/14/2021 6:13:13 PM]
+  Barry Serrano: Hostiles in junction compartment!
+[5/14/2021 6:13:13 PM]
+  Hortensia Banks equipped Diving Knife
+[5/14/2021 6:13:14 PM]
+  Barry Serrano unequipped Screwdriver
+[5/14/2021 6:13:14 PM]
+  Hortensia Banks: Death to the Coalition!
+[5/14/2021 6:13:15 PM]
+  Hortensia Banks: I can't wait to get back onto solid land.
+[5/14/2021 6:13:18 PM]
+  Barry Serrano attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:18 PM]
+  Barry Serrano attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:18 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:18 PM]
+  Barry Serrano attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:18 PM]
+  Barry Serrano attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:18 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:18 PM]
+  Barry Serrano attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:18 PM]
+  Barry Serrano attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:18 PM]
+  Hortensia Banks used Diving Knife on tomacatx1.
+[5/14/2021 6:13:19 PM]
+  Hortensia Banks: The life at sea really isn't for me.
+[5/14/2021 6:13:20 PM]
+  Barry Serrano: Please, no!
+[5/14/2021 6:13:21 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:21 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:21 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:21 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:21 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:21 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:21 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:21 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:23 PM]
+  Barry Serrano: I'm bleeding out!
+[5/14/2021 6:13:24 PM]
+  Hortensia Banks used Diving Knife on tomacatx1.
+[5/14/2021 6:13:25 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:25 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:25 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:25 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:25 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:25 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:25 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:25 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:27 PM]
+  Hortensia Banks used Diving Knife on tomacatx1.
+[5/14/2021 6:13:29 PM]
+  Hortensia Banks used Diving Knife on tomacatx1.
+[5/14/2021 6:13:30 PM]
+  Hortensia Banks used Diving Knife on tomacatx1.
+[5/14/2021 6:13:31 PM]
+  Hortensia Banks used Diving Knife on tomacatx1.
+[5/14/2021 6:13:34 PM]
+  Hortensia Banks used Diving Knife on tomacatx1.
+[5/14/2021 6:13:34 PM]
+  Barry Serrano: Need a medic in upper mid!
+[5/14/2021 6:13:35 PM]
+  Barry Serrano equipped Screwdriver
+[5/14/2021 6:13:36 PM]
+  tomacatx1: Kizzie Ordway, eliminate all intruders!
+[5/14/2021 6:13:36 PM]
+  Kizzie Ordway equipped Stun Gun
+[5/14/2021 6:13:37 PM]
+  Kizzie Ordway: Copy that.
+[5/14/2021 6:13:37 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:37 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:37 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:37 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:37 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:37 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:37 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:37 PM]
+  Hortensia Banks attacked by tomacatx1. Bleeding: 6 Gunshot wound: 4 Stun: 0.2
+[5/14/2021 6:13:37 PM]
+  Barry Serrano failed to repair Junction Box
+[5/14/2021 6:13:37 PM]
+  Kizzie Ordway unequipped Stun Gun
+[5/14/2021 6:13:37 PM]
+  Kizzie Ordway equipped Diving Knife
+[5/14/2021 6:13:37 PM]
+  Kizzie Ordway unequipped Diving Knife
+[5/14/2021 6:13:48 PM]
+  Barry Serrano started repairing Navigation Terminal
+[5/14/2021 6:13:54 PM]
+  Barry Serrano: Help, I'm bleeding!
+[5/14/2021 6:13:55 PM]
+  Barry Serrano unequipped Screwdriver
+[5/14/2021 6:13:55 PM]
+  Barry Serrano equipped Blood Pack
+[5/14/2021 6:13:56 PM]
+  Hortensia Banks has died (Cause of death: Blood loss)
+[5/14/2021 6:13:58 PM]
+  Barry Serrano equipped Bandage
+[5/14/2021 6:14:02 PM]
+  tomacatx1 used item Bandage
+[5/14/2021 6:14:06 PM]
+  tomacatx1 used item Blood Pack
+[5/14/2021 6:14:17 PM]
+  tomacatx1 picked up Morphine
+[5/14/2021 6:14:17 PM]
+  tomacatx1 picked up Morphine
+[5/14/2021 6:14:17 PM]
+  tomacatx1 picked up Morphine
+[5/14/2021 6:14:18 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 5591)
+[5/14/2021 6:14:18 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 5591)
+[5/14/2021 6:14:18 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 5591)
+[5/14/2021 6:14:21 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 5591)

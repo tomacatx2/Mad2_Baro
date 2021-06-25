@@ -1,0 +1,1602 @@
+﻿[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:05 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:05 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:06 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:06 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:06 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:06 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:07 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:07 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:07 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:07 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:49:07 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:07 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:08 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:08 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:09 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:10 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:11 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:12 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:13 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:13 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:14 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:14 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:15 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:15 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:15 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:15 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:15 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:15 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:15 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:15 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:15 PM]
+  Outer wall breached by tomacatx1
+[2/22/2021 8:49:15 PM]
+  Outer wall breached by tomacatx1
+[2/22/2021 8:49:16 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:16 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:16 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:16 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:16 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:16 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:16 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:17 PM]
+  Inner wall breached by tomacatx1
+[2/22/2021 8:49:17 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  terc started repairing Battery
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:18 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:18 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:18 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:18 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:19 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:19 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:19 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:20 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:20 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:20 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:20 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:21 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:21 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.75 Bleeding: 0.5
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:21 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:22 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 8:49:22 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:22 PM]
+  Moloch attacked by tomacatx1. Lacerations: 30 Bleeding: 2
+[2/22/2021 8:49:22 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.5 Bleeding: 0.2
+[2/22/2021 8:49:30 PM]
+  terc started repairing Junction Box
+[2/22/2021 8:49:50 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 8:49:52 PM]
+  tomacatx1 placed Coilgun Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 8:49:52 PM]
+  tomacatx1 removed Piercing Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 8:49:52 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:49:55 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:55 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:55 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:55 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:55 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:55 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:56 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:56 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:56 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:56 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:56 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:56 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:57 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:57 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:57 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:57 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:57 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:57 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:57 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:57 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:58 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:58 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:58 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:58 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:58 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:58 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:49:59 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:59 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:49:59 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:59 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:49:59 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:49:59 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:00 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:00 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:00 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:00 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:00 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:00 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:00 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:01 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:01 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:01 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:01 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:01 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:01 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:02 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:02 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:02 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:02 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:02 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:02 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:03 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:03 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:03 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:03 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:03 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:03 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:03 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:04 PM]
+  Moloch attacked by tomacatx1. Lacerations: 25 Bleeding: 2
+[2/22/2021 8:50:04 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:04 PM]
+  Moloch attacked by tomacatx1. Lacerations: 25 Bleeding: 2
+[2/22/2021 8:50:04 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:04 PM]
+  Moloch attacked by tomacatx1. Lacerations: 25 Bleeding: 2
+[2/22/2021 8:50:04 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:04 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:05 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:05 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:07 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 8:50:08 PM]
+  Lester picked up Diving Suit
+[2/22/2021 8:50:11 PM]
+  Lester dropped Guitar
+[2/22/2021 8:50:12 PM]
+  terc: we got hit by a rock
+[2/22/2021 8:50:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:15 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:15 PM]
+  Moloch attacked by tomacatx1. Lacerations: 3.125 Bleeding: 0.5
+[2/22/2021 8:50:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:16 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:16 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:16 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:17 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:18 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25 Bleeding: 0.2
+[2/22/2021 8:50:18 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:18 PM]
+  Moloch has died (Cause of death: Lacerations)
+[2/22/2021 8:50:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 25 Bleeding: 2
+[2/22/2021 8:50:18 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:18 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:19 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:19 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:19 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:19 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:19 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:20 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:20 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:20 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:21 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:50:21 PM]
+  Moloch attacked by tomacatx1. Lacerations: 1.25
+[2/22/2021 8:50:31 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:50:32 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 8:50:43 PM]
+  tomacatx1 entered "on" on Terminal
+[2/22/2021 8:50:58 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 8:50:59 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 8:51:01 PM]
+  Outer wall repaired by Lester
+[2/22/2021 8:51:08 PM]
+  Inner wall repaired by Lester
+[2/22/2021 8:51:19 PM]
+  terc failed to repair Small Pump
+[2/22/2021 8:51:27 PM]
+  terc started repairing Small Pump
+[2/22/2021 8:51:34 PM]
+  Lester dropped Diving Suit
+[2/22/2021 8:51:37 PM]
+  Lester equipped Grenade Launcher
+[2/22/2021 8:51:46 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 8:52:06 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 8:52:10 PM]
+  terc picked up Diving Suit
+[2/22/2021 8:52:14 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 8:52:21 PM]
+  terc started repairing Junction Box
+[2/22/2021 8:52:39 PM]
+  tomacatx1 entered "щаа" on Terminal
+[2/22/2021 8:52:42 PM]
+  terc placed Diving Suit in Deconstructor (ID: 868)
+[2/22/2021 8:52:42 PM]
+  tomacatx1 entered "off" on Terminal
+[2/22/2021 8:52:45 PM]
+  terc started repairing Small Pump
+[2/22/2021 8:52:47 PM]
+  tomacatx1 picked up Frag Grenade
+[2/22/2021 8:52:57 PM]
+  tomacatx1 placed Frag Grenade in Deconstructor (ID: 868)
+[2/22/2021 8:52:59 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 8:53:00 PM]
+  tomacatx1 activated Deconstructor
+[2/22/2021 8:53:05 PM]
+  terc started repairing Deconstructor
+[2/22/2021 8:53:05 PM]
+  tomacatx1 placed Diving Suit in Diving Suit Locker (ID: 189)
+[2/22/2021 8:53:17 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 8:53:21 PM]
+  terc started repairing Junction Box
+[2/22/2021 8:53:26 PM]
+  Lester picked up Screwdriver
+[2/22/2021 8:53:29 PM]
+  Lester equipped Screwdriver
+[2/22/2021 8:53:34 PM]
+  tomacatx1 started repairing Nuclear Reactor
+[2/22/2021 8:53:34 PM]
+  Lester started repairing Junction Box
+[2/22/2021 8:53:35 PM]
+  terc failed to repair Fabricator
+[2/22/2021 8:53:42 PM]
+  terc started repairing Fabricator
+[2/22/2021 8:53:50 PM]
+  Lester started repairing Junction Box
+[2/22/2021 8:54:07 PM]
+  terc started repairing Large Engine
+[2/22/2021 8:54:09 PM]
+  Lester started repairing Junction Box
+[2/22/2021 8:54:11 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 8:54:26 PM]
+  terc started repairing Pump
+[2/22/2021 8:54:30 PM]
+  Lester failed to repair Battery
+[2/22/2021 8:54:31 PM]
+  Lester failed to repair Battery
+[2/22/2021 8:54:32 PM]
+  Lester started repairing Battery
+[2/22/2021 8:54:33 PM]
+  tomacatx1 entered "10" on Terminal
+[2/22/2021 8:54:36 PM]
+  Lester picked up Wrench
+[2/22/2021 8:54:37 PM]
+  Lester equipped Wrench
+[2/22/2021 8:54:49 PM]
+  tomacatx1 picked up UEX
+[2/22/2021 8:54:53 PM]
+  tomacatx1 picked up Plastic
+[2/22/2021 8:54:53 PM]
+  tomacatx1 picked up Plastic
+[2/22/2021 8:54:53 PM]
+  tomacatx1 picked up Plastic
+[2/22/2021 8:54:53 PM]
+  Lester failed to repair Oxygen Generator
+[2/22/2021 8:54:55 PM]
+  terc: ouutput low
+[2/22/2021 8:54:57 PM]
+  tomacatx1 placed UEX in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:54:58 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:54:58 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:54:58 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:54:59 PM]
+  terc: output low
+[2/22/2021 8:55:00 PM]
+  Lester started repairing Oxygen Generator
+[2/22/2021 8:55:25 PM]
+  tomacatx1 picked up Bandage
+[2/22/2021 8:55:26 PM]
+  tomacatx1 picked up Bandage
+[2/22/2021 8:55:28 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 8:55:33 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 8:55:35 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 8:55:41 PM]
+  terc started repairing Junction Box
+[2/22/2021 8:55:48 PM]
+  tomacatx1 placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:48 PM]
+  tomacatx1 placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:49 PM]
+  tomacatx1 placed Tin in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:49 PM]
+  tomacatx1 placed Tin in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:49 PM]
+  Lester placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:55:49 PM]
+  Lester placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:55:49 PM]
+  Lester placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:55:50 PM]
+  tomacatx1 placed Rubber in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:50 PM]
+  tomacatx1 placed Rubber in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:50 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:50 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:50 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 865)
+[2/22/2021 8:55:52 PM]
+  Lester placed UEX in Fabricator (ID: 867)
+[2/22/2021 8:55:53 PM]
+  Lester placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:55:53 PM]
+  Lester placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:55:53 PM]
+  Lester placed Plastic in Fabricator (ID: 867)
+[2/22/2021 8:55:59 PM]
+  Lester removed Harpoon from Fabricator (ID: 867)
+[2/22/2021 8:55:59 PM]
+  Lester removed Harpoon from Fabricator (ID: 867)
+[2/22/2021 8:55:59 PM]
+  Lester removed Harpoon from Fabricator (ID: 867)
+[2/22/2021 8:55:59 PM]
+  Lester started fabricating C-4 Block in Fabricator
+[2/22/2021 8:56:03 PM]
+  tomacatx1 picked up Harpoon
+[2/22/2021 8:56:04 PM]
+  tomacatx1 placed Harpoon in Harpoon Gun (ID: 3306)
+[2/22/2021 8:56:20 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 8:56:22 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 8:56:25 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 8:56:33 PM]
+  Lester placed Stun Baton in Toolbelt (ID: 3877)
+[2/22/2021 8:56:47 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 8:56:57 PM]
+  Lester equipped SMG
+[2/22/2021 8:57:02 PM]
+  tomacatx1 failed to repair Status Monitor
+[2/22/2021 8:57:05 PM]
+  terc: how am i still alive
+[2/22/2021 8:57:14 PM]
+  terc started repairing Status Monitor
+[2/22/2021 8:57:31 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 8:58:09 PM]
+  terc picked up Fuel Rod
+[2/22/2021 8:58:09 PM]
+  terc picked up Fuel Rod
+[2/22/2021 8:58:10 PM]
+  terc placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:58:10 PM]
+  terc placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 8:58:17 PM]
+  terc: how do i grab 1 item instead of 2 or more
+[2/22/2021 8:58:19 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 8:58:19 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 8:58:22 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 8:58:24 PM]
+  Outer wall breached by Hammerheadgold
+[2/22/2021 8:58:28 PM]
+  Lester adjusted reactor settings: Temperature: 8695, Fission rate: 78, Turbine output: 87, Autotemp OFF
+[2/22/2021 8:58:29 PM]
+  Lester adjusted reactor settings: Temperature: 9712, Fission rate: 77, Turbine output: 88, Autotemp ON
+[2/22/2021 8:58:30 PM]
+  Lester equipped Fuel Rod
+[2/22/2021 8:58:30 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 8:58:38 PM]
+  Outer wall breached by Hammerheadgold
+[2/22/2021 8:58:50 PM]
+  Lester dropped Fuel Rod
+[2/22/2021 8:58:51 PM]
+  Lester equipped Fire Extinguisher
+[2/22/2021 8:58:51 PM]
+  Lester picked up Fire Extinguisher
+[2/22/2021 8:59:11 PM]
+  terc started repairing Nuclear Reactor
+[2/22/2021 8:59:12 PM]
+  tomacatx1 entered "on" on Terminal
+[2/22/2021 8:59:14 PM]
+  Lester placed Fire Extinguisher in Fire Extinguisher Bracket (ID: 810)
+[2/22/2021 8:59:43 PM]
+  terc started repairing Junction Box
+[2/22/2021 8:59:53 PM]
+  terc: first game i played
+[2/22/2021 8:59:57 PM]
+  terc: and im still alive
+[2/22/2021 9:00:04 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:00:06 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:00:29 PM]
+  Lester failed to repair Battery
+[2/22/2021 9:00:36 PM]
+  Lester started repairing Battery
+[2/22/2021 9:00:51 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:00:52 PM]
+  Lester failed to repair Battery
+[2/22/2021 9:00:55 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3880)
+[2/22/2021 9:00:55 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 3880)
+[2/22/2021 9:00:57 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 3880)
+[2/22/2021 9:00:58 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 3880)
+[2/22/2021 9:00:59 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 3880)
+[2/22/2021 9:01:01 PM]
+  Lester failed to repair Battery
+[2/22/2021 9:01:08 PM]
+  Lester started repairing Battery
+[2/22/2021 9:01:08 PM]
+  terc picked up Plasma Cutter
+[2/22/2021 9:01:11 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 9:01:13 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 9:01:14 PM]
+  terc equipped Plasma Cutter
+[2/22/2021 9:01:14 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 9:01:25 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:01:25 PM]
+  Lester started repairing Battery
+[2/22/2021 9:01:34 PM]
+  terc placed Oxygen Tank in Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:01:34 PM]
+  terc removed Welding Fuel Tank from Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:01:34 PM]
+  terc placed Welding Fuel Tank in Plasma Cutter (ID: 3313)
+[2/22/2021 9:01:41 PM]
+  terc placed Plasma Cutter in Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:01:41 PM]
+  Lester started repairing Battery
+[2/22/2021 9:01:50 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 9:01:50 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 9:01:52 PM]
+  terc started repairing Small Pump
+[2/22/2021 9:01:59 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:02:02 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:02:11 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:02:13 PM]
+  tomacatx1 picked up Welding Tool
+[2/22/2021 9:02:21 PM]
+  tomacatx1 placed Welding Tool in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:02:42 PM]
+  terc picked up Welding Tool
+[2/22/2021 9:02:44 PM]
+  terc equipped Welding Tool
+[2/22/2021 9:03:04 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:03:08 PM]
+  tomacatx1 started repairing Junction Box
+[2/22/2021 9:03:15 PM]
+  terc: we hate woodworkers
+[2/22/2021 9:03:20 PM]
+  Lester placed Welding Fuel Tank in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:03:21 PM]
+  terc: duly noted
+[2/22/2021 9:03:22 PM]
+  tomacatx1 failed to repair Navigation Terminal
+[2/22/2021 9:03:31 PM]
+  tomacatx1 failed to repair Navigation Terminal
+[2/22/2021 9:03:33 PM]
+  Inner wall repaired by terc
+[2/22/2021 9:03:39 PM]
+  tomacatx1 started repairing Navigation Terminal
+[2/22/2021 9:03:53 PM]
+  Outer wall repaired by terc
+[2/22/2021 9:04:00 PM]
+  Lester equipped Fire Extinguisher
+[2/22/2021 9:04:00 PM]
+  Lester picked up Fire Extinguisher
+[2/22/2021 9:04:02 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 9:04:05 PM]
+  tomacatx1 used item Plastiseal
+[2/22/2021 9:04:06 PM]
+  terc: your health is on half
+[2/22/2021 9:04:10 PM]
+  terc: do you need some welding
+[2/22/2021 9:04:26 PM]
+  Lester dropped Fire Extinguisher
+[2/22/2021 9:04:31 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:04:39 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:40 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:40 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:41 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:42 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:04:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:42 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:43 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:04:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:43 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:43 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:44 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:44 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/22/2021 9:04:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:44 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:45 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:45 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:45 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:46 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/22/2021 9:04:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:46 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:46 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:46 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:47 PM]
+  terc started repairing Oxygen Generator
+[2/22/2021 9:04:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:48 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:49 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:49 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:49 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:50 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:50 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:04:51 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:04:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:04:59 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:00 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:00 PM]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[2/22/2021 9:05:00 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:00 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:05:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:02 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:03 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:04 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:04 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:05:04 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:04 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:05 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:05 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 25 Bleeding: 2
+[2/22/2021 9:05:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:05 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 1.25
+[2/22/2021 9:05:05 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:06 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:07 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 25 Bleeding: 2
+[2/22/2021 9:05:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:07 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:07 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:08 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 6.25 Bleeding: 0.5
+[2/22/2021 9:05:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:08 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:09 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:09 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:09 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:10 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:10 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 25 Bleeding: 2
+[2/22/2021 9:05:10 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:10 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:10 PM]
+  Mudraptor_unarmored attacked by Lester. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:18 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:18 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:18 PM]
+  Mudraptor_unarmored attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:18 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:18 PM]
+  Mudraptor_unarmored attacked by terc. Lacerations: 12.5 Bleeding: 1
+[2/22/2021 9:05:18 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:05:19 PM]
+  Mudraptor_unarmored attacked by terc. Lacerations: 1.25
+[2/22/2021 9:05:34 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 9:06:10 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:10 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:11 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:11 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:11 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:12 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:12 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:12 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:12 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:13 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:13 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:17 PM]
+  terc launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:06:31 PM]
+  terc picked up Diving Suit
+[2/22/2021 9:06:34 PM]
+  terc dropped Diving Suit
+[2/22/2021 9:06:53 PM]
+  terc equipped Coilgun Ammunition Box
+[2/22/2021 9:06:53 PM]
+  terc picked up Coilgun Ammunition Box
+[2/22/2021 9:06:57 PM]
+  terc removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 9:07:00 PM]
+  terc placed Coilgun Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 9:07:40 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:07:49 PM]
+  terc: noted
+[2/22/2021 9:07:54 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 9:08:24 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:08:37 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:08:38 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/22/2021 9:08:58 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:09:08 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:09:15 PM]
+  terc failed to repair Large Engine
+[2/22/2021 9:09:18 PM]
+  Saving client permissions
+[2/22/2021 9:09:22 PM]
+  terc started repairing Large Engine
+[2/22/2021 9:09:37 PM]
+  terc started repairing Supercapacitor
+[2/22/2021 9:09:50 PM]
+  Lester launched Coilgun (projectile: Coilgun Bolt)
+[2/22/2021 9:10:14 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/22/2021 9:10:21 PM]
+  terc started repairing Small Pump
+[2/22/2021 9:10:28 PM]
+  Saving client permissions
+[2/22/2021 9:10:32 PM]
+  Saving client permissions
+[2/22/2021 9:10:50 PM]
+  terc equipped Fire Extinguisher
+[2/22/2021 9:10:50 PM]
+  terc picked up Fire Extinguisher
+[2/22/2021 9:10:55 PM]
+  terc dropped Fire Extinguisher
+[2/22/2021 9:11:04 PM]
+  Saving client permissions
+[2/22/2021 9:11:11 PM]
+  Console command "teleportsub cursor" executed by tomacatx1.
+[2/22/2021 9:11:15 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[2/22/2021 9:11:17 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:11:41 PM]
+  tomacatx1 entered "щт" on Terminal
+[2/22/2021 9:11:43 PM]
+  tomacatx1 entered "on" on Terminal
+[2/22/2021 9:11:45 PM]
+  tomacatx1 entered "off" on Terminal
+[2/22/2021 9:11:51 PM]
+  terc picked up Fuel Rod
+[2/22/2021 9:11:55 PM]
+  terc picked up Fuel Rod
+[2/22/2021 9:11:55 PM]
+  terc picked up Fuel Rod
+[2/22/2021 9:11:55 PM]
+  terc picked up Fuel Rod
+[2/22/2021 9:12:00 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:12:00 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:12:00 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:12:04 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:12:06 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:12:11 PM]
+  terc: i put in 3
+[2/22/2021 9:12:20 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:12:21 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:12:22 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:12:22 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:12:23 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:12:26 PM]
+  terc equipped Fuel Rod
+[2/22/2021 9:12:29 PM]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:12:31 PM]
+  tomacatx1 placed Fuel Rod in Fabricator (ID: 867)
+[2/22/2021 9:12:32 PM]
+  tomacatx1 placed Fuel Rod in Fabricator (ID: 867)
+[2/22/2021 9:12:32 PM]
+  tomacatx1 placed Fuel Rod in Fabricator (ID: 867)
+[2/22/2021 9:12:32 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 9:12:33 PM]
+  tomacatx1 placed Fuel Rod in Fabricator (ID: 867)
+[2/22/2021 9:12:38 PM]
+  Console command "spawnitem "Fuel Rod" inventory" executed by tomacatx1.
+[2/22/2021 9:12:39 PM]
+  Console command "spawnitem "Fuel Rod" inventory" executed by tomacatx1.
+[2/22/2021 9:12:39 PM]
+  Console command "spawnitem "Fuel Rod" inventory" executed by tomacatx1.
+[2/22/2021 9:12:44 PM]
+  terc started repairing Pump
+[2/22/2021 9:12:54 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:12:54 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:12:54 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:12:55 PM]
+  Lester failed to repair Battery
+[2/22/2021 9:13:03 PM]
+  Lester started repairing Battery
+[2/22/2021 9:13:27 PM]
+  Lester failed to repair Junction Box
+[2/22/2021 9:13:34 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:13:56 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:13:59 PM]
+  terc picked up Diving Suit
+[2/22/2021 9:14:04 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 9:14:09 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:14:16 PM]
+  Lester started repairing Junction Box
+[2/22/2021 9:14:17 PM]
+  terc started repairing Junction Box
+[2/22/2021 9:14:39 PM]
+  Lester started repairing Battery
+[2/22/2021 9:14:41 PM]
+  terc started repairing Nuclear Reactor
+[2/22/2021 9:14:51 PM]
+  tomacatx1 entered "щаа" on Terminal
+[2/22/2021 9:14:54 PM]
+  tomacatx1 entered "off" on Terminal
+[2/22/2021 9:14:54 PM]
+  Lester started repairing Battery
+[2/22/2021 9:14:55 PM]
+  tomacatx1 entered "15" on Terminal
+[2/22/2021 9:15:03 PM]
+  terc started repairing Large Engine
+[2/22/2021 9:15:07 PM]
+  terc dropped Diving Suit
+[2/22/2021 9:15:10 PM]
+  Lester started repairing Battery
+[2/22/2021 9:15:29 PM]
+  Lester started repairing Battery
+[2/22/2021 9:15:33 PM]
+  terc: i think there was
+[2/22/2021 9:15:51 PM]
+  Lester placed Body Armor in Toolbelt (ID: 3877)
+[2/22/2021 9:15:53 PM]
+  Lester picked up Diving Suit
+[2/22/2021 9:15:53 PM]
+  terc picked up Diving Suit
+[2/22/2021 9:15:59 PM]
+  terc started repairing Fabricator
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:27 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:28 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:29 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:30 PM]
+  Mudraptor attacked by Lester. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[2/22/2021 9:16:30 PM]
+  Mudraptor attacked by Lester. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[2/22/2021 9:16:30 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 9:16:30 PM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[2/22/2021 9:16:30 PM]
+  Mudraptor attacked by Lester. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[2/22/2021 9:16:34 PM]
+  Mudraptor attacked by tomacatx1. Lacerations: 3 Stun: 0.25
+[2/22/2021 9:16:36 PM]
+  Mudraptor attacked by Lester. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[2/22/2021 9:16:40 PM]
+  terc started repairing Small Pump
+[2/22/2021 9:16:41 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:16:47 PM]
+  Lester placed SMG in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:16:51 PM]
+  Lester picked up Flamer
+[2/22/2021 9:16:52 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 9:16:54 PM]
+  terc started repairing Deconstructor
+[2/22/2021 9:17:05 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:17:07 PM]
+  Lester dropped Diving Suit
+[2/22/2021 9:17:08 PM]
+  tomacatx1 picked up Fuel Rod
+[2/22/2021 9:17:08 PM]
+  tomacatx1 dropped Fuel Rod
+[2/22/2021 9:17:08 PM]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 9:17:10 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 9:17:13 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 32, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:15 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 35, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:16 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 85, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:17 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 539, Fission rate: 82, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:18 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 1444, Fission rate: 63, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:19 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 819, Fission rate: 73, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:20 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 1775, Fission rate: 83, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:21 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2496, Fission rate: 86, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:22 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2691, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:24 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2791, Fission rate: 98, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:25 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 9:17:25 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2797, Fission rate: 83, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:31 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2799, Fission rate: 81, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:32 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2316, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[2/22/2021 9:17:34 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 2592, Fission rate: 100, Turbine output: 92, Autotemp OFF
+[2/22/2021 9:17:35 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 3471, Fission rate: 100, Turbine output: 63, Autotemp OFF
+[2/22/2021 9:17:39 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 6410, Fission rate: 80, Turbine output: 63, Autotemp ON
+[2/22/2021 9:17:43 PM]
+  Lester failed to repair Supercapacitor
+[2/22/2021 9:17:43 PM]
+  terc started repairing Pump
+[2/22/2021 9:17:50 PM]
+  Lester failed to repair Supercapacitor
+[2/22/2021 9:17:53 PM]
+  Console command "spawnitem "Welding Fuel Tank" inventory" executed by tomacatx1.
+[2/22/2021 9:17:53 PM]
+  Console command "spawnitem "Welding Fuel Tank" inventory" executed by tomacatx1.
+[2/22/2021 9:17:54 PM]
+  Console command "spawnitem "Welding Fuel Tank" inventory" executed by tomacatx1.
+[2/22/2021 9:17:57 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 9:17:57 PM]
+  tomacatx1 picked up Welding Fuel Tank
+[2/22/2021 9:17:57 PM]
+  tomacatx1 dropped Welding Fuel Tank
+[2/22/2021 9:17:57 PM]
+  tomacatx1 placed Welding Fuel Tank in Welding Tool (ID: 382)
+[2/22/2021 9:17:58 PM]
+  tomacatx1 placed Welding Fuel Tank in Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:17:59 PM]
+  tomacatx1 placed Welding Fuel Tank in Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:17:59 PM]
+  tomacatx1 placed Welding Fuel Tank in Medium Steel Cabinet (ID: 539)
+[2/22/2021 9:18:10 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:10 PM]
+  terc dropped Diving Suit
+[2/22/2021 9:18:11 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:11 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:12 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:13 PM]
+  Console command "spawnitem Bandage inventory" executed by tomacatx1.
+[2/22/2021 9:18:15 PM]
+  terc started repairing Nuclear Reactor

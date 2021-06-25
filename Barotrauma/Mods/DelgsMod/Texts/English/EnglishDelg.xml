@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+
+<!-- Items -->
+<entityname.multitool>Multitool</entityname.multitool>
+<entitydescription.multitool>Allows repairs and basic functions of the wrench, screwdriver, and crowbar in a single tool.</entitydescription.multitool>
+<entityname.taser>Taser</entityname.taser>
+<entitydescription.taser>A more convenient way to neutralize threats without using lethal force.</entitydescription.taser>
+<entityname.stunmagazine>Taser Battery</entityname.stunmagazine>
+<entitydescription.stunmagazine>The battery for the taser, holds 4 shots. Can be recharged.</entitydescription.stunmagazine>
+<entityname.chefhat1>Chef's Hat</entityname.chefhat1>
+<entitydescription.chefhat1>Yes Chef!</entitydescription.chefhat1>
+<entityname.chefuniform1>Chef's Uniform</entityname.chefuniform1>
+<entitydescription.chefuniform1>Be proud to wear your apron.</entitydescription.chefuniform1>
+<entityname.cleaver>Cleaver</entityname.cleaver>
+<entitydescription.cleaver>Chop chop chop.</entitydescription.cleaver>
+<entityname.sugarbag>Sugar Bag</entityname.sugarbag>
+<entitydescription.sugarbag>A bag of pristine sugar.</entitydescription.sugarbag>
+<entityname.flourbag>Flour Bag</entityname.flourbag>
+<entitydescription.flourbag>A bag of fine flour.</entitydescription.flourbag>
+
+<!-- Foods -->
+<entityname.sugar>Sugar</entityname.sugar>
+<entitydescription.sugar>Some tasty sugar for sweetening foods.</entitydescription.sugar>
+<entityname.flour>Flour</entityname.flour>
+<entitydescription.flour>A leavening agent for various baked goods. Eating it raw is probably a poor decision.</entitydescription.flour>
+<entityname.batter>Batter</entityname.batter>
+<entitydescription.batter>A thick batter for pastries or breading.</entitydescription.batter>
+<entityname.beerbatter>Beer Batter</entityname.beerbatter>
+<entitydescription.beerbatter>A thick batter with a little extra something.</entitydescription.beerbatter>
+<entityname.omlette>Europa Omlette</entityname.omlette>
+<entitydescription.omlette>A fine omlette made from the freshest eggs around...</entitydescription.omlette>
+<entityname.poundcake>Poundcake</entityname.poundcake>
+<entitydescription.poundcake>A delicious poundcake, a bit heavy though.</entitydescription.poundcake>
+<entityname.bread>Bread</entityname.bread>
+<entitydescription.bread>Just some standard bread, take what you can get.</entitydescription.bread>
+<entityname.cannedmeat>Canned Meat</entityname.cannedmeat>
+<entitydescription.cannedmeat>Standard tasty canned "meat". Very salty.</entitydescription.cannedmeat>
+<entityname.burger>Burger</entityname.burger>
+<entitydescription.burger>A delicious burger, above and beyond the rations expected on a submarine.</entitydescription.burger>
+<entityname.fillet>Fish Fillet</entityname.fillet>
+<entitydescription.fillet>An amazing beer battered fish fillet, certainly the finest food around.</entitydescription.fillet>
+<entityname.cannedveggies>Canned Vegetables</entityname.cannedveggies>
+<entitydescription.cannedveggies>Nice, slimy canned vegetables.</entitydescription.cannedveggies>
+<entityname.bigburger>Deluxe Cheeseburger</entityname.bigburger>
+<entitydescription.bigburger>The god-emperor of all meals.</entitydescription.bigburger>
+<entityname.cheese>Cheese</entityname.cheese>
+<entitydescription.cheese>Fresh cheese! One of the only fresh things around.</entitydescription.cheese>
+<entityname.rockcandy>Rock Candy</entityname.rockcandy>
+<entitydescription.rockcandy>Crumchy...</entitydescription.rockcandy>
+<entityname.sourcandy>Sour Candy</entityname.sourcandy>
+<entitydescription.sourcandy>Vewy showr...</entitydescription.sourcandy>
+<entityname.glue>Glue</entityname.glue>
+<entitydescription.glue>Sticky adhesive for putting things back together, even people!</entitydescription.glue>
+<entityname.moonpie>Moon Pie</entityname.moonpie>
+<entitydescription.moonpie>One of the lesser known medical cures, used on conditions from lacerations to gunshot wounds!</entitydescription.moonpie>
+<entityname.milk>Milk</entityname.milk>
+<entitydescription.milk>A tasty drink, great for baking pastries!</entitydescription.milk>
+<entityname.almond>Almonds</entityname.almond>
+<entitydescription.almond>Tasty nuts, great for candy or can be broken down into milk</entitydescription.almond>
+
+<!-- Systems -->
+<entityname.minidischargecoil>Mini Discharge Coil</entityname.minidischargecoil>
+<entitydescription.minidischargecoil>A tiny discharge coil with a shorter range, intended to stun anything that might be swimming in a flooded room.</entitydescription.minidischargecoil>
+<entityname.kitchen>Kitchen</entityname.kitchen>
+<entitydescription.kitchen>A small all-in-one kitchen device that can be used to make food for the crew.</entitydescription.kitchen>
+
+<!-- Jobs -->
+<jobname.chef>Chef</jobname.chef>
+<jobdescription.chef>Every ship needs a cook, the chef will cook up delicious meals that can help the crew complete various tasks. Yes Chef!</jobdescription.chef>
+
+<!-- Skills -->
+<skillname.cooking>Cooking</skillname.cooking>
+
+<!-- Missions -->
+
+<!-- Traitor Missions -->
+<traitormutinystartmessage>We think the command on this ship is sorely lacking in judgement, sandby for further instructions</traitormutinystartmessage>
+<traitormutinyobjective1>Alright, we need to deal with the captain, but first we need someone to take their place. Go find yourself a captain's cap, there should be one behind a vent or in the crew quarters.</traitormutinyobjective1>
+<traitormutinyinfotext1>Find a captain's cap behind a vent or in the crew quarters.</traitormutinyinfotext1>
+<traitormutinyobjective2>Great, now we need to give the captain what's coming to 'em. Eliminate the captain quietly, or loudly if you think the crew will support you.</traitormutinyobjective2>
+<traitormutinyinfotext2>Kill the captain.</traitormutinyinfotext2>
+
+<traitorreactorstartmessage>We need you to slow down this ship, stay on the line for your orders.</traitorreactorstartmessage>
+<traitorreactorobjective1>This ship needs to stop, completely. Destroying some of their fuel rods will force a resupply.</traitorreactorobjective1>
+<traitorreactorinfotext1>Destroy [percentage] of the fuel rods.</traitorreactorinfotext1>
+<traitorreactorobjective2>The engineering crew is too vigilant, we need to slow them down as well.</traitorreactorobjective2>
+<traitorreactorinfotext2>Kill an engineer.</traitorreactorinfotext2>
+<traitorreactorobjective3>Alright, new orders. This ship is going down, meltdown the reactor.</traitorreactorobjective3>
+<traitorreactorinfotext3>Destroy the reactor.</traitorreactorinfotext3>
+
+<traitoreaster2startmessage>There is a mudraptor egg on board, we won't fail this time.</traitoreaster2startmessage>
+<traitoreaster2objective2>We need to eliminate their ability to fight the oncoming hoards, destroy some of their ammo.</traitoreaster2objective2>
+<traitoreaster2infotext2>Destroy [percentage] of the Coilgun Ammo.</traitoreaster2infotext2>
+
+<traitorpacifismstartmessage>I don't like the way security runs things around here... We need a nonviolent answer.</traitorpacifismstartmessage>
+<traitorpacifismobjective1>Security has gone too far, they need to be eliminated for peace to endure.</traitorpacifismobjective1>
+<traitorpacifismobjective2>Weapons are carriers of violence, we can befriend these creatures instead of killing them!</traitorpacifismobjective2>
+<traitorpacifisminfotext2>Destroy [percentage] of ship weapons.</traitorpacifisminfotext2>
+
+<traitorfirestartmessage>Don't you just love the glow of a hot fire?</traitorfirestartmessage>
+<traitorfireobjective1>Find the grenade in the vents, it makes the sizzle...</traitorfireobjective1>
+<traitorfireobjective2>Don't let them destroy the sizzle and crackle...</traitorfireobjective2>
+<traitorfireinfotext2>Destroy [percentage] of fire extinguishers.</traitorfireinfotext2>
+<traitorfireobjective3>Show one the beauty!</traitorfireobjective3>
+<traitorfireinfotext3>Kill a crew member with fire.</traitorfireinfotext3>
+
+</infotexts>

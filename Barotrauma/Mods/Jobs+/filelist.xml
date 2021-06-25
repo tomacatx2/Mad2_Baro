@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Jobs+" path="Mods/Jobs+/filelist.xml" corepackage="false" gameversion="0.9.9.1" steamworkshopid="2100191133" installtime="1590020475">
+  <Text file="Mods/Jobs+/Texts/English/English.xml" />
+  <Jobs file="Mods/Jobs+/JobsNew.xml" />
+  <Jobs file="Mods/Jobs+/Jobs.xml" />
+  <Item file="Mods/Jobs+/Items/Items.xml" />
+  <Item file="Mods/Jobs+/JobGear/Chef/chef_gear.xml" />
+  <None file="Mods/Jobs+/ChefIcon.png" />
+  <None file="Mods/Jobs+/ChefPortrait.png" />
+  <None file="Mods/Jobs+/JobGear/Chef/chef_legs_female_1.png" />
+  <None file="Mods/Jobs+/JobGear/Chef/chef_legs_male_1.png" />
+  <None file="Mods/Jobs+/JobGear/Chef/chef_torso_male_1.png" />
+  <None file="Mods/Jobs+/JobGear/Chef/ChefHat.png" />
+  <None file="Mods/Jobs+/JobGear/Chef/ChefOutfit.png" />
+  <None file="Mods/Jobs+/JobGear/Chef/MiscChefGear.png" />
+  <Item file="Mods/Jobs+/JobGear/Botanist/botanist_gear.xml" />
+  <None file="Mods/Jobs+/BotanistIcon.png" />
+  <None file="Mods/Jobs+/BotanistPortrait.png" />
+  <None file="Mods/Jobs+/JobGear/Botanist/botanist_legs_female_1.png" />
+  <None file="Mods/Jobs+/JobGear/Botanist/botanist_legs_male_1.png" />
+  <None file="Mods/Jobs+/JobGear/Botanist/botanist_torso_male_1.png" />
+  <None file="Mods/Jobs+/JobGear/Botanist/botanist_torso_female_1.png" />
+  <None file="Mods/Jobs+/JobGear/Botanist/BotanistOutfitIcon.png" />
+  <None file="Mods/Jobs+/JobGear/Botanist/BotanistGearIcon.png" />
+  <None file="Mods/Jobs+/JobGear/Botanist/BotanistJobGear.png" />
+  <Item file="Mods/Jobs+/Items/seeds.xml" />
+  <None file="Mods/Jobs+/Items/cultivator.png" />
+  <None file="Mods/Jobs+/Items/minicultivator.png" />
+  <None file="Mods/Jobs+/Items/minicultivatorIcon.png" />
+  <None file="Mods/Jobs+/Items/SeedAtlas.png" />
+  <None file="Mods/Jobs+/Items/seedfab.png" />
+</contentpackage>

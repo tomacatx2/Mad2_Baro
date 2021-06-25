@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Piano" path="Mods/Piano/filelist.xml" corepackage="false" gameversion="0.10.5.1" steamworkshopid="2236040061" installtime="1601403845">
+  <Item file="Mods/Piano/Instrument/instruments.xml" />
+  <None file="Mods/Piano/Instrument/Airguitar.ogg" />
+  <None file="Mods/Piano/Instrument/Atdoomsgate.ogg" />
+  <None file="Mods/Piano/Instrument/Awakening.ogg" />
+  <None file="Mods/Piano/Instrument/Hearmecalling.ogg" />
+  <None file="Mods/Piano/Instrument/instruments.png" />
+  <None file="Mods/Piano/Instrument/instruments.png~" />
+  <None file="Mods/Piano/Instrument/Legalstuff.txt" />
+  <None file="Mods/Piano/Instrument/PianoSubaquatic.ogg" />
+  <None file="Mods/Piano/Icon.png" />
+  <None file="Mods/Piano/Instrument/Bakamitai.ogg" />
+  <None file="Mods/Piano/Instrument/Dejavu.ogg" />
+  <None file="Mods/Piano/Instrument/Foreverfall.ogg" />
+  <None file="Mods/Piano/Instrument/Furelise.ogg" />
+  <None file="Mods/Piano/Instrument/Mountain.ogg" />
+  <None file="Mods/Piano/Instrument/Replay.ogg" />
+  <None file="Mods/Piano/Instrument/Dancingmoonlight.ogg" />
+  <None file="Mods/Piano/Instrument/Giornostheme.ogg" />
+  <None file="Mods/Piano/Instrument/Renaicirculation.ogg" />
+  <None file="Mods/Piano/Instrument/Rurusshow.ogg" />
+</contentpackage>

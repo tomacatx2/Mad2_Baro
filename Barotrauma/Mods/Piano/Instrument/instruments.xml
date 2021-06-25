@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- PIANO, SHEET MUSIC -->
+<Items>
+  <Item name="Grand Piano" identifier="piano" category="Misc" Tags="smallitem, piano" scale="0.5" description="" price="1000" impactsoundtag="impact_metal_heavy" isshootable="true">
+    <Sprite texture="instruments.png" sourcerect="0,8,345,344" depth="0.55" origin="0.5,0.5" />
+    <Controller name="Controller" UserPos="-100.0, -50.0" direction="Right" canbeselected="true" msg="ItemMsgPlaySelect" hidehud="false">
+      <limbposition limb="LeftHand" position="52,-170" />
+      <limbposition limb="RightHand" position="52,-170" />
+      <StatusEffect type="OnActive" target="This"></StatusEffect>
+    </Controller>
+    <ItemContainer capacity="1" canbeselected="true" hideitems="true">
+      <GuiFrame relativesize="0.2,0.25" anchor="TopCenter" minsize="140,170" maxsize="280,280" style="ItemUI" />
+      <Containable items="sheetmus" />
+      <StatusEffect type="Always" target="Contained, This">
+        <Conditional IsActive="true" targetitemcomponent="Controller" />
+        <RequiredItem items="sheetmus" type="Contained" />
+        <Use />
+      </StatusEffect>
+    </ItemContainer>
+  </Item>
+  <Item name="Sheet Music: Slaughter Symphony" identifier="hyp_sheetmuspurple" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="220,220,255,255" inventoryiconcolor="220,220,255,255" >
+    <InventoryIcon name="shmsub" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmsubsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/PianoSubaquatic.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Hear Me Calling" identifier="hyp_sheetmushmcll" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Hearmecalling.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Air Guitar" identifier="hyp_sheetmusair" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Airguitar.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: At Dooms Gate" identifier="hyp_sheetmusdoomg" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Atdoomsgate.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Awakening" identifier="hyp_sheetmusawake" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Awakening.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Replay" identifier="hyp_sheetmusreplay" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Replay.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Aint No Mountain High Enough" identifier="hyp_sheetmusmount" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Mountain.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Fur Elise" identifier="hyp_sheetmuselise" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Furelise.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Deja Vu" identifier="hyp_sheetmusdeja" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Dejavu.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Baka Mitai" identifier="hyp_sheetmusbaka" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Bakamitai.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Forever Fall" identifier="hyp_sheetmusfall" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Foreverfall.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Dancing In The Moonlight" identifier="hyp_sheetmusmoon" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Dancingmoonlight.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Renai Circulation" identifier="hyp_sheetmusrenai" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Renaicirculation.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Ruru's Show" identifier="hyp_sheetmusroro" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Rurusshow.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Sheet Music: Giorno's Theme" identifier="hyp_sheetmusgio" category="Misc" Tags="smallitem,sheetmus" cargocontaineridentifier="metalcrate" hideinmenus="false" description="" scale="0.5" impactsoundtag="impact_metal_light" spritecolor="255,220,220,255" inventoryiconcolor="255,220,220,255" >
+    <Price baseprice="400" >
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="0.9" minavailable="2" />
+      <Price locationtype="research" multiplier="1.2" minavailable="1" />
+      <Price locationtype="military" multiplier="1.3" minavailable="0" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="0" />
+    </Price>
+	<InventoryIcon name="shmcom" texture="instruments.png" sourcerect="369,41,100,104" depth="0.55" origin="0.5,0.5" />
+    <Sprite name="shmcomsprite" texture="instruments.png" sourcerect="382,168,73,96" depth="0.55" origin="0.5,0.5" />
+    <Body width="73" height="96" density="30"></Body>
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" CharacterUsable="false">
+      <StatusEffect type="OnUse" target="This, Parent">
+        <Conditional HasTag="piano" />
+        <sound file="Mods/Piano/Instrument/Giornostheme.ogg" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+</Items>

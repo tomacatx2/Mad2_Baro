@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  
+          <Stolichnaya name="Stolichnaya" identifier="Stolichnaya vodka" category="Material" cargocontaineridentifier="chemicalcrate" Tags="smallitem,chem,medical" description="Average Russian vodka" useinhealthinterface="true" scale="0.3" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="medcab" spawnprobability="0.1"/>
+    <Price locationtype="City" buyprice="100" />
+    <Price locationtype="Outpost" buyprice="100" />
+    <Fabricate suitablefabricators="fabricator,medicalfabricator" requiredtime="3">
+      <RequiredSkill identifier="medical" level="1" />
+      <RequiredItem identifier="ethanol" />
+      <RequiredItem identifier="ethanol" />
+	  <RequiredItem identifier="ethanol" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+	  <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Deep Sea Alcohol/Items/StolichnayaI.png" sourcerect="143,124,111,110" origin="0.5,0.5" />
+    <Sprite texture="Stolichnaya.png" sourcerect="188,104,32,139" origin="0.5,0.5"/>
+    <Body width="31" height="137" density="9" />
+    <MeleeWeapon canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" aimpos="5,5" handle1="0,0" holdangle="305" reload="1.0" msg="ItemMsgPickUpSelect">
+      <RequiredSkill identifier="medical" level="1"></RequiredSkill>
+      <StatusEffect type="OnUse" target="This" Condition="-50.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="8.0" delay="10.0">
+        <ReduceAffliction identifier="internaldamage" amount="2" />
+		<Affliction identifier="drunk" amount="4" />
+		        <Affliction identifier="psychosisresistance" amount="200"/>
+      </StatusEffect>
+	        <StatusEffect tags="medical" type="OnUse" target="This, Limb" duration="1.0">
+        <ReduceAffliction identifier="bleeding" amount="9" />
+        <ReduceAffliction identifier="burn" amount="15" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true" delay="3.0">
+        <Affliction identifier="durationincrease" amount="50" />
+		<!-- <Affliction identifier="pressureresistance" amount="100" /> -->
+		<Affliction identifier="strengthen" amount="50" />
+		</StatusEffect>
+	   <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <sound file="Mods/Deep sea alcohol/Items/vodka.ogg" type="OnUse" range="600" selectionmode="All" />
+      </StatusEffect>
+      <!-- Remove the item when fully used -->
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </MeleeWeapon>
+  </Stolichnaya>
+  
+  <Pohmelin name="Pohmelin" identifier="pohmelin" category="Material" cargocontaineridentifier="chemicalcrate" Tags="smallitem,chem,medical" description="Great anti-hangover measure." useinhealthinterface="true" scale="0.3" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="medcab" spawnprobability="0.1"/>
+    <Price locationtype="City" buyprice="25" />
+    <Price locationtype="Outpost" buyprice="25" />
+    <Fabricate suitablefabricators="fabricator,medicalfabricator" requiredtime="20">
+      <RequiredSkill identifier="medical" level="5" />
+      <RequiredItem identifier="ethanol" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Deep sea alcohol/Items/pohI.png" sourcerect="447,819,80,81" origin="0.5,0.5" />
+    <Sprite texture="pohmelin.png" sourcerect="430.7,722,60,188" depth="0.6" origin="0.5,0.5" />
+    <Body width="60" height="140" density="9" />
+    <MeleeWeapon canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" aimpos="5,5" handle1="-5,0" holdangle="305" reload="1.0" msg="ItemMsgPickUpSelect">
+      <RequiredSkill identifier="medical" level="1"></RequiredSkill>
+	   <StatusEffect type="OnUse" target="This" Condition="-25.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="10.0" delay="3.0">
+		<ReduceAffliction identifier="drunk" amount="2.5" />
+      </StatusEffect>
+	   <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <sound file="Mods/Deep sea alcohol/Items/poh.ogg" type="OnUse" range="600" selectionmode="All" />
+      </StatusEffect>
+	      <!-- Remove the item when fully used -->
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </MeleeWeapon>
+  </Pohmelin>
+  
+      <Corona name="Corona Beer" identifier="corona" category="Material" cargocontaineridentifier="chemicalcrate" Tags="smallitem,chem,medical" description="Gives you buffs and infects with husk eg- I-i mean, it's totally safe, yea..." useinhealthinterface="true" scale="0.3" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="medcab" spawnprobability="0.1"/>
+    <Price locationtype="City" buyprice="575" />
+    <Price locationtype="Outpost" buyprice="575" />
+    <Fabricate suitablefabricators="fabricator,medicalfabricator" requiredtime="40">
+      <RequiredSkill identifier="medical" level="10" />
+      <RequiredItem identifier="ethanol" />
+      <RequiredItem identifier="cyanide" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+      <Item identifier="cyanide" copycondition="true" mincondition="0.1" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Deep Sea Alcohol/Items/coronaI.png" sourcerect="143,124,111,110" origin="0.5,0.5" />
+    <Sprite texture="corona.png" sourcerect="188,104,35,139" depth="0.6" origin="0.5,0.5" />
+    <Body width="30" height="110" density="9" />
+    <MeleeWeapon canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" aimpos="5,5" handle1="-5,0" holdangle="305" reload="1.0" msg="ItemMsgPickUpSelect">
+      <RequiredSkill identifier="medical" level="1"></RequiredSkill>
+      <StatusEffect type="OnUse" target="This" Condition="-50.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="2.0" delay="4.0">
+        <ReduceAffliction identifier="internaldamage" amount="5.5" />
+		<Affliction identifier="drunk" amount="10.5" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true" delay="4.0">
+        <Affliction identifier="durationincrease" amount="100" />
+		<Affliction identifier="pressureresistance" amount="100" />
+		<Affliction identifier="strengthen" amount="100" />
+		<Affliction identifier="huskinfection" amount="1"/>
+		</StatusEffect>
+	   <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <sound file="Mods/Deep Sea Alcohol/Items/water.ogg" type="OnUse" range="600" selectionmode="All" />
+      </StatusEffect>
+
+      
+	 
+      <!-- Remove the item when fully used -->
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </MeleeWeapon>
+  </Corona>
+  
+  
+            <energy name="Honkmother's Energy Drink" identifier="energy" category="Material" cargocontaineridentifier="chemicalcrate" Tags="smallitem,chem,medical" description="Looks like an usual energy drink, but who knows what's put in it?" useinhealthinterface="true" scale="0.3" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="medcab" spawnprobability="0.1"/>
+    <Price locationtype="City" buyprice="150" />
+    <Price locationtype="Outpost" buyprice="150" />
+    <Fabricate suitablefabricators="fabricator,medicalfabricator" requiredtime="3">
+      <RequiredSkill identifier="medical" level="1" />
+      <RequiredItem identifier="deliriumine" />
+      <RequiredItem identifier="ethanol" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+      <Item identifier="deliriumine" copycondition="true" mincondition="0.1" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Deep Sea Alcohol/Items/energyI.png" sourcerect="143,124,111,110" origin="0.5,0.5" />
+    <Sprite texture="energy.png" sourcerect="188,104,32,139" origin="0.5,0.5"/>
+    <Body width="31" height="137" density="9" />
+    <MeleeWeapon canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" aimpos="5,5" handle1="0,0" holdangle="305" reload="1.0" msg="ItemMsgPickUpSelect">
+      <RequiredSkill identifier="medical" level="1"></RequiredSkill>
+      <StatusEffect type="OnUse" target="This" Condition="-33.4" disabledeltatime="true" />
+	  	  <StatusEffect tags="medical" type="OnUse" target="Character" duration="80.0" delay="4.0">
+		<Affliction identifier="haste" amount="2.5" />
+      </StatusEffect>
+	  	  	  <StatusEffect tags="medical" type="OnUse" target="Character" duration="20.0" delay="40.0">
+        <Affliction identifier="psychosis" amount="1" />
+      </StatusEffect>
+	   <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <sound file="Mods/Deep sea alcohol/Items/beer.ogg" type="OnUse" range="600" selectionmode="All" />
+      </StatusEffect>
+	  		<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true" delay="3.0">
+        <sound file="Mods/Deep sea alcohol/Items/water.ogg" type="OnUse" range="600" selectionmode="All" />
+      </StatusEffect>
+	  
+      <!-- Remove the item when fully used -->
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </MeleeWeapon>
+  </energy>
+  
+            <beer name="Beer" identifier="beer" category="Material" cargocontaineridentifier="chemicalcrate" Tags="smallitem,chem,medical" description="A regular bottle of beer" useinhealthinterface="true" scale="0.3" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="medcab" spawnprobability="0.1"/>
+    <Price locationtype="City" buyprice="120" />
+    <Price locationtype="Outpost" buyprice="120" />
+    <Fabricate suitablefabricators="fabricator,medicalfabricator" requiredtime="3">
+      <RequiredSkill identifier="medical" level="1" />
+      <RequiredItem identifier="ethanol" />
+      <RequiredItem identifier="ethanol" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Deep Sea Alcohol/Items/beerI.png" sourcerect="143,124,111,110" origin="0.5,0.5" />
+    <Sprite texture="beer.png" sourcerect="188,104,32,139" origin="0.5,0.5"/>
+    <Body width="31" height="137" density="9" />
+    <MeleeWeapon canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" aimpos="5,5" handle1="0,0" holdangle="305" reload="1.0" msg="ItemMsgPickUpSelect">
+      <RequiredSkill identifier="medical" level="1"></RequiredSkill>
+      <StatusEffect type="OnUse" target="This" Condition="-50.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="8.0" delay="10.0">
+        <ReduceAffliction identifier="internaldamage" amount="2" />
+		<Affliction identifier="drunk" amount="2" />
+		<ReduceAffliction identifier="psychosis" amount="4" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true" delay="3.0">
+        <Affliction identifier="durationincrease" amount="100" />
+		<!-- <Affliction identifier="pressureresistance" amount="100" /> -->
+		<Affliction identifier="strengthen" amount="100" />
+		</StatusEffect>
+	   <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <sound file="Mods/Deep sea alcohol/Items/beer.ogg" type="OnUse" range="600" selectionmode="All" />
+		</StatusEffect>
+			   <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <sound file="Mods/Deep sea alcohol/Items/water.ogg" type="OnUse" range="600" selectionmode="All" delay="2.0" />
+      </StatusEffect>
+      <!-- Remove the item when fully used -->
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </MeleeWeapon>
+  </beer>
+  
+              <tsar name="Tsarskaya vodka" identifier="tsar" category="Material" cargocontaineridentifier="chemicalcrate" Tags="smallitem,chem,medical" description="It FUCKING BURNS. Do not consume." useinhealthinterface="true" scale="0.3" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="medcab" spawnprobability="0.1"/>
+    <Price locationtype="City" buyprice="900" />
+    <Price locationtype="Outpost" buyprice="900" />
+    <Fabricate suitablefabricators="fabricator,medicalfabricator" requiredtime="60">
+      <RequiredSkill identifier="medical" level="10" />
+      <RequiredItem identifier="stolichnaya" />
+      <RequiredItem identifier="sulphuricacid" />
+	  <RequiredItem identifier="sulphuricacid" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Deep Sea Alcohol/Items/tsarskayaI.png" sourcerect="143,124,111,110" origin="0.5,0.5" />
+    <Sprite texture="tsarskaya.png" sourcerect="188,104,35,139" origin="0.5,0.5"/>
+    <Body width="31" height="137" density="9" />
+    <MeleeWeapon canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" aimpos="5,5" handle1="0,0" holdangle="305" reload="1.0" msg="ItemMsgPickUpSelect">
+      <RequiredSkill identifier="medical" level="1"></RequiredSkill>
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="10.0" delay="3.0">
+        <Affliction identifier="internaldamage" amount="3" />
+		<Affliction identifier="drunk" amount="9" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true" delay="3.0">
+        <Affliction identifier="durationincrease" amount="100" />
+		<!-- <Affliction identifier="pressureresistance" amount="100" /> -->
+		<Affliction identifier="strengthen" amount="100" />
+		</StatusEffect>
+	   <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <sound file="Mods/Deep sea alcohol/Items/vodka.ogg" type="OnUse" range="600" selectionmode="All" />
+      </StatusEffect>
+      <!-- Remove the item when fully used -->
+      <StatusEffect type="OnBroken" target="This">
+        <Fire size="100.0" />
+		<Remove />
+      </StatusEffect>
+    </MeleeWeapon>
+  </tsar>
+  
+  
+              <leninade name="Leninade" identifier="leninade" category="Material" cargocontaineridentifier="chemicalcrate" Tags="smallitem,chem,medical" description="Sweet refreshing drink." useinhealthinterface="true" scale="0.3" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="medcab" spawnprobability="0.1"/>
+    <Price locationtype="City" buyprice="150" />
+    <Price locationtype="Outpost" buyprice="150" />
+    <Fabricate suitablefabricators="fabricator,medicalfabricator" requiredtime="3">
+      <RequiredSkill identifier="medical" level="1" />
+      <RequiredItem identifier="pohmelin" />
+      <RequiredItem identifier="pohmelin" />
+    </Fabricate>
+    <Deconstruct time="5">
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+      <Item identifier="ethanol" copycondition="true" mincondition="0.1" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Deep Sea Alcohol/Items/leninadeI.png" sourcerect="143,124,111,110" origin="0.5,0.5" />
+    <Sprite texture="leninade.png" sourcerect="188,104,32,139" origin="0.5,0.5"/>
+    <Body width="31" height="137" density="9" />
+    <MeleeWeapon canBeCombined="true" removeOnCombined="true" slots="Any,RightHand,LeftHand" aimpos="5,5" handle1="0,0" holdangle="305" reload="1.0" msg="ItemMsgPickUpSelect">
+      <RequiredSkill identifier="medical" level="1"></RequiredSkill>
+      <StatusEffect type="OnUse" target="This" Condition="-50.0" disabledeltatime="true" />
+	  	  <StatusEffect tags="medical" type="OnUse" target="Character" duration="20.0" delay="4.0">
+		<Affliction identifier="durationincrease" amount="2" />
+		        <ReduceAffliction identifier="psychosis" amount="1" />
+		<Affliction identifier="psychosisresistance" amount="2"/>
+      </StatusEffect>
+	   <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <sound file="Mods/Deep sea alcohol/Items/beer.ogg" type="OnUse" range="600" selectionmode="All" />
+      </StatusEffect>
+	  		<StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true" delay="3.0">
+        <sound file="Mods/Deep sea alcohol/Items/water.ogg" type="OnUse" range="600" selectionmode="All" />
+      </StatusEffect>
+	  
+      <!-- Remove the item when fully used -->
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </MeleeWeapon>
+  </leninade>
+
+</Items>

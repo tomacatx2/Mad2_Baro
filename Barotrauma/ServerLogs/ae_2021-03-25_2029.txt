@@ -1,0 +1,652 @@
+﻿[3/25/2021 8:14:33 PM]
+  Starting the server...
+[3/25/2021 8:14:33 PM]
+  Using SteamP2P networking.
+[3/25/2021 8:14:33 PM]
+  Server started
+[3/25/2021 8:14:33 PM]
+  tomacatx1 has joined the server.
+[3/25/2021 8:14:33 PM]
+  Saving client permissions
+[3/25/2021 8:14:33 PM]
+  Saving client permissions
+[3/25/2021 8:14:47 PM]
+  Gamemode changed to Sandbox
+[3/25/2021 8:15:05 PM]
+  Gamemode changed to Campaign
+[3/25/2021 8:15:16 PM]
+  Gamemode changed to Sandbox
+[3/25/2021 8:15:17 PM]
+  Client "tomacatx1" started the round.
+[3/25/2021 8:15:17 PM]
+  Starting a new round...
+[3/25/2021 8:15:23 PM]
+  Game mode: Sandbox
+[3/25/2021 8:15:23 PM]
+  Submarine: Humpback v1.03 re-1
+[3/25/2021 8:15:23 PM]
+  Level seed: jFVAtKAk
+[3/25/2021 8:15:24 PM]
+  Round started.
+[3/25/2021 8:15:51 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/25/2021 8:16:00 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[3/25/2021 8:16:01 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 79, Fission rate: 3, Turbine output: 1, Autotemp ON
+[3/25/2021 8:16:12 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[3/25/2021 8:16:17 PM]
+  Console command "freecam" executed by tomacatx1.
+[3/25/2021 8:16:17 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/25/2021 8:16:23 PM]
+  Console command "control "Alvin Rhymer"" executed by tomacatx1.
+[3/25/2021 8:16:26 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/25/2021 8:16:32 PM]
+  Console command "freecam" executed by tomacatx1.
+[3/25/2021 8:16:32 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/25/2021 8:16:51 PM]
+  Console command "spawn charybdis cursor" executed by tomacatx1.
+[3/25/2021 8:16:55 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/25/2021 8:18:02 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:18:03 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:18:03 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:18:03 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:18:04 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:18:06 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 518)
+[3/25/2021 8:18:07 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 523)
+[3/25/2021 8:18:08 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 522)
+[3/25/2021 8:18:08 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 521)
+[3/25/2021 8:18:09 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 520)
+[3/25/2021 8:18:17 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[3/25/2021 8:18:18 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 150 Bleeding: 100 Stun: 15
+[3/25/2021 8:18:36 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[3/25/2021 8:18:37 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 150 Bleeding: 100 Stun: 15
+[3/25/2021 8:18:41 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[3/25/2021 8:18:42 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 150 Bleeding: 100 Stun: 15
+[3/25/2021 8:18:46 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[3/25/2021 8:18:47 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 37.5 Stun: 15
+[3/25/2021 8:18:52 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[3/25/2021 8:18:52 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[3/25/2021 8:19:06 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[3/25/2021 8:19:08 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:19:09 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:19:09 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:19:15 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 223)
+[3/25/2021 8:19:16 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 222)
+[3/25/2021 8:19:17 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 221)
+[3/25/2021 8:19:17 PM]
+  tomacatx1 equipped Railgun Shell
+[3/25/2021 8:19:17 PM]
+  tomacatx1 picked up Railgun Shell
+[3/25/2021 8:19:20 PM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 914)
+[3/25/2021 8:19:26 PM]
+  tomacatx1 equipped Railgun Shell
+[3/25/2021 8:19:26 PM]
+  tomacatx1 picked up Railgun Shell
+[3/25/2021 8:19:29 PM]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 914)
+[3/25/2021 8:19:39 PM]
+  Console command "freecam" executed by tomacatx1.
+[3/25/2021 8:19:39 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/25/2021 8:19:47 PM]
+  Console command "spawn coelanth cursor" executed by tomacatx1.
+[3/25/2021 8:19:54 PM]
+  Console command "spawn endworm cursor" executed by tomacatx1.
+[3/25/2021 8:19:57 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/25/2021 8:20:20 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[3/25/2021 8:20:21 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[3/25/2021 8:20:21 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[3/25/2021 8:20:23 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 913)
+[3/25/2021 8:20:23 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[3/25/2021 8:20:23 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[3/25/2021 8:20:23 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[3/25/2021 8:20:23 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[3/25/2021 8:20:28 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:28 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:28 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:28 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:28 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:28 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:29 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:29 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:29 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:30 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:30 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:30 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:30 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:30 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:30 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:30 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:30 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:31 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:31 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:31 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:31 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:31 PM]
+  Coelanth has died (Cause of death: Lacerations)
+[3/25/2021 8:20:31 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:31 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:31 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:31 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:31 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:31 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:31 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:32 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:32 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:32 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:32 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:32 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:32 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:32 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:32 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[3/25/2021 8:20:33 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:33 PM]
+  Coelanth attacked by tomacatx1. Lacerations: 11 Bleeding: 1
+[3/25/2021 8:20:53 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[3/25/2021 8:20:54 PM]
+  Endworm attacked by tomacatx1. Lacerations: 15 Stun: 15
+[3/25/2021 8:20:58 PM]
+  tomacatx1 launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[3/25/2021 8:20:59 PM]
+  Endworm attacked by tomacatx1. Lacerations: 15 Stun: 15
+[3/25/2021 8:21:01 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:01 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:01 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:02 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:02 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:02 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:02 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:02 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:02 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:02 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:02 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:03 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:03 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:03 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:03 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:03 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:03 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:04 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:04 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:04 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:04 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:04 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:04 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:04 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:04 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:05 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:05 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:05 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:05 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:05 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:05 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:06 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:06 PM]
+  Endworm attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:06 PM]
+  Endworm attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:06 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:06 PM]
+  Endworm attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:06 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:06 PM]
+  Endworm attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:06 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:07 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:07 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:07 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:07 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:07 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:07 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:07 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:08 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:08 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:08 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:08 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:08 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:08 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:08 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:08 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:09 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:09 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:09 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:09 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:09 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:09 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:10 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:10 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:10 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:10 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:10 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:10 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:10 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:11 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:11 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:11 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:11 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:11 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:11 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:11 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:11 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:11 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:12 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:12 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:12 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:12 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:12 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:13 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:13 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:13 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:13 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:13 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:13 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:13 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:13 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:14 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:14 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:14 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:14 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:14 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:14 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:15 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:15 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:15 PM]
+  Endworm attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:15 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:15 PM]
+  Endworm attacked by tomacatx1. Lacerations: 1.25
+[3/25/2021 8:21:15 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:16 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:16 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:17 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:17 PM]
+  tomacatx1 launched Coilgun (projectile: Coilgun Bolt)
+[3/25/2021 8:21:17 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 12.5 Bleeding: 1
+[3/25/2021 8:21:17 PM]
+  Charybdis attacked by tomacatx1. Lacerations: 3.125
+[3/25/2021 8:21:23 PM]
+  Client "tomacatx1" ended the round.
+[3/25/2021 8:21:23 PM]
+  Ending the round...
+[3/25/2021 8:21:23 PM]
+  Round ended.
+[3/25/2021 8:22:38 PM]
+  tomacatx1 changed PlayStyle to Casual
+[3/25/2021 8:22:38 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[3/25/2021 8:22:38 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[3/25/2021 8:22:41 PM]
+  Client "tomacatx1" started the round.
+[3/25/2021 8:22:41 PM]
+  Starting a new round...
+[3/25/2021 8:22:46 PM]
+  Game mode: Sandbox
+[3/25/2021 8:22:46 PM]
+  Submarine: Humpback v1.03 re-1
+[3/25/2021 8:22:46 PM]
+  Level seed: LtDxHxnp
+[3/25/2021 8:22:46 PM]
+  Round started.
+[3/25/2021 8:23:00 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/25/2021 8:23:09 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[3/25/2021 8:23:10 PM]
+  tomacatx1 adjusted reactor settings: Temperature: 98, Fission rate: 3, Turbine output: 1, Autotemp ON
+[3/25/2021 8:23:40 PM]
+  tomacatx1 picked up Abyss Diving Suit
+[3/25/2021 8:23:42 PM]
+  tomacatx1 dropped Abyss Diving Suit
+[3/25/2021 8:23:48 PM]
+  tomacatx1 picked up Oxygen Tank
+[3/25/2021 8:23:49 PM]
+  tomacatx1 picked up Oxygen Tank
+[3/25/2021 8:23:53 PM]
+  tomacatx1 picked up Abyss Diving Suit
+[3/25/2021 8:23:55 PM]
+  tomacatx1 placed Oxygen Tank in Abyss Diving Suit (ID: 4501)
+[3/25/2021 8:23:57 PM]
+  tomacatx1 dropped Abyss Diving Suit
+[3/25/2021 8:24:01 PM]
+  tomacatx1 picked up Combat Diving Suit
+[3/25/2021 8:24:02 PM]
+  tomacatx1 placed Oxygen Tank in Combat Diving Suit (ID: 4502)
+[3/25/2021 8:24:10 PM]
+  tomacatx1 picked up Diving Suit
+[3/25/2021 8:24:10 PM]
+  tomacatx1 dropped Combat Diving Suit
+[3/25/2021 8:24:10 PM]
+  tomacatx1 placed Combat Diving Suit in Diving Suit Locker (ID: 203)
+[3/25/2021 8:24:12 PM]
+  tomacatx1 dropped Diving Suit
+[3/25/2021 8:24:17 PM]
+  tomacatx1 picked up Abyss Diving Suit
+[3/25/2021 8:24:29 PM]
+  tomacatx1 picked up Diving Suit
+[3/25/2021 8:24:29 PM]
+  tomacatx1 dropped Abyss Diving Suit
+[3/25/2021 8:24:29 PM]
+  tomacatx1 placed Abyss Diving Suit in Diving Suit Locker (ID: 182)
+[3/25/2021 8:24:31 PM]
+  tomacatx1 dropped Diving Suit
+[3/25/2021 8:25:02 PM]
+  Console command "freecam" executed by tomacatx1.
+[3/25/2021 8:25:02 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[3/25/2021 8:25:11 PM]
+  Console command "spawn endworm cursor" executed by tomacatx1.
+[3/25/2021 8:25:31 PM]
+  Console command "spawn charybdis cursor" executed by tomacatx1.
+[3/25/2021 8:25:58 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[3/25/2021 8:26:15 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[3/25/2021 8:26:16 PM]
+  Console command "spawnitem "Piercing Ammunition Box" cursor" executed by tomacatx1.
+[3/25/2021 8:26:26 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:26:26 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:26:27 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:26:27 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:26:27 PM]
+  Console command "spawnitem "C-4 Block" inventory" executed by tomacatx1.
+[3/25/2021 8:26:30 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 518)
+[3/25/2021 8:26:31 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 523)
+[3/25/2021 8:26:32 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 522)
+[3/25/2021 8:26:34 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 521)
+[3/25/2021 8:26:35 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 520)
+[3/25/2021 8:26:36 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[3/25/2021 8:26:36 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[3/25/2021 8:26:38 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 913)
+[3/25/2021 8:26:38 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[3/25/2021 8:26:38 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[3/25/2021 8:26:38 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[3/25/2021 8:26:39 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[3/25/2021 8:26:40 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[3/25/2021 8:26:40 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[3/25/2021 8:26:42 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 778)
+[3/25/2021 8:26:42 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 778)
+[3/25/2021 8:26:42 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[3/25/2021 8:26:42 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[3/25/2021 8:26:43 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[3/25/2021 8:28:26 PM]
+  Console command "spawn Watchman cursor" executed by tomacatx1.
+[3/25/2021 8:28:35 PM]
+  tomacatx1 equipped Revolver
+[3/25/2021 8:28:37 PM]
+  Franklin Chiu attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[3/25/2021 8:28:39 PM]
+  Franklin Chiu attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[3/25/2021 8:28:39 PM]
+  Franklin Chiu: I'm bleeding out!
+[3/25/2021 8:28:39 PM]
+  Franklin Chiu: Please, no!
+[3/25/2021 8:28:40 PM]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[3/25/2021 8:28:40 PM]
+  Franklin Chiu attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[3/25/2021 8:28:41 PM]
+  Franklin Chiu equipped Revolver
+[3/25/2021 8:28:42 PM]
+  Franklin Chiu attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[3/25/2021 8:28:43 PM]
+  Franklin Chiu attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[3/25/2021 8:28:49 PM]
+  tomacatx1 picked up Blood Pack
+[3/25/2021 8:28:49 PM]
+  tomacatx1 picked up Blood Pack
+[3/25/2021 8:28:49 PM]
+  tomacatx1 picked up Blood Pack
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Bandage
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Bandage
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Bandage
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Bandage
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Bandage
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Bandage
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Bandage
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Bandage
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Plastiseal
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Plastiseal
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Plastiseal
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Plastiseal
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Plastiseal
+[3/25/2021 8:28:50 PM]
+  tomacatx1 picked up Plastiseal
+[3/25/2021 8:28:52 PM]
+  tomacatx1 picked up Morphine
+[3/25/2021 8:28:52 PM]
+  tomacatx1 picked up Morphine
+[3/25/2021 8:28:59 PM]
+  Franklin Chiu has died (Cause of death: Blood loss)
+[3/25/2021 8:29:14 PM]
+  Client "tomacatx1" ended the round.
+[3/25/2021 8:29:14 PM]
+  Ending the round...

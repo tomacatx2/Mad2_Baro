@@ -1,0 +1,200 @@
+﻿[6/24/2021 3:43:26 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:43:26 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 3:43:27 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:43:27 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:43:27 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:43:39 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 3:43:39 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:43:39 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 3:43:39 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:43:39 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:43:55 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 3:43:55 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 3:43:55 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:43:55 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:44:05 PM]
+  Console command "teleport" executed by The Supreme Gentleman.
+[6/24/2021 3:44:10 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 10 %
+[6/24/2021 3:44:10 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 3:44:10 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 3:44:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:44:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 3:44:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 3:44:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:44:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:44:19 PM]
+  The Supreme Gentleman set the recharge speed of Supercapacitor to 90 %
+[6/24/2021 3:44:19 PM]
+  The Supreme Gentleman set the recharge speed of Supercapacitor to 70 %
+[6/24/2021 3:44:19 PM]
+  The Supreme Gentleman set the recharge speed of Supercapacitor to 60 %
+[6/24/2021 3:44:19 PM]
+  The Supreme Gentleman set the recharge speed of Supercapacitor to 50 %
+[6/24/2021 3:44:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 3:44:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 3:44:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:44:38 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:44:40 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 3:44:41 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:44:41 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:44:43 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:44:43 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 3:44:44 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:44:44 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 3:44:44 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:44:44 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:44:46 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:44:46 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 3:44:46 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:44:47 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:45:04 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 3:45:04 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:45:04 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 3:45:04 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:45:04 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:45:08 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 40 %
+[6/24/2021 3:45:08 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 70 %
+[6/24/2021 3:45:08 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:45:08 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:45:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 50 %
+[6/24/2021 3:45:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 3:45:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:45:11 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:45:13 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 20 %
+[6/24/2021 3:45:13 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 30 %
+[6/24/2021 3:45:14 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 60 %
+[6/24/2021 3:45:14 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 80 %
+[6/24/2021 3:45:14 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 90 %
+[6/24/2021 3:45:14 PM]
+  The Supreme Gentleman set the recharge speed of Battery to 100 %
+[6/24/2021 3:45:15 PM]
+  Waldo Kinney equipped Wrench
+[6/24/2021 3:46:35 PM]
+  Stefany Riles equipped Screwdriver
+[6/24/2021 3:46:41 PM]
+  Stefany Riles started repairing Battery
+[6/24/2021 3:46:45 PM]
+  Stefany Riles started repairing Battery
+[6/24/2021 3:46:52 PM]
+  Pirate Lord: Pirate Technician, take care of broken devices!
+[6/24/2021 3:46:54 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 3:46:56 PM]
+  Pirate Technician started repairing Battery
+[6/24/2021 3:46:59 PM]
+  Pirate Lord: Pirate Fuelboy, take care of broken devices!
+[6/24/2021 3:47:00 PM]
+  Stefany Riles failed to repair Supercapacitor
+[6/24/2021 3:47:00 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 3:47:05 PM]
+  Stefany Riles started repairing Supercapacitor
+[6/24/2021 3:47:18 PM]
+  Waldo Kinney started repairing Small Pump
+[6/24/2021 3:47:19 PM]
+  Stefany Riles started repairing Battery
+[6/24/2021 3:47:31 PM]
+  Stefany Riles started repairing Supercapacitor
+[6/24/2021 3:47:36 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 3:47:36 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 3:47:37 PM]
+  Pirate Technician started repairing Junction Box
+[6/24/2021 3:47:37 PM]
+  Pirate Fuelboy failed to repair Junction Box
+[6/24/2021 3:47:41 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 3:47:52 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/24/2021 3:47:52 PM]
+  Pirate Fuelboy equipped Bandage
+[6/24/2021 3:48:01 PM]
+  Pirate Fuelboy equipped Bandage
+[6/24/2021 3:48:19 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 3:48:19 PM]
+  Pirate Fuelboy started repairing Battery
+[6/24/2021 3:48:23 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/24/2021 3:48:32 PM]
+  Stefany Riles started repairing Junction Box
+[6/24/2021 3:48:42 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 3:48:42 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 3:48:46 PM]
+  Pirate Technician started repairing Supercapacitor
+[6/24/2021 3:48:50 PM]
+  Pirate Fuelboy started repairing Supercapacitor
+[6/24/2021 3:48:50 PM]
+  Pirate Technician unequipped Screwdriver
+[6/24/2021 3:48:50 PM]
+  Pirate Fuelboy unequipped Screwdriver
+[6/24/2021 3:48:57 PM]
+  Pirate Technician equipped Screwdriver
+[6/24/2021 3:48:57 PM]
+  Pirate Technician failed to repair Navigation Terminal
+[6/24/2021 3:48:57 PM]
+  Pirate Fuelboy equipped Screwdriver
+[6/24/2021 3:48:57 PM]
+  Pirate Fuelboy started repairing Navigation Terminal
+[6/24/2021 3:49:04 PM]
+  Pir

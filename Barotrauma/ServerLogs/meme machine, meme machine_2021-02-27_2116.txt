@@ -1,0 +1,170 @@
+﻿[2/27/2021 9:01:46 PM]
+  Saving client permissions
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed AutoRestartInterval to 300
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/27/2021 9:02:26 PM]
+  tomacatx1 changed EndVoteRequiredRatio to 1
+[2/27/2021 9:02:28 PM]
+  Client "tomacatx1" started the round.
+[2/27/2021 9:02:28 PM]
+  Starting a new round...
+[2/27/2021 9:02:41 PM]
+  Mission: Killing a Moloch
+[2/27/2021 9:02:41 PM]
+  A particularly aggressive Moloch has been terrorizing vessels traveling between Sidon Flexus Mine and Hyldemoer Habitation Outpost. A reward of 5,000 marks has been promised to those who kill the creature.
+[2/27/2021 9:02:41 PM]
+  Game mode: Mission
+[2/27/2021 9:02:41 PM]
+  Submarine: Humpback
+[2/27/2021 9:02:41 PM]
+  Level seed: BKVG2NrM
+[2/27/2021 9:02:41 PM]
+  Mission: Killing a Moloch
+[2/27/2021 9:02:41 PM]
+  Round started.
+[2/27/2021 9:02:41 PM]
+  Trudy Mason: Are we there yet?
+[2/27/2021 9:02:45 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/27/2021 9:02:59 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 9:02:59 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/27/2021 9:03:11 PM]
+  Console command "spawn balloon cursor" executed by tomacatx1.
+[2/27/2021 9:03:17 PM]
+  Console command "spawn Assistant cursor" executed by tomacatx1.
+[2/27/2021 9:03:18 PM]
+  Josef Summitt: Need to find a diving suit!
+[2/27/2021 9:03:22 PM]
+  Josef Summitt has died (Cause of death: Barotrauma)
+[2/27/2021 9:03:31 PM]
+  Console command "spawn crawler_hatchling cursor" executed by tomacatx1.
+[2/27/2021 9:03:59 PM]
+  Ending round (no living players left and respawning is not enabled during this round)
+[2/27/2021 9:03:59 PM]
+  Ending the round...
+[2/27/2021 9:03:59 PM]
+  Round ended.
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed RespawnInterval to 600
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed MinRespawnRatio to 0
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed AllowRespawn to True
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/27/2021 9:04:30 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/27/2021 9:04:31 PM]
+  Client "tomacatx1" started the round.
+[2/27/2021 9:04:31 PM]
+  Starting a new round...
+[2/27/2021 9:04:39 PM]
+  Mission: Terminate a Swarm
+[2/27/2021 9:04:39 PM]
+  A small swarm of Crawler has been terrorizing vessels traveling between Topol Habitation Outpost and Arid Troma Mine. A reward of 2,600 marks has been promised to any crew that can neutralize it.
+[2/27/2021 9:04:39 PM]
+  Game mode: Mission
+[2/27/2021 9:04:39 PM]
+  Submarine: Humpback
+[2/27/2021 9:04:39 PM]
+  Level seed: I5DmpbAU
+[2/27/2021 9:04:39 PM]
+  Mission: Terminate a Swarm
+[2/27/2021 9:04:39 PM]
+  Round started.
+[2/27/2021 9:04:40 PM]
+  Siena Maynard: I miss the sun.
+[2/27/2021 9:04:43 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/27/2021 9:04:47 PM]
+  Console command "freecam" executed by tomacatx1.
+[2/27/2021 9:05:08 PM]
+  Console command "spawn humanhusk cursor" executed by tomacatx1.
+[2/27/2021 9:05:19 PM]
+  Console command "spawn hammerhead_m cursor" executed by tomacatx1.
+[2/27/2021 9:05:20 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:05:31 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:05:43 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:05:54 PM]
+  Console command "spawn mudraptor_hatchling cursor" executed by tomacatx1.
+[2/27/2021 9:06:08 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:06:10 PM]
+  Siena Maynard: Need to find a diving suit!
+[2/27/2021 9:06:22 PM]
+  Siena Maynard: I'm bleeding out!
+[2/27/2021 9:06:29 PM]
+  Console command "spawn swarmcrawler cursor" executed by tomacatx1.
+[2/27/2021 9:06:44 PM]
+  Console command "spawn tigerthresher_hatchling cursor" executed by tomacatx1.
+[2/27/2021 9:06:48 PM]
+  Inner wall breached by Tigerthresher_hatchling
+[2/27/2021 9:06:55 PM]
+  Siena Maynard: Help, I'm bleeding!
+[2/27/2021 9:07:02 PM]
+  Siena Maynard: Need medical assistance in upper mid!
+[2/27/2021 9:07:13 PM]
+  Siena Maynard equipped Bandage
+[2/27/2021 9:07:19 PM]
+  Siena Maynard equipped Blood Pack
+[2/27/2021 9:07:22 PM]
+  Tigerthresher_hatchling has died (Cause of death: Bite wounds)
+[2/27/2021 9:07:26 PM]
+  Outer wall breached by Hammerhead_m
+[2/27/2021 9:07:27 PM]
+  Client "tomacatx1" ended the round.
+[2/27/2021 9:07:27 PM]
+  Ending the round...
+[2/27/2021 9:07:27 PM]
+  Round ended.
+[2/27/2021 9:08:30 PM]
+  tomacatx1 changed MinRespawnRatio to 0.90000004
+[2/27/2021 9:08:30 PM]
+  tomacatx1 changed PlayStyle to Casual
+[2/27/2021 9:08:30 PM]
+  tomacatx1 changed AllowRespawn to False
+[2/27/2021 9:08:30 PM]
+  tomacatx1 changed SubSelectionMode to Manual
+[2/27/2021 9:08:30 PM]
+  tomacatx1 changed ModeSelectionMode to Manual
+[2/27/2021 9:09:23 PM]
+  Gamemode changed to Sandbox
+[2/27/2021 9:09:24 PM]
+  Gamemode changed to Mission
+[2/27/2021 9:11:11 PM]
+  terc has joined the server.
+[2/27/2021 9:11:11 PM]
+  Saving client permissions
+[2/27/2021 9:11:15 PM]
+  tomacatx1: hello
+[2/27/2021 9:11:18 PM]
+  terc: hello
+[2/27/2021 9:11:19 PM]
+  tomacatx1: waiting on the rest of the cucks
+[2/27/2021 9:11:29 PM]
+  tomacatx1: spam ping them on the discord if you wanna
+[2/27/2021 9:12:01 PM]
+  tomacatx1: if not, we do this later then
+[2/27/2021 9:12:11 PM]
+  tomacatx1: im sure people will be online at like midnight
+[2/27/2021 9:12:13 PM]
+  tomacatx1: right?
+[2/27/2021 9:12:27 PM]
+  terc: ill spam em
+[2/27/2021 9:12:33 PM]
+  tomacatx1: go for it
+[2/27/2021 9:15:10 PM]
+  terc has left the server. Reason: terc has disconnected.

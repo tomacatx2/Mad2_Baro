@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Berilia pirate" path="Mods/Berilia pirate/filelist.xml" corepackage="false" gameversion="0.14.4.0" steamworkshopid="2514488784" installtime="1623484985">
+  <Submarine file="Mods/Berilia pirate/Berilia pirate.sub" />
+</contentpackage>

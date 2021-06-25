@@ -1,0 +1,8 @@
+<Charactervariant inherit="Crawler" speciesname="Crawler_hatchling" speciestranslationoverride="Crawler" texture="Content/Characters/Variants/Crawler_hatchling/crawlerhatchling.png">
+  <health vitality="32"/>
+  <ragdoll scalemultiplier="0.5"/>
+  <attack damagemultiplier="0.5"/>
+  <animations folder="Content/Characters/Variants/Crawler_hatchling/Animations/"/>
+  <ai combatstrength="50"/>
+  <inventory/>
+</Charactervariant>

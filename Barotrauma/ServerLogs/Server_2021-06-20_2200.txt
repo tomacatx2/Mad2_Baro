@@ -1,0 +1,90 @@
+﻿[6/20/2021 9:57:30 PM]
+  Starting the server...
+[6/20/2021 9:57:30 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[6/20/2021 9:57:35 PM]
+  Server started
+[6/20/2021 9:59:05 PM]
+  The Supreme Gentleman has joined the server.
+[6/20/2021 9:59:05 PM]
+  Saving client permissions
+[6/20/2021 9:59:19 PM]
+  Saving client permissions
+[6/20/2021 9:59:32 PM]
+  Gamemode changed to Campaign
+[6/20/2021 9:59:43 PM]
+  Starting a new round...
+[6/20/2021 9:59:53 PM]
+  Game mode: Campaign
+[6/20/2021 9:59:53 PM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/20/2021 9:59:53 PM]
+  Level seed: Anid
+[6/20/2021 9:59:53 PM]
+  Kerry Reynolds equipped Wrench
+[6/20/2021 9:59:53 PM]
+  Kerry Reynolds unequipped Wrench
+[6/20/2021 9:59:53 PM]
+  Kerry Reynolds equipped Screwdriver
+[6/20/2021 9:59:53 PM]
+  Lamont Radice equipped Wrench
+[6/20/2021 9:59:53 PM]
+  Lamont Radice unequipped Wrench
+[6/20/2021 9:59:53 PM]
+  Lamont Radice equipped Screwdriver
+[6/20/2021 9:59:53 PM]
+  Candace Hampton equipped Wrench
+[6/20/2021 9:59:53 PM]
+  Candace Hampton unequipped Wrench
+[6/20/2021 9:59:53 PM]
+  Candace Hampton equipped Screwdriver
+[6/20/2021 9:59:53 PM]
+  Devin Ram equipped Wrench
+[6/20/2021 9:59:53 PM]
+  Devin Ram unequipped Wrench
+[6/20/2021 9:59:53 PM]
+  Devin Ram equipped Screwdriver
+[6/20/2021 9:59:53 PM]
+  Devin Ram unequipped Screwdriver
+[6/20/2021 9:59:53 PM]
+  Devin Ram equipped Crowbar
+[6/20/2021 9:59:53 PM]
+  Lauren Hefner equipped Wrench
+[6/20/2021 9:59:53 PM]
+  Lauren Hefner unequipped Wrench
+[6/20/2021 9:59:53 PM]
+  Lauren Hefner equipped Screwdriver
+[6/20/2021 9:59:53 PM]
+  Thea Robertson equipped Screwdriver
+[6/20/2021 9:59:53 PM]
+  Arturo Rhymer equipped Screwdriver
+[6/20/2021 9:59:54 PM]
+  Kathy Huber equipped Wrench
+[6/20/2021 9:59:54 PM]
+  Claire Frye equipped Screwdriver
+[6/20/2021 9:59:54 PM]
+  Round started.
+[6/20/2021 9:59:54 PM]
+  Claire Frye unequipped Screwdriver
+[6/20/2021 9:59:55 PM]
+  Kerry Reynolds unequipped Screwdriver
+[6/20/2021 9:59:55 PM]
+  Kathy Huber unequipped Wrench
+[6/20/2021 9:59:55 PM]
+  Arturo Rhymer unequipped Screwdriver
+[6/20/2021 9:59:55 PM]
+  Thea Robertson unequipped Screwdriver
+[6/20/2021 9:59:55 PM]
+  Devin Ram unequipped Crowbar
+[6/20/2021 9:59:59 PM]
+  Alton Basnett: You people look like you could use some rest.
+[6/20/2021 10:00:18 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/20/2021 10:00:44 PM]
+  Dimitry Parker: I think all molochs are friendly and only want to hug cute subs.
+[6/20/2021 10:00:57 PM]
+  The Supreme Gentleman has left the server. Reason: The Supreme Gentleman has disconnected.
+[6/20/2021 10:00:58 PM]
+  Ending round (no living players left)
+[6/20/2021 10:00:58 PM]
+  Ending the round...

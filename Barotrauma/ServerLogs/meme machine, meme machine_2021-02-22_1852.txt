@@ -1,0 +1,1602 @@
+﻿[2/22/2021 6:29:21 PM]
+  TornMap: We are the superior species.
+[2/22/2021 6:29:31 PM]
+  Lester: n
+[2/22/2021 6:29:36 PM]
+  tomacatx1: i
+[2/22/2021 6:29:39 PM]
+  Outer wall breached by Mudraptor
+[2/22/2021 6:29:39 PM]
+  Lester failed to repair Oxygen Generator
+[2/22/2021 6:29:40 PM]
+  TornMap: g
+[2/22/2021 6:29:45 PM]
+  Lester: g
+[2/22/2021 6:29:48 PM]
+  Lester started repairing Oxygen Generator
+[2/22/2021 6:29:52 PM]
+  TornMap: oh fuck
+[2/22/2021 6:29:53 PM]
+  Lester equipped Welding Tool
+[2/22/2021 6:29:57 PM]
+  Inner wall breached by Mudraptor
+[2/22/2021 6:30:06 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:30:06 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:30:09 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:30:16 PM]
+  tomacatx1 equipped Riot Shotgun
+[2/22/2021 6:30:19 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:19 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:19 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:19 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:19 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:22 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:22 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:22 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:22 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:22 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:22 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 3 Gunshot wound: 4 Stun: 0.2
+[2/22/2021 6:30:22 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 3 Gunshot wound: 4 Stun: 0.2
+[2/22/2021 6:30:22 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 3 Gunshot wound: 4 Stun: 0.2
+[2/22/2021 6:30:24 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:24 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:24 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:24 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:24 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:24 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:24 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:25 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:25 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[2/22/2021 6:30:27 PM]
+  Lester picked up SMG
+[2/22/2021 6:30:27 PM]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 0.8 Stun: 0.2
+[2/22/2021 6:30:28 PM]
+  Lester equipped SMG
+[2/22/2021 6:30:30 PM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[2/22/2021 6:30:30 PM]
+  Mudraptor attacked by tomacatx1. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[2/22/2021 6:30:30 PM]
+  tomacatx1 attacked by Lester. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.125
+[2/22/2021 6:30:30 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 6:30:30 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 6:30:30 PM]
+  TornMap attacked by Lester. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.125
+[2/22/2021 6:30:31 PM]
+  Mudraptor attacked by Lester. Gunshot wound: 1.5 Stun: 0.125
+[2/22/2021 6:30:39 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:30:40 PM]
+  TornMap: i have been shot
+[2/22/2021 6:30:48 PM]
+  TornMap: lester
+[2/22/2021 6:30:51 PM]
+  tomacatx1 used item Morphine
+[2/22/2021 6:30:54 PM]
+  tomacatx1 used item Morphine
+[2/22/2021 6:30:59 PM]
+  tomacatx1 placed Diving Mask in Lester
+[2/22/2021 6:31:06 PM]
+  tomacatx1 placed Bandage in Toolbelt (ID: 3756)
+[2/22/2021 6:31:08 PM]
+  tomacatx1 picked up Diving Mask
+[2/22/2021 6:31:16 PM]
+  tomacatx1 used item Bandage
+[2/22/2021 6:31:34 PM]
+  tomacatx1 placed Blood Pack in Toolbelt (ID: 3756)
+[2/22/2021 6:31:34 PM]
+  Lester has died (Cause of death: Oxygen low)
+[2/22/2021 6:31:43 PM]
+  TornMap started repairing Battery
+[2/22/2021 6:31:57 PM]
+  tomacatx1 picked up Diving Suit
+[2/22/2021 6:32:01 PM]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 183)
+[2/22/2021 6:32:01 PM]
+  tomacatx1 removed Oxygen Tank from Oxygen Tank Shelf (ID: 183)
+[2/22/2021 6:32:01 PM]
+  tomacatx1 placed Oxygen Tank in Diving Suit (ID: 195)
+[2/22/2021 6:32:05 PM]
+  TornMap started repairing Junction Box
+[2/22/2021 6:32:07 PM]
+  tomacatx1 picked up Underwater Scooter
+[2/22/2021 6:32:12 PM]
+  TornMap has died (Cause of death: Barotrauma)
+[2/22/2021 6:32:12 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:32:13 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:32:15 PM]
+  TornMap: fuck
+[2/22/2021 6:32:44 PM]
+  tomacatx1 placed Riot Shotgun in Large Steel Cabinet (ID: 741)
+[2/22/2021 6:32:44 PM]
+  tomacatx1 removed Riot Shotgun from Large Steel Cabinet (ID: 741)
+[2/22/2021 6:32:44 PM]
+  tomacatx1 picked up Riot Shotgun
+[2/22/2021 6:32:46 PM]
+  tomacatx1 picked up Frag Grenade
+[2/22/2021 6:32:46 PM]
+  tomacatx1 picked up Frag Grenade
+[2/22/2021 6:32:46 PM]
+  tomacatx1 picked up Frag Grenade
+[2/22/2021 6:32:46 PM]
+  tomacatx1 picked up Frag Grenade
+[2/22/2021 6:32:46 PM]
+  tomacatx1 picked up Frag Grenade
+[2/22/2021 6:32:47 PM]
+  tomacatx1 equipped Frag Grenade
+[2/22/2021 6:32:49 PM]
+  tomacatx1 threw Frag Grenade
+[2/22/2021 6:32:52 PM]
+  Outer wall breached by tomacatx1
+[2/22/2021 6:32:52 PM]
+  tomacatx1 equipped Frag Grenade
+[2/22/2021 6:32:52 PM]
+  tomacatx1 threw Frag Grenade
+[2/22/2021 6:32:53 PM]
+  tomacatx1 equipped Frag Grenade
+[2/22/2021 6:32:54 PM]
+  tomacatx1 threw Frag Grenade
+[2/22/2021 6:32:55 PM]
+  tomacatx1 equipped Frag Grenade
+[2/22/2021 6:32:55 PM]
+  tomacatx1 threw Frag Grenade
+[2/22/2021 6:32:55 PM]
+  Outer wall breached by tomacatx1
+[2/22/2021 6:32:55 PM]
+  Inner wall breached by tomacatx1
+[2/22/2021 6:32:55 PM]
+  Outer wall breached by tomacatx1
+[2/22/2021 6:32:55 PM]
+  Outer wall breached by tomacatx1
+[2/22/2021 6:32:55 PM]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 60 seconds.
+[2/22/2021 6:32:57 PM]
+  Inner wall breached by tomacatx1
+[2/22/2021 6:32:57 PM]
+  Inner wall breached by tomacatx1
+[2/22/2021 6:32:57 PM]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[2/22/2021 6:32:58 PM]
+  Inner wall breached by tomacatx1
+[2/22/2021 6:32:58 PM]
+  tomacatx1 has died (Cause of death: Deep tissue injury)
+[2/22/2021 6:33:01 PM]
+  Client "tomacatx1" ended the round.
+[2/22/2021 6:33:01 PM]
+  Ending the round...
+[2/22/2021 6:33:01 PM]
+  Round ended.
+[2/22/2021 6:33:01 PM]
+  TornMap: damn
+[2/22/2021 6:33:18 PM]
+  TornMap: it really do be like that
+[2/22/2021 6:33:33 PM]
+  tomacatx1 is ready to start the game.
+[2/22/2021 6:33:35 PM]
+  Client "tomacatx1" started the round.
+[2/22/2021 6:33:35 PM]
+  Starting a new round...
+[2/22/2021 6:33:46 PM]
+  Mission: Killing a Moloch
+[2/22/2021 6:33:46 PM]
+  A particularly aggressive Moloch has been terrorizing vessels traveling between Onga Linea Facility and Euphemus Linea. A reward of 5,000 marks has been promised to those who kill the creature.
+[2/22/2021 6:33:46 PM]
+  Game mode: Mission
+[2/22/2021 6:33:46 PM]
+  Submarine: Humpback
+[2/22/2021 6:33:46 PM]
+  Level seed: 4uTQiWRD
+[2/22/2021 6:33:46 PM]
+  Mission: Killing a Moloch
+[2/22/2021 6:33:46 PM]
+  Round started.
+[2/22/2021 6:33:48 PM]
+  Lester set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 6:33:50 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 6:33:51 PM]
+  TornMap set the value "Channel" of the item "Headset" to "0".
+[2/22/2021 6:33:53 PM]
+  TornMap: fucking bots
+[2/22/2021 6:34:04 PM]
+  Lester placed FPGA Circuit in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:34:05 PM]
+  Lester placed Relay Component in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:34:06 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:34:06 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:34:08 PM]
+  TornMap picked up Diving Mask
+[2/22/2021 6:34:09 PM]
+  tomacatx1 equipped Chemical Crate
+[2/22/2021 6:34:09 PM]
+  tomacatx1 picked up Chemical Crate
+[2/22/2021 6:34:09 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 6:34:09 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 6:34:10 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:34:11 PM]
+  Lester adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[2/22/2021 6:34:12 PM]
+  Lester adjusted reactor settings: Temperature: 53, Fission rate: 1, Turbine output: 0, Autotemp ON
+[2/22/2021 6:34:14 PM]
+  TornMap picked up Wrench
+[2/22/2021 6:34:15 PM]
+  tomacatx1 placed Anabolic Steroids in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:15 PM]
+  TornMap picked up Screwdriver
+[2/22/2021 6:34:18 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:34:20 PM]
+  tomacatx1 placed Chemical Crate in Crate Shelf (ID: 109)
+[2/22/2021 6:34:23 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 6:34:23 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 6:34:23 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 6:34:24 PM]
+  Lester picked up Wrench
+[2/22/2021 6:34:24 PM]
+  Lester picked up Screwdriver
+[2/22/2021 6:34:26 PM]
+  tomacatx1 equipped Medic Crate
+[2/22/2021 6:34:26 PM]
+  tomacatx1 picked up Medic Crate
+[2/22/2021 6:34:29 PM]
+  TornMap equipped Wrench
+[2/22/2021 6:34:30 PM]
+  TornMap equipped Screwdriver
+[2/22/2021 6:34:32 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:32 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:32 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:35 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:35 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:35 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:35 PM]
+  tomacatx1 placed Morphine in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:36 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:36 PM]
+  tomacatx1 placed Blood Pack in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:38 PM]
+  tomacatx1 placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:38 PM]
+  tomacatx1 placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:41 PM]
+  tomacatx1 placed Broad-spectrum Antibiotics in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:42 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:42 PM]
+  tomacatx1 placed Plastiseal in Medicine Cabinet (ID: 854)
+[2/22/2021 6:34:42 PM]
+  Lester equipped Wrench
+[2/22/2021 6:34:43 PM]
+  Lester equipped Screwdriver
+[2/22/2021 6:34:46 PM]
+  tomacatx1 placed Medic Crate in Crate Shelf (ID: 109)
+[2/22/2021 6:34:51 PM]
+  tomacatx1 equipped Metal Crate
+[2/22/2021 6:34:51 PM]
+  tomacatx1 picked up Metal Crate
+[2/22/2021 6:34:53 PM]
+  tomacatx1 picked up Toolbelt
+[2/22/2021 6:34:56 PM]
+  tomacatx1 placed Crowbar in Toolbelt (ID: 2809)
+[2/22/2021 6:34:57 PM]
+  tomacatx1 placed Screwdriver in Toolbelt (ID: 2809)
+[2/22/2021 6:34:59 PM]
+  tomacatx1 placed Wrench in Toolbelt (ID: 2809)
+[2/22/2021 6:34:59 PM]
+  Lester picked up Red Wire
+[2/22/2021 6:35:01 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:35:01 PM]
+  Lester equipped Red Wire
+[2/22/2021 6:35:02 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:35:02 PM]
+  tomacatx1 placed Toolbelt in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:35:03 PM]
+  tomacatx1 placed Crowbar in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:35:04 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:35:04 PM]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:35:05 PM]
+  tomacatx1 placed Wrench in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:35:06 PM]
+  tomacatx1 placed Screwdriver in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:35:10 PM]
+  Lester connected a wire to Hatch with Buttons (toggle)
+[2/22/2021 6:35:12 PM]
+  TornMap picked up Welding Tool
+[2/22/2021 6:35:13 PM]
+  tomacatx1 placed Metal Crate in Crate Shelf (ID: 109)
+[2/22/2021 6:35:14 PM]
+  Lester connected a wire from Door with Buttons (toggle) to Hatch with Buttons (toggle)
+[2/22/2021 6:35:18 PM]
+  tomacatx1 equipped Explosive Crate
+[2/22/2021 6:35:18 PM]
+  tomacatx1 picked up Explosive Crate
+[2/22/2021 6:35:21 PM]
+  Lester disconnected a wire from Door with Buttons (toggle) to Hatch with Buttons (toggle)
+[2/22/2021 6:35:21 PM]
+  Lester connected a wire from Door with Buttons (set_state) to Hatch with Buttons (toggle)
+[2/22/2021 6:35:27 PM]
+  Lester disconnected a wire from Door with Buttons (set_state) to Hatch with Buttons (toggle)
+[2/22/2021 6:35:30 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 518)
+[2/22/2021 6:35:30 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 523)
+[2/22/2021 6:35:31 PM]
+  tomacatx1 placed C-4 Block in Railgun Shell (ID: 522)
+[2/22/2021 6:35:34 PM]
+  Lester disconnected a wire from Hatch with Buttons (toggle)
+[2/22/2021 6:35:34 PM]
+  Lester picked up Red Wire
+[2/22/2021 6:35:38 PM]
+  tomacatx1 picked up Body Armor
+[2/22/2021 6:35:40 PM]
+  tomacatx1 placed Renegade's Hat in Large Steel Cabinet (ID: 741)
+[2/22/2021 6:35:40 PM]
+  tomacatx1 removed Ballistic Helmet from Large Steel Cabinet (ID: 741)
+[2/22/2021 6:35:40 PM]
+  tomacatx1 picked up Ballistic Helmet
+[2/22/2021 6:35:51 PM]
+  Lester picked up Body Armor
+[2/22/2021 6:35:54 PM]
+  Lester picked up Diving Knife
+[2/22/2021 6:35:55 PM]
+  tomacatx1 placed Explosive Crate in Crate Shelf (ID: 109)
+[2/22/2021 6:35:57 PM]
+  Lester picked up Riot Shotgun
+[2/22/2021 6:36:01 PM]
+  tomacatx1 picked up Sprayer
+[2/22/2021 6:36:02 PM]
+  Lester placed Riot Shotgun in Large Steel Cabinet (ID: 741)
+[2/22/2021 6:36:02 PM]
+  tomacatx1 picked up Ethanol
+[2/22/2021 6:36:03 PM]
+  tomacatx1 placed Sprayer in Medium Steel Cabinet (ID: 539)
+[2/22/2021 6:36:04 PM]
+  tomacatx1 picked up Sprayer
+[2/22/2021 6:36:04 PM]
+  Lester picked up Revolver
+[2/22/2021 6:36:04 PM]
+  tomacatx1 picked up Ethanol
+[2/22/2021 6:36:05 PM]
+  tomacatx1 placed Sprayer in Medium Steel Cabinet (ID: 539)
+[2/22/2021 6:36:09 PM]
+  tomacatx1 placed Ethanol in Medicine Cabinet (ID: 854)
+[2/22/2021 6:36:09 PM]
+  tomacatx1 placed Ethanol in Medicine Cabinet (ID: 854)
+[2/22/2021 6:36:09 PM]
+  Lester picked up SMG
+[2/22/2021 6:36:18 PM]
+  Lester picked up Renegade's Hat
+[2/22/2021 6:36:22 PM]
+  Lester placed Renegade's Hat in Large Steel Cabinet (ID: 741)
+[2/22/2021 6:36:32 PM]
+  Lester picked up Riot Helmet
+[2/22/2021 6:36:33 PM]
+  TornMap: makes sense
+[2/22/2021 6:36:38 PM]
+  Lester picked up Grenade Launcher
+[2/22/2021 6:36:40 PM]
+  Lester placed Grenade Launcher in Large Steel Cabinet (ID: 741)
+[2/22/2021 6:36:41 PM]
+  Lester picked up Grenade Launcher
+[2/22/2021 6:36:44 PM]
+  Lester placed Grenade Launcher in Large Steel Cabinet (ID: 741)
+[2/22/2021 6:36:53 PM]
+  Lester picked up Frag Grenade
+[2/22/2021 6:37:03 PM]
+  Lester equipped Diving Knife
+[2/22/2021 6:37:18 PM]
+  TornMap picked up Blood Pack
+[2/22/2021 6:37:24 PM]
+  Lester: mcsawich
+[2/22/2021 6:37:29 PM]
+  TornMap picked up Ethanol
+[2/22/2021 6:37:34 PM]
+  TornMap equipped Ethanol
+[2/22/2021 6:37:44 PM]
+  TornMap used item Ethanol
+[2/22/2021 6:37:55 PM]
+  TornMap used item Blood Pack
+[2/22/2021 6:38:06 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 2809)
+[2/22/2021 6:38:07 PM]
+  tomacatx1 placed Plastiseal in Toolbelt (ID: 2809)
+[2/22/2021 6:38:07 PM]
+  TornMap picked up Pipe Tobacco
+[2/22/2021 6:38:14 PM]
+  Lester equipped Revolver
+[2/22/2021 6:38:24 PM]
+  Lester started repairing Battery
+[2/22/2021 6:38:25 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 2809)
+[2/22/2021 6:38:28 PM]
+  TornMap placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 6:38:28 PM]
+  tomacatx1 placed Morphine in Toolbelt (ID: 2809)
+[2/22/2021 6:38:28 PM]
+  tomacatx1 removed Pipe Tobacco from Medicine Cabinet (ID: 854)
+[2/22/2021 6:38:31 PM]
+  tomacatx1 picked up Pipe Tobacco
+[2/22/2021 6:38:32 PM]
+  tomacatx1 placed Pipe Tobacco in Medicine Cabinet (ID: 854)
+[2/22/2021 6:38:35 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 2809)
+[2/22/2021 6:38:36 PM]
+  TornMap: stop being drunk
+[2/22/2021 6:38:37 PM]
+  Lester started repairing Battery
+[2/22/2021 6:38:41 PM]
+  Lester: alachol :)
+[2/22/2021 6:38:44 PM]
+  tomacatx1 picked up Diving Mask
+[2/22/2021 6:38:52 PM]
+  tomacatx1 picked up Riot Shotgun
+[2/22/2021 6:38:54 PM]
+  tomacatx1 placed Anabolic Steroids in Toolbelt (ID: 2809)
+[2/22/2021 6:38:56 PM]
+  TornMap equipped Guitar
+[2/22/2021 6:38:56 PM]
+  TornMap picked up Guitar
+[2/22/2021 6:39:04 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[2/22/2021 6:39:04 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 6:39:13 PM]
+  tomacatx1 dropped Piercing Ammunition Box
+[2/22/2021 6:39:20 PM]
+  tomacatx1 equipped Piercing Ammunition Box
+[2/22/2021 6:39:20 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 6:39:27 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 778)
+[2/22/2021 6:39:27 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 778)
+[2/22/2021 6:39:27 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[2/22/2021 6:39:27 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 6:39:29 PM]
+  TornMap dropped Guitar
+[2/22/2021 6:39:29 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[2/22/2021 6:39:31 PM]
+  tomacatx1 picked up Piercing Ammunition Box
+[2/22/2021 6:39:33 PM]
+  tomacatx1 placed Piercing Ammunition Box in Coilgun Loader (ID: 913)
+[2/22/2021 6:39:33 PM]
+  tomacatx1 removed Coilgun Ammunition Box from Coilgun Loader (ID: 913)
+[2/22/2021 6:39:33 PM]
+  tomacatx1 equipped Coilgun Ammunition Box
+[2/22/2021 6:39:33 PM]
+  tomacatx1 picked up Coilgun Ammunition Box
+[2/22/2021 6:39:35 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 80 %
+[2/22/2021 6:39:35 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[2/22/2021 6:39:37 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 60 %
+[2/22/2021 6:39:37 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 90 %
+[2/22/2021 6:39:38 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[2/22/2021 6:39:39 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 90 %
+[2/22/2021 6:39:40 PM]
+  tomacatx1 set the recharge speed of Supercapacitor to 100 %
+[2/22/2021 6:39:41 PM]
+  tomacatx1 dropped Coilgun Ammunition Box
+[2/22/2021 6:39:43 PM]
+  Lester placed Frag Grenade in Toolbelt (ID: 2763)
+[2/22/2021 6:39:48 PM]
+  Lester placed Red Wire in Toolbelt (ID: 2763)
+[2/22/2021 6:39:50 PM]
+  Lester picked up Welding Tool
+[2/22/2021 6:39:52 PM]
+  TornMap: what does it look like
+[2/22/2021 6:40:00 PM]
+  Lester picked up Diving Suit
+[2/22/2021 6:40:03 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 6:40:03 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 6:40:03 PM]
+  Lester picked up Oxygen Tank
+[2/22/2021 6:40:05 PM]
+  tomacatx1: nigger nigger nigger
+[2/22/2021 6:40:11 PM]
+  TornMap: what does it look like
+[2/22/2021 6:40:12 PM]
+  Lester dropped Diving Suit
+[2/22/2021 6:40:22 PM]
+  tomacatx1: nigger nigger nigger
+[2/22/2021 6:40:30 PM]
+  Lester: skibidi bap m dada
+[2/22/2021 6:40:35 PM]
+  TornMap: nigger
+[2/22/2021 6:40:39 PM]
+  Lester: based
+[2/22/2021 6:40:39 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:39 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:40 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:40 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:42 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:42 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:42 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:43 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:40:45 PM]
+  Lester picked up Diving Suit
+[2/22/2021 6:40:45 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:47 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:47 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:47 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:47 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:47 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:40:49 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:40:49 PM]
+  Lester equipped Welding Tool
+[2/22/2021 6:40:49 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:40:50 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:40:54 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:54 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:40:54 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:40:55 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:55 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:57 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:40:57 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:40:57 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:40:59 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:40:59 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:41:01 PM]
+  Spineling has died (Cause of death: Lacerations)
+[2/22/2021 6:41:02 PM]
+  tomacatx1 picked up Welding Tool
+[2/22/2021 6:41:02 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:41:02 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:41:04 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:41:04 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:41:05 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:41:05 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:41:05 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:41:06 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:41:06 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:41:10 PM]
+  Spineling has died (Cause of death: Lacerations)
+[2/22/2021 6:41:13 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:41:13 PM]
+  Spineling has died (Cause of death: Lacerations)
+[2/22/2021 6:41:13 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:41:13 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:41:13 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:41:16 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:41:17 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:41:20 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:41:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:41:21 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:41:21 PM]
+  Spineling attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 6:41:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:41:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:41:27 PM]
+  Spineling has died (Cause of death: Lacerations)
+[2/22/2021 6:41:28 PM]
+  TornMap equipped Welding Tool
+[2/22/2021 6:41:29 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 6:41:33 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:41:41 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:41:53 PM]
+  Inner wall repaired by Lester
+[2/22/2021 6:41:58 PM]
+  Lester dropped Diving Suit
+[2/22/2021 6:41:59 PM]
+  tomacatx1 equipped Welding Tool
+[2/22/2021 6:42:03 PM]
+  Inner wall repaired by TornMap
+[2/22/2021 6:42:08 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:42:10 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:42:10 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:42:11 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:42:12 PM]
+  Inner wall repaired by tomacatx1
+[2/22/2021 6:42:13 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:42:29 PM]
+  Lester placed Welding Tool in Medium Steel Cabinet (ID: 539)
+[2/22/2021 6:42:30 PM]
+  Lester picked up Welding Tool
+[2/22/2021 6:42:32 PM]
+  Lester picked up Welding Fuel Tank
+[2/22/2021 6:42:32 PM]
+  Lester picked up Welding Fuel Tank
+[2/22/2021 6:42:32 PM]
+  Lester picked up Welding Fuel Tank
+[2/22/2021 6:43:01 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:01 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:01 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:01 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:01 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:01 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:01 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:02 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:02 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:02 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:02 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:02 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:02 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:02 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:03 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:03 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:03 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:03 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:03 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:03 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:03 PM]
+  Lester picked up Bandage
+[2/22/2021 6:43:05 PM]
+  Lester equipped Bandage
+[2/22/2021 6:43:11 PM]
+  Lester used item Bandage
+[2/22/2021 6:43:26 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:26 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:26 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:26 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:26 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:26 PM]
+  Lester placed Bandage in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:38 PM]
+  Lester picked up Pomegrenade Extract
+[2/22/2021 6:43:38 PM]
+  Lester picked up Pomegrenade Extract
+[2/22/2021 6:43:38 PM]
+  Lester picked up Pomegrenade Extract
+[2/22/2021 6:43:38 PM]
+  Lester picked up Pomegrenade Extract
+[2/22/2021 6:43:45 PM]
+  Lester used item Pomegrenade Extract
+[2/22/2021 6:43:53 PM]
+  Lester placed Pomegrenade Extract in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:53 PM]
+  Lester placed Pomegrenade Extract in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:53 PM]
+  Lester placed Pomegrenade Extract in Medicine Cabinet (ID: 854)
+[2/22/2021 6:43:57 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 6:43:57 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 6:43:57 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 6:43:57 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 6:43:57 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 6:43:57 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 6:43:57 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 6:43:57 PM]
+  Lester picked up Antibiotic Glue
+[2/22/2021 6:44:07 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:08 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:08 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:44:09 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:10 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:10 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:44:10 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:44:10 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:44:10 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:44:10 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:44:10 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:44:10 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:44:10 PM]
+  Lester placed Antibiotic Glue in Medicine Cabinet (ID: 854)
+[2/22/2021 6:44:19 PM]
+  Lester equipped Welding Tool
+[2/22/2021 6:44:20 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:44:21 PM]
+  Lester picked up Diving Mask
+[2/22/2021 6:44:22 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:44:23 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:44:27 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:27 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:29 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:44:32 PM]
+  Lester started repairing Oxygen Generator
+[2/22/2021 6:44:36 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:44:36 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:44:38 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:44:39 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:44:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:41 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:41 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:41 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:41 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:41 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:41 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:41 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:44:41 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:41 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:41 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:42 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:42 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:42 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:42 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:42 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:42 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:44:42 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:42 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:42 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:42 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:43 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:43 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:44 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:44 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:44 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:44 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:44:44 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:44:45 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:45 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:44:47 PM]
+  Lester started repairing Battery
+[2/22/2021 6:44:59 PM]
+  Lester started repairing Battery
+[2/22/2021 6:45:03 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:03 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:03 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:03 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:03 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:04 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:04 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:04 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:05 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:05 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:05 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:05 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:05 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:45:05 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:05 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:05 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:06 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:24 PM]
+  tomacatx1: Broken devices in command room!
+[2/22/2021 6:45:27 PM]
+  TornMap failed to repair Supercapacitor
+[2/22/2021 6:45:30 PM]
+  Outer wall repaired by Lester
+[2/22/2021 6:45:34 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 6:45:36 PM]
+  Lester started repairing Supercapacitor
+[2/22/2021 6:45:50 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:50 PM]
+  TornMap failed to repair Supercapacitor
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:50 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:51 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:51 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:51 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:51 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:52 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:52 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:52 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:53 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:53 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:45:54 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:54 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:54 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:45:54 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:54 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:54 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:45:56 PM]
+  TornMap: ow
+[2/22/2021 6:45:58 PM]
+  TornMap started repairing Supercapacitor
+[2/22/2021 6:46:10 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:46:17 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:46:19 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:46:22 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:46:29 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:46:30 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:46:43 PM]
+  Lester started repairing Nuclear Reactor
+[2/22/2021 6:47:16 PM]
+  Lester picked up Diving Suit
+[2/22/2021 6:47:18 PM]
+  Lester dropped Diving Suit
+[2/22/2021 6:47:23 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:23 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:23 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:24 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:25 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:25 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:26 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:27 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:27 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:28 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:28 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:28 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:28 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:47:28 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:28 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:29 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:29 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:29 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:30 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:30 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:30 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:31 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:31 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:32 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:32 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:47:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:32 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:33 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:33 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:34 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:34 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:34 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:35 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:35 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:35 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:35 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:36 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:36 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:36 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:38 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:38 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:39 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:39 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:40 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:40 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:40 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:40 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:40 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:40 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:47:40 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:40 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:47:52 PM]
+  Lester started repairing Navigation Terminal
+[2/22/2021 6:47:56 PM]
+  TornMap: damn
+[2/22/2021 6:47:58 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:47:58 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:00 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:00 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:01 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:01 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:01 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:02 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:02 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:48:02 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:02 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:02 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:03 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:04 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:04 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:04 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:04 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:05 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:05 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:05 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:05 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:10 PM]
+  TornMap: destroyed
+[2/22/2021 6:48:17 PM]
+  Lester equipped Coilgun Ammunition Box
+[2/22/2021 6:48:17 PM]
+  Lester picked up Coilgun Ammunition Box
+[2/22/2021 6:48:20 PM]
+  Lester dropped Coilgun Ammunition Box
+[2/22/2021 6:48:21 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:48:31 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:32 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:48:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:32 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:32 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:33 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:48:34 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:34 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:48:34 PM]
+  Crawler attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:48:44 PM]
+  Lester equipped Green Paint
+[2/22/2021 6:48:44 PM]
+  Lester equipped Green Paint
+[2/22/2021 6:48:44 PM]
+  Lester equipped Green Paint
+[2/22/2021 6:48:44 PM]
+  Lester equipped Green Paint
+[2/22/2021 6:48:44 PM]
+  Lester picked up Green Paint
+[2/22/2021 6:48:44 PM]
+  Lester picked up Green Paint
+[2/22/2021 6:48:52 PM]
+  TornMap: die BITCH!!
+[2/22/2021 6:48:57 PM]
+  Lester placed Green Paint in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:48:58 PM]
+  Lester placed Green Paint in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:49:02 PM]
+  Lester equipped Sprayer
+[2/22/2021 6:49:02 PM]
+  Lester picked up Sprayer
+[2/22/2021 6:49:04 PM]
+  TornMap: ew wtf is this nasty shit
+[2/22/2021 6:49:07 PM]
+  Lester placed Green Paint in Sprayer (ID: 2452)
+[2/22/2021 6:49:14 PM]
+  TornMap: in the water
+[2/22/2021 6:49:17 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:49:20 PM]
+  Lester set the value "LightColor" of the item "Emergency Light" to "255,220,220,175".
+[2/22/2021 6:49:23 PM]
+  Outer wall breached by Crawler
+[2/22/2021 6:49:25 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:49:26 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:49:26 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:49:26 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:49:26 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:49:26 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:49:27 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:49:27 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:49:27 PM]
+  Crawler has died (Cause of death: Lacerations)
+[2/22/2021 6:49:27 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:49:28 PM]
+  Crawler attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:49:28 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:49:30 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:49:38 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:49:48 PM]
+  tomacatx1: Hull breach in junction compartment!
+[2/22/2021 6:49:50 PM]
+  tomacatx1: Broken devices in junction compartment!
+[2/22/2021 6:50:04 PM]
+  Lester started repairing Battery
+[2/22/2021 6:50:18 PM]
+  Lester started repairing Battery
+[2/22/2021 6:50:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:29 PM]
+  Spineling attacked by TornMap. Lacerations: 30 Bleeding: 2
+[2/22/2021 6:50:29 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:29 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:50:30 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:50:31 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:31 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:31 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:31 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:32 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:32 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:32 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:50:33 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:39 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:50:40 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:41 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:41 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:50:41 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:50:41 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:50:41 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:41 PM]
+  Spineling has died (Cause of death: Lacerations)
+[2/22/2021 6:50:41 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:50:41 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:50:42 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:43 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:43 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:43 PM]
+  Outer wall breached by TornMap
+[2/22/2021 6:50:43 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:46 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:50:48 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:49 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:50:49 PM]
+  Inner wall repaired by tomacatx1
+[2/22/2021 6:50:50 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:50:51 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:51 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:50:52 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:50:58 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:50:58 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:50:58 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:51:03 PM]
+  Lester started repairing Junction Box
+[2/22/2021 6:51:04 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 6:51:04 PM]
+  Outer wall repaired by TornMap
+[2/22/2021 6:51:06 PM]
+  Inner wall repaired by tomacatx1
+[2/22/2021 6:51:11 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:51:12 PM]
+  tomacatx1 opened Custom Door
+[2/22/2021 6:51:14 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:51:14 PM]
+  Lester started repairing Battery
+[2/22/2021 6:51:16 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:51:16 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:51:16 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:51:17 PM]
+  tomacatx1 closed Custom Door
+[2/22/2021 6:51:25 PM]
+  TornMap: did we hit something
+[2/22/2021 6:51:26 PM]
+  Lester started repairing Oxygen Generator
+[2/22/2021 6:51:26 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:51:29 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:51:29 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:51:29 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:51:31 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:51:31 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:51:34 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:35 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:35 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:36 PM]
+  Lester: >berg
+[2/22/2021 6:51:43 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:43 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:43 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:44 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:44 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:44 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:44 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:44 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:44 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:45 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:45 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:45 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:45 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:45 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:46 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:46 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:46 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:47 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:47 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:48 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:51:55 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:51:55 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:51:57 PM]
+  Outer wall breached by Spineling
+[2/22/2021 6:52:00 PM]
+  TornMap: one above us
+[2/22/2021 6:52:02 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:52:02 PM]
+  Spineling has died (Cause of death: Lacerations)
+[2/22/2021 6:52:02 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:02 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:02 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:02 PM]
+  tomacatx1 launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:52:02 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:02 PM]
+  Spineling attacked by tomacatx1. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:20 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:52:20 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:20 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:20 PM]
+  Inner wall breached by Spineling
+[2/22/2021 6:52:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:52:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:52:21 PM]
+  TornMap launched Coilgun (projectile: Piercing Coilgun Bolt)
+[2/22/2021 6:52:22 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:22 PM]
+  Spineling has died (Cause of death: Lacerations)
+[2/22/2021 6:52:22 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:22 PM]
+  Spineling attacked by TornMap. Lacerations: 15 Bleeding: 1
+[2/22/2021 6:52:22 PM]
+  Outer wall breached by TornMap
+[2/22/2021 6:52:28 PM]
+  Lester: it's amogus
+[2/22/2021 6:52:33 PM]
+  Lester placed Sprayer in Medium Steel Cabinet (ID: 901)
+[2/22/2021 6:52:34 PM]
+  Lester equipped Fuel Rod
+[2/22/2021 6:52:34 PM]
+  Lester equipped Fuel Rod
+[2/22/2021 6:52:34 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:52:34 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:52:36 PM]
+  Outer wall repaired by tomacatx1
+[2/22/2021 6:52:38 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 6:52:38 PM]
+  Lester equipped Fuel Rod
+[2/22/2021 6:52:38 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:52:40 PM]
+  Lester placed Fuel Rod in Nuclear Reactor (ID: 883)
+[2/22/2021 6:52:41 PM]
+  Lester equipped Fuel Rod
+[2/22/2021 6:52:41 PM]
+  Lester picked up Fuel Rod
+[2/22/2021 6:52:43 PM]
+  Lester placed Fuel Rod in Medium Steel Cabinet (ID: 539)

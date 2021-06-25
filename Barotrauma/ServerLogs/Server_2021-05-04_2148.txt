@@ -1,0 +1,46 @@
+﻿[5/4/2021 9:46:44 PM]
+  Starting the server...
+[5/4/2021 9:46:44 PM]
+  Using SteamP2P networking.
+[5/4/2021 9:46:44 PM]
+  Server started
+[5/4/2021 9:46:44 PM]
+  tomacatx1 has joined the server.
+[5/4/2021 9:46:44 PM]
+  Saving client permissions
+[5/4/2021 9:46:44 PM]
+  Saving client permissions
+[5/4/2021 9:46:47 PM]
+  Gamemode changed to Mission
+[5/4/2021 9:46:50 PM]
+  tomacatx1 is ready to start the game.
+[5/4/2021 9:46:51 PM]
+  Client "tomacatx1" started the round.
+[5/4/2021 9:46:51 PM]
+  Starting a new round...
+[5/4/2021 9:46:57 PM]
+  Mission: Activate beacon
+[5/4/2021 9:46:57 PM]
+  The beacon station between The city of Skaani and Tara Outpost is down—get in there, and get it back online and transmitting an active sonar signal.
+[5/4/2021 9:46:57 PM]
+  Game mode: Mission
+[5/4/2021 9:46:57 PM]
+  Submarine: Azimuth
+[5/4/2021 9:46:57 PM]
+  Level seed: WhOD2kyq
+[5/4/2021 9:46:57 PM]
+  Mission: Activate beacon
+[5/4/2021 9:46:59 PM]
+  Round started.
+[5/4/2021 9:47:28 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[5/4/2021 9:47:28 PM]
+  tomacatx1: I'll set the course onwards!
+[5/4/2021 9:47:36 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[5/4/2021 9:47:37 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/4/2021 9:48:06 PM]
+  Client "tomacatx1" ended the round.
+[5/4/2021 9:48:06 PM]
+  Ending the round...

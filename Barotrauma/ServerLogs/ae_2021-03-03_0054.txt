@@ -1,0 +1,88 @@
+﻿[3/3/2021 12:50:47 AM]
+  Starting the server...
+[3/3/2021 12:50:47 AM]
+  Using SteamP2P networking.
+[3/3/2021 12:50:47 AM]
+  Server started
+[3/3/2021 12:50:48 AM]
+  tomacatx1 has joined the server.
+[3/3/2021 12:50:48 AM]
+  Saving client permissions
+[3/3/2021 12:50:48 AM]
+  Saving client permissions
+[3/3/2021 12:50:53 AM]
+  Client "tomacatx1" started the round.
+[3/3/2021 12:50:53 AM]
+  Starting a new round...
+[3/3/2021 12:50:57 AM]
+  Game mode: Sandbox
+[3/3/2021 12:50:57 AM]
+  Submarine: Humpback v2.54 re-3
+[3/3/2021 12:50:57 AM]
+  Level seed: 5GBehLWT
+[3/3/2021 12:50:58 AM]
+  Round started.
+[3/3/2021 12:51:08 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[3/3/2021 12:51:15 AM]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[3/3/2021 12:51:16 AM]
+  tomacatx1 adjusted reactor settings: Temperature: 74, Fission rate: 2, Turbine output: 1, Autotemp ON
+[3/3/2021 12:51:35 AM]
+  Console command "spawnitem "Steel Bar" inventory" executed by tomacatx1.
+[3/3/2021 12:51:40 AM]
+  Console command "enablecheats" executed by tomacatx1.
+[3/3/2021 12:51:42 AM]
+  Console command "spawnitem "Steel Bar" inventory" executed by tomacatx1.
+[3/3/2021 12:51:44 AM]
+  Console command "enablecheats" executed by tomacatx1.
+[3/3/2021 12:51:46 AM]
+  Console command "enablecheats" executed by tomacatx1.
+[3/3/2021 12:51:51 AM]
+  Console command "spawnitem Iron inventory" executed by tomacatx1.
+[3/3/2021 12:51:55 AM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 865)
+[3/3/2021 12:51:56 AM]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 865)
+[3/3/2021 12:51:57 AM]
+  tomacatx1 started fabricating Shelf in Fabricator
+[3/3/2021 12:52:07 AM]
+  tomacatx1 equipped Shelf
+[3/3/2021 12:52:07 AM]
+  tomacatx1 picked up Shelf
+[3/3/2021 12:52:13 AM]
+  tomacatx1 attached Shelf to a wall
+[3/3/2021 12:52:21 AM]
+  tomacatx1 placed Captain's Pipe in Shelf (ID: 3285)
+[3/3/2021 12:52:21 AM]
+  tomacatx1 placed Revolver in Shelf (ID: 3285)
+[3/3/2021 12:52:23 AM]
+  tomacatx1 picked up Captain's Pipe
+[3/3/2021 12:52:23 AM]
+  tomacatx1 picked up Revolver
+[3/3/2021 12:52:33 AM]
+  tomacatx1 placed Veteran's Jacket in Small Shelf (ID: 1116)
+[3/3/2021 12:52:33 AM]
+  tomacatx1 removed Medical Officer's Outfit from Small Shelf (ID: 1116)
+[3/3/2021 12:52:33 AM]
+  tomacatx1 picked up Medical Officer's Outfit
+[3/3/2021 12:52:37 AM]
+  tomacatx1 placed Medical Officer's Outfit in Small Shelf (ID: 1116)
+[3/3/2021 12:52:37 AM]
+  tomacatx1 removed Veteran's Jacket from Small Shelf (ID: 1116)
+[3/3/2021 12:52:37 AM]
+  tomacatx1 picked up Veteran's Jacket
+[3/3/2021 12:53:24 AM]
+  tomacatx1 picked up Hatchet
+[3/3/2021 12:53:24 AM]
+  tomacatx1 equipped Hatchet
+[3/3/2021 12:53:45 AM]
+  tomacatx1 placed Hatchet in Material Storage Locker (ID: 198)
+[3/3/2021 12:54:15 AM]
+  tomacatx1 picked up Seed Bag
+[3/3/2021 12:54:17 AM]
+  tomacatx1 placed Seed Bag in Large Steel Cabinet (ID: 865)
+[3/3/2021 12:54:38 AM]
+  Client "tomacatx1" ended the round.
+[3/3/2021 12:54:38 AM]
+  Ending the round...

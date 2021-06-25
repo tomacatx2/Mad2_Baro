@@ -1,0 +1,1602 @@
+﻿[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:19 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 10:57:22 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 10:57:28 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:33 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:34 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 10:57:35 PM]
+  Kapitan Kolesnikov closed Custom Hatch
+[10/16/2020 10:57:37 PM]
+  Kapitan Kolesnikov opened Custom Door
+[10/16/2020 10:57:37 PM]
+  Kapitan Kolesnikov closed Custom Door
+[10/16/2020 10:57:38 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:40 PM]
+  Guy Fieri started repairing Navigation Terminal
+[10/16/2020 10:57:41 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:42 PM]
+  Doctor: FUCK
+[10/16/2020 10:57:48 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 10:57:49 PM]
+  Bonethresher has died (Cause of death: Lacerations)
+[10/16/2020 10:57:51 PM]
+  Outer wall repaired by Donte VIII
+[10/16/2020 10:57:57 PM]
+  Guy Fieri placed Oxygen Tank in Diving Mask (ID: 3401)
+[10/16/2020 10:57:57 PM]
+  Guy Fieri removed Oxygen Tank from Diving Mask (ID: 3401)
+[10/16/2020 10:57:57 PM]
+  Guy Fieri placed Oxygen Tank in Diving Suit (ID: 2813)
+[10/16/2020 10:58:05 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 10:58:06 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 10:58:07 PM]
+  Tigerthresher attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 10:58:08 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:08 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:08 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:08 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:09 PM]
+  Donte VIII attacked by Kapitan Kolesnikov. Gunshot wound: 12 Stun: 0.4
+[10/16/2020 10:58:11 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:11 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:12 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:12 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:12 PM]
+  Donte VIII attacked by Guy Fieri. Lacerations: 2 Bleeding: 5 Stun: 0.2
+[10/16/2020 10:58:12 PM]
+  Guy Fieri used Diving Knife on Donte VIII.
+[10/16/2020 10:58:13 PM]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[10/16/2020 10:58:13 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:13 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:13 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:13 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:14 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:14 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:14 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:14 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:15 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:15 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:16 PM]
+  Kapitan Kolesnikov picked up Revolver
+[10/16/2020 10:58:16 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:16 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:16 PM]
+  Tigerthresher attacked by Donte VIII. Blunt force trauma: 2
+[10/16/2020 10:58:16 PM]
+  Donte VIII used Toolbox (Plasma Cutter) on Tigerthresher.
+[10/16/2020 10:58:16 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:58:19 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 5 Bleeding: 2
+[10/16/2020 10:58:19 PM]
+  Guy Fieri used Screwdriver on Tigerthresher.
+[10/16/2020 10:58:20 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:20 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:21 PM]
+  Tigerthresher attacked by Guy Fieri. Lacerations: 10 Bleeding: 10 Stun: 0.2
+[10/16/2020 10:58:21 PM]
+  Guy Fieri used Diving Knife on Tigerthresher.
+[10/16/2020 10:58:22 PM]
+  Kapitan Kolesnikov attacked by Guy Fieri. Lacerations: 1 Bleeding: 1
+[10/16/2020 10:58:22 PM]
+  Guy Fieri used Screwdriver on Kapitan Kolesnikov.
+[10/16/2020 10:58:30 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 10:58:31 PM]
+  Guy Fieri started repairing Navigation Terminal
+[10/16/2020 10:58:32 PM]
+  Kapitan Kolesnikov used item Blood Pack
+[10/16/2020 10:58:33 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 10:58:36 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 10:58:58 PM]
+  Kapitan Kolesnikov entered "on" on Terminal
+[10/16/2020 10:58:59 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:58:59 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:59:05 PM]
+  Outer wall breached by Crawler
+[10/16/2020 10:59:12 PM]
+  Kapitan Kolesnikov removed Fuel Rod from Nuclear Reactor (ID: 2395)
+[10/16/2020 10:59:15 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:59:32 PM]
+  Kapitan Kolesnikov picked up Fuel Rod
+[10/16/2020 10:59:39 PM]
+  Guy Fieri started repairing Supercapacitor
+[10/16/2020 10:59:43 PM]
+  Kapitan Kolesnikov placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 10:59:53 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Oxygen Tank Shelf (ID: 2815)
+[10/16/2020 10:59:53 PM]
+  Kapitan Kolesnikov removed Oxygen Tank from Oxygen Tank Shelf (ID: 2815)
+[10/16/2020 10:59:53 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Diving Mask (ID: 3425)
+[10/16/2020 10:59:54 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Oxygen Tank Shelf (ID: 2815)
+[10/16/2020 10:59:54 PM]
+  Kapitan Kolesnikov removed Oxygen Tank from Oxygen Tank Shelf (ID: 2815)
+[10/16/2020 10:59:54 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Diving Suit (ID: 2804)
+[10/16/2020 11:00:04 PM]
+  Kapitan Kolesnikov placed Bandage in Toolbox (ID: 3749)
+[10/16/2020 11:00:05 PM]
+  Kapitan Kolesnikov placed Blood Pack in Toolbox (ID: 3749)
+[10/16/2020 11:00:10 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:00:17 PM]
+  Donte VIII picked up Oxygen Tank
+[10/16/2020 11:00:20 PM]
+  Donte VIII picked up Oxygen Tank
+[10/16/2020 11:00:21 PM]
+  Kapitan Kolesnikov used item Blood Pack
+[10/16/2020 11:00:21 PM]
+  Donte VIII placed Oxygen Tank in Diving Suit (ID: 2797)
+[10/16/2020 11:00:24 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:00:28 PM]
+  Guy Fieri: thanks
+[10/16/2020 11:00:34 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:00:36 PM]
+  Outer wall breached by Crawler
+[10/16/2020 11:00:43 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:00:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:46 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:46 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:00:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:47 PM]
+  Crawler attacked by Kapitan Kolesnikov. Lacerations: 12.5 Bleeding: 1
+[10/16/2020 11:00:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:47 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:00:48 PM]
+  Bronte Polson: ayo based dead niggas
+[10/16/2020 11:00:53 PM]
+  Kapitan Kolesnikov set the recharge speed of Supercapacitor to 60 %
+[10/16/2020 11:00:53 PM]
+  Kapitan Kolesnikov set the recharge speed of Supercapacitor to 100 %
+[10/16/2020 11:00:55 PM]
+  Kapitan Kolesnikov set the recharge speed of Supercapacitor to 80 %
+[10/16/2020 11:00:55 PM]
+  Kapitan Kolesnikov set the recharge speed of Supercapacitor to 100 %
+[10/16/2020 11:00:56 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:01:00 PM]
+  Kapitan Kolesnikov removed Coilgun Ammunition Box from Coilgun Loader (ID: 842)
+[10/16/2020 11:01:00 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:01:02 PM]
+  Kapitan Kolesnikov picked up Coilgun Ammunition Box
+[10/16/2020 11:01:03 PM]
+  Kapitan Kolesnikov placed Coilgun Ammunition Box in Coilgun Loader (ID: 842)
+[10/16/2020 11:01:04 PM]
+  Doctor: chad water pressure crushed niggas
+[10/16/2020 11:01:15 PM]
+  Donte VIII started repairing Deconstructor
+[10/16/2020 11:01:16 PM]
+  Kapitan Kolesnikov entered "on" on Terminal
+[10/16/2020 11:01:20 PM]
+  Bronte Polson: how many suits are there even
+[10/16/2020 11:01:27 PM]
+  Doctor: theres like 5
+[10/16/2020 11:01:27 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:01:28 PM]
+  Bronte Polson: I couldn't finde one
+[10/16/2020 11:01:29 PM]
+  Doctor: i think
+[10/16/2020 11:01:33 PM]
+  Doctor: get ready for respawn
+[10/16/2020 11:01:36 PM]
+  Kapitan Kolesnikov placed Fuel Rod in Toolbox (ID: 3749)
+[10/16/2020 11:01:36 PM]
+  Doctor: in 40 sec
+[10/16/2020 11:01:38 PM]
+  Kapitan Kolesnikov picked up Screwdriver
+[10/16/2020 11:01:40 PM]
+  Kapitan Kolesnikov started repairing Junction Box
+[10/16/2020 11:01:40 PM]
+  Donte VIII started repairing Fabricator
+[10/16/2020 11:02:00 PM]
+  Bronte Polson: maybe I shouldn't respawn
+[10/16/2020 11:02:03 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:02:07 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:02:10 PM]
+  Bronte Polson: I need a sec
+[10/16/2020 11:02:13 PM]
+  Kapitan Kolesnikov placed Revolver in Toolbox (ID: 3749)
+[10/16/2020 11:02:14 PM]
+  Respawning everyone in main sub.
+[10/16/2020 11:02:14 PM]
+  Respawning Doctor (79.101.83.46) as Medical Doctor
+[10/16/2020 11:02:14 PM]
+  Respawning Bronte Polson (189.216.151.136) as Engineer
+[10/16/2020 11:02:14 PM]
+  Kapitan Kolesnikov picked up Wrench
+[10/16/2020 11:02:16 PM]
+  Donte VIII started repairing Small Pump
+[10/16/2020 11:02:18 PM]
+  Kapitan Kolesnikov failed to repair Small Pump
+[10/16/2020 11:02:19 PM]
+  Doctor has died (Cause of death: Barotrauma)
+[10/16/2020 11:02:19 PM]
+  Bronte Polson has died (Cause of death: Barotrauma)
+[10/16/2020 11:02:26 PM]
+  Bronte Polson: Based
+[10/16/2020 11:02:27 PM]
+  Kapitan Kolesnikov started repairing Small Pump
+[10/16/2020 11:02:28 PM]
+  Doctor: what the fuck
+[10/16/2020 11:02:34 PM]
+  Doctor: eres no respawn shuttle
+[10/16/2020 11:02:36 PM]
+  Bronte Polson: lmao
+[10/16/2020 11:02:46 PM]
+  Bronte Polson: anyhow iumma eat
+[10/16/2020 11:02:48 PM]
+  Guy Fieri placed Diving Mask in Supplies Cabinet (ID: 484)
+[10/16/2020 11:02:48 PM]
+  Guy Fieri removed Diving Mask from Supplies Cabinet (ID: 484)
+[10/16/2020 11:02:48 PM]
+  Guy Fieri picked up Diving Mask
+[10/16/2020 11:02:49 PM]
+  Donte VIII started repairing Nuclear Reactor
+[10/16/2020 11:02:51 PM]
+  Guy Fieri placed Oxygen Tank in Diving Mask (ID: 485)
+[10/16/2020 11:02:51 PM]
+  Guy Fieri removed Oxygen Tank from Diving Mask (ID: 485)
+[10/16/2020 11:02:51 PM]
+  Guy Fieri placed Oxygen Tank in Diving Suit (ID: 2813)
+[10/16/2020 11:02:55 PM]
+  Guy Fieri placed Diving Mask in Supplies Cabinet (ID: 484)
+[10/16/2020 11:02:55 PM]
+  Guy Fieri removed Diving Mask from Supplies Cabinet (ID: 484)
+[10/16/2020 11:02:55 PM]
+  Guy Fieri picked up Diving Mask
+[10/16/2020 11:03:05 PM]
+  Doctor attacked by Guy Fieri. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[10/16/2020 11:03:05 PM]
+  Guy Fieri used Diving Knife on Doctor.
+[10/16/2020 11:03:05 PM]
+  Kapitan Kolesnikov started repairing Junction Box
+[10/16/2020 11:03:14 PM]
+  Donte VIII started repairing Large Engine
+[10/16/2020 11:03:26 PM]
+  Bronte Polson attacked by Guy Fieri. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[10/16/2020 11:03:26 PM]
+  Guy Fieri used Diving Knife on Bronte Polson.
+[10/16/2020 11:03:26 PM]
+  Bronte Polson attacked by Guy Fieri. Lacerations: 2.5 Bleeding: 2
+[10/16/2020 11:03:26 PM]
+  Guy Fieri used Screwdriver on Bronte Polson.
+[10/16/2020 11:03:27 PM]
+  Bronte Polson attacked by Guy Fieri. Lacerations: 5 Bleeding: 10 Stun: 0.2
+[10/16/2020 11:03:27 PM]
+  Guy Fieri used Diving Knife on Bronte Polson.
+[10/16/2020 11:03:32 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:03:39 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:03:39 PM]
+  Guy Fieri started repairing Junction Box
+[10/16/2020 11:03:40 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:03:46 PM]
+  Donte VIII started repairing Junction Box
+[10/16/2020 11:03:47 PM]
+  Outer wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:04:12 PM]
+  Client "Kapitan Kolesnikov" ended the round.
+[10/16/2020 11:04:12 PM]
+  Ending the round...
+[10/16/2020 11:04:12 PM]
+  Round ended.
+[10/16/2020 11:04:38 PM]
+  Guy Fieri is ready to start the game.
+[10/16/2020 11:05:00 PM]
+  Kapitan Kolesnikov is ready to start the game.
+[10/16/2020 11:05:02 PM]
+  Client "Kapitan Kolesnikov" started the round.
+[10/16/2020 11:05:02 PM]
+  Starting a new round...
+[10/16/2020 11:05:10 PM]
+  Mission: Killing a Hammerhead
+[10/16/2020 11:05:10 PM]
+  A particularly aggressive Hammerhead has been terrorizing vessels traveling between Randkluft Station and The city of Gangpo. A reward of 3,000 marks has been promised to whoever kills the creature.
+[10/16/2020 11:05:10 PM]
+  Game mode: Mission
+[10/16/2020 11:05:10 PM]
+  Submarine: Humpback
+[10/16/2020 11:05:10 PM]
+  Level seed: pzPObfjF
+[10/16/2020 11:05:10 PM]
+  Mission: Killing a Hammerhead
+[10/16/2020 11:05:10 PM]
+  Round started.
+[10/16/2020 11:05:17 PM]
+  Kapitan Kolesnikov picked up Welding Tool
+[10/16/2020 11:05:19 PM]
+  Doctor placed Syringe Gun in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:05:19 PM]
+  Kapitan Kolesnikov picked up Bandage
+[10/16/2020 11:05:20 PM]
+  Kapitan Kolesnikov picked up Blood Pack
+[10/16/2020 11:05:21 PM]
+  Kapitan Kolesnikov picked up Diving Mask
+[10/16/2020 11:05:22 PM]
+  Kapitan Kolesnikov placed Captain's Pipe in Supplies Cabinet (ID: 2592)
+[10/16/2020 11:05:23 PM]
+  Kapitan Kolesnikov picked up Flashlight
+[10/16/2020 11:05:27 PM]
+  Doctor placed Saline in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:05:29 PM]
+  Donte VIII placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 11:05:29 PM]
+  Doctor placed Blood Pack in Doctor's Uniform (ID: 4509)
+[10/16/2020 11:05:30 PM]
+  Donte VIII started fabricating Toolbox in Fabricator
+[10/16/2020 11:05:41 PM]
+  Doctor placed Naloxone in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:05:46 PM]
+  Guy Fieri removed Titanium-Aluminum Alloy from Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:05:47 PM]
+  Guy Fieri removed Lead from Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:05:48 PM]
+  Doctor placed Plastiseal in Doctor's Uniform (ID: 4509)
+[10/16/2020 11:05:50 PM]
+  Doctor picked up Antibiotic Glue
+[10/16/2020 11:05:54 PM]
+  Guy Fieri adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/16/2020 11:06:02 PM]
+  Kapitan Kolesnikov adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/16/2020 11:06:04 PM]
+  Kapitan Kolesnikov adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/16/2020 11:06:05 PM]
+  Kapitan Kolesnikov adjusted reactor settings: Temperature: 60, Fission rate: 2, Turbine output: 0, Autotemp ON
+[10/16/2020 11:06:09 PM]
+  Donte VIII picked up Screwdriver
+[10/16/2020 11:06:11 PM]
+  Donte VIII picked up Wrench
+[10/16/2020 11:06:13 PM]
+  Donte VIII picked up Welding Tool
+[10/16/2020 11:06:15 PM]
+  Doctor placed Bandage in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:06:18 PM]
+  Guy Fieri removed Steel Bar from Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:06:20 PM]
+  Guy Fieri removed Steel Bar from Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:06:34 PM]
+  Kapitan Kolesnikov entered "20" on Terminal
+[10/16/2020 11:06:35 PM]
+  Doctor placed Tonic Liquid in Medical Fabricator (ID: 3495)
+[10/16/2020 11:06:36 PM]
+  Kapitan Kolesnikov entered "off" on Terminal
+[10/16/2020 11:06:38 PM]
+  Doctor picked up Tonic Liquid
+[10/16/2020 11:06:39 PM]
+  Guy Fieri picked up Diving Mask
+[10/16/2020 11:06:49 PM]
+  Kapitan Kolesnikov picked up Toolbox
+[10/16/2020 11:06:49 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:06:50 PM]
+  Kapitan Kolesnikov placed Blood Pack in Toolbox (ID: 4536)
+[10/16/2020 11:06:51 PM]
+  Kapitan Kolesnikov placed Bandage in Toolbox (ID: 4536)
+[10/16/2020 11:06:51 PM]
+  Kapitan Kolesnikov dropped Welding Tool
+[10/16/2020 11:06:52 PM]
+  Guy Fieri placed Fuel Rod in Nuclear Reactor (ID: 2395)
+[10/16/2020 11:06:52 PM]
+  Kapitan Kolesnikov placed Flashlight in Toolbox (ID: 4536)
+[10/16/2020 11:06:53 PM]
+  Kapitan Kolesnikov picked up Welding Tool
+[10/16/2020 11:06:54 PM]
+  Kapitan Kolesnikov placed Welding Tool in Toolbox (ID: 4536)
+[10/16/2020 11:06:57 PM]
+  Guy Fieri picked up Fuel Rod
+[10/16/2020 11:07:01 PM]
+  Kapitan Kolesnikov placed Morphine in Toolbox (ID: 4536)
+[10/16/2020 11:07:11 PM]
+  Guy Fieri picked up Plastic
+[10/16/2020 11:07:12 PM]
+  Doctor picked up Diving Mask
+[10/16/2020 11:07:13 PM]
+  Guy Fieri placed Plastic in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:07:18 PM]
+  Guy Fieri picked up Lead
+[10/16/2020 11:07:19 PM]
+  Doctor picked up Welding Tool
+[10/16/2020 11:07:20 PM]
+  Doctor picked up Flashlight
+[10/16/2020 11:07:21 PM]
+  Guy Fieri picked up Titanium-Aluminum Alloy
+[10/16/2020 11:07:22 PM]
+  Guy Fieri picked up Steel Bar
+[10/16/2020 11:07:22 PM]
+  Guy Fieri picked up Steel Bar
+[10/16/2020 11:07:25 PM]
+  Kapitan Kolesnikov picked up Harpoon Gun
+[10/16/2020 11:07:26 PM]
+  Kapitan Kolesnikov picked up Harpoon Gun
+[10/16/2020 11:07:27 PM]
+  Guy Fieri placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 11:07:28 PM]
+  Kapitan Kolesnikov placed SMG in Toolbox (ID: 4536)
+[10/16/2020 11:07:28 PM]
+  Guy Fieri placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 11:07:29 PM]
+  Guy Fieri started fabricating Toolbox in Fabricator
+[10/16/2020 11:07:30 PM]
+  Kapitan Kolesnikov placed Harpoon in Harpoon Gun (ID: 4169)
+[10/16/2020 11:07:31 PM]
+  Guy Fieri placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:07:32 PM]
+  Kapitan Kolesnikov picked up C-4 Block
+[10/16/2020 11:07:32 PM]
+  Kapitan Kolesnikov picked up C-4 Block
+[10/16/2020 11:07:33 PM]
+  Kapitan Kolesnikov picked up UEX
+[10/16/2020 11:07:33 PM]
+  Kapitan Kolesnikov picked up UEX
+[10/16/2020 11:07:34 PM]
+  Kapitan Kolesnikov picked up Frag Grenade
+[10/16/2020 11:07:38 PM]
+  Kapitan Kolesnikov placed Frag Grenade in Railgun Shell (ID: 3427)
+[10/16/2020 11:07:38 PM]
+  Kapitan Kolesnikov placed UEX in Railgun Shell (ID: 3428)
+[10/16/2020 11:07:39 PM]
+  Kapitan Kolesnikov placed UEX in Railgun Shell (ID: 3429)
+[10/16/2020 11:07:40 PM]
+  Kapitan Kolesnikov placed C-4 Block in Railgun Shell (ID: 3430)
+[10/16/2020 11:07:41 PM]
+  Kapitan Kolesnikov placed C-4 Block in Railgun Shell (ID: 3425)
+[10/16/2020 11:07:51 PM]
+  Kapitan Kolesnikov picked up Toolbox
+[10/16/2020 11:07:52 PM]
+  Guy Fieri started fabricating Toolbox in Fabricator
+[10/16/2020 11:07:56 PM]
+  Doctor picked up Diving Mask
+[10/16/2020 11:07:56 PM]
+  Kapitan Kolesnikov picked up Oxygen Tank
+[10/16/2020 11:07:57 PM]
+  Kapitan Kolesnikov picked up Oxygen Tank
+[10/16/2020 11:07:58 PM]
+  Kapitan Kolesnikov placed Harpoon Gun in Medium Windowed Steel Cabinet (ID: 3653)
+[10/16/2020 11:07:58 PM]
+  Kapitan Kolesnikov placed Harpoon Gun in Medium Windowed Steel Cabinet (ID: 3653)
+[10/16/2020 11:08:01 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Deconstructor (ID: 1321)
+[10/16/2020 11:08:02 PM]
+  Kapitan Kolesnikov placed Oxygen Tank in Deconstructor (ID: 1321)
+[10/16/2020 11:08:03 PM]
+  Kapitan Kolesnikov activated Deconstructor
+[10/16/2020 11:08:09 PM]
+  Donte VIII picked up Oxygen Tank
+[10/16/2020 11:08:10 PM]
+  Kapitan Kolesnikov picked up Iron
+[10/16/2020 11:08:10 PM]
+  Kapitan Kolesnikov picked up Carbon
+[10/16/2020 11:08:12 PM]
+  Kapitan Kolesnikov placed Iron in Fabricator (ID: 1320)
+[10/16/2020 11:08:12 PM]
+  Kapitan Kolesnikov placed Carbon in Fabricator (ID: 1320)
+[10/16/2020 11:08:14 PM]
+  Donte VIII picked up Flashlight
+[10/16/2020 11:08:16 PM]
+  Guy Fieri removed Toolbox from Fabricator (ID: 1320)
+[10/16/2020 11:08:19 PM]
+  Doctor picked up Toolbox
+[10/16/2020 11:08:23 PM]
+  Kapitan Kolesnikov started fabricating Steel Bar in Fabricator
+[10/16/2020 11:08:28 PM]
+  Kapitan Kolesnikov placed Toolbox in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:08:32 PM]
+  Doctor placed Diving Mask in Toolbox (ID: 4266)
+[10/16/2020 11:08:34 PM]
+  Doctor placed Antibiotic Glue in Toolbox (ID: 4266)
+[10/16/2020 11:08:35 PM]
+  Donte VIII placed Oxygen Tank in Toolbox (ID: 4481)
+[10/16/2020 11:08:37 PM]
+  Doctor placed Morphine in Toolbox (ID: 4266)
+[10/16/2020 11:08:39 PM]
+  Doctor placed Tonic Liquid in Toolbox (ID: 4266)
+[10/16/2020 11:08:44 PM]
+  Kapitan Kolesnikov placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 11:08:49 PM]
+  Kapitan Kolesnikov started fabricating Harpoon in Fabricator
+[10/16/2020 11:09:00 PM]
+  Kapitan Kolesnikov picked up Harpoon
+[10/16/2020 11:09:03 PM]
+  Kapitan Kolesnikov placed Harpoon in Harpoon Gun (ID: 4168)
+[10/16/2020 11:09:45 PM]
+  Donte VIII picked up Titanium-Aluminum Alloy
+[10/16/2020 11:09:48 PM]
+  Guy Fieri placed Zinc in Fabricator (ID: 1320)
+[10/16/2020 11:09:50 PM]
+  Guy Fieri placed Zinc in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:09:50 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:09:50 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:09:51 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:09:53 PM]
+  Donte VIII placed Titanium-Aluminum Alloy in Deconstructor (ID: 1321)
+[10/16/2020 11:09:54 PM]
+  Donte VIII activated Deconstructor
+[10/16/2020 11:09:59 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:10:08 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:10:11 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:10:20 PM]
+  Kapitan Kolesnikov picked up Riot Shotgun
+[10/16/2020 11:10:20 PM]
+  Donte VIII launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:25 PM]
+  Guy Fieri launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[10/16/2020 11:10:34 PM]
+  Doctor picked up Fire Extinguisher
+[10/16/2020 11:10:36 PM]
+  Kapitan Kolesnikov picked up Welding Tool
+[10/16/2020 11:10:38 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:38 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:39 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:39 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:39 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:40 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:40 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:40 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:40 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:41 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:41 PM]
+  Kapitan Kolesnikov launched Coilgun (projectile: Coilgun Bolt)
+[10/16/2020 11:10:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:10:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:10:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:10:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:10:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:10:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:10:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:10:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:10:47 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:52 PM]
+  Mudraptor attacked by Donte VIII. Blunt force trauma: 0.2
+[10/16/2020 11:10:52 PM]
+  Donte VIII used Toolbox (Oxygen Tank, Plasma Cutter) on Mudraptor.
+[10/16/2020 11:10:53 PM]
+  Mudraptor attacked by Donte VIII. Blunt force trauma: 2
+[10/16/2020 11:10:53 PM]
+  Donte VIII used Toolbox (Oxygen Tank, Plasma Cutter) on Mudraptor.
+[10/16/2020 11:10:54 PM]
+  Mudraptor attacked by Donte VIII. Blunt force trauma: 2
+[10/16/2020 11:10:54 PM]
+  Donte VIII used Toolbox (Oxygen Tank, Plasma Cutter) on Mudraptor.
+[10/16/2020 11:10:57 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:57 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:57 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:57 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:57 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:57 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:57 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:57 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:59 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:59 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:59 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:59 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:59 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:59 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:10:59 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:11:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:11:00 PM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[10/16/2020 11:11:00 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:11:10 PM]
+  Donte VIII: Use push to talk
+[10/16/2020 11:11:12 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:11:15 PM]
+  Guy Fieri picked up Diving Suit
+[10/16/2020 11:11:15 PM]
+  Kapitan Kolesnikov used item Morphine
+[10/16/2020 11:11:17 PM]
+  Kapitan Kolesnikov used item Blood Pack
+[10/16/2020 11:11:21 PM]
+  Bronte Polson: back
+[10/16/2020 11:11:23 PM]
+  Doctor placed Baseball Cap in Toolbox (ID: 4266)
+[10/16/2020 11:11:23 PM]
+  Doctor removed Diving Mask from Toolbox (ID: 4266)
+[10/16/2020 11:11:23 PM]
+  Doctor placed Diving Mask in Donte VIII
+[10/16/2020 11:11:25 PM]
+  Inner wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:11:31 PM]
+  Doctor used item Antibiotic Glue
+[10/16/2020 11:11:33 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:11:33 PM]
+  Guy Fieri has died (Cause of death: Bite wounds)
+[10/16/2020 11:11:35 PM]
+  Doctor used item Morphine
+[10/16/2020 11:11:35 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:11:36 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:11:38 PM]
+  Kapitan Kolesnikov used item Morphine
+[10/16/2020 11:11:38 PM]
+  Doctor used item Morphine
+[10/16/2020 11:11:41 PM]
+  Doctor used item Tonic Liquid
+[10/16/2020 11:11:42 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:11:44 PM]
+  Doctor used item Antibiotic Glue
+[10/16/2020 11:11:49 PM]
+  Kapitan Kolesnikov picked up Riot Shotgun
+[10/16/2020 11:11:50 PM]
+  Bronte Polson: Where the suits at
+[10/16/2020 11:11:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[10/16/2020 11:11:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[10/16/2020 11:11:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:11:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:11:58 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[10/16/2020 11:12:01 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:12:08 PM]
+  Doctor: I THOUGHT IT WAS A CORPSE
+[10/16/2020 11:12:08 PM]
+  Kapitan Kolesnikov has died (Cause of death: Barotrauma)
+[10/16/2020 11:12:08 PM]
+  Doctor has died (Cause of death: Barotrauma)
+[10/16/2020 11:12:08 PM]
+  Donte VIII has died (Cause of death: Barotrauma)
+[10/16/2020 11:12:08 PM]
+  Bronte Polson has died (Cause of death: Barotrauma)
+[10/16/2020 11:12:12 PM]
+  Outer wall breached by Bonethresher
+[10/16/2020 11:12:14 PM]
+  Client "Kapitan Kolesnikov" ended the round.
+[10/16/2020 11:12:14 PM]
+  Ending the round...
+[10/16/2020 11:12:14 PM]
+  Round ended.
+[10/16/2020 11:12:27 PM]
+  Kapitan Kolesnikov is ready to start the game.
+[10/16/2020 11:12:28 PM]
+  Bronte Polson: Ok
+[10/16/2020 11:12:34 PM]
+  Bronte Polson: We need very specific sec dude
+[10/16/2020 11:12:41 PM]
+  Bronte Polson: Im going sec
+[10/16/2020 11:12:51 PM]
+  Bronte Polson: because it's the only ammount of power and control I will ever have
+[10/16/2020 11:12:57 PM]
+  Bronte Polson: in my pathetic life t. secmain
+[10/16/2020 11:13:07 PM]
+  Bronte Polson is ready to start the game.
+[10/16/2020 11:13:31 PM]
+  Guy Fieri is ready to start the game.
+[10/16/2020 11:13:41 PM]
+  Client "Kapitan Kolesnikov" started the round.
+[10/16/2020 11:13:41 PM]
+  Starting a new round...
+[10/16/2020 11:13:48 PM]
+  Mission: Terminate a Swarm
+[10/16/2020 11:13:48 PM]
+  A large swarm of Crawler has been terrorizing vessels traveling between Kury Outpost and Delphi Flexus Fortification. A reward of 3,500 marks has been promised to any crew that can neutralize it.
+[10/16/2020 11:13:48 PM]
+  Game mode: Mission
+[10/16/2020 11:13:48 PM]
+  Submarine: Humpback
+[10/16/2020 11:13:48 PM]
+  Level seed: Y1AcShd0
+[10/16/2020 11:13:48 PM]
+  Mission: Terminate a Swarm
+[10/16/2020 11:13:48 PM]
+  Round started.
+[10/16/2020 11:13:57 PM]
+  Donte VIII adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/16/2020 11:13:58 PM]
+  Donte VIII adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/16/2020 11:14:04 PM]
+  Doctor placed Syringe Gun in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:14:09 PM]
+  Kapitan Kolesnikov picked up SMG
+[10/16/2020 11:14:12 PM]
+  Kapitan Kolesnikov picked up Physicorium Harpoon
+[10/16/2020 11:14:12 PM]
+  Kapitan Kolesnikov picked up Physicorium Harpoon
+[10/16/2020 11:14:14 PM]
+  Kapitan Kolesnikov placed Physicorium Harpoon in Large Steel Cabinet (ID: 774)
+[10/16/2020 11:14:15 PM]
+  Kapitan Kolesnikov placed Physicorium Harpoon in Large Steel Cabinet (ID: 774)
+[10/16/2020 11:14:15 PM]
+  Kapitan Kolesnikov picked up Revolver
+[10/16/2020 11:14:16 PM]
+  Bronte Polson picked up Railgun Shell
+[10/16/2020 11:14:16 PM]
+  Kapitan Kolesnikov picked up Revolver
+[10/16/2020 11:14:16 PM]
+  Kapitan Kolesnikov picked up Revolver
+[10/16/2020 11:14:17 PM]
+  Kapitan Kolesnikov placed Physicorium Harpoon in Harpoon Gun (ID: 2345)
+[10/16/2020 11:14:17 PM]
+  Doctor picked up Diving Suit
+[10/16/2020 11:14:18 PM]
+  Kapitan Kolesnikov placed Physicorium Harpoon in Harpoon Gun (ID: 2346)
+[10/16/2020 11:14:18 PM]
+  Kapitan Kolesnikov picked up Harpoon Gun
+[10/16/2020 11:14:18 PM]
+  Kapitan Kolesnikov picked up Harpoon Gun
+[10/16/2020 11:14:20 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4986, Fission rate: 58, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:14:23 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5018, Fission rate: 58, Turbine output: 44, Autotemp OFF
+[10/16/2020 11:14:24 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4495, Fission rate: 58, Turbine output: 54, Autotemp OFF
+[10/16/2020 11:14:25 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3852, Fission rate: 58, Turbine output: 64, Autotemp OFF
+[10/16/2020 11:14:27 PM]
+  Guy Fieri placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 11:14:27 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3066, Fission rate: 58, Turbine output: 63, Autotemp OFF
+[10/16/2020 11:14:27 PM]
+  Doctor dropped Diving Suit
+[10/16/2020 11:14:27 PM]
+  Guy Fieri started fabricating Toolbox in Fabricator
+[10/16/2020 11:14:28 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3106, Fission rate: 58, Turbine output: 61, Autotemp OFF
+[10/16/2020 11:14:29 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3514, Fission rate: 64, Turbine output: 61, Autotemp OFF
+[10/16/2020 11:14:30 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4415, Fission rate: 69, Turbine output: 61, Autotemp OFF
+[10/16/2020 11:14:31 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4698, Fission rate: 69, Turbine output: 63, Autotemp OFF
+[10/16/2020 11:14:32 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4082, Fission rate: 69, Turbine output: 80, Autotemp OFF
+[10/16/2020 11:14:33 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3392, Fission rate: 69, Turbine output: 83, Autotemp OFF
+[10/16/2020 11:14:34 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3269, Fission rate: 69, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:14:35 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3639, Fission rate: 83, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:14:37 PM]
+  Bronte Polson placed Railgun Shell in Railgun Shell Rack (ID: 2834)
+[10/16/2020 11:14:37 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4996, Fission rate: 83, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:14:38 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4994, Fission rate: 83, Turbine output: 78, Autotemp OFF
+[10/16/2020 11:14:38 PM]
+  Doctor picked up Diving Mask
+[10/16/2020 11:14:39 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4891, Fission rate: 83, Turbine output: 81, Autotemp OFF
+[10/16/2020 11:14:40 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4849, Fission rate: 83, Turbine output: 79, Autotemp OFF
+[10/16/2020 11:14:41 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4871, Fission rate: 83, Turbine output: 78, Autotemp OFF
+[10/16/2020 11:14:42 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4987, Fission rate: 83, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:14:43 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5080, Fission rate: 83, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:14:44 PM]
+  Doctor picked up Flashlight
+[10/16/2020 11:14:44 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5256, Fission rate: 83, Turbine output: 73, Autotemp OFF
+[10/16/2020 11:14:45 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5420, Fission rate: 83, Turbine output: 71, Autotemp OFF
+[10/16/2020 11:14:46 PM]
+  Kapitan Kolesnikov picked up Underwater Scooter
+[10/16/2020 11:14:46 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5925, Fission rate: 83, Turbine output: 53, Autotemp OFF
+[10/16/2020 11:14:47 PM]
+  Donte VIII adjusted reactor settings: Temperature: 6925, Fission rate: 83, Turbine output: 50, Autotemp OFF
+[10/16/2020 11:14:48 PM]
+  Kapitan Kolesnikov picked up Toolbox
+[10/16/2020 11:14:48 PM]
+  Kapitan Kolesnikov placed Underwater Scooter in Toolbox (ID: 3828)
+[10/16/2020 11:14:48 PM]
+  Donte VIII adjusted reactor settings: Temperature: 7765, Fission rate: 83, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:14:49 PM]
+  Bronte Polson picked up Riot Shotgun
+[10/16/2020 11:14:49 PM]
+  Donte VIII adjusted reactor settings: Temperature: 8038, Fission rate: 83, Turbine output: 46, Autotemp OFF
+[10/16/2020 11:14:50 PM]
+  Kapitan Kolesnikov placed SMG in Toolbox (ID: 3828)
+[10/16/2020 11:14:51 PM]
+  Donte VIII adjusted reactor settings: Temperature: 8106, Fission rate: 76, Turbine output: 46, Autotemp OFF
+[10/16/2020 11:14:51 PM]
+  Kapitan Kolesnikov placed Captain's Pipe in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:14:52 PM]
+  Donte VIII adjusted reactor settings: Temperature: 7385, Fission rate: 37, Turbine output: 46, Autotemp OFF
+[10/16/2020 11:14:58 PM]
+  Donte VIII adjusted reactor settings: Temperature: 1368, Fission rate: 37, Turbine output: 46, Autotemp ON
+[10/16/2020 11:14:58 PM]
+  Doctor placed Saline in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:15:00 PM]
+  Doctor placed Blood Pack in Doctor's Uniform (ID: 2581)
+[10/16/2020 11:15:01 PM]
+  Bronte Polson picked up Stun Gun
+[10/16/2020 11:15:03 PM]
+  Guy Fieri placed Carbon in Fabricator (ID: 1320)
+[10/16/2020 11:15:04 PM]
+  Doctor placed Naloxone in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:15:05 PM]
+  Kapitan Kolesnikov placed Harpoon Gun in Medium Steel Cabinet (ID: 545)
+[10/16/2020 11:15:05 PM]
+  Kapitan Kolesnikov placed Harpoon Gun in Medium Steel Cabinet (ID: 545)
+[10/16/2020 11:15:06 PM]
+  Doctor placed Plastiseal in Doctor's Uniform (ID: 2581)
+[10/16/2020 11:15:06 PM]
+  Kapitan Kolesnikov placed Revolver in Medium Steel Cabinet (ID: 545)
+[10/16/2020 11:15:06 PM]
+  Kapitan Kolesnikov placed Revolver in Medium Steel Cabinet (ID: 545)
+[10/16/2020 11:15:07 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3655, Fission rate: 48, Turbine output: 47, Autotemp OFF
+[10/16/2020 11:15:07 PM]
+  Kapitan Kolesnikov placed Revolver in Medium Steel Cabinet (ID: 545)
+[10/16/2020 11:15:07 PM]
+  Guy Fieri placed Tin in Fabricator (ID: 1320)
+[10/16/2020 11:15:08 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3163, Fission rate: 48, Turbine output: 47, Autotemp OFF
+[10/16/2020 11:15:09 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3033, Fission rate: 65, Turbine output: 47, Autotemp OFF
+[10/16/2020 11:15:13 PM]
+  Doctor picked up Morphine
+[10/16/2020 11:15:13 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5668, Fission rate: 64, Turbine output: 47, Autotemp OFF
+[10/16/2020 11:15:13 PM]
+  Guy Fieri placed Tin in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:15:14 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5195, Fission rate: 57, Turbine output: 47, Autotemp OFF
+[10/16/2020 11:15:15 PM]
+  Guy Fieri placed Carbon in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:15:23 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4478, Fission rate: 57, Turbine output: 47, Autotemp ON
+[10/16/2020 11:15:24 PM]
+  Kapitan Kolesnikov placed SMG Magazine in Toolbox (ID: 3828)
+[10/16/2020 11:15:29 PM]
+  Kapitan Kolesnikov placed Welding Tool in Toolbox (ID: 3828)
+[10/16/2020 11:15:30 PM]
+  Kapitan Kolesnikov placed Bandage in Toolbox (ID: 3828)
+[10/16/2020 11:15:30 PM]
+  Bronte Polson: what's the ablino equivalent in baromeme
+[10/16/2020 11:15:31 PM]
+  Kapitan Kolesnikov placed Blood Pack in Toolbox (ID: 3828)
+[10/16/2020 11:15:34 PM]
+  Kapitan Kolesnikov picked up Diving Mask
+[10/16/2020 11:15:38 PM]
+  Donte VIII picked up Wrench
+[10/16/2020 11:15:39 PM]
+  Donte VIII picked up Screwdriver
+[10/16/2020 11:15:45 PM]
+  Guy Fieri picked up Diving Mask
+[10/16/2020 11:15:46 PM]
+  Guy Fieri picked up Welding Tool
+[10/16/2020 11:15:47 PM]
+  Guy Fieri picked up Flashlight
+[10/16/2020 11:15:48 PM]
+  Guy Fieri picked up Bandage
+[10/16/2020 11:15:49 PM]
+  Guy Fieri picked up Diving Mask
+[10/16/2020 11:15:58 PM]
+  Guy Fieri picked up Welding Fuel Tank
+[10/16/2020 11:16:03 PM]
+  Guy Fieri placed Welding Fuel Tank in Deconstructor (ID: 1321)
+[10/16/2020 11:16:04 PM]
+  Guy Fieri activated Deconstructor
+[10/16/2020 11:16:05 PM]
+  Kapitan Kolesnikov picked up Screwdriver
+[10/16/2020 11:16:05 PM]
+  Bronte Polson: I have a shotty because my powergay brain told me to grab it
+[10/16/2020 11:16:09 PM]
+  Doctor placed Tonic Liquid in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:16:18 PM]
+  Guy Fieri picked up Aluminum
+[10/16/2020 11:16:19 PM]
+  Bronte Polson: I picked up a shotty, a stun gun
+[10/16/2020 11:16:21 PM]
+  Guy Fieri picked up Oxygen Tank
+[10/16/2020 11:16:23 PM]
+  Guy Fieri placed Diving Mask in Deconstructor (ID: 1321)
+[10/16/2020 11:16:23 PM]
+  Guy Fieri activated Deconstructor
+[10/16/2020 11:16:24 PM]
+  Doctor picked up Tonic Liquid
+[10/16/2020 11:16:25 PM]
+  Guy Fieri placed Oxygen Tank in Welding Tool (ID: 458)
+[10/16/2020 11:16:26 PM]
+  Kapitan Kolesnikov picked up Screwdriver
+[10/16/2020 11:16:28 PM]
+  Doctor placed Bandage in Medicine Cabinet (ID: 1247)
+[10/16/2020 11:16:35 PM]
+  Kapitan Kolesnikov placed Screwdriver in Deconstructor (ID: 1321)
+[10/16/2020 11:16:35 PM]
+  Bronte Polson: I'm leaving the flamethrower inside
+[10/16/2020 11:16:35 PM]
+  Kapitan Kolesnikov activated Deconstructor
+[10/16/2020 11:16:37 PM]
+  Guy Fieri picked up Plastic
+[10/16/2020 11:16:37 PM]
+  Donte VIII picked up Diving Mask
+[10/16/2020 11:16:38 PM]
+  Guy Fieri picked up Rubber
+[10/16/2020 11:16:42 PM]
+  Guy Fieri placed Plastic in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:16:43 PM]
+  Guy Fieri picked up Rubber
+[10/16/2020 11:16:43 PM]
+  Guy Fieri dropped Rubber
+[10/16/2020 11:16:43 PM]
+  Guy Fieri placed Rubber in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:16:45 PM]
+  Guy Fieri placed Rubber in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:16:46 PM]
+  Kapitan Kolesnikov picked up Iron
+[10/16/2020 11:16:48 PM]
+  Kapitan Kolesnikov placed Iron in Fabricator (ID: 1320)
+[10/16/2020 11:16:50 PM]
+  Kapitan Kolesnikov started fabricating Wrench in Fabricator
+[10/16/2020 11:16:52 PM]
+  Bronte Polson: even like husks?
+[10/16/2020 11:16:54 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3034, Fission rate: 54, Turbine output: 56, Autotemp OFF
+[10/16/2020 11:16:54 PM]
+  Kapitan Kolesnikov picked up Welding Tool
+[10/16/2020 11:16:54 PM]
+  Doctor picked up Diving Mask
+[10/16/2020 11:16:55 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3092, Fission rate: 54, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:16:56 PM]
+  Kapitan Kolesnikov placed Revolver in Toolbox (ID: 3828)
+[10/16/2020 11:16:56 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3478, Fission rate: 63, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:16:56 PM]
+  Doctor picked up Welding Tool
+[10/16/2020 11:16:57 PM]
+  Kapitan Kolesnikov picked up SMG
+[10/16/2020 11:16:57 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4225, Fission rate: 63, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:16:58 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4401, Fission rate: 61, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:16:59 PM]
+  Kapitan Kolesnikov picked up Wrench
+[10/16/2020 11:16:59 PM]
+  Guy Fieri picked up Revolver
+[10/16/2020 11:16:59 PM]
+  Bronte Polson: Even husks?
+[10/16/2020 11:16:59 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4053, Fission rate: 55, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:17:00 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3499, Fission rate: 54, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:17:01 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3256, Fission rate: 55, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:17:02 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3405, Fission rate: 59, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:17:03 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3769, Fission rate: 60, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:17:04 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3942, Fission rate: 60, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:17:05 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4113, Fission rate: 62, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:17:06 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4333, Fission rate: 61, Turbine output: 53, Autotemp OFF
+[10/16/2020 11:17:07 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4824, Fission rate: 61, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:17:08 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5305, Fission rate: 44, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:17:10 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4804, Fission rate: 62, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:17:11 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4182, Fission rate: 44, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:17:14 PM]
+  Donte VIII adjusted reactor settings: Temperature: 2835, Fission rate: 46, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:17:14 PM]
+  Bronte Polson: Aight, no flamethrower
+[10/16/2020 11:17:15 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3245, Fission rate: 50, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:17:16 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3585, Fission rate: 50, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:17:17 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3713, Fission rate: 50, Turbine output: 43, Autotemp OFF
+[10/16/2020 11:17:18 PM]
+  Donte VIII adjusted reactor settings: Temperature: 2905, Fission rate: 50, Turbine output: 66, Autotemp OFF
+[10/16/2020 11:17:19 PM]
+  Donte VIII adjusted reactor settings: Temperature: 1905, Fission rate: 50, Turbine output: 67, Autotemp OFF
+[10/16/2020 11:17:20 PM]
+  Donte VIII adjusted reactor settings: Temperature: 2022, Fission rate: 50, Turbine output: 49, Autotemp OFF
+[10/16/2020 11:17:21 PM]
+  Donte VIII adjusted reactor settings: Temperature: 2381, Fission rate: 50, Turbine output: 56, Autotemp OFF
+[10/16/2020 11:17:21 PM]
+  Kapitan Kolesnikov placed Morphine in Toolbox (ID: 3828)
+[10/16/2020 11:17:22 PM]
+  Donte VIII adjusted reactor settings: Temperature: 2576, Fission rate: 60, Turbine output: 56, Autotemp OFF
+[10/16/2020 11:17:23 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3522, Fission rate: 60, Turbine output: 56, Autotemp OFF
+[10/16/2020 11:17:24 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4507, Fission rate: 67, Turbine output: 56, Autotemp OFF
+[10/16/2020 11:17:25 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4682, Fission rate: 64, Turbine output: 56, Autotemp OFF
+[10/16/2020 11:17:26 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4698, Fission rate: 64, Turbine output: 56, Autotemp ON
+[10/16/2020 11:17:40 PM]
+  Doctor picked up Methamphetamine
+[10/16/2020 11:17:45 PM]
+  Guy Fieri picked up Plasma Cutter
+[10/16/2020 11:17:50 PM]
+  Guy Fieri placed Oxygen Tank in Deconstructor (ID: 1321)
+[10/16/2020 11:17:51 PM]
+  Guy Fieri placed Plasma Cutter in Deconstructor (ID: 1321)
+[10/16/2020 11:17:51 PM]
+  Guy Fieri activated Deconstructor
+[10/16/2020 11:17:56 PM]
+  Donte VIII placed Red Wire in Toolbox (ID: 2549)
+[10/16/2020 11:18:04 PM]
+  Guy Fieri picked up Steel Bar
+[10/16/2020 11:18:06 PM]
+  Guy Fieri picked up Plastic
+[10/16/2020 11:18:10 PM]
+  Guy Fieri placed Steel Bar in Fabricator (ID: 1320)
+[10/16/2020 11:18:12 PM]
+  Bronte Polson: What if I feel the pain of a lonely existance?
+[10/16/2020 11:18:14 PM]
+  Guy Fieri started fabricating Toolbox in Fabricator
+[10/16/2020 11:18:17 PM]
+  Bronte Polson: what should I do then
+[10/16/2020 11:18:21 PM]
+  Guy Fieri placed Aluminum in Deconstructor (ID: 1321)
+[10/16/2020 11:18:21 PM]
+  Guy Fieri removed Aluminum from Deconstructor (ID: 1321)
+[10/16/2020 11:18:21 PM]
+  Guy Fieri picked up Aluminum
+[10/16/2020 11:18:22 PM]
+  Guy Fieri picked up Aluminum
+[10/16/2020 11:18:27 PM]
+  Guy Fieri placed Aluminum in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:18:28 PM]
+  Guy Fieri placed Aluminum in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:18:31 PM]
+  Guy Fieri picked up Captain's Pipe
+[10/16/2020 11:18:32 PM]
+  Guy Fieri placed Plastic in Large Steel Cabinet (ID: 1316)
+[10/16/2020 11:18:36 PM]
+  Guy Fieri placed Captain's Pipe in Deconstructor (ID: 1321)
+[10/16/2020 11:18:36 PM]
+  Guy Fieri activated Deconstructor
+[10/16/2020 11:18:44 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3931, Fission rate: 72, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:18:45 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3883, Fission rate: 72, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:18:46 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4357, Fission rate: 72, Turbine output: 55, Autotemp OFF
+[10/16/2020 11:18:47 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5357, Fission rate: 72, Turbine output: 42, Autotemp OFF
+[10/16/2020 11:18:48 PM]
+  Donte VIII adjusted reactor settings: Temperature: 5648, Fission rate: 27, Turbine output: 40, Autotemp OFF
+[10/16/2020 11:18:49 PM]
+  Donte VIII adjusted reactor settings: Temperature: 4648, Fission rate: 27, Turbine output: 58, Autotemp OFF
+[10/16/2020 11:18:50 PM]
+  Donte VIII adjusted reactor settings: Temperature: 3648, Fission rate: 27, Turbine output: 100, Autotemp OFF
+[10/16/2020 11:18:51 PM]
+  Donte VIII adjusted reactor settings: Temperature: 2648, Fission rate: 27, Turbine output: 100, Autotemp OFF
+[10/16/2020 11:18:52 PM]
+  Donte VIII adjusted reactor settings: Temperature: 1648, Fission rate: 27, Turbine output: 85, Autotemp OFF
+[10/16/2020 11:18:53 PM]
+  Donte VIII adjusted reactor settings: Temperature: 648, Fission rate: 27, Turbine output: 66, Autotemp OFF
+[10/16/2020 11:18:54 PM]
+  Donte VIII adjusted reactor settings: Temperature: 0, Fission rate: 27, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:18:55 PM]
+  Donte VIII adjusted reactor settings: Temperature: 0, Fission rate: 28, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:18:56 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:18:56 PM]
+  Donte VIII adjusted reactor settings: Temperature: 0, Fission rate: 48, Turbine output: 76, Autotemp OFF
+[10/16/2020 11:18:57 PM]
+  Donte VIII adjusted reactor settings: Temperature: 0, Fission rate: 46, Turbine output: 74, Autotemp ON
+[10/16/2020 11:19:02 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:19:09 PM]
+  Inner wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:19:11 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:19:12 PM]
+  Inner wall repaired by Kapitan Kolesnikov
+[10/16/2020 11:19:13 PM]
+  Guy Fieri picked up Diving Suit
+[10/16/2020 11:19:18 PM]
+  Donte VIII picked up Welding Tool
+[10/16/2020 11:19:18 PM]
+  Guy Fieri closed Custom Door
+[10/16/2020 11:19:18 PM]
+  Guy Fieri opened Custom Door
+[10/16/2020 11:19:21 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:21 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:21 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:22 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:19:22 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:22 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:22 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:22 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:23 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:23 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:23 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:24 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:19:29 PM]
+  Kapitan Kolesnikov picked up Revolver
+[10/16/2020 11:19:35 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:35 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:35 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:35 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 30 Gunshot wound: 30 Stun: 0.125
+[10/16/2020 11:19:35 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:36 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:36 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:36 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:36 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:36 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:37 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:37 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:37 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:37 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:37 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:37 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:19:38 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:19:38 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:38 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:19:40 PM]
+  Kapitan Kolesnikov picked up Diving Suit
+[10/16/2020 11:19:41 PM]
+  Donte VIII has died (Cause of death: Barotrauma)
+[10/16/2020 11:19:44 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:19:45 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:19:46 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:19:47 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:19:47 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 3 Stun: 0.4
+[10/16/2020 11:19:48 PM]
+  Outer wall breached by Mudraptor
+[10/16/2020 11:19:48 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 40 Gunshot wound: 30 Stun: 0.4
+[10/16/2020 11:19:49 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 20 Gunshot wound: 15 Stun: 0.4
+[10/16/2020 11:19:53 PM]
+  Kapitan Kolesnikov placed SMG Magazine in Toolbox (ID: 3828)
+[10/16/2020 11:19:53 PM]
+  Kapitan Kolesnikov removed SMG Magazine from Toolbox (ID: 3828)
+[10/16/2020 11:19:53 PM]
+  Kapitan Kolesnikov placed SMG Magazine in SMG (ID: 2350)
+[10/16/2020 11:20:01 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:20:03 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:20:07 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Bleeding: 15 Gunshot wound: 15 Stun: 0.125
+[10/16/2020 11:20:20 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:20 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:20 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:20 PM]
+  Kapitan Kolesnikov attacked by Bronte Polson. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[10/16/2020 11:20:20 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:21 PM]
+  Inner wall repaired by Doctor
+[10/16/2020 11:20:21 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 0.5
+[10/16/2020 11:20:21 PM]
+  Kapitan Kolesnikov used Screwdriver on Mudraptor.
+[10/16/2020 11:20:22 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:22 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:22 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:22 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:22 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:22 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:23 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:23 PM]
+  Kapitan Kolesnikov attacked by Bronte Polson. Bleeding: 3 Gunshot wound: 3.2 Stun: 0.2
+[10/16/2020 11:20:23 PM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[10/16/2020 11:20:23 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 12 Gunshot wound: 16 Stun: 0.2
+[10/16/2020 11:20:24 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:20:27 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:20:27 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:20:27 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:20:27 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:20:27 PM]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[10/16/2020 11:20:27 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:20:27 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:20:27 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 6 Gunshot wound: 8 Stun: 0.2
+[10/16/2020 11:20:28 PM]
+  Kapitan Kolesnikov used item Blood Pack
+[10/16/2020 11:20:29 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:30 PM]
+  Kapitan Kolesnikov used item Bandage
+[10/16/2020 11:20:30 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:30 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:30 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:30 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:30 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:30 PM]
+  Mudraptor attacked by Bronte Polson. Gunshot wound: 0.8 Stun: 0.2
+[10/16/2020 11:20:31 PM]
+  Kapitan Kolesnikov used item Morphine
+[10/16/2020 11:20:32 PM]
+  Guy Fieri has died (Cause of death: Bite wounds)
+[10/16/2020 11:20:33 PM]
+  Kapitan Kolesnikov used item Morphine
+[10/16/2020 11:20:41 PM]
+  Kapitan Kolesnikov dropped Diving Suit
+[10/16/2020 11:20:48 PM]
+  Doctor used item Bandage
+[10/16/2020 11:20:56 PM]
+  Kapitan Kolesnikov placed SMG Magazine in Large Steel Cabinet (ID: 774)
+[10/16/2020 11:20:56 PM]
+  Kapitan Kolesnikov removed SMG Magazine from Large Steel Cabinet (ID: 774)
+[10/16/2020 11:20:56 PM]
+  Kapitan Kolesnikov placed SMG Magazine in SMG (ID: 2350)
+[10/16/2020 11:20:56 PM]
+  Doctor picked up Gunner's Helmet
+[10/16/2020 11:20:56 PM]
+  Doctor dropped Diving Mask
+[10/16/2020 11:20:56 PM]
+  Doctor placed Diving Mask in Bronte Polson
+[10/16/2020 11:20:57 PM]
+  Kapitan Kolesnikov picked up SMG Magazine
+[10/16/2020 11:20:58 PM]
+  Kapitan Kolesnikov picked up SMG Magazine
+[10/16/2020 11:20:59 PM]
+  Kapitan Kolesnikov placed Revolver in Large Steel Cabinet (ID: 774)
+[10/16/2020 11:21:04 PM]
+  Kapitan Kolesnikov picked up Stun Gun
+[10/16/2020 11:21:04 PM]
+  Doctor used item Blood Pack
+[10/16/2020 11:21:09 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:09 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:09 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:09 PM]
+  Guy Fieri attacked by Kapitan Kolesnikov. Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:21:11 PM]
+  Bronte Polson picked up Diving Suit
+[10/16/2020 11:21:11 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:11 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:21:11 PM]
+  Guy Fieri attacked by Kapitan Kolesnikov. Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:21:11 PM]
+  Guy Fieri attacked by Kapitan Kolesnikov. Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:21:12 PM]
+  Guy Fieri attacked by Kapitan Kolesnikov. Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:21:12 PM]
+  Guy Fieri attacked by Kapitan Kolesnikov. Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:21:12 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:12 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:12 PM]
+  Guy Fieri attacked by Kapitan Kolesnikov. Gunshot wound: 6 Stun: 0.125
+[10/16/2020 11:21:13 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:13 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:13 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:15 PM]
+  Kapitan Kolesnikov picked up SMG Magazine
+[10/16/2020 11:21:15 PM]
+  Kapitan Kolesnikov dropped SMG Magazine
+[10/16/2020 11:21:15 PM]
+  Kapitan Kolesnikov placed SMG Magazine in SMG (ID: 2350)
+[10/16/2020 11:21:18 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:18 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:19 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:22 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 0.1 Stun: 10
+[10/16/2020 11:21:22 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Lacerations: 1 Stun: 10
+[10/16/2020 11:21:22 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:23 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:23 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:23 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:23 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:24 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:24 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:25 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:25 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:25 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:25 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:25 PM]
+  Mudraptor attacked by Kapitan Kolesnikov. Gunshot wound: 1.5 Stun: 0.125
+[10/16/2020 11:21:27 PM]
+  Kapitan Kolesnikov dropped SMG Magazine
+[10/16/2020 11:21:28 PM]
+  Doctor picked up Diving Suit
+[10/16/2020 11:21:34 PM]
+  Bronte Polson picked up Harpoon Gun
+[10/16/2020 11:21:39 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:21:40 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:21:41 PM]
+  Doctor used item Morphine
+[10/16/2020 11:21:43 PM]
+  Doctor used item Morphine
+[10/16/2020 11:21:48 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 60 Lacerations: 60 Stun: 0.25
+[10/16/2020 11:21:49 PM]
+  Doctor used item Tonic Liquid
+[10/16/2020 11:21:50 PM]
+  Doctor used item Morphine
+[10/16/2020 11:21:51 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:21:52 PM]
+  Doctor used item Morphine
+[10/16/2020 11:21:53 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 5 Stun: 0.25
+[10/16/2020 11:21:53 PM]
+  Kapitan Kolesnikov has died (Cause of death: Bite wounds)
+[10/16/2020 11:21:55 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[10/16/2020 11:21:58 PM]
+  Kapitan Kolesnikov: gamer moment
+[10/16/2020 11:22:05 PM]
+  Bronte Polson dropped Harpoon Gun
+[10/16/2020 11:22:07 PM]
+  Bronte Polson picked up Harpoon Gun
+[10/16/2020 11:22:12 PM]
+  Guy Fieri: my head came off can you revive me
+[10/16/2020 11:22:13 PM]
+  Doctor attacked by Bronte Polson. Bleeding: 15 Lacerations: 6 Stun: 0.25
+[10/16/2020 11:22:14 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:22:15 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:22:18 PM]
+  Inner wall breached by Mudraptor
+[10/16/2020 11:22:19 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:22:19 PM]
+  Kapitan Kolesnikov: thats how it be sometimes
+[10/16/2020 11:22:20 PM]
+  Mudraptor attacked by Bronte Polson. Lacerations: 3 Stun: 0.25
+[10/16/2020 11:22:21 PM]
+  Mudraptor has died (Cause of death: Lacerations)
+[10/16/2020 11:22:21 PM]
+  Mudraptor attacked by Bronte Polson. Bleeding: 60 Lacerations: 100 Stun: 0.25
+[10/16/2020 11:22:33 PM]
+  Doctor picked up Diving Mask
+[10/16/2020 11:22:34 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:22:46 PM]
+  Bronte Polson: I'm comepletly out of ammo
+[10/16/2020 11:22:47 PM]
+  Doctor picked up Oxygen Tank
+[10/16/2020 11:22:47 PM]
+  Doctor dropped Oxygen Tank
+[10/16/2020 11:22:47 PM]
+  Doctor placed Oxygen Tank in Diving Mask (ID: 392)
+[10/16/2020 11:22:53 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 11:22:58 PM]
+  Bronte Polson placed Harpoon Gun in Medium Steel Cabinet (ID: 545)
+[10/16/2020 11:23:00 PM]
+  Doctor opened Custom Hatch
+[10/16/2020 11:23:00 PM]
+  Bronte Polson placed Stun Gun in Medium Steel Cabinet (ID: 545)
+[10/16/2020 11:23:00 PM]
+  Doctor closed Custom Hatch
+[10/16/2020 11:23:02 PM]
+  Bronte Polson placed Riot Shotgun in Medium Steel Cabinet (ID: 545)
+[10/16/2020 11:23:13 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 11:23:15 PM]
+  Bronte Polson picked up Welding Tool
+[10/16/2020 11:23:17 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 11:23:17 PM]
+  Outer wall repaired by Doctor
+[10/16/2020 11:23:18 PM]
+  Inner wall repaired by Doctor

@@ -1,0 +1,416 @@
+<Items>
+  <Item name="Balaclava" identifier="balaclava" category="Equipment" tags="smallitem,clothing" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+    <Upgrade gameversion="0.9.6.0" scale="0.4" />
+    <PreferredContainer primary="outpostcrewcabinet" minamount="0" maxamount="1" spawnprobability="0"/>
+    <Price baseprice="175" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.3" sold="false"/>
+      <Price locationtype="city" multiplier="1.2" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="0.9" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <Deconstruct time="10">
+      <Item identifier="organicfiber" />
+    </Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="3">
+      <RequiredItem identifier="organicfiber" />
+    </Fabricate>
+    <Sprite name="Balaclava" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/headgear.png" sourcerect="20,226,82,73" depth="0.6" origin="0.5,0.5" />
+    <Body radius="30" density="50" />
+    <Wearable slots="Any,Head" armorvalue="20.0" msg="ItemMsgPickUpSelect">
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.2" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictiontypes="bleeding" armorsector="0.0,360.0" damagemultiplier="0.1" damagesound="LimbArmor" deflectprojectiles="true" />
+      <sprite name="Balaclava Wearable" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/headgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" hidewearablesoftype="hair" sourcerect="20,226,82,73" origin="0.45,0.60" />
+    </Wearable>
+  </Item>
+  <Item name="Aviators" identifier="aviators" scale="0.5" category="Equipment" tags="smallitem,clothing" cargocontaineridentifier="metalcrate" description="" impactsoundtag="impact_metal_light">
+    <PreferredContainer primary="medcab" minamount="1" maxamount="1" spawnprobability="0.5" />
+    <Price baseprice="150" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.3" sold="false"/>
+      <Price locationtype="city" multiplier="1.2" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1.25" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <Deconstruct time="20">
+      <Item identifier="plastic" />
+    </Deconstruct>
+	<Fabricate suitablefabricators="fabricator" requiredtime="3">
+      <RequiredItem identifier="plastic" />
+    </Fabricate>
+    <InventoryIcon texture="Mods/FreddyMod/Items/Jobgear/Hawaii/headgear.png" sourcerect="115,349,75,26" origin="0.55,0.85" />
+    <Sprite name="Aviator" texture="Content/Items/Jobgear/headgears.png" sourcerect="115,349,75,26" depth="0.6" origin="0.5,0.5" />
+    <Body width="70" height="24" density="30" />
+    <Wearable limbtype="Head" slots="Any,Head" msg="ItemMsgPickUpSelect">
+      <sprite name="Aviators" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/headgear.png" limb="Head" inheritlimbdepth="true" inherittexturescale="true" sourcerect="115,349,75,26" origin="0.55,0.85" />
+    </Wearable>
+  </Item>
+  <Item name="Hawaiian Shirt" identifier="hawaiianshirt1" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt2" />
+	</Deconstruct>
+	<Fabricate suitablefabricators="fabricator" requiredtime="3">
+      <RequiredItem identifier="organicfiber" />
+    </Fabricate>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt1Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt1Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 1 Torso" texture="HawaiianShirt1.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Arm" texture="HawaiianShirt1.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Arm" texture="HawaiianShirt1.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Lower Arm" texture="HawaiianShirt1.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Lower Arm" texture="HawaiianShirt1.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Waist" texture="HawaiianPants.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Thigh" texture="HawaiianPants.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Thigh" texture="HawaiianPants.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Leg" texture="HawaiianPants.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Leg" texture="HawaiianPants.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Shoe" texture="HawaiianPants.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Shoe" texture="HawaiianPants.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Armored Hawaiian Shirt" identifier="hawaiianshirt1mil" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt2mil" />
+	</Deconstruct>
+	<Fabricate suitablefabricators="fabricator" requiredtime="3">
+      <RequiredItem identifier="steel" />
+	  <RequiredItem identifier="hawaiianshirt1" />
+    </Fabricate>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt1Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt1Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 1 Torso" texture="HawaiianShirtMil1.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Arm" texture="HawaiianShirtMil1.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Arm" texture="HawaiianShirtMil1.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Lower Arm" texture="HawaiianShirtMil1.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Lower Arm" texture="HawaiianShirtMil1.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Waist" texture="HawaiianPantsMil.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Thigh" texture="HawaiianPantsMil.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Thigh" texture="HawaiianPantsMil.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Leg" texture="HawaiianPantsMil.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Leg" texture="HawaiianPantsMil.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Right Shoe" texture="HawaiianPantsMil.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 1 Left Shoe" texture="HawaiianPantsMil.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Hawaiian Shirt" identifier="hawaiianshirt2" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt3" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt2Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt2Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 2 Torso" texture="HawaiianShirt2.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Arm" texture="HawaiianShirt2.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Arm" texture="HawaiianShirt2.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Lower Arm" texture="HawaiianShirt2.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Lower Arm" texture="HawaiianShirt2.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Waist" texture="HawaiianPants.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Thigh" texture="HawaiianPants.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Thigh" texture="HawaiianPants.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Leg" texture="HawaiianPants.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Leg" texture="HawaiianPants.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Shoe" texture="HawaiianPants.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Shoe" texture="HawaiianPants.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Armored Hawaiian Shirt" identifier="hawaiianshirt2mil" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt3mil" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt2Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt2Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 2 Torso" texture="HawaiianShirtMil2.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Arm" texture="HawaiianShirtMil2.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Arm" texture="HawaiianShirtMil2.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Lower Arm" texture="HawaiianShirtMil2.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Lower Arm" texture="HawaiianShirtMil2.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Waist" texture="HawaiianPantsMil.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Thigh" texture="HawaiianPantsMil.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Thigh" texture="HawaiianPantsMil.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Leg" texture="HawaiianPantsMil.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Leg" texture="HawaiianPantsMil.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Right Shoe" texture="HawaiianPantsMil.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 2 Left Shoe" texture="HawaiianPantsMil.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Hawaiian Shirt" identifier="hawaiianshirt3" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt4" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt3Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt3Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 3 Torso" texture="HawaiianShirt3.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Arm" texture="HawaiianShirt3.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Arm" texture="HawaiianShirt3.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Lower Arm" texture="HawaiianShirt3.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Lower Arm" texture="HawaiianShirt3.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Waist" texture="HawaiianPants.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Thigh" texture="HawaiianPants.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Thigh" texture="HawaiianPants.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Leg" texture="HawaiianPants.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Leg" texture="HawaiianPants.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Shoe" texture="HawaiianPants.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Shoe" texture="HawaiianPants.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Armored Hawaiian Shirt" identifier="hawaiianshirt3mil" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt4mil" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt3Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt3Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 3 Torso" texture="HawaiianShirtMil3.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Arm" texture="HawaiianShirtMil3.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Arm" texture="HawaiianShirtMil3.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Lower Arm" texture="HawaiianShirtMil3.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Lower Arm" texture="HawaiianShirtMil3.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Waist" texture="HawaiianPantsMil.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Thigh" texture="HawaiianPantsMil.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Thigh" texture="HawaiianPantsMil.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Leg" texture="HawaiianPantsMil.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Leg" texture="HawaiianPantsMil.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Right Shoe" texture="HawaiianPantsMil.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 3 Left Shoe" texture="HawaiianPantsMil.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Hawaiian Shirt" identifier="hawaiianshirt4" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt5" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt4Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt4Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 4 Torso" texture="HawaiianShirt4.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Arm" texture="HawaiianShirt4.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Arm" texture="HawaiianShirt4.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Lower Arm" texture="HawaiianShirt4.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Lower Arm" texture="HawaiianShirt4.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Waist" texture="HawaiianPants.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Thigh" texture="HawaiianPants.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Thigh" texture="HawaiianPants.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Leg" texture="HawaiianPants.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Leg" texture="HawaiianPants.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Shoe" texture="HawaiianPants.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Shoe" texture="HawaiianPants.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Armored Hawaiian Shirt" identifier="hawaiianshirt4mil" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt5mil" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt4Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt4Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 4 Torso" texture="HawaiianShirtMil4.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Arm" texture="HawaiianShirtMil4.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Arm" texture="HawaiianShirtMil4.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Lower Arm" texture="HawaiianShirtMil4.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Lower Arm" texture="HawaiianShirtMil4.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Waist" texture="HawaiianPantsMil.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Thigh" texture="HawaiianPantsMil.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Thigh" texture="HawaiianPantsMil.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Leg" texture="HawaiianPantsMil.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Leg" texture="HawaiianPantsMil.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Right Shoe" texture="HawaiianPantsMil.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 4 Left Shoe" texture="HawaiianPantsMil.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Hawaiian Shirt" identifier="hawaiianshirt5" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt6" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt5Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt5Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 5 Torso" texture="HawaiianShirt5.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Arm" texture="HawaiianShirt5.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Arm" texture="HawaiianShirt5.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Lower Arm" texture="HawaiianShirt5.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Lower Arm" texture="HawaiianShirt5.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Waist" texture="HawaiianPants.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Thigh" texture="HawaiianPants.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Thigh" texture="HawaiianPants.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Leg" texture="HawaiianPants.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Leg" texture="HawaiianPants.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Shoe" texture="HawaiianPants.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Shoe" texture="HawaiianPants.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Armored Hawaiian Shirt" identifier="hawaiianshirt5mil" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt6mil" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt5Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt5Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 5 Torso" texture="HawaiianShirtMil5.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Arm" texture="HawaiianShirtMil5.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Arm" texture="HawaiianShirtMil5.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Lower Arm" texture="HawaiianShirtMil5.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Lower Arm" texture="HawaiianShirtMil5.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Waist" texture="HawaiianPantsMil.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Thigh" texture="HawaiianPantsMil.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Thigh" texture="HawaiianPantsMil.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Leg" texture="HawaiianPantsMil.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Leg" texture="HawaiianPantsMil.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Right Shoe" texture="HawaiianPantsMil.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 5 Left Shoe" texture="HawaiianPantsMil.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Hawaiian Shirt" identifier="hawaiianshirt6" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt1" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt6Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt6Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 6 Torso" texture="HawaiianShirt6.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Arm" texture="HawaiianShirt6.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Arm" texture="HawaiianShirt6.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Lower Arm" texture="HawaiianShirt6.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Lower Arm" texture="HawaiianShirt6.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Waist" texture="HawaiianPants.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Thigh" texture="HawaiianPants.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Thigh" texture="HawaiianPants.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Leg" texture="HawaiianPants.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Leg" texture="HawaiianPants.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Shoe" texture="HawaiianPants.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Shoe" texture="HawaiianPants.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+  <Item name="Armored Hawaiian Shirt" identifier="hawaiianshirt6mil" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="crewcab" minamount="0" maxamount="1" spawnprobability="0.05" />
+	<Deconstruct time="1">
+	  <Item identifier="hawaiianshirt1mil" />
+	</Deconstruct>
+    <Price baseprice="150">
+      <Price locationtype="outpost" multiplier="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" sold="false"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+    <InventoryIcon name="HawaiianShirtIcon" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt6Outfit.png" sourcerect="0,402,128,110" origin="0.5,0.5" />
+    <Sprite name="HawaiianShirtInven" texture="Mods/FreddyMod/Items/Jobgear/Hawaii/HawaiianShirt6Icon.png" sourcerect="661,354,200,87" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Hawaiian Outfit 6 Torso" texture="HawaiianShirtMil6.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Arm" texture="HawaiianShirtMil6.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Arm" texture="HawaiianShirtMil6.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Lower Arm" texture="HawaiianShirtMil6.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Lower Arm" texture="HawaiianShirtMil6.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Waist" texture="HawaiianPantsMil.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Thigh" texture="HawaiianPantsMil.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Thigh" texture="HawaiianPantsMil.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Leg" texture="HawaiianPantsMil.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Leg" texture="HawaiianPantsMil.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Right Shoe" texture="HawaiianPantsMil.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Hawaiian Outfit 6 Left Shoe" texture="HawaiianPantsMil.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+    </Wearable>
+  </Item>
+</Items>

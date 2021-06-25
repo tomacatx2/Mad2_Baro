@@ -1,0 +1,34 @@
+﻿[5/4/2021 9:53:18 PM]
+  Saving client permissions
+[5/4/2021 9:53:18 PM]
+  Saving client permissions
+[5/4/2021 9:53:24 PM]
+  Client "tomacatx1" started the round.
+[5/4/2021 9:53:24 PM]
+  Starting a new round...
+[5/4/2021 9:53:42 PM]
+  Mission: Activate beacon
+[5/4/2021 9:53:42 PM]
+  The beacon station between The city of Arid Troma and Seosu Station is down—get in there, and get it back online and transmitting an active sonar signal.
+[5/4/2021 9:53:42 PM]
+  Game mode: Mission
+[5/4/2021 9:53:42 PM]
+  Submarine: Azimuth
+[5/4/2021 9:53:42 PM]
+  Level seed: Wl7K9NIy
+[5/4/2021 9:53:42 PM]
+  Mission: Activate beacon
+[5/4/2021 9:53:42 PM]
+  Round started.
+[5/4/2021 9:53:48 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[5/4/2021 9:53:50 PM]
+  tomacatx1: I'll set the course onwards!
+[5/4/2021 9:53:57 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[5/4/2021 9:54:03 PM]
+  Console command "freecam" executed by tomacatx1.
+[5/4/2021 9:54:07 PM]
+  Console command "control tomacatx1" executed by tomacatx1.
+[5/4/2021 9:54:13 PM]
+  Console command "freecam" executed by tomacatx1.

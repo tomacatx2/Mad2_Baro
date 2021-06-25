@@ -1,0 +1,790 @@
+﻿[6/26/2021 12:38:36 AM]
+  Saving client permissions
+[6/26/2021 12:42:06 AM]
+  terc has joined the server.
+[6/26/2021 12:42:06 AM]
+  Saving client permissions
+[6/26/2021 12:42:11 AM]
+  terc: me
+[6/26/2021 12:42:15 AM]
+  tomacatx1: okay
+[6/26/2021 12:42:16 AM]
+  tomacatx1: cool
+[6/26/2021 12:42:17 AM]
+  tomacatx1: it works
+[6/26/2021 12:42:18 AM]
+  tomacatx1: uhhhh
+[6/26/2021 12:42:19 AM]
+  terc: what the fuck
+[6/26/2021 12:42:21 AM]
+  tomacatx1: change ur job to what it was
+[6/26/2021 12:42:23 AM]
+  tomacatx1: in the campaign
+[6/26/2021 12:42:24 AM]
+  terc: my character looks normal
+[6/26/2021 12:42:27 AM]
+  tomacatx1: yeah we are now anime characters
+[6/26/2021 12:42:32 AM]
+  tomacatx1: not inbred chinamen
+[6/26/2021 12:42:34 AM]
+  tomacatx1: okay
+[6/26/2021 12:42:40 AM]
+  tomacatx1: what im about to test is Object Permanence
+[6/26/2021 12:42:44 AM]
+  tomacatx1: youll spawn into our campaign
+[6/26/2021 12:42:49 AM]
+  tomacatx1: and youll tell me whether you have the items
+[6/26/2021 12:42:52 AM]
+  tomacatx1: you had last time
+[6/26/2021 12:42:54 AM]
+  tomacatx1: aight?
+[6/26/2021 12:42:54 AM]
+  terc: alright
+[6/26/2021 12:42:58 AM]
+  Gamemode changed to Campaign
+[6/26/2021 12:42:58 AM]
+  terc is ready to start the game.
+[6/26/2021 12:43:01 AM]
+  Starting a new round...
+[6/26/2021 12:43:05 AM]
+  terc is not ready to start the game.
+[6/26/2021 12:43:31 AM]
+  Game mode: Campaign
+[6/26/2021 12:43:31 AM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/26/2021 12:43:31 AM]
+  Level seed: Anid
+[6/26/2021 12:43:31 AM]
+  Kerry Reynolds equipped Wrench
+[6/26/2021 12:43:31 AM]
+  Kerry Reynolds unequipped Wrench
+[6/26/2021 12:43:31 AM]
+  Kerry Reynolds equipped Screwdriver
+[6/26/2021 12:43:31 AM]
+  Lamont Radice equipped Wrench
+[6/26/2021 12:43:31 AM]
+  Lamont Radice unequipped Wrench
+[6/26/2021 12:43:31 AM]
+  Lamont Radice equipped Screwdriver
+[6/26/2021 12:43:31 AM]
+  Candace Hampton equipped Wrench
+[6/26/2021 12:43:31 AM]
+  Candace Hampton unequipped Wrench
+[6/26/2021 12:43:31 AM]
+  Candace Hampton equipped Screwdriver
+[6/26/2021 12:43:31 AM]
+  Devin Ram equipped Wrench
+[6/26/2021 12:43:31 AM]
+  Devin Ram unequipped Wrench
+[6/26/2021 12:43:31 AM]
+  Devin Ram equipped Screwdriver
+[6/26/2021 12:43:31 AM]
+  Devin Ram unequipped Screwdriver
+[6/26/2021 12:43:31 AM]
+  Devin Ram equipped Crowbar
+[6/26/2021 12:43:31 AM]
+  Lauren Hefner equipped Wrench
+[6/26/2021 12:43:31 AM]
+  Lauren Hefner unequipped Wrench
+[6/26/2021 12:43:31 AM]
+  Lauren Hefner equipped Screwdriver
+[6/26/2021 12:43:33 AM]
+  Thea Robertson equipped Screwdriver
+[6/26/2021 12:43:33 AM]
+  Arturo Rhymer equipped Screwdriver
+[6/26/2021 12:43:33 AM]
+  Kathy Huber equipped Wrench
+[6/26/2021 12:43:33 AM]
+  Claire Frye equipped Screwdriver
+[6/26/2021 12:43:33 AM]
+  terc equipped Storage Container
+[6/26/2021 12:43:33 AM]
+  Round started.
+[6/26/2021 12:43:33 AM]
+  Keith Basnett equipped Screwdriver
+[6/26/2021 12:43:33 AM]
+  Claire Frye unequipped Screwdriver
+[6/26/2021 12:43:33 AM]
+  Thea Robertson unequipped Screwdriver
+[6/26/2021 12:43:33 AM]
+  Keith Basnett unequipped Screwdriver
+[6/26/2021 12:43:34 AM]
+  Kathy Huber unequipped Wrench
+[6/26/2021 12:43:34 AM]
+  Keith Basnett: Hello there! You look like you've had a rough trip.
+[6/26/2021 12:43:34 AM]
+  Devin Ram unequipped Crowbar
+[6/26/2021 12:43:34 AM]
+  Kerry Reynolds unequipped Screwdriver
+[6/26/2021 12:43:34 AM]
+  Arturo Rhymer unequipped Screwdriver
+[6/26/2021 12:43:42 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 12:43:47 AM]
+  tomacatx1: fuck yeah
+[6/26/2021 12:43:51 AM]
+  tomacatx1: you do have your stuff
+[6/26/2021 12:43:56 AM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 12:44:00 AM]
+  terc dropped Storage Container
+[6/26/2021 12:44:00 AM]
+  terc equipped 'Beast' SSL (Flashlight)
+[6/26/2021 12:44:01 AM]
+  tomacatx1: u have ur stuff
+[6/26/2021 12:44:03 AM]
+  terc: oh hell yeah
+[6/26/2021 12:44:06 AM]
+  terc unequipped 'Beast' SSL (Flashlight)
+[6/26/2021 12:44:06 AM]
+  tomacatx1: this is just a backup save
+[6/26/2021 12:44:10 AM]
+  Denise Basnett: Is that fried thresher I smell?
+[6/26/2021 12:44:11 AM]
+  terc dropped Storage Container
+[6/26/2021 12:44:11 AM]
+  tomacatx1: if u want you can go get a hardsuit
+[6/26/2021 12:44:13 AM]
+  Alton Basnett: Someone’s probably just overloading the grid again.
+[6/26/2021 12:44:14 AM]
+  terc: which means...
+[6/26/2021 12:44:15 AM]
+  tomacatx1: and go on a killing spree
+[6/26/2021 12:44:19 AM]
+  tomacatx1: as thanks for helping me test
+[6/26/2021 12:44:21 AM]
+  terc equipped 'Beast' SSL (Flashlight)
+[6/26/2021 12:44:23 AM]
+  Thea Robertson has died (Cause of death: Lacerations)
+[6/26/2021 12:44:24 AM]
+  tomacatx1 equipped .357 Revolver
+[6/26/2021 12:44:25 AM]
+  Candace Hampton: Need medical assistance in amidships!
+[6/26/2021 12:44:26 AM]
+  Arturo Rhymer: Need medical assistance in amidships!
+[6/26/2021 12:44:26 AM]
+  Claire Frye: Need a medic in amidships!
+[6/26/2021 12:44:28 AM]
+  terc placed 30mm-FC Clip in 'Beast' SSL (Flashlight) (ID: 4495)
+[6/26/2021 12:44:29 AM]
+  Keith Basnett has died (Cause of death: Deep tissue injury)
+[6/26/2021 12:44:30 AM]
+  Claire Frye has died (Cause of death: Lacerations)
+[6/26/2021 12:44:31 AM]
+  Arturo Rhymer has died (Cause of death: Lacerations)
+[6/26/2021 12:44:32 AM]
+  tomacatx1 unequipped .357 Revolver
+[6/26/2021 12:44:32 AM]
+  tomacatx1 equipped Storage Container
+[6/26/2021 12:44:34 AM]
+  tomacatx1 placed SMG Magazine in SMG (ID: 4450)
+[6/26/2021 12:44:35 AM]
+  tomacatx1 picked up SMG
+[6/26/2021 12:44:35 AM]
+  terc placed 30mm-FC Clip in 'Beast' SSL (Flashlight) (ID: 4495)
+[6/26/2021 12:44:36 AM]
+  tomacatx1 dropped Storage Container
+[6/26/2021 12:44:36 AM]
+  tomacatx1 equipped SMG
+[6/26/2021 12:44:36 AM]
+  tomacatx1 equipped Oxygen Tank
+[6/26/2021 12:44:37 AM]
+  Ulof Fleig: Treating Candace Hampton in amidships!
+[6/26/2021 12:44:39 AM]
+  Candace Hampton attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:39 AM]
+  Candace Hampton attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:40 AM]
+  Ulof Fleig attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:40 AM]
+  Candace Hampton attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:40 AM]
+  Ulof Fleig attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:40 AM]
+  Ulof Fleig attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:40 AM]
+  Ulof Fleig: Why are you doing this?
+[6/26/2021 12:44:41 AM]
+  Ulof Fleig attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:41 AM]
+  Ulof Fleig attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:41 AM]
+  Ulof Fleig attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:42 AM]
+  Lamont Radice attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:42 AM]
+  Lamont Radice attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:42 AM]
+  Lamont Radice unequipped Screwdriver
+[6/26/2021 12:44:42 AM]
+  Lamont Radice equipped Revolver
+[6/26/2021 12:44:42 AM]
+  Lamont Radice: Why are you doing this?
+[6/26/2021 12:44:43 AM]
+  Alice Bartolomeo equipped Stun Baton
+[6/26/2021 12:44:44 AM]
+  Alice Bartolomeo unequipped Stun Baton
+[6/26/2021 12:44:44 AM]
+  Alice Bartolomeo equipped Revolver
+[6/26/2021 12:44:44 AM]
+  Devin Ram attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:44 AM]
+  Alice Bartolomeo unequipped Revolver
+[6/26/2021 12:44:44 AM]
+  terc equipped SMG
+[6/26/2021 12:44:45 AM]
+  Alice Bartolomeo equipped Revolver
+[6/26/2021 12:44:45 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:45 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:45 AM]
+  Alice Bartolomeo unequipped Revolver
+[6/26/2021 12:44:45 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:45 AM]
+  Alice Bartolomeo equipped Revolver
+[6/26/2021 12:44:46 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:46 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:46 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:47 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:47 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:47 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:48 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:48 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:48 AM]
+  Lamont Radice attacked by terc. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:49 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:49 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[6/26/2021 12:44:49 AM]
+  Lamont Radice attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:49 AM]
+  Alice Bartolomeo: Stop messing around!
+[6/26/2021 12:44:49 AM]
+  Lamont Radice attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:49 AM]
+  Alice Bartolomeo: I'm gonna get you!
+[6/26/2021 12:44:50 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 15 Gunshot wound: 7.5 Stun: 0.15
+[6/26/2021 12:44:50 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[6/26/2021 12:44:50 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 1.5 Gunshot wound: 1.5 Stun: 0.15
+[6/26/2021 12:44:51 AM]
+  tomacatx1 equipped .357 Revolver
+[6/26/2021 12:44:52 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[6/26/2021 12:44:52 AM]
+  Denise Basnett equipped Revolver
+[6/26/2021 12:44:52 AM]
+  Alton Basnett equipped Stun Gun
+[6/26/2021 12:44:52 AM]
+  Denise Basnett unequipped Revolver
+[6/26/2021 12:44:52 AM]
+  Denise Basnett equipped Revolver
+[6/26/2021 12:44:52 AM]
+  Denise Basnett unequipped Revolver
+[6/26/2021 12:44:52 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[6/26/2021 12:44:52 AM]
+  Denise Basnett equipped Revolver
+[6/26/2021 12:44:53 AM]
+  Denise Basnett unequipped Revolver
+[6/26/2021 12:44:53 AM]
+  Alton Basnett unequipped Stun Gun
+[6/26/2021 12:44:53 AM]
+  Alton Basnett equipped Stun Gun
+[6/26/2021 12:44:53 AM]
+  Denise Basnett equipped Revolver
+[6/26/2021 12:44:54 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[6/26/2021 12:44:54 AM]
+  Denise Basnett unequipped Revolver
+[6/26/2021 12:44:55 AM]
+  Denise Basnett equipped Revolver
+[6/26/2021 12:44:55 AM]
+  Denise Basnett unequipped Revolver
+[6/26/2021 12:44:55 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[6/26/2021 12:44:56 AM]
+  Alice Bartolomeo attacked by tomacatx1. Bleeding: 10.900001 Gunshot wound: 7.625 Stun: 0.3
+[6/26/2021 12:44:56 AM]
+  Denise Basnett equipped Revolver
+[6/26/2021 12:44:56 AM]
+  Alice Bartolomeo unequipped Revolver
+[6/26/2021 12:44:56 AM]
+  Alice Bartolomeo equipped Diving Knife
+[6/26/2021 12:44:56 AM]
+  Alice Bartolomeo: Need medical assistance in amidships!
+[6/26/2021 12:44:56 AM]
+  Alton Basnett unequipped Stun Gun
+[6/26/2021 12:44:56 AM]
+  Alton Basnett equipped Diving Knife
+[6/26/2021 12:44:57 AM]
+  Alton Basnett unequipped Diving Knife
+[6/26/2021 12:44:57 AM]
+  Ending round (no living players left)
+[6/26/2021 12:44:57 AM]
+  Ending the round...
+[6/26/2021 12:44:57 AM]
+  Round ended.
+[6/26/2021 12:45:07 AM]
+  Gamemode changed to Sandbox
+[6/26/2021 12:45:10 AM]
+  tomacatx1: cool
+[6/26/2021 12:45:12 AM]
+  tomacatx1: lemme try to reload
+[6/26/2021 12:45:13 AM]
+  terc: very cool
+[6/26/2021 12:45:17 AM]
+  tomacatx1: to see if the save still works
+[6/26/2021 12:45:19 AM]
+  Gamemode changed to Campaign
+[6/26/2021 12:45:22 AM]
+  Starting a new round...
+[6/26/2021 12:45:40 AM]
+  Game mode: Campaign
+[6/26/2021 12:45:40 AM]
+  Submarine: ECS. Ordovicia (Modified)
+[6/26/2021 12:45:40 AM]
+  Level seed: Anid
+[6/26/2021 12:45:40 AM]
+  Kerry Reynolds equipped Wrench
+[6/26/2021 12:45:40 AM]
+  Kerry Reynolds unequipped Wrench
+[6/26/2021 12:45:40 AM]
+  Kerry Reynolds equipped Screwdriver
+[6/26/2021 12:45:40 AM]
+  Lamont Radice equipped Wrench
+[6/26/2021 12:45:40 AM]
+  Lamont Radice unequipped Wrench
+[6/26/2021 12:45:40 AM]
+  Lamont Radice equipped Screwdriver
+[6/26/2021 12:45:40 AM]
+  Candace Hampton equipped Wrench
+[6/26/2021 12:45:40 AM]
+  Candace Hampton unequipped Wrench
+[6/26/2021 12:45:40 AM]
+  Candace Hampton equipped Screwdriver
+[6/26/2021 12:45:40 AM]
+  Devin Ram equipped Wrench
+[6/26/2021 12:45:40 AM]
+  Devin Ram unequipped Wrench
+[6/26/2021 12:45:40 AM]
+  Devin Ram equipped Screwdriver
+[6/26/2021 12:45:40 AM]
+  Devin Ram unequipped Screwdriver
+[6/26/2021 12:45:40 AM]
+  Devin Ram equipped Crowbar
+[6/26/2021 12:45:40 AM]
+  Lauren Hefner equipped Wrench
+[6/26/2021 12:45:40 AM]
+  Lauren Hefner unequipped Wrench
+[6/26/2021 12:45:40 AM]
+  Lauren Hefner equipped Screwdriver
+[6/26/2021 12:45:41 AM]
+  Thea Robertson equipped Screwdriver
+[6/26/2021 12:45:41 AM]
+  Arturo Rhymer equipped Screwdriver
+[6/26/2021 12:45:41 AM]
+  Kathy Huber equipped Wrench
+[6/26/2021 12:45:41 AM]
+  Claire Frye equipped Screwdriver
+[6/26/2021 12:45:41 AM]
+  terc equipped Storage Container
+[6/26/2021 12:45:41 AM]
+  Round started.
+[6/26/2021 12:45:41 AM]
+  Virgilio Nicolosi equipped Screwdriver
+[6/26/2021 12:45:41 AM]
+  Arturo Rhymer unequipped Screwdriver
+[6/26/2021 12:45:41 AM]
+  Claire Frye unequipped Screwdriver
+[6/26/2021 12:45:41 AM]
+  Thea Robertson unequipped Screwdriver
+[6/26/2021 12:45:43 AM]
+  Devin Ram unequipped Crowbar
+[6/26/2021 12:45:43 AM]
+  Virgilio Nicolosi unequipped Screwdriver
+[6/26/2021 12:45:43 AM]
+  Kerry Reynolds unequipped Screwdriver
+[6/26/2021 12:45:43 AM]
+  Kathy Huber unequipped Wrench
+[6/26/2021 12:45:43 AM]
+  Ulof Fleig: Hi there!
+[6/26/2021 12:45:50 AM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 12:45:55 AM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 12:45:57 AM]
+  tomacatx1: lol
+[6/26/2021 12:45:57 AM]
+  terc: hello again
+[6/26/2021 12:45:59 AM]
+  tomacatx1: it doesnt save
+[6/26/2021 12:46:01 AM]
+  tomacatx1: if we die in the campaign
+[6/26/2021 12:46:08 AM]
+  terc picked up Frag Grenade
+[6/26/2021 12:46:08 AM]
+  terc picked up Frag Grenade
+[6/26/2021 12:46:09 AM]
+  terc dropped Storage Container
+[6/26/2021 12:46:10 AM]
+  terc equipped Frag Grenade
+[6/26/2021 12:46:13 AM]
+  tomacatx1: well thanks for helping me test
+[6/26/2021 12:46:15 AM]
+  Kathy Huber equipped Storage Container
+[6/26/2021 12:46:16 AM]
+  terc: im gonna show you a lil magic trick
+[6/26/2021 12:46:16 AM]
+  tomacatx1: shit works
+[6/26/2021 12:46:18 AM]
+  terc threw Frag Grenade
+[6/26/2021 12:46:19 AM]
+  tomacatx1: were ready for tomorrow
+[6/26/2021 12:46:20 AM]
+  Denise Basnett: Ever seen one of those things that guard the ruins?
+[6/26/2021 12:46:21 AM]
+  Arturo Rhymer has died (Cause of death: Deep tissue injury)
+[6/26/2021 12:46:32 AM]
+  tomacatx1 used item Blood Pack
+[6/26/2021 12:46:34 AM]
+  tomacatx1 used item Morphine
+[6/26/2021 12:46:35 AM]
+  Thea Robertson has died (Cause of death: Deep tissue injury)
+[6/26/2021 12:46:38 AM]
+  tomacatx1 used item Anabolic Steroids
+[6/26/2021 12:46:40 AM]
+  tomacatx1 used item Bandage
+[6/26/2021 12:46:42 AM]
+  tomacatx1 used item Bandage
+[6/26/2021 12:46:44 AM]
+  tomacatx1 used item Bandage
+[6/26/2021 12:46:59 AM]
+  tomacatx1: lemme practice surgery
+[6/26/2021 12:47:01 AM]
+  tomacatx1: ur half dead
+[6/26/2021 12:47:09 AM]
+  terc: i know i am
+[6/26/2021 12:47:14 AM]
+  tomacatx1: wheres medbay
+[6/26/2021 12:47:16 AM]
+  tomacatx1: i forget
+[6/26/2021 12:47:19 AM]
+  tomacatx1: oh yeah
+[6/26/2021 12:47:29 AM]
+  terc: i walk funny
+[6/26/2021 12:47:29 AM]
+  tomacatx1: lie down in the bed pls
+[6/26/2021 12:47:45 AM]
+  terc: mfw
+[6/26/2021 12:47:51 AM]
+  terc equipped 'Beast' SSL (Flashlight)
+[6/26/2021 12:47:52 AM]
+  Console command "spawnitem "Body Scanner" inventory" executed by tomacatx1.
+[6/26/2021 12:47:56 AM]
+  Console command "spawnitem Scalpel inventory" executed by tomacatx1.
+[6/26/2021 12:48:00 AM]
+  Console command "spawnitem Retractor inventory" executed by tomacatx1.
+[6/26/2021 12:48:01 AM]
+  tomacatx1 placed Oxygen Tank in Tactical Backpack (ID: 4396)
+[6/26/2021 12:48:06 AM]
+  Console command "spawnitem "Biofoam Injector" inventory" executed by tomacatx1.
+[6/26/2021 12:48:09 AM]
+  tomacatx1 placed Biofoam Injector in Tactical Backpack (ID: 4396)
+[6/26/2021 12:48:12 AM]
+  terc: scalpel?
+[6/26/2021 12:48:13 AM]
+  Console command "spawnitem "Biofoam Tank" inventory" executed by tomacatx1.
+[6/26/2021 12:48:16 AM]
+  tomacatx1: yeah
+[6/26/2021 12:48:20 AM]
+  terc: biofoam injectir?
+[6/26/2021 12:48:21 AM]
+  tomacatx1: yeah
+[6/26/2021 12:48:26 AM]
+  tomacatx1 used item Body Scanner
+[6/26/2021 12:48:29 AM]
+  tomacatx1 used item Scalpel
+[6/26/2021 12:48:31 AM]
+  tomacatx1 used item Retractor
+[6/26/2021 12:48:35 AM]
+  terc: surgeon simulator 2014
+[6/26/2021 12:48:37 AM]
+  tomacatx1 placed Biofoam Tank in Biofoam Injector (ID: 4403)
+[6/26/2021 12:48:38 AM]
+  tomacatx1 used item Biofoam Injector (contained items: Biofoam Tank)
+[6/26/2021 12:48:42 AM]
+  tomacatx1 used item Bandage
+[6/26/2021 12:48:49 AM]
+  tomacatx1 used item Body Scanner
+[6/26/2021 12:48:51 AM]
+  tomacatx1 used item Scalpel
+[6/26/2021 12:48:52 AM]
+  tomacatx1 used item Retractor
+[6/26/2021 12:48:58 AM]
+  tomacatx1 used item Biofoam Injector (contained items: Biofoam Tank)
+[6/26/2021 12:49:00 AM]
+  tomacatx1 used item Bandage
+[6/26/2021 12:49:07 AM]
+  tomacatx1: huh
+[6/26/2021 12:49:12 AM]
+  tomacatx1: i have no idea how to treat deep tissue shit
+[6/26/2021 12:49:14 AM]
+  terc: hp not goin up
+[6/26/2021 12:49:15 AM]
+  Console command "spawnitem "Europan Worm" inventory" executed by tomacatx1.
+[6/26/2021 12:49:16 AM]
+  Console command "spawnitem "Europan Worm" inventory" executed by tomacatx1.
+[6/26/2021 12:49:17 AM]
+  Console command "spawnitem "Europan Worm" inventory" executed by tomacatx1.
+[6/26/2021 12:49:19 AM]
+  tomacatx1 used item Europan Worm
+[6/26/2021 12:49:19 AM]
+  terc: morpine.
+[6/26/2021 12:49:26 AM]
+  tomacatx1 used item Morphine
+[6/26/2021 12:49:28 AM]
+  terc: i have organ damage now.
+[6/26/2021 12:49:32 AM]
+  tomacatx1: Yes
+[6/26/2021 12:49:37 AM]
+  tomacatx1 used item Biofoam Injector (contained items: Biofoam Tank)
+[6/26/2021 12:49:41 AM]
+  tomacatx1 placed Body Scanner in Tactical Backpack (ID: 4396)
+[6/26/2021 12:49:43 AM]
+  tomacatx1 placed Europan Worm in Tactical Backpack (ID: 4396)
+[6/26/2021 12:49:43 AM]
+  tomacatx1 placed Europan Worm in Tactical Backpack (ID: 4396)
+[6/26/2021 12:49:46 AM]
+  Console command "spawnitem "Biofoam Sprayer" inventory" executed by tomacatx1.
+[6/26/2021 12:49:50 AM]
+  Console command "spawnitem "Biofoam Tank" inventory" executed by tomacatx1.
+[6/26/2021 12:49:51 AM]
+  tomacatx1 placed Biofoam Tank in Biofoam Sprayer (ID: 4400)
+[6/26/2021 12:49:52 AM]
+  tomacatx1 equipped Biofoam Sprayer
+[6/26/2021 12:49:58 AM]
+  tomacatx1: hmmmm
+[6/26/2021 12:50:01 AM]
+  terc: i feel awesome
+[6/26/2021 12:50:09 AM]
+  tomacatx1 used item Body Scanner
+[6/26/2021 12:50:11 AM]
+  tomacatx1 used item Scalpel
+[6/26/2021 12:50:13 AM]
+  tomacatx1 used item Retractor
+[6/26/2021 12:50:16 AM]
+  tomacatx1 used item Biofoam Injector (contained items: Biofoam Tank)
+[6/26/2021 12:50:19 AM]
+  tomacatx1: ah it works
+[6/26/2021 12:50:20 AM]
+  tomacatx1: it does work
+[6/26/2021 12:50:23 AM]
+  tomacatx1 used item Bandage
+[6/26/2021 12:50:27 AM]
+  tomacatx1: cool
+[6/26/2021 12:50:30 AM]
+  tomacatx1: i know how to do surgery now
+[6/26/2021 12:50:33 AM]
+  tomacatx1: its slow but itll be fuin
+[6/26/2021 12:50:39 AM]
+  terc equipped Storage Container
+[6/26/2021 12:50:39 AM]
+  terc picked up Storage Container
+[6/26/2021 12:50:40 AM]
+  Console command "spawnitem "Splinting Kit" inventory" executed by tomacatx1.
+[6/26/2021 12:50:41 AM]
+  Console command "spawnitem "Splinting Kit" inventory" executed by tomacatx1.
+[6/26/2021 12:50:42 AM]
+  terc placed Storage Container in Medicine Cabinet (ID: 284)
+[6/26/2021 12:50:48 AM]
+  tomacatx1 used item Splinting Kit
+[6/26/2021 12:50:50 AM]
+  tomacatx1 used item Splinting Kit
+[6/26/2021 12:50:59 AM]
+  tomacatx1: best i can do :)
+[6/26/2021 12:51:02 AM]
+  tomacatx1: thanks for helping me test
+[6/26/2021 12:51:05 AM]
+  tomacatx1: the servers gonna go offline now
+[6/26/2021 12:51:07 AM]
+  terc equipped Crate of Opium
+[6/26/2021 12:51:07 AM]
+  terc picked up Crate of Opium
+[6/26/2021 12:51:08 AM]
+  tomacatx1: hope ull like the rounds tomorrow
+[6/26/2021 12:51:10 AM]
+  terc: hold on
+[6/26/2021 12:51:13 AM]
+  terc: toma
+[6/26/2021 12:51:16 AM]
+  tomacatx1: yeah?
+[6/26/2021 12:51:19 AM]
+  terc: can i ingest 3 billion opiums
+[6/26/2021 12:51:24 AM]
+  Console command "spawnitem Stolichnaya cursor" executed by tomacatx1.
+[6/26/2021 12:51:25 AM]
+  terc equipped Opium
+[6/26/2021 12:51:26 AM]
+  terc equipped Opium
+[6/26/2021 12:51:26 AM]
+  Console command "spawnitem Stolichnaya cursor" executed by tomacatx1.
+[6/26/2021 12:51:28 AM]
+  tomacatx1: probably
+[6/26/2021 12:51:30 AM]
+  terc dropped Marine Battle Rifle
+[6/26/2021 12:51:31 AM]
+  tomacatx1: also have a vodka
+[6/26/2021 12:51:33 AM]
+  tomacatx1: its on the floor
+[6/26/2021 12:51:34 AM]
+  tomacatx1 placed Biofoam Sprayer in Tactical Backpack (ID: 4396)
+[6/26/2021 12:51:35 AM]
+  terc equipped Marine Battle Rifle
+[6/26/2021 12:51:38 AM]
+  terc dropped Marine Battle Rifle
+[6/26/2021 12:51:39 AM]
+  terc dropped Hatchet
+[6/26/2021 12:51:39 AM]
+  tomacatx1 equipped Stolichnaya
+[6/26/2021 12:51:42 AM]
+  terc equipped Stolichnaya
+[6/26/2021 12:51:44 AM]
+  terc used Stolichnaya on tomacatx1.
+[6/26/2021 12:51:44 AM]
+  tomacatx1 used Stolichnaya on terc.
+[6/26/2021 12:51:45 AM]
+  tomacatx1 used Stolichnaya on terc.
+[6/26/2021 12:51:46 AM]
+  terc used item Stolichnaya
+[6/26/2021 12:51:49 AM]
+  tomacatx1: ahhhhhh
+[6/26/2021 12:51:53 AM]
+  tomacatx1: the new version
+[6/26/2021 12:51:56 AM]
+  tomacatx1: should be pretty fun
+[6/26/2021 12:51:58 AM]
+  tomacatx1: its got RP stuff
+[6/26/2021 12:52:01 AM]
+  tomacatx1: oh god im drunk
+[6/26/2021 12:52:18 AM]
+  terc used item Scalpel
+[6/26/2021 12:52:19 AM]
+  terc used item Splinting Kit
+[6/26/2021 12:52:20 AM]
+  terc used item Splinting Kit
+[6/26/2021 12:52:23 AM]
+  terc picked up Antirad
+[6/26/2021 12:52:23 AM]
+  terc picked up Antirad
+[6/26/2021 12:52:23 AM]
+  terc picked up Antirad
+[6/26/2021 12:52:24 AM]
+  terc equipped Naloxone
+[6/26/2021 12:52:24 AM]
+  terc picked up Naloxone
+[6/26/2021 12:52:27 AM]
+  terc used item Antirad
+[6/26/2021 12:52:28 AM]
+  terc used item Antirad
+[6/26/2021 12:52:28 AM]
+  terc used item Antirad
+[6/26/2021 12:52:31 AM]
+  terc picked up Morphine
+[6/26/2021 12:52:31 AM]
+  terc picked up Morphine
+[6/26/2021 12:52:31 AM]
+  terc picked up Morphine
+[6/26/2021 12:52:33 AM]
+  terc used item Morphine
+[6/26/2021 12:52:33 AM]
+  terc used item Morphine
+[6/26/2021 12:52:34 AM]
+  terc used item Morphine
+[6/26/2021 12:52:34 AM]
+  tomacatx1: what the fuck
+[6/26/2021 12:52:41 AM]
+  terc: oh man
+[6/26/2021 12:52:46 AM]
+  terc: im gonna die of cardiac arrest
+[6/26/2021 12:52:48 AM]
+  terc picked up Broad-spectrum Antibiotics
+[6/26/2021 12:52:48 AM]
+  terc picked up Broad-spectrum Antibiotics
+[6/26/2021 12:52:48 AM]
+  terc picked up Broad-spectrum Antibiotics
+[6/26/2021 12:52:48 AM]
+  terc picked up Broad-spectrum Antibiotics
+[6/26/2021 12:52:48 AM]
+  terc picked up Broad-spectrum Antibiotics
+[6/26/2021 12:52:48 AM]
+  terc picked up Broad-spectrum Antibiotics
+[6/26/2021 12:52:48 AM]
+  terc picked up Broad-spectrum Antibiotics
+[6/26/2021 12:52:48 AM]
+  terc picked up Broad-spectrum Antibiotics
+[6/26/2021 12:52:49 AM]
+  Console command "spawnitem Pohmelin cursor" executed by tomacatx1.
+[6/26/2021 12:52:51 AM]
+  Console command "spawnitem Pohmelin cursor" executed by tomacatx1.
+[6/26/2021 12:52:51 AM]
+  terc placed 30mm-FC Clip in Large Steel Cabinet (ID: 297)
+[6/26/2021 12:52:51 AM]
+  terc placed 30mm-FC Clip in Large Steel Cabinet (ID: 297)
+[6/26/2021 12:52:51 AM]
+  Console command "spawnitem Pohmelin cursor" executed by tomacatx1.
+[6/26/2021 12:52:52 AM]
+  Console command "spawnitem Pohmelin cursor" executed by tomacatx1.
+[6/26/2021 12:52:52 AM]
+  Console command "spawnitem Pohmelin cursor" executed by tomacatx1.
+[6/26/2021 12:52:54 AM]
+  Ending round (no living players left)
+[6/26/2021 12:52:54 AM]
+  Ending the round...
+[6/26/2021 12:52:54 AM]
+  Round ended.
+[6/26/2021 12:53:04 AM]
+  tomacatx1: okay
+[6/26/2021 12:53:06 AM]
+  tomacatx1: everything works
+[6/26/2021 12:53:10 AM]
+  tomacatx1: surgery is actually engaging
+[6/26/2021 12:53:19 AM]
+  tomacatx1: and alcohol kills you when yo chug an entire bottle of vodka
+[6/26/2021 12:53:22 AM]
+  tomacatx1: thanks for the testing
+[6/26/2021 12:53:25 AM]
+  tomacatx1: hope to see u tomorrow
+[6/26/2021 12:53:26 AM]
+  Gamemode changed to Sandbox
+[6/26/2021 12:53:28 AM]
+  terc: that hammerhead thing looks awesome
+[6/26/2021 12:53:33 AM]
+  terc: is it viable in campaign
+[6/26/2021 12:53:35 AM]
+  tomacatx1: it will be fun in rounds
+[6/26/2021 12:53:37 AM]
+  terc: would it be actually practical
+[6/26/2021 12:53:39 AM]
+  tomacatx1: with a bigger crew : sure
+[6/26/2021 12:53:42 AM]
+  terc: alright
+[6/26/2021 12:53:47 AM]
+  terc: fun, cya
+[6/26/2021 12:53:48 AM]
+  terc has left the server. Reason: terc has disconnected.
+[6/26/2021 12:53:49 AM]
+  tomacatx1: its got a fab, guns, everything

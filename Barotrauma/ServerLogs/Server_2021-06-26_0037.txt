@@ -1,0 +1,38 @@
+﻿[6/26/2021 12:34:03 AM]
+  Starting the server...
+[6/26/2021 12:34:03 AM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[6/26/2021 12:34:07 AM]
+  Server started
+[6/26/2021 12:36:33 AM]
+  tomacatx1 has joined the server.
+[6/26/2021 12:36:33 AM]
+  Saving client permissions
+[6/26/2021 12:36:38 AM]
+  Gamemode changed to Campaign
+[6/26/2021 12:36:42 AM]
+  Starting a new round...
+[6/26/2021 12:36:46 AM]
+  Gamemode changed to Sandbox
+[6/26/2021 12:36:55 AM]
+  Game mode: Campaign
+[6/26/2021 12:36:55 AM]
+  Submarine: ECS. Hammerhead var A v1 re-5
+[6/26/2021 12:36:55 AM]
+  Level seed: 9KxilV4d
+[6/26/2021 12:36:55 AM]
+  Gamemode changed to Campaign
+[6/26/2021 12:36:56 AM]
+  Round started.
+[6/26/2021 12:36:56 AM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[6/26/2021 12:36:57 AM]
+  Ending round (no living players left)
+[6/26/2021 12:36:57 AM]
+  Ending the round...
+[6/26/2021 12:36:58 AM]
+  Round ended.
+[6/26/2021 12:37:01 AM]
+  Saving banlist
+[6/26/2021 12:37:01 AM]
+  Shutting down the server...

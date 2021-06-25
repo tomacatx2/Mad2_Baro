@@ -1,0 +1,8 @@
+﻿[6/26/2021 12:36:33 AM]
+  Saving client permissions
+[6/26/2021 12:36:39 AM]
+  Gamemode changed to Campaign
+[6/26/2021 12:36:42 AM]
+  Starting a new round...
+[6/26/2021 12:36:46 AM]
+  Gamemode changed to Sandbox

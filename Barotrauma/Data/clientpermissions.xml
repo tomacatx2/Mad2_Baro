@@ -590,5 +590,7 @@
       name="traitorlist" />
     <command
       name="control" />
+    <command
+      name="money" />
   </Client>
 </ClientPermissions>

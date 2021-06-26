@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <servers>
-  <ServerInfo ServerName="Server" ServerMessage="" IP="127.0.0.1" Port="27015" GameMode="" GameVersion="0.14.6.0" MaxPlayers="10" PlayStyle="Casual" UsingWhiteList="False" TraitorsEnabled="No" SubSelectionMode="Manual" ModeSelectionMode="Manual" VoipEnabled="True" KarmaEnabled="True" FriendlyFireEnabled="True" HasPassword="False" />
+  <ServerInfo ServerName="Server" ServerMessage="" IP="127.0.0.1" Port="27015" GameMode="" GameVersion="0.14.6.0" MaxPlayers="10" PlayStyle="Casual" UsingWhiteList="False" TraitorsEnabled="No" SubSelectionMode="Manual" ModeSelectionMode="Manual" VoipEnabled="True" KarmaEnabled="False" FriendlyFireEnabled="True" HasPassword="False" />
 </servers>

@@ -1,0 +1,1602 @@
+﻿[6/26/2021 11:09:47 PM]
+  terc dropped High-Velocity Ammunition Box
+[6/26/2021 11:09:56 PM]
+  noob placed Battery Assembly in Deconstructor (ID: 233)
+[6/26/2021 11:09:56 PM]
+  noob activated Deconstructor
+[6/26/2021 11:10:03 PM]
+  terc: alright
+[6/26/2021 11:10:08 PM]
+  noob picked up Battery Cell
+[6/26/2021 11:10:08 PM]
+  noob picked up Battery Cell
+[6/26/2021 11:10:08 PM]
+  noob picked up Battery Cell
+[6/26/2021 11:10:08 PM]
+  noob picked up Battery Cell
+[6/26/2021 11:10:09 PM]
+  superhands: i AM like a fucking buddha i have no posessions
+[6/26/2021 11:10:10 PM]
+  noob picked up Heavy Power Switch
+[6/26/2021 11:10:12 PM]
+  tomacatx1 dropped Rolling Cart
+[6/26/2021 11:10:12 PM]
+  terc: can we buy some weapon components
+[6/26/2021 11:10:17 PM]
+  terc: im gonna mass produce drum lmgs
+[6/26/2021 11:10:17 PM]
+  noob: no
+[6/26/2021 11:10:25 PM]
+  noob: lets deal with mass producing after we move
+[6/26/2021 11:10:26 PM]
+  Console command "spawnitem "Hand Truck" cursor" executed by tomacatx1.
+[6/26/2021 11:10:28 PM]
+  tomacatx1 equipped Hand Truck
+[6/26/2021 11:10:30 PM]
+  noob placed Battery Cell in Storage Container (ID: 2375)
+[6/26/2021 11:10:30 PM]
+  noob placed Battery Cell in Storage Container (ID: 2375)
+[6/26/2021 11:10:30 PM]
+  noob placed Battery Cell in Storage Container (ID: 2375)
+[6/26/2021 11:10:30 PM]
+  noob placed Battery Cell in Storage Container (ID: 2375)
+[6/26/2021 11:10:31 PM]
+  noob placed Heavy Power Switch in Storage Container (ID: 2375)
+[6/26/2021 11:10:34 PM]
+  terc: alright
+[6/26/2021 11:10:35 PM]
+  tomacatx1 picked up Oxygen Tank
+[6/26/2021 11:10:35 PM]
+  tomacatx1 picked up Oxygen Tank
+[6/26/2021 11:10:36 PM]
+  tomacatx1 picked up Oxygen Tank
+[6/26/2021 11:10:38 PM]
+  terc: ow
+[6/26/2021 11:10:38 PM]
+  tomacatx1 picked up Utility Mk-I Hardsuit
+[6/26/2021 11:10:39 PM]
+  tomacatx1 dropped Utility Mk-I Hardsuit
+[6/26/2021 11:10:41 PM]
+  tomacatx1 picked up Utility Mk-I Hardsuit
+[6/26/2021 11:10:43 PM]
+  terc: i broke my fuckin legs
+[6/26/2021 11:10:45 PM]
+  tomacatx1 picked up Oxygen Tank
+[6/26/2021 11:10:45 PM]
+  tomacatx1 dropped Oxygen Tank
+[6/26/2021 11:10:45 PM]
+  tomacatx1 placed Oxygen Tank in Utility Mk-I Hardsuit (ID: 1631)
+[6/26/2021 11:10:46 PM]
+  tomacatx1 dropped Hand Truck
+[6/26/2021 11:10:50 PM]
+  noob equipped Metal Crate
+[6/26/2021 11:10:50 PM]
+  noob picked up Metal Crate
+[6/26/2021 11:10:54 PM]
+  noob placed Adrenaline in Storage Container (ID: 1891)
+[6/26/2021 11:10:55 PM]
+  noob placed Metallic Foam Sprayer in Storage Container (ID: 2375)
+[6/26/2021 11:10:58 PM]
+  noob placed Metallic Foam Sprayer in Storage Container (ID: 2375)
+[6/26/2021 11:10:59 PM]
+  noob placed Welding Tool in Storage Container (ID: 1891)
+[6/26/2021 11:11:00 PM]
+  noob placed Flashlight in Storage Container (ID: 1891)
+[6/26/2021 11:11:03 PM]
+  tomacatx1 equipped Rolling Cart
+[6/26/2021 11:11:05 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:11:05 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:11:05 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:11:05 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:11:05 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:11:05 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:11:05 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:11:05 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:11:08 PM]
+  noob: this is like hoarders buried alive 
+[6/26/2021 11:11:11 PM]
+  noob dropped Metal Crate
+[6/26/2021 11:11:14 PM]
+  terc: paralympics
+[6/26/2021 11:11:15 PM]
+  noob picked up Metallic Foam Canister
+[6/26/2021 11:11:16 PM]
+  sylv picked up Fentanyl
+[6/26/2021 11:11:16 PM]
+  sylv picked up Fentanyl
+[6/26/2021 11:11:16 PM]
+  sylv picked up Fentanyl
+[6/26/2021 11:11:16 PM]
+  sylv picked up Fentanyl
+[6/26/2021 11:11:16 PM]
+  sylv picked up Fentanyl
+[6/26/2021 11:11:16 PM]
+  noob picked up Reinforced Welding Fuel Tank
+[6/26/2021 11:11:16 PM]
+  noob picked up Reinforced Welding Fuel Tank
+[6/26/2021 11:11:19 PM]
+  noob placed Reinforced Welding Fuel Tank in Storage Container (ID: 2154)
+[6/26/2021 11:11:19 PM]
+  noob placed Reinforced Welding Fuel Tank in Storage Container (ID: 2154)
+[6/26/2021 11:11:20 PM]
+  noob placed Metallic Foam Canister in Storage Container (ID: 2154)
+[6/26/2021 11:11:24 PM]
+  Lester: Barolympics
+[6/26/2021 11:11:30 PM]
+  noob: ok are we ready to move
+[6/26/2021 11:11:31 PM]
+  noob equipped Wrench
+[6/26/2021 11:11:34 PM]
+  superhands: ye
+[6/26/2021 11:11:41 PM]
+  noob unequipped Wrench
+[6/26/2021 11:11:41 PM]
+  noob equipped Material Storage Locker
+[6/26/2021 11:11:41 PM]
+  noob detached Material Storage Locker from a wall
+[6/26/2021 11:11:42 PM]
+  noob: we can make a second trip maybe
+[6/26/2021 11:11:44 PM]
+  sylv: how do i sell
+[6/26/2021 11:11:44 PM]
+  terc: ok!
+[6/26/2021 11:11:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:11:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:11:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:11:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:11:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:11:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:11:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:11:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:11:47 PM]
+  sylv placed Fentanyl in Medic Crate (ID: 1252)
+[6/26/2021 11:11:47 PM]
+  sylv placed Fentanyl in Medic Crate (ID: 1252)
+[6/26/2021 11:11:47 PM]
+  sylv placed Fentanyl in Medic Crate (ID: 1252)
+[6/26/2021 11:11:47 PM]
+  sylv placed Fentanyl in Medic Crate (ID: 1252)
+[6/26/2021 11:11:47 PM]
+  sylv placed Fentanyl in Medic Crate (ID: 1252)
+[6/26/2021 11:11:49 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:49 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:50 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:50 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:50 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:50 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:50 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:50 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:50 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:50 PM]
+  sylv placed Opium in Medic Crate (ID: 1252)
+[6/26/2021 11:11:58 PM]
+  terc: i cant pick them up 
+[6/26/2021 11:12:01 PM]
+  sylv: red shopping cart guy?
+[6/26/2021 11:12:01 PM]
+  terc: i dont have a wrench
+[6/26/2021 11:12:06 PM]
+  tomacatx1 placed Wrench in Material Storage Locker (ID: 1731)
+[6/26/2021 11:12:07 PM]
+  terc picked up Wrench
+[6/26/2021 11:12:07 PM]
+  terc picked up Wrench
+[6/26/2021 11:12:07 PM]
+  terc picked up Wrench
+[6/26/2021 11:12:07 PM]
+  terc equipped Wrench
+[6/26/2021 11:12:18 PM]
+  terc unequipped Wrench
+[6/26/2021 11:12:18 PM]
+  terc equipped Huge Railgun Shell Rack
+[6/26/2021 11:12:18 PM]
+  terc detached Huge Railgun Shell Rack from a wall
+[6/26/2021 11:12:23 PM]
+  noob: someone take the suit lockers off the walls and take them with u
+[6/26/2021 11:12:27 PM]
+  noob: if u arent carrying anything
+[6/26/2021 11:12:28 PM]
+  terc placed Wrench in Shelf (ID: 1674)
+[6/26/2021 11:12:28 PM]
+  terc placed Wrench in Shelf (ID: 1674)
+[6/26/2021 11:12:34 PM]
+  sylv: i see the box to sell but its greyed out
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:37 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:38 PM]
+  noob: we made 2 though
+[6/26/2021 11:12:38 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:38 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:38 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:38 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:38 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:38 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:38 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:38 PM]
+  sylv picked up Tobacco Bud
+[6/26/2021 11:12:43 PM]
+  noob: one for sylv and one for me
+[6/26/2021 11:12:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:46 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:47 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:47 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:47 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:47 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:47 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:47 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:47 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:47 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:48 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:48 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:48 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:48 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:48 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:48 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:48 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:12:48 PM]
+  sylv placed Tobacco Bud in Medic Crate (ID: 1252)
+[6/26/2021 11:13:03 PM]
+  noob: three
+[6/26/2021 11:13:08 PM]
+  pLeistras picked up Wrench
+[6/26/2021 11:13:10 PM]
+  pLeistras equipped Wrench
+[6/26/2021 11:13:17 PM]
+  terc placed Reinforced Oxygen Tank in Mining Backpack (ID: 4568)
+[6/26/2021 11:13:23 PM]
+  pLeistras unequipped Wrench
+[6/26/2021 11:13:23 PM]
+  pLeistras equipped Diving Suit Locker
+[6/26/2021 11:13:23 PM]
+  pLeistras detached Diving Suit Locker from a wall
+[6/26/2021 11:13:25 PM]
+  sylv: ill just dump the tobacco bc i cant take all 4 crates
+[6/26/2021 11:13:35 PM]
+  sylv dropped Medic Crate
+[6/26/2021 11:13:38 PM]
+  sylv picked up Medic Crate
+[6/26/2021 11:13:41 PM]
+  sylv removed Metal Crate from Climate-Controlled Crate Rack (ID: 2465)
+[6/26/2021 11:13:42 PM]
+  sylv placed Medic Crate in Climate-Controlled Crate Rack (ID: 2465)
+[6/26/2021 11:13:43 PM]
+  sylv: no
+[6/26/2021 11:13:47 PM]
+  sylv picked up Medic Crate
+[6/26/2021 11:13:48 PM]
+  noob: fail
+[6/26/2021 11:13:48 PM]
+  pLeistras dropped Diving Suit Locker
+[6/26/2021 11:13:50 PM]
+  sylv placed Medic Crate in Climate-Controlled Crate Rack (ID: 2465)
+[6/26/2021 11:13:53 PM]
+  pLeistras detached Diving Suit Locker from a wall
+[6/26/2021 11:13:57 PM]
+  sylv picked up Chemical Crate
+[6/26/2021 11:13:58 PM]
+  pLeistras dropped Diving Suit Locker
+[6/26/2021 11:14:00 PM]
+  pLeistras picked up Riot Shotgun
+[6/26/2021 11:14:00 PM]
+  sylv placed Chemical Crate in Climate-Controlled Crate Rack (ID: 2465)
+[6/26/2021 11:14:03 PM]
+  tomacatx1 placed Utility Mk-I Hardsuit in Diving Suit Locker (ID: 996)
+[6/26/2021 11:14:05 PM]
+  pLeistras detached Diving Suit Locker from a wall
+[6/26/2021 11:14:07 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:07 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:07 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:07 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:07 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:07 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:07 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:07 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:09 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:09 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:09 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:09 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:09 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:09 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:09 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:09 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:11 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:11 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:11 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:11 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:11 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:11 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:11 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:11 PM]
+  sylv placed Tobacco Bud in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:13 PM]
+  sylv placed Sulphuric Acid in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:13 PM]
+  sylv placed Sulphuric Acid in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:13 PM]
+  sylv placed Sulphuric Acid in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:13 PM]
+  sylv placed Sulphuric Acid in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:15 PM]
+  sylv placed Fentanyl in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:15 PM]
+  sylv placed Fentanyl in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:15 PM]
+  sylv placed Fentanyl in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:15 PM]
+  sylv placed Fentanyl in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:15 PM]
+  sylv placed Fentanyl in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:17 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:17 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:17 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:17 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:17 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:17 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:17 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:17 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:19 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:19 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:21 PM]
+  sylv dropped Medic Crate
+[6/26/2021 11:14:25 PM]
+  sylv dropped Medic Crate
+[6/26/2021 11:14:28 PM]
+  sylv picked up Elastin Plant
+[6/26/2021 11:14:28 PM]
+  sylv picked up Elastin Plant
+[6/26/2021 11:14:31 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:31 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:31 PM]
+  sylv placed Opium in Medical Backpack (ID: 4631)
+[6/26/2021 11:14:31 PM]
+  Devin Ram: I'd like to visit the surface some day.
+[6/26/2021 11:14:32 PM]
+  tomacatx1 dropped Oxygen Tank
+[6/26/2021 11:14:35 PM]
+  Denise Basnett: I had to go up there to do some maintenance on one of the observation stations a few years back.
+[6/26/2021 11:14:36 PM]
+  sylv picked up Small Planter Box
+[6/26/2021 11:14:38 PM]
+  sylv picked up Small Planter Box
+[6/26/2021 11:14:40 PM]
+  Denise Basnett: That really was something. You can't even imagine how big the sky is until you've seen it.
+[6/26/2021 11:14:45 PM]
+  Devin Ram: Sounds amazing. It's a shame it's so hard to get there nowadays. Unless you're swimming in credits I guess.
+[6/26/2021 11:14:49 PM]
+  sylv picked up Diving Suit
+[6/26/2021 11:14:51 PM]
+  sylv picked up Oxygen Tank
+[6/26/2021 11:14:52 PM]
+  sylv picked up Oxygen Tank
+[6/26/2021 11:14:52 PM]
+  sylv picked up Oxygen Tank
+[6/26/2021 11:14:52 PM]
+  noob: aasssssssssssssssssssssssssssssssssssssssssssss
+[6/26/2021 11:14:57 PM]
+  noob: no
+[6/26/2021 11:15:01 PM]
+  sylv placed Syringe Gun in Medical Backpack (ID: 4631)
+[6/26/2021 11:15:01 PM]
+  noob: y
+[6/26/2021 11:15:03 PM]
+  sylv placed Syringe Gun in Medical Backpack (ID: 4631)
+[6/26/2021 11:15:04 PM]
+  terc: what do i ASK MY DAD
+[6/26/2021 11:15:10 PM]
+  sylv picked up Oxygen Tank
+[6/26/2021 11:15:14 PM]
+  sylv picked up Bandage
+[6/26/2021 11:15:15 PM]
+  noob: i can make it from memory
+[6/26/2021 11:15:18 PM]
+  sylv removed Saline from Supplies Cabinet (ID: 663)
+[6/26/2021 11:15:21 PM]
+  sylv dropped Anaparalyzant
+[6/26/2021 11:15:21 PM]
+  sylv dropped Anaparalyzant
+[6/26/2021 11:15:23 PM]
+  terc: WHAT D O I ASKMY DAD
+[6/26/2021 11:15:24 PM]
+  noob: depends on the setting
+[6/26/2021 11:15:35 PM]
+  noob: either goes between -1, 1, pulses 1, or goes from 0 to 1
+[6/26/2021 11:15:37 PM]
+  sylv equipped Wrench
+[6/26/2021 11:15:47 PM]
+  terc placed Reinforced Oxygen Tank in Mining Backpack (ID: 4568)
+[6/26/2021 11:15:47 PM]
+  terc removed Oxygen Tank from Mining Backpack (ID: 4568)
+[6/26/2021 11:15:47 PM]
+  terc placed Oxygen Tank in Military Mk-II Hardsuit (ID: 1931)
+[6/26/2021 11:15:48 PM]
+  noob: its very useful
+[6/26/2021 11:15:50 PM]
+  sylv unequipped Wrench
+[6/26/2021 11:15:50 PM]
+  sylv detached Climate-Controlled Crate Rack from a wall
+[6/26/2021 11:15:53 PM]
+  noob: yes
+[6/26/2021 11:15:57 PM]
+  sylv: ready
+[6/26/2021 11:16:05 PM]
+  noob: or to make timers
+[6/26/2021 11:16:24 PM]
+  terc: 4
+[6/26/2021 11:16:28 PM]
+  sylv picked up Oxygen Tank
+[6/26/2021 11:16:28 PM]
+  sylv dropped Oxygen Tank
+[6/26/2021 11:16:28 PM]
+  sylv placed Oxygen Tank in Diving Suit (ID: 1193)
+[6/26/2021 11:16:34 PM]
+  noob: what
+[6/26/2021 11:16:38 PM]
+  terc: i asked my dad why hes a serb
+[6/26/2021 11:16:50 PM]
+  noob: he started doing rap god
+[6/26/2021 11:16:51 PM]
+  terc: i didnt hear
+[6/26/2021 11:16:52 PM]
+  Client "tomacatx1" ended the round.
+[6/26/2021 11:16:53 PM]
+  Ending the round...
+[6/26/2021 11:16:53 PM]
+  Round ended.
+[6/26/2021 11:16:55 PM]
+  Starting a new round...
+[6/26/2021 11:17:36 PM]
+  Mission: Activate beacon
+[6/26/2021 11:17:36 PM]
+  According to the onboard navigation system, there should be a run-down beacon station nearby. Getting it back online will make the passage easier for other vessels to traverse, and help colonies to spread further.
+[6/26/2021 11:17:36 PM]
+  Game mode: Campaign
+[6/26/2021 11:17:36 PM]
+  Submarine: ECS. Ordovicia V2 re-4
+[6/26/2021 11:17:36 PM]
+  Level seed: SontuAnid
+[6/26/2021 11:17:36 PM]
+  Mission: Activate beacon
+[6/26/2021 11:17:36 PM]
+  noob equipped Material Storage Locker
+[6/26/2021 11:17:36 PM]
+  tomacatx1 equipped Rolling Cart
+[6/26/2021 11:17:36 PM]
+  terc equipped Huge Railgun Shell Rack
+[6/26/2021 11:17:36 PM]
+  sylv equipped Climate-Controlled Crate Rack
+[6/26/2021 11:17:36 PM]
+  pLeistras equipped Diving Suit Locker
+[6/26/2021 11:17:36 PM]
+  Round started.
+[6/26/2021 11:17:36 PM]
+  The Unforgiven Funny Toilet Man set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:17:36 PM]
+  noob set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:17:37 PM]
+  The Unforgiven Funny Toilet Man placed Bandit Outfit in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:17:37 PM]
+  The Unforgiven Funny Toilet Man removed Medic's Fatigues from Large Steel Cabinet (ID: 296)
+[6/26/2021 11:17:37 PM]
+  The Unforgiven Funny Toilet Man picked up Medic's Fatigues
+[6/26/2021 11:17:38 PM]
+  noob: game almost CRASHED
+[6/26/2021 11:17:39 PM]
+  The Unforgiven Funny Toilet Man placed Tactical Backpack in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:17:39 PM]
+  The Unforgiven Funny Toilet Man removed Medical Backpack from Large Steel Cabinet (ID: 296)
+[6/26/2021 11:17:39 PM]
+  The Unforgiven Funny Toilet Man picked up Medical Backpack
+[6/26/2021 11:17:42 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:17:43 PM]
+  The Unforgiven Funny Toilet Man equipped Tactical Backpack
+[6/26/2021 11:17:43 PM]
+  The Unforgiven Funny Toilet Man picked up Tactical Backpack
+[6/26/2021 11:17:48 PM]
+  pLeistras set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:17:48 PM]
+  noob attached Material Storage Locker to a wall
+[6/26/2021 11:17:51 PM]
+  The Unforgiven Funny Toilet Man placed Tactical Backpack in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:17:52 PM]
+  Lester: I'll set the course onwards!
+[6/26/2021 11:17:53 PM]
+  pLeistras dropped Military Mk-II Hardsuit
+[6/26/2021 11:17:53 PM]
+  tomacatx1: I'll set the course onwards!
+[6/26/2021 11:17:58 PM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:17:59 PM]
+  noob adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[6/26/2021 11:18:01 PM]
+  pLeistras picked up Military Mk-II Hardsuit
+[6/26/2021 11:18:02 PM]
+  noob: power time
+[6/26/2021 11:18:04 PM]
+  pLeistras placed Reinforced Oxygen Tank in Tactical Backpack (ID: 8088)
+[6/26/2021 11:18:04 PM]
+  pLeistras removed Oxygen Tank from Tactical Backpack (ID: 8088)
+[6/26/2021 11:18:04 PM]
+  pLeistras placed Oxygen Tank in Military Mk-II Hardsuit (ID: 8083)
+[6/26/2021 11:18:10 PM]
+  Ending the round...
+[6/26/2021 11:18:10 PM]
+  Round ended.
+[6/26/2021 11:18:12 PM]
+  Starting a new round...
+[6/26/2021 11:18:43 PM]
+  Game mode: Campaign
+[6/26/2021 11:18:43 PM]
+  Submarine: ECS. Ordovicia V2 re-4
+[6/26/2021 11:18:43 PM]
+  Level seed: Anid
+[6/26/2021 11:18:43 PM]
+  Franklin Hallett equipped Wrench
+[6/26/2021 11:18:43 PM]
+  Franklin Hallett unequipped Wrench
+[6/26/2021 11:18:43 PM]
+  Franklin Hallett equipped Screwdriver
+[6/26/2021 11:18:43 PM]
+  Jaime Cork equipped Wrench
+[6/26/2021 11:18:43 PM]
+  Jaime Cork unequipped Wrench
+[6/26/2021 11:18:43 PM]
+  Jaime Cork equipped Screwdriver
+[6/26/2021 11:18:43 PM]
+  Sophie Lawson equipped Wrench
+[6/26/2021 11:18:43 PM]
+  Sophie Lawson unequipped Wrench
+[6/26/2021 11:18:43 PM]
+  Sophie Lawson equipped Screwdriver
+[6/26/2021 11:18:43 PM]
+  Eugenia Rios equipped Wrench
+[6/26/2021 11:18:43 PM]
+  Eugenia Rios unequipped Wrench
+[6/26/2021 11:18:43 PM]
+  Eugenia Rios equipped Screwdriver
+[6/26/2021 11:18:43 PM]
+  Eugenia Rios unequipped Screwdriver
+[6/26/2021 11:18:43 PM]
+  Eugenia Rios equipped Crowbar
+[6/26/2021 11:18:43 PM]
+  Ethel Heuer equipped Wrench
+[6/26/2021 11:18:43 PM]
+  Ethel Heuer unequipped Wrench
+[6/26/2021 11:18:43 PM]
+  Ethel Heuer equipped Screwdriver
+[6/26/2021 11:18:44 PM]
+  Erich Jack equipped Wrench
+[6/26/2021 11:18:44 PM]
+  Lauren Hefner equipped Wrench
+[6/26/2021 11:18:44 PM]
+  Alton Basnett equipped Wrench
+[6/26/2021 11:18:44 PM]
+  tomacatx1 equipped Rolling Cart
+[6/26/2021 11:18:44 PM]
+  terc equipped Huge Railgun Shell Rack
+[6/26/2021 11:18:44 PM]
+  sylv equipped Climate-Controlled Crate Rack
+[6/26/2021 11:18:44 PM]
+  pLeistras equipped Diving Suit Locker
+[6/26/2021 11:18:44 PM]
+  Round started.
+[6/26/2021 11:18:44 PM]
+  Rosina Berner equipped Screwdriver
+[6/26/2021 11:18:44 PM]
+  Erich Jack unequipped Wrench
+[6/26/2021 11:18:45 PM]
+  Rosina Berner unequipped Screwdriver
+[6/26/2021 11:18:45 PM]
+  Alton Basnett unequipped Wrench
+[6/26/2021 11:18:45 PM]
+  Lauren Hefner unequipped Wrench
+[6/26/2021 11:18:45 PM]
+  Franklin Hallett unequipped Screwdriver
+[6/26/2021 11:18:45 PM]
+  Eugenia Rios unequipped Crowbar
+[6/26/2021 11:18:45 PM]
+  Alton Basnett: Hi there!
+[6/26/2021 11:18:45 PM]
+  The Unforgiven Funny Toilet Man set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:18:47 PM]
+  noob set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:18:49 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:18:52 PM]
+  pLeistras set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:18:59 PM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:19:00 PM]
+  sylv set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:19:03 PM]
+  pLeistras dropped Diving Suit Locker
+[6/26/2021 11:19:04 PM]
+  tomacatx1 dropped Rolling Cart
+[6/26/2021 11:19:05 PM]
+  The Unforgiven Funny Toilet Man placed Medic's Fatigues in Cabinets (ID: 1271)
+[6/26/2021 11:19:05 PM]
+  The Unforgiven Funny Toilet Man removed VIP Outfit from Cabinets (ID: 1271)
+[6/26/2021 11:19:05 PM]
+  The Unforgiven Funny Toilet Man picked up VIP Outfit
+[6/26/2021 11:19:05 PM]
+  pLeistras detached Diving Suit Locker from a wall
+[6/26/2021 11:19:08 PM]
+  pLeistras dropped Diving Suit Locker
+[6/26/2021 11:19:10 PM]
+  The Unforgiven Funny Toilet Man placed Mercenary Combat Armor in Medium Steel Cabinet (ID: 189)
+[6/26/2021 11:19:11 PM]
+  noob equipped Screwdriver
+[6/26/2021 11:19:11 PM]
+  noob equipped Wrench
+[6/26/2021 11:19:12 PM]
+  tomacatx1 equipped Diving Suit Locker
+[6/26/2021 11:19:12 PM]
+  tomacatx1 detached Diving Suit Locker from a wall
+[6/26/2021 11:19:22 PM]
+  noob: the locker of everything is upstairs
+[6/26/2021 11:19:23 PM]
+  Ethel Heuer: The Jupiter's Ascent parade will be soon!
+[6/26/2021 11:19:24 PM]
+  pLeistras placed Oxygen Tank in Oxygen Tank Shelf (ID: 1653)
+[6/26/2021 11:19:24 PM]
+  pLeistras removed Reinforced Oxygen Tank from Oxygen Tank Shelf (ID: 1653)
+[6/26/2021 11:19:27 PM]
+  pLeistras picked up Reinforced Oxygen Tank
+[6/26/2021 11:19:28 PM]
+  tomacatx1 attached Diving Suit Locker to a wall
+[6/26/2021 11:19:28 PM]
+  pLeistras picked up Reinforced Oxygen Tank
+[6/26/2021 11:19:30 PM]
+  pLeistras placed Reinforced Oxygen Tank in Military Mk-II Hardsuit (ID: 5047)
+[6/26/2021 11:19:31 PM]
+  The Unforgiven Funny Toilet Man placed Laser Bore in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:19:31 PM]
+  The Unforgiven Funny Toilet Man removed Medical Scanner from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:19:31 PM]
+  The Unforgiven Funny Toilet Man picked up Medical Scanner
+[6/26/2021 11:19:32 PM]
+  noob: awesome
+[6/26/2021 11:19:32 PM]
+  The Unforgiven Funny Toilet Man placed Laser Bore in Medical Backpack (ID: 4578)
+[6/26/2021 11:19:33 PM]
+  The Unforgiven Funny Toilet Man equipped Medical Scanner
+[6/26/2021 11:19:36 PM]
+  tomacatx1 equipped Storage Container
+[6/26/2021 11:19:36 PM]
+  tomacatx1 picked up Storage Container
+[6/26/2021 11:19:39 PM]
+  The Unforgiven Funny Toilet Man placed Health Scanner HUD in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:19:42 PM]
+  noob equipped Storage Container
+[6/26/2021 11:19:42 PM]
+  noob picked up Storage Container
+[6/26/2021 11:19:44 PM]
+  noob placed Storage Container in Material Storage Locker (ID: 2083)
+[6/26/2021 11:19:45 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:19:46 PM]
+  sylv: oh its just the same sub but slightly different shit
+[6/26/2021 11:19:48 PM]
+  pLeistras placed Reinforced Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:19:49 PM]
+  The Unforgiven Funny Toilet Man picked up Flower Crown
+[6/26/2021 11:19:50 PM]
+  noob: yep
+[6/26/2021 11:19:53 PM]
+  The Unforgiven Funny Toilet Man placed Flower Crown in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:19:55 PM]
+  pLeistras placed Marine SMG in Large Steel Cabinet (ID: 215)
+[6/26/2021 11:19:59 PM]
+  pLeistras dropped Military Mk-II Hardsuit
+[6/26/2021 11:20:00 PM]
+  The Unforgiven Funny Toilet Man picked up Rocketeer Helmet
+[6/26/2021 11:20:08 PM]
+  The Unforgiven Funny Toilet Man picked up Shearclaw Armor
+[6/26/2021 11:20:10 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:11 PM]
+  tomacatx1 placed Rubber in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:11 PM]
+  tomacatx1 placed Rubber in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:11 PM]
+  tomacatx1 placed Rubber in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:11 PM]
+  terc: i cant place it down
+[6/26/2021 11:20:11 PM]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:12 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:12 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:12 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:12 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:12 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:12 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:12 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:12 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:13 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:13 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:13 PM]
+  tomacatx1 placed Aluminum in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:14 PM]
+  tomacatx1 placed Copper in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:14 PM]
+  tomacatx1 placed Copper in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:14 PM]
+  tomacatx1 placed Copper in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:14 PM]
+  tomacatx1 placed Copper in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:14 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:15 PM]
+  tomacatx1 placed Uranium in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:15 PM]
+  tomacatx1 placed Uranium in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:15 PM]
+  tomacatx1 placed Uranium in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:15 PM]
+  tomacatx1 placed Uranium in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:15 PM]
+  tomacatx1 placed Uranium in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:15 PM]
+  tomacatx1 placed Uranium in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:17 PM]
+  tomacatx1 dropped Storage Container
+[6/26/2021 11:20:18 PM]
+  terc: TOMAAA
+[6/26/2021 11:20:21 PM]
+  terc: I LITERALLY CANT PLACE IT DOWN
+[6/26/2021 11:20:24 PM]
+  The Unforgiven Funny Toilet Man placed Rocketeer Helmet in Toxin Cabinet (ID: 1347)
+[6/26/2021 11:20:24 PM]
+  The Unforgiven Funny Toilet Man removed Shearclaw Helmet from Toxin Cabinet (ID: 1347)
+[6/26/2021 11:20:24 PM]
+  The Unforgiven Funny Toilet Man picked up Shearclaw Helmet
+[6/26/2021 11:20:26 PM]
+  noob: aim and press e
+[6/26/2021 11:20:27 PM]
+  tomacatx1 placed Storage Container in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:27 PM]
+  tomacatx1 removed Phosphorus from Large Steel Cabinet (ID: 234)
+[6/26/2021 11:20:27 PM]
+  tomacatx1 equipped Phosphorus
+[6/26/2021 11:20:27 PM]
+  tomacatx1 picked up Phosphorus
+[6/26/2021 11:20:28 PM]
+  tomacatx1 picked up Green Paint
+[6/26/2021 11:20:28 PM]
+  tomacatx1 picked up Green Paint
+[6/26/2021 11:20:29 PM]
+  tomacatx1 picked up Black Paint
+[6/26/2021 11:20:29 PM]
+  tomacatx1 picked up Black Paint
+[6/26/2021 11:20:30 PM]
+  sylv attached Climate-Controlled Crate Rack to a wall
+[6/26/2021 11:20:32 PM]
+  pLeistras picked up Kevlar Helmet with Mask
+[6/26/2021 11:20:35 PM]
+  pLeistras placed Marine Helmet in Large Steel Cabinet (ID: 215)
+[6/26/2021 11:20:45 PM]
+  pLeistras placed Marine Combat Armor in Large Steel Cabinet (ID: 215)
+[6/26/2021 11:20:46 PM]
+  noob equipped Storage Container
+[6/26/2021 11:20:46 PM]
+  noob picked up Storage Container
+[6/26/2021 11:20:47 PM]
+  pLeistras picked up Marine Combat Armor
+[6/26/2021 11:20:48 PM]
+  The Unforgiven Funny Toilet Man placed Medical Backpack in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:20:50 PM]
+  sylv picked up Slime Bacteria
+[6/26/2021 11:20:50 PM]
+  sylv picked up Slime Bacteria
+[6/26/2021 11:20:50 PM]
+  sylv dropped Small Planter Box
+[6/26/2021 11:20:50 PM]
+  sylv placed Small Planter Box in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:20:52 PM]
+  superhands: my bag is in here
+[6/26/2021 11:20:52 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 11:20:52 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 11:20:52 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 11:20:52 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 11:20:52 PM]
+  sylv dropped Small Planter Box
+[6/26/2021 11:20:52 PM]
+  sylv placed Small Planter Box in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:20:53 PM]
+  terc: ok well
+[6/26/2021 11:20:54 PM]
+  superhands: no steal pls
+[6/26/2021 11:20:56 PM]
+  pLeistras placed C-4 Block in Large Steel Cabinet (ID: 215)
+[6/26/2021 11:20:56 PM]
+  pLeistras placed C-4 Block in Large Steel Cabinet (ID: 215)
+[6/26/2021 11:20:56 PM]
+  noob: no more mini descontructor
+[6/26/2021 11:20:58 PM]
+  terc: theres no railgun on the ship
+[6/26/2021 11:21:03 PM]
+  sylv placed Slime Bacteria in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:21:03 PM]
+  sylv placed Slime Bacteria in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:21:05 PM]
+  pLeistras placed Riot Shotgun in Secure Steel Cabinet (ID: 182)
+[6/26/2021 11:21:06 PM]
+  sylv placed Aquatic Poppy in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:21:06 PM]
+  sylv placed Aquatic Poppy in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:21:06 PM]
+  sylv placed Aquatic Poppy in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:21:06 PM]
+  sylv placed Aquatic Poppy in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:21:06 PM]
+  pLeistras placed Riot Shotgun in Secure Steel Cabinet (ID: 182)
+[6/26/2021 11:21:08 PM]
+  terc: thats a 
+[6/26/2021 11:21:12 PM]
+  pLeistras placed Riot Shotgun in Large Steel Cabinet (ID: 215)
+[6/26/2021 11:21:12 PM]
+  noob started fabricating Material Storage Locker in Fabricator
+[6/26/2021 11:21:13 PM]
+  terc: oh.
+[6/26/2021 11:21:14 PM]
+  sylv placed Elastin Plant in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:21:14 PM]
+  sylv placed Elastin Plant in Large Steel Cabinet (ID: 296)
+[6/26/2021 11:21:15 PM]
+  pLeistras picked up Screwdriver
+[6/26/2021 11:21:15 PM]
+  The Unforgiven Funny Toilet Man placed VIP Outfit in Cabinets (ID: 1271)
+[6/26/2021 11:21:15 PM]
+  The Unforgiven Funny Toilet Man removed VIP Outfit from Cabinets (ID: 1271)
+[6/26/2021 11:21:15 PM]
+  The Unforgiven Funny Toilet Man picked up VIP Outfit
+[6/26/2021 11:21:17 PM]
+  noob: get out of your fursuit
+[6/26/2021 11:21:17 PM]
+  pLeistras picked up Reinforced Oxygen Tank
+[6/26/2021 11:21:19 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:21:20 PM]
+  noob: black as fuck
+[6/26/2021 11:21:21 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:21:23 PM]
+  noob dropped Storage Container
+[6/26/2021 11:21:23 PM]
+  terc: ok a little retarded
+[6/26/2021 11:21:25 PM]
+  noob equipped Material Storage Locker
+[6/26/2021 11:21:25 PM]
+  noob picked up Material Storage Locker
+[6/26/2021 11:21:27 PM]
+  terc attached Huge Railgun Shell Rack to a wall
+[6/26/2021 11:21:27 PM]
+  sylv equipped Chemical Crate
+[6/26/2021 11:21:27 PM]
+  sylv picked up Chemical Crate
+[6/26/2021 11:21:32 PM]
+  sylv placed Calcium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:32 PM]
+  sylv placed Calcium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:32 PM]
+  sylv placed Calcium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:32 PM]
+  sylv placed Calcium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:34 PM]
+  sylv placed Sodium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:34 PM]
+  sylv placed Sodium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:34 PM]
+  sylv placed Sodium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:34 PM]
+  The Unforgiven Funny Toilet Man placed Shearclaw Helmet in Supplies Cabinet (ID: 668)
+[6/26/2021 11:21:34 PM]
+  The Unforgiven Funny Toilet Man removed Jester Mask from Supplies Cabinet (ID: 668)
+[6/26/2021 11:21:34 PM]
+  The Unforgiven Funny Toilet Man picked up Jester Mask
+[6/26/2021 11:21:35 PM]
+  sylv placed Potassium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:36 PM]
+  sylv placed Lithium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:36 PM]
+  sylv placed Lithium in Chemical Crate (ID: 4866)
+[6/26/2021 11:21:37 PM]
+  noob attached Material Storage Locker to a wall
+[6/26/2021 11:21:37 PM]
+  terc equipped Wrench
+[6/26/2021 11:21:38 PM]
+  The Unforgiven Funny Toilet Man placed Jester Mask in Supplies Cabinet (ID: 668)
+[6/26/2021 11:21:38 PM]
+  The Unforgiven Funny Toilet Man removed Shearclaw Helmet from Supplies Cabinet (ID: 668)
+[6/26/2021 11:21:38 PM]
+  The Unforgiven Funny Toilet Man picked up Shearclaw Helmet
+[6/26/2021 11:21:41 PM]
+  Console command "spawnitem "Material Storage Locker" inventory" executed by tomacatx1.
+[6/26/2021 11:21:41 PM]
+  tomacatx1 equipped Material Storage Locker
+[6/26/2021 11:21:42 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:21:42 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:21:43 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:21:44 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:21:45 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:21:45 PM]
+  sylv placed Chemical Crate in Climate-Controlled Crate Rack (ID: 4788)
+[6/26/2021 11:21:45 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:21:47 PM]
+  tomacatx1 attached Material Storage Locker to a wall
+[6/26/2021 11:21:48 PM]
+  terc unequipped Wrench
+[6/26/2021 11:21:48 PM]
+  terc detached Huge Railgun Shell Rack from a wall
+[6/26/2021 11:21:49 PM]
+  sylv equipped Medic Crate
+[6/26/2021 11:21:49 PM]
+  sylv picked up Medic Crate
+[6/26/2021 11:21:52 PM]
+  tomacatx1 placed Phosphorus in Material Storage Locker (ID: 1003)
+[6/26/2021 11:21:52 PM]
+  terc: what the fuck
+[6/26/2021 11:21:54 PM]
+  noob: dude UPSTAIRS FABRICATOR
+[6/26/2021 11:21:57 PM]
+  noob: welcome to the new age
+[6/26/2021 11:21:59 PM]
+  terc: that was a surprise
+[6/26/2021 11:22:03 PM]
+  noob: time to craft a deconstructor to go with it
+[6/26/2021 11:22:09 PM]
+  noob: it is
+[6/26/2021 11:22:10 PM]
+  terc attached Huge Railgun Shell Rack to a wall
+[6/26/2021 11:22:14 PM]
+  noob: i did it on my test sub
+[6/26/2021 11:22:15 PM]
+  tomacatx1 placed Black Paint in Material Storage Locker (ID: 5108)
+[6/26/2021 11:22:15 PM]
+  tomacatx1 placed Black Paint in Material Storage Locker (ID: 5108)
+[6/26/2021 11:22:16 PM]
+  tomacatx1 placed Green Paint in Material Storage Locker (ID: 5108)
+[6/26/2021 11:22:16 PM]
+  tomacatx1 placed Green Paint in Material Storage Locker (ID: 5108)
+[6/26/2021 11:22:17 PM]
+  terc equipped 'Beast' SSL (Flashlight)
+[6/26/2021 11:22:18 PM]
+  sylv: crying rn
+[6/26/2021 11:22:18 PM]
+  noob placed Storage Container in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:19 PM]
+  pLeistras placed Oxygen Tank in Oxygen Generator (ID: 891)
+[6/26/2021 11:22:19 PM]
+  noob equipped Wrench
+[6/26/2021 11:22:20 PM]
+  pLeistras placed Oxygen Tank in Oxygen Generator (ID: 891)
+[6/26/2021 11:22:20 PM]
+  tomacatx1 equipped Storage Container
+[6/26/2021 11:22:20 PM]
+  tomacatx1 picked up Storage Container
+[6/26/2021 11:22:20 PM]
+  pLeistras placed Oxygen Tank in Oxygen Generator (ID: 891)
+[6/26/2021 11:22:21 PM]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:21 PM]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:21 PM]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:21 PM]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:21 PM]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:21 PM]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:21 PM]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:21 PM]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 2083)
+[6/26/2021 11:22:21 PM]
+  pLeistras placed Reinforced Oxygen Tank in Oxygen Generator (ID: 891)
+[6/26/2021 11:22:23 PM]
+  tomacatx1 picked up Carbon
+[6/26/2021 11:22:23 PM]
+  tomacatx1 picked up Carbon
+[6/26/2021 11:22:23 PM]
+  tomacatx1 picked up Carbon
+[6/26/2021 11:22:23 PM]
+  tomacatx1 picked up Carbon
+[6/26/2021 11:22:23 PM]
+  tomacatx1 picked up Carbon
+[6/26/2021 11:22:23 PM]
+  tomacatx1 picked up Carbon
+[6/26/2021 11:22:23 PM]
+  tomacatx1 picked up Carbon
+[6/26/2021 11:22:23 PM]
+  tomacatx1 picked up Carbon
+[6/26/2021 11:22:23 PM]
+  noob: ek utilities is a big win
+[6/26/2021 11:22:24 PM]
+  sylv: i have to sort my shit again
+[6/26/2021 11:22:24 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:24 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:24 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:24 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:24 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:24 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:24 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:24 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:25 PM]
+  tomacatx1 picked up Plastic
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Iron
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Rubber
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Rubber
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Rubber
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Rubber
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Rubber
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Rubber
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Rubber
+[6/26/2021 11:22:26 PM]
+  tomacatx1 picked up Rubber
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:27 PM]
+  tomacatx1 picked up Tin
+[6/26/2021 11:22:30 PM]
+  pLeistras picked up Diving Mask
+[6/26/2021 11:22:30 PM]
+  The Unforgiven Funny Toilet Man placed VIP Outfit in Cabinets (ID: 1271)
+[6/26/2021 11:22:30 PM]
+  The Unforgiven Funny Toilet Man removed VIP Outfit from Cabinets (ID: 1271)
+[6/26/2021 11:22:30 PM]
+  The Unforgiven Funny Toilet Man picked up VIP Outfit
+[6/26/2021 11:22:32 PM]
+  pLeistras placed Diving Mask in Tactical Backpack (ID: 5052)
+[6/26/2021 11:22:35 PM]
+  noob: i can also craft my own sonar monitor
+[6/26/2021 11:22:35 PM]
+  noob unequipped Wrench
+[6/26/2021 11:22:35 PM]
+  noob detached Material Storage Locker from a wall
+[6/26/2021 11:22:35 PM]
+  sylv dropped Diving Suit
+[6/26/2021 11:22:36 PM]
+  pLeistras picked up Diving Mask
+[6/26/2021 11:22:37 PM]
+  noob dropped Material Storage Locker
+[6/26/2021 11:22:40 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:22:42 PM]
+  terc placed Ballistic Helmet in Large Steel Cabinet (ID: 215)
+[6/26/2021 11:22:42 PM]
+  terc removed Marine Helmet from Large Steel Cabinet (ID: 215)
+[6/26/2021 11:22:45 PM]
+  pLeistras placed Diving Mask in Tactical Backpack (ID: 5052)
+[6/26/2021 11:22:47 PM]
+  pLeistras removed Diving Mask from Tactical Backpack (ID: 5052)
+[6/26/2021 11:22:48 PM]
+  sylv placed Anabolic Steroids in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:48 PM]
+  sylv placed Anabolic Steroids in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:48 PM]
+  sylv placed Anabolic Steroids in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:48 PM]
+  noob unequipped Wrench
+[6/26/2021 11:22:48 PM]
+  noob equipped Material Storage Locker
+[6/26/2021 11:22:48 PM]
+  noob detached Material Storage Locker from a wall
+[6/26/2021 11:22:50 PM]
+  sylv placed Stabilozine in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:50 PM]
+  sylv placed Stabilozine in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:50 PM]
+  sylv placed Stabilozine in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:50 PM]
+  terc picked up Marine Helmet
+[6/26/2021 11:22:50 PM]
+  tomacatx1 placed Storage Container in Large Steel Cabinet (ID: 215)
+[6/26/2021 11:22:53 PM]
+  pLeistras picked up Diving Mask
+[6/26/2021 11:22:54 PM]
+  noob attached Material Storage Locker to a wall
+[6/26/2021 11:22:55 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:55 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:55 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:55 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:55 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:55 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:55 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:55 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:56 PM]
+  The Unforgiven Funny Toilet Man placed Shearclaw Helmet in Toxin Cabinet (ID: 1347)
+[6/26/2021 11:22:56 PM]
+  pLeistras placed Diving Mask in Trash Can (ID: 1792)
+[6/26/2021 11:22:57 PM]
+  The Unforgiven Funny Toilet Man placed Shearclaw Armor in Toxin Cabinet (ID: 1347)
+[6/26/2021 11:22:58 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:58 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:58 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:58 PM]
+  sylv placed Broad-spectrum Antibiotics in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:22:58 PM]
+  noob equipped Wrench
+[6/26/2021 11:22:58 PM]
+  noob detached Material Storage Locker from a wall
+[6/26/2021 11:22:58 PM]
+  tomacatx1 dropped Rolling Cart
+[6/26/2021 11:22:59 PM]
+  The Unforgiven Funny Toilet Man picked up Rocketeer Helmet
+[6/26/2021 11:23:00 PM]
+  terc removed Diving Suit from Diving Suit Locker (ID: 1212)
+[6/26/2021 11:23:01 PM]
+  noob attached Material Storage Locker to a wall
+[6/26/2021 11:23:01 PM]
+  terc placed Military Mk-II Hardsuit in Diving Suit Locker (ID: 1212)
+[6/26/2021 11:23:01 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:23:02 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:23:02 PM]
+  noob equipped Wrench
+[6/26/2021 11:23:05 PM]
+  terc picked up Military Mk-II Hardsuit
+[6/26/2021 11:23:06 PM]
+  pLeistras placed Oxygen Tank in Oxygen Generator (ID: 891)
+[6/26/2021 11:23:08 PM]
+  sylv placed Blood Pack in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:08 PM]
+  sylv placed Blood Pack in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:08 PM]
+  sylv placed Blood Pack in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:08 PM]
+  sylv placed Blood Pack in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:08 PM]
+  sylv placed Blood Pack in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:08 PM]
+  terc removed Diving Suit from Diving Suit Locker (ID: 1205)
+[6/26/2021 11:23:09 PM]
+  terc placed Military Mk-II Hardsuit in Diving Suit Locker (ID: 1205)
+[6/26/2021 11:23:10 PM]
+  sylv placed Morphine in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:10 PM]
+  sylv placed Morphine in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:10 PM]
+  sylv placed Morphine in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:10 PM]
+  sylv placed Morphine in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:10 PM]
+  sylv placed Morphine in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:10 PM]
+  sylv placed Morphine in Medic's Fatigues (ID: 4779)
+[6/26/2021 11:23:11 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:23:12 PM]
+  pLeistras picked up Oxygen Tank
+[6/26/2021 11:23:12 PM]
+  sylv picked up Plastiseal
+[6/26/2021 11:23:12 PM]
+  sylv picked up Plastiseal
+[6/26/2021 11:23:12 PM]
+  sylv picked up Plastiseal
+[6/26/2021 11:23:12 PM]
+  sylv picked up Plastiseal
+[6/26/2021 11:23:12 PM]
+  sylv picked up Plastiseal
+[6/26/2021 11:23:12 PM]
+  sylv picked up Plastiseal
+[6/26/2021 11:23:13 PM]
+  terc equipped Rolling Cart
+[6/26/2021 11:23:15 PM]
+  pLeistras placed Reinforced Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:16 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:16 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:16 PM]
+  noob unequipped Wrench
+[6/26/2021 11:23:16 PM]
+  noob detached Material Storage Locker from a wall
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:17 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:18 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:18 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:18 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:18 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:18 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:18 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:18 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:18 PM]
+  pLeistras placed Oxygen Tank in Tactical Backpack (ID: 5052)
+[6/26/2021 11:23:18 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:18 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:18 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:18 PM]
+  sylv removed Broad-spectrum Antibiotics from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:19 PM]
+  pLeistras placed Oxygen Tank in Oxygen Generator (ID: 891)
+[6/26/2021 11:23:20 PM]
+  sylv removed Antirad from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:20 PM]
+  sylv removed Antirad from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:20 PM]
+  sylv removed Deliriumine Antidote from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:22 PM]
+  pLeistras placed Oxygen Tank in Oxygen Generator (ID: 891)
+[6/26/2021 11:23:22 PM]
+  sylv placed Cyanide Antidote in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:22 PM]
+  sylv placed Cyanide Antidote in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:22 PM]
+  sylv placed Cyanide Antidote in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:23 PM]
+  noob attached Material Storage Locker to a wall
+[6/26/2021 11:23:23 PM]
+  sylv placed Medical Scanner in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:25 PM]
+  sylv placed Anabolic Steroids in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:25 PM]
+  sylv placed Anabolic Steroids in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:25 PM]
+  sylv placed Anabolic Steroids in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:25 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:25 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:25 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:25 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:25 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:25 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:25 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:25 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:26 PM]
+  sylv placed Stabilozine in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:26 PM]
+  sylv placed Stabilozine in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:26 PM]
+  sylv placed Stabilozine in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:27 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:27 PM]
+  tomacatx1 placed Iron in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:28 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:28 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  tomacatx1 placed Plastic in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:29 PM]
+  sylv placed Anabolic Steroids in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:29 PM]
+  sylv placed Anabolic Steroids in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:29 PM]
+  sylv placed Anabolic Steroids in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:29 PM]
+  sylv placed Anabolic Steroids in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:29 PM]
+  sylv placed Anabolic Steroids in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:30 PM]
+  sylv placed Antibiotic Glue in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:30 PM]
+  sylv placed Antibiotic Glue in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:30 PM]
+  sylv placed Antibiotic Glue in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:30 PM]
+  sylv placed Antibiotic Glue in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:30 PM]
+  sylv placed Antibiotic Glue in Medical Backpack (ID: 1767)
+[6/26/2021 11:23:32 PM]
+  sylv removed Medical Backpack from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:32 PM]
+  tomacatx1 picked up Seed Bag
+[6/26/2021 11:23:34 PM]
+  sylv removed Crate of Blood Packs from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:34 PM]
+  noob unequipped Wrench
+[6/26/2021 11:23:34 PM]
+  noob equipped Diving Suit Locker
+[6/26/2021 11:23:34 PM]
+  noob detached Diving Suit Locker from a wall
+[6/26/2021 11:23:35 PM]
+  sylv removed Crate of Bandages from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:35 PM]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:35 PM]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:35 PM]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:35 PM]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:35 PM]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:35 PM]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:35 PM]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:35 PM]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 234)
+[6/26/2021 11:23:36 PM]
+  sylv removed Crate of Opium from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:36 PM]
+  tomacatx1 picked up Blue Paint
+[6/26/2021 11:23:36 PM]
+  tomacatx1 picked up Blue Paint
+[6/26/2021 11:23:37 PM]
+  noob attached Diving Suit Locker to a wall
+[6/26/2021 11:23:37 PM]
+  sylv removed Medical Backpack from Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:38 PM]
+  terc dropped Rolling Cart
+[6/26/2021 11:23:39 PM]
+  sylv placed Anaparalyzant in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:39 PM]
+  sylv placed Anaparalyzant in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:41 PM]
+  terc dropped Rolling Cart
+[6/26/2021 11:23:42 PM]
+  sylv placed Fentanyl in Large Steel Cabinet (ID: 297)
+[6/26/2021 11:23:46 PM]
+  tomacatx1 picked up Aluminum
+[6/26/2021 11:23:46 PM]
+  tomacatx1 picked up Aluminum
+[6/26/2021 11:23:46 PM]
+  tomacatx1 picked up Aluminum
+[6/26/2021 11:23:46 PM]
+  tomacatx1 picked up Aluminum

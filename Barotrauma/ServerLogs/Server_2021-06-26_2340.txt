@@ -1,0 +1,44 @@
+﻿[6/26/2021 11:35:53 PM]
+  Starting the server...
+[6/26/2021 11:35:53 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[6/26/2021 11:35:57 PM]
+  Server started
+[6/26/2021 11:36:49 PM]
+  tomacatx1 has joined the server.
+[6/26/2021 11:36:49 PM]
+  Saving client permissions
+[6/26/2021 11:36:55 PM]
+  Gamemode changed to Campaign
+[6/26/2021 11:37:00 PM]
+  Starting a new round...
+[6/26/2021 11:37:12 PM]
+  Mission: Activate beacon
+[6/26/2021 11:37:12 PM]
+  According to the onboard navigation system, there should be a run-down beacon station nearby. Getting it back online will make the passage easier for other vessels to traverse, and help colonies to spread further.
+[6/26/2021 11:37:13 PM]
+  Game mode: Campaign
+[6/26/2021 11:37:13 PM]
+  Submarine: ECS. Ordovicia V2 re-4
+[6/26/2021 11:37:13 PM]
+  Level seed: SontuAnid
+[6/26/2021 11:37:13 PM]
+  Mission: Activate beacon
+[6/26/2021 11:37:13 PM]
+  Round started.
+[6/26/2021 11:37:55 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:37:57 PM]
+  tomacatx1: I'll set the course onwards!
+[6/26/2021 11:38:45 PM]
+  Client "tomacatx1" ended the round.
+[6/26/2021 11:38:45 PM]
+  Ending the round...
+[6/26/2021 11:38:46 PM]
+  Round ended.
+[6/26/2021 11:39:00 PM]
+  Gamemode changed to Mission
+[6/26/2021 11:40:17 PM]
+  Saving banlist
+[6/26/2021 11:40:17 PM]
+  Shutting down the server...

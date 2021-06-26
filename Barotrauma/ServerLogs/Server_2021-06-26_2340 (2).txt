@@ -1,0 +1,32 @@
+﻿[6/26/2021 11:36:49 PM]
+  Saving client permissions
+[6/26/2021 11:36:56 PM]
+  Gamemode changed to Campaign
+[6/26/2021 11:37:00 PM]
+  Starting a new round...
+[6/26/2021 11:37:47 PM]
+  Mission: Activate beacon
+[6/26/2021 11:37:47 PM]
+  According to the onboard navigation system, there should be a run-down beacon station nearby. Getting it back online will make the passage easier for other vessels to traverse, and help colonies to spread further.
+[6/26/2021 11:37:47 PM]
+  Game mode: Campaign
+[6/26/2021 11:37:47 PM]
+  Submarine: ECS. Ordovicia V2 re-4
+[6/26/2021 11:37:47 PM]
+  Level seed: SontuAnid
+[6/26/2021 11:37:47 PM]
+  Mission: Activate beacon
+[6/26/2021 11:37:47 PM]
+  Round started.
+[6/26/2021 11:37:55 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 11:37:57 PM]
+  tomacatx1: I'll set the course onwards!
+[6/26/2021 11:38:46 PM]
+  Client "tomacatx1" ended the round.
+[6/26/2021 11:38:46 PM]
+  Ending the round...
+[6/26/2021 11:38:46 PM]
+  Round ended.
+[6/26/2021 11:39:00 PM]
+  Gamemode changed to Mission

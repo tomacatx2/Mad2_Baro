@@ -42,7 +42,7 @@
     soundvolume="0.22332017"
     voicechatvolume="1.9584979"
     voicechatcutoffprevention="0"
-    microphonevolume="9"
+    microphonevolume="1.8"
     muteonfocuslost="false"
     dynamicrangecompressionenabled="true"
     voipattenuationenabled="true"
@@ -255,7 +255,7 @@
     faceattachmentindex="0" />
   <tutorials />
   <ignoredhints
-    identifiers="onstartedinteracting.item.gunloader,onafflictiondisplayed,onadjacenthull.highpressure,onadjacenthull.highwaterpercentage,onstartedinteracting.turretperiscope,onsonarspottedenemy,onstartedinteracting.item.navterminal,reminder.tabmenu,onshootwithoutaiming,onstartedcontrolling.job.securityofficer,onstartedcontrolling.job.assistant,onrepairfailed,onstartedinteracting.item.fabricator,reminder.commandinterface,onstartedinteracting.item.reactor,oncharacterunconscious,onstartedcontrolling.job.engineer,onstartedcontrolling.job.mechanic,onstartedinteracting.item.deconstructor,onstartedinteracting.lootingisstealing" />
+    identifiers="onstartedinteracting.item.gunloader,onafflictiondisplayed,onadjacenthull.highpressure,onadjacenthull.highwaterpercentage,onstartedinteracting.turretperiscope,onsonarspottedenemy,onstartedinteracting.item.navterminal,reminder.tabmenu,onshootwithoutaiming,onstartedcontrolling.job.securityofficer,onstartedcontrolling.job.assistant,onrepairfailed,onstartedinteracting.item.fabricator,reminder.commandinterface,onstartedinteracting.item.reactor,oncharacterunconscious,onstartedcontrolling.job.engineer,onstartedcontrolling.job.mechanic,onstartedinteracting.item.deconstructor,onstartedinteracting.lootingisstealing,onstartedinteracting.brokenitem" />
   <encountered
     creatures="human,mudraptor,spineling,crawler,mudraptor_hatchling,swarmcrawler,husk,humanhusk,gundrone,ekdronerallybeacon,humanapostle,humanhive,ramblin,maggot,watcher,crawlerhusk,hammerheadgold,hammerhead,mudraptor_unarmored,peanut,terminalcell,moloch,endworm,moloch_m,charybdis" />
   <killed

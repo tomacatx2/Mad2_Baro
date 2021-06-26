@@ -477,5 +477,118 @@
   <Client
     name="tomacatx1"
     endpoint="127.0.0.1"
-    preset="Admin" />
+    permissions="All">
+    <command
+      name="clientlist" />
+    <command
+      name="readycheck" />
+    <command
+      name="autorestart" />
+    <command
+      name="autorestartinterval" />
+    <command
+      name="autorestarttimer" />
+    <command
+      name="botcount" />
+    <command
+      name="botspawnmode" />
+    <command
+      name="difficulty" />
+    <command
+      name="kick" />
+    <command
+      name="kickid" />
+    <command
+      name="campaigninfo" />
+    <command
+      name="campaigndestination" />
+    <command
+      name="servermsg" />
+    <command
+      name="showperm" />
+    <command
+      name="spawn" />
+    <command
+      name="spawnitem" />
+    <command
+      name="disablecrewai" />
+    <command
+      name="gamemode" />
+    <command
+      name="sub" />
+    <command
+      name="shuttle" />
+    <command
+      name="enablecrewai" />
+    <command
+      name="ban" />
+    <command
+      name="banid" />
+    <command
+      name="banendpoint" />
+    <command
+      name="unban" />
+    <command
+      name="unbanip" />
+    <command
+      name="teleportcharacter" />
+    <command
+      name="mute" />
+    <command
+      name="unmute" />
+    <command
+      name="godmode" />
+    <command
+      name="godmode_mainsub" />
+    <command
+      name="lock" />
+    <command
+      name="lockx" />
+    <command
+      name="locky" />
+    <command
+      name="water" />
+    <command
+      name="fire" />
+    <command
+      name="heal" />
+    <command
+      name="giveaffliction" />
+    <command
+      name="revive" />
+    <command
+      name="freeze" />
+    <command
+      name="freecamera" />
+    <command
+      name="explosion" />
+    <command
+      name="fixitems" />
+    <command
+      name="fixhulls" />
+    <command
+      name="power" />
+    <command
+      name="oxygen" />
+    <command
+      name="setclientcharacter" />
+    <command
+      name="togglekarma" />
+    <command
+      name="setkarma" />
+    <command
+      name="resetkarma" />
+    <command
+      name="showkarma" />
+    <command
+      name="togglekarmatestmode" />
+    <command
+      name="togglecampaignteleport" />
+    <command
+      name="respawnnow" />
+    <command
+      name="traitorlist" />
+    <command
+      name="control" />
+  </Client>
 </ClientPermissions>

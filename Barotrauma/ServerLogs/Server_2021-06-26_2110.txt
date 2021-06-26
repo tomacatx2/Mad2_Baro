@@ -1,0 +1,518 @@
+﻿[6/26/2021 8:54:45 PM]
+  Starting the server...
+[6/26/2021 8:54:45 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[6/26/2021 8:54:48 PM]
+  Server started
+[6/26/2021 8:55:13 PM]
+  tomacatx1 has joined the server.
+[6/26/2021 8:55:13 PM]
+  Saving client permissions
+[6/26/2021 8:56:29 PM]
+  Player tomacatx1 has changed their name to superhands.
+[6/26/2021 8:56:58 PM]
+  tomascatx1 has joined the server.
+[6/26/2021 8:56:58 PM]
+  Saving client permissions
+[6/26/2021 8:57:08 PM]
+  tomascatx1: holy shit 
+[6/26/2021 8:57:45 PM]
+  superhands: mhm
+[6/26/2021 8:58:07 PM]
+  tomascatx1: is that you finlay from modulo
+[6/26/2021 8:58:18 PM]
+  Saving client permissions
+[6/26/2021 8:58:19 PM]
+  Player tomascatx1 has changed their name to tomascat1.
+[6/26/2021 8:58:27 PM]
+  Player tomascat1 has changed their name to sylv.
+[6/26/2021 8:58:28 PM]
+  superhands: Arabash
+[6/26/2021 8:58:32 PM]
+  HOST: go have fun
+[6/26/2021 8:58:36 PM]
+  Client "superhands" started the round.
+[6/26/2021 8:58:36 PM]
+  Starting a new round...
+[6/26/2021 8:58:42 PM]
+  Game mode: Sandbox
+[6/26/2021 8:58:42 PM]
+  Submarine: ECS. Hammerhead var A v1 re-5
+[6/26/2021 8:58:42 PM]
+  Level seed: Ntsb9LUy
+[6/26/2021 8:58:43 PM]
+  Round started.
+[6/26/2021 8:58:50 PM]
+  HOST: im mentoring lester on how to use github
+[6/26/2021 8:59:03 PM]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 8:59:53 PM]
+  Console command "spawnitem" executed by superhands.
+[6/26/2021 8:59:57 PM]
+  Console command "spawnitem vipclothes2 inventory" executed by superhands.
+[6/26/2021 9:00:04 PM]
+  superhands: Sylv!?
+[6/26/2021 9:00:10 PM]
+  sylv: he didnt give me admin
+[6/26/2021 9:00:12 PM]
+  sylv: wtf
+[6/26/2021 9:00:16 PM]
+  sylv: wtf
+[6/26/2021 9:00:56 PM]
+  superhands equipped Captain's Pipe
+[6/26/2021 9:02:22 PM]
+  Console command "spawnitem Cigarette inventory" executed by superhands.
+[6/26/2021 9:02:22 PM]
+  Console command "spawnitem Cigarette inventory" executed by superhands.
+[6/26/2021 9:02:22 PM]
+  Console command "spawnitem Cigarette inventory" executed by superhands.
+[6/26/2021 9:02:22 PM]
+  Console command "spawnitem Beer inventory" executed by superhands.
+[6/26/2021 9:02:22 PM]
+  Console command "spawnitem Beer cursor" executed by superhands.
+[6/26/2021 9:02:22 PM]
+  Console command "teleport" executed by superhands.
+[6/26/2021 9:02:22 PM]
+  Console command "teleport" executed by superhands.
+[6/26/2021 9:02:22 PM]
+  superhands dropped Cigarette
+[6/26/2021 9:02:22 PM]
+  superhands dropped Cigarette
+[6/26/2021 9:02:22 PM]
+  superhands dropped Cigarette
+[6/26/2021 9:02:22 PM]
+  superhands dropped Beer
+[6/26/2021 9:02:22 PM]
+  superhands equipped Revolver
+[6/26/2021 9:02:34 PM]
+  terc has joined the server.
+[6/26/2021 9:02:34 PM]
+  Saving client permissions
+[6/26/2021 9:02:36 PM]
+  superhands equipped Cigarette
+[6/26/2021 9:03:15 PM]
+  Console command "spawnitem beer inventory" executed by superhands.
+[6/26/2021 9:03:17 PM]
+  superhands equipped Beer
+[6/26/2021 9:03:19 PM]
+  sylv equipped Beer
+[6/26/2021 9:03:25 PM]
+  sylv: a beer has appeared
+[6/26/2021 9:03:26 PM]
+  superhands used item Beer
+[6/26/2021 9:03:41 PM]
+  sylv used item Beer
+[6/26/2021 9:03:43 PM]
+  sylv used item Beer
+[6/26/2021 9:03:49 PM]
+  sylv: pisswater
+[6/26/2021 9:03:56 PM]
+  Saving client permissions
+[6/26/2021 9:04:02 PM]
+  Console command "respawnnow" executed by superhands.
+[6/26/2021 9:04:02 PM]
+  Dispatching the respawn shuttle.
+[6/26/2021 9:04:02 PM]
+  Respawning terc (82.118.14.16) as Security Officer
+[6/26/2021 9:04:04 PM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 9:04:21 PM]
+  terc: a
+[6/26/2021 9:04:23 PM]
+  superhands: wo bist du sylv
+[6/26/2021 9:04:29 PM]
+  sylv: medical
+[6/26/2021 9:04:41 PM]
+  sylv: medic al
+[6/26/2021 9:04:50 PM]
+  Saving client permissions
+[6/26/2021 9:04:53 PM]
+  superhands picked up .357 Revolver
+[6/26/2021 9:05:01 PM]
+  superhands equipped .357 Revolver
+[6/26/2021 9:05:20 PM]
+  sylv: h
+[6/26/2021 9:05:54 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:05:59 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:06:01 PM]
+  superhands picked up Laser Rifle (Flashlight)
+[6/26/2021 9:06:10 PM]
+  sylv: where be ciggy
+[6/26/2021 9:06:11 PM]
+  Console command "spawnitem "Alien Rifle" inventory" executed by superhands.
+[6/26/2021 9:06:20 PM]
+  Console command "spawnitem "Alien Rifle Cell" inventory" executed by superhands.
+[6/26/2021 9:06:23 PM]
+  HOST: in captains theres a shelf above the table
+[6/26/2021 9:06:23 PM]
+  superhands placed Alien Rifle Cell in Alien Rifle (ID: 5914)
+[6/26/2021 9:06:24 PM]
+  superhands equipped Alien Rifle
+[6/26/2021 9:06:26 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:26 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:26 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:26 PM]
+  superhands has lost more than 25 karma in the past minute.
+[6/26/2021 9:06:27 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:27 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:27 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:28 PM]
+  Console command "revive sylv" executed by sylv.
+[6/26/2021 9:06:30 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:30 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:30 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:30 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:31 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:31 PM]
+  sylv has died (Cause of death: Burn)
+[6/26/2021 9:06:31 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:31 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:31 PM]
+  sylv attacked by superhands. Bleeding: 1 Lacerations: 4.5 Gunshot wound: 0.5 Burn: 5
+[6/26/2021 9:06:32 PM]
+  Console command "revive sylv" executed by sylv.
+[6/26/2021 9:06:34 PM]
+  HOST: the recreational substances are there
+[6/26/2021 9:06:34 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:06:34 PM]
+  Console command "teleport" executed by terc.
+[6/26/2021 9:06:35 PM]
+  The respawn shuttle is leaving.
+[6/26/2021 9:06:36 PM]
+  Inner wall breached by superhands
+[6/26/2021 9:06:37 PM]
+  Console command "teleport" executed by terc.
+[6/26/2021 9:06:40 PM]
+  terc: hi
+[6/26/2021 9:06:45 PM]
+  superhands: hello
+[6/26/2021 9:07:07 PM]
+  The respawn shuttle has left.
+[6/26/2021 9:07:07 PM]
+  superhands picked up Thorium Fuel Rod
+[6/26/2021 9:07:10 PM]
+  superhands picked up Fuel Rod
+[6/26/2021 9:07:10 PM]
+  superhands dropped Thorium Fuel Rod
+[6/26/2021 9:07:10 PM]
+  superhands placed Thorium Fuel Rod in Nuclear Reactor (ID: 192)
+[6/26/2021 9:07:11 PM]
+  superhands dropped Fuel Rod
+[6/26/2021 9:07:15 PM]
+  HOST: oh no
+[6/26/2021 9:07:17 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:07:19 PM]
+  Console command "fixitems" executed by terc.
+[6/26/2021 9:07:19 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:07:20 PM]
+  superhands placed VIP Outfit in Large Steel Cabinet (ID: 201)
+[6/26/2021 9:07:20 PM]
+  superhands removed Fire Jumpsuit from Large Steel Cabinet (ID: 201)
+[6/26/2021 9:07:20 PM]
+  superhands picked up Fire Jumpsuit
+[6/26/2021 9:07:25 PM]
+  superhands placed Fire Jumpsuit in Large Steel Cabinet (ID: 201)
+[6/26/2021 9:07:26 PM]
+  superhands picked up Fire Jumpsuit
+[6/26/2021 9:07:30 PM]
+  superhands placed Fire Jumpsuit in Large Steel Cabinet (ID: 201)
+[6/26/2021 9:07:30 PM]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[6/26/2021 9:07:30 PM]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[6/26/2021 9:07:30 PM]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[6/26/2021 9:07:31 PM]
+  superhands picked up Fire Helmet
+[6/26/2021 9:07:35 PM]
+  superhands picked up Fire Jumpsuit
+[6/26/2021 9:07:37 PM]
+  terc: woah
+[6/26/2021 9:07:40 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:07:41 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:07:41 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:07:45 PM]
+  superhands placed Fire Jumpsuit in Large Steel Cabinet (ID: 201)
+[6/26/2021 9:07:46 PM]
+  superhands placed Fire Helmet in Large Steel Cabinet (ID: 201)
+[6/26/2021 9:07:47 PM]
+  terc: sylv
+[6/26/2021 9:07:48 PM]
+  superhands picked up VIP Outfit
+[6/26/2021 9:07:53 PM]
+  Console command "spawnitem cigarette inventory" executed by sylv.
+[6/26/2021 9:07:54 PM]
+  sylv equipped Cigarette
+[6/26/2021 9:07:56 PM]
+  The Supreme Gentleman has joined the server.
+[6/26/2021 9:07:56 PM]
+  Saving client permissions
+[6/26/2021 9:07:56 PM]
+  terc: do you wanna be a participant in my awesome experiment
+[6/26/2021 9:08:04 PM]
+  superhands equipped Nuclear Depth Charge
+[6/26/2021 9:08:04 PM]
+  superhands picked up Nuclear Depth Charge
+[6/26/2021 9:08:04 PM]
+  The Supreme Gentleman: why am i
+[6/26/2021 9:08:04 PM]
+  sylv: ok
+[6/26/2021 9:08:06 PM]
+  sylv equipped Frag Grenade
+[6/26/2021 9:08:06 PM]
+  The Supreme Gentleman: the supreme gentlemen
+[6/26/2021 9:08:07 PM]
+  The Supreme Gentleman: hold on
+[6/26/2021 9:08:09 PM]
+  The Supreme Gentleman has left the server. Reason: The Supreme Gentleman has disconnected.
+[6/26/2021 9:08:13 PM]
+  Console command "fixhulls" executed by sylv.
+[6/26/2021 9:08:15 PM]
+  Console command "fixhulls" executed by terc.
+[6/26/2021 9:08:18 PM]
+  superhands removed Depth Decoy Shell from Depth Charge Loader (ID: 1873)
+[6/26/2021 9:08:19 PM]
+  superhands placed Nuclear Depth Charge in Depth Charge Loader (ID: 1873)
+[6/26/2021 9:08:20 PM]
+  Console command "fixitems" executed by terc.
+[6/26/2021 9:08:26 PM]
+  Console command "fixhulls" executed by terc.
+[6/26/2021 9:08:26 PM]
+  Console command "fixhulls" executed by sylv.
+[6/26/2021 9:08:26 PM]
+  HOST: Console command fixhulls executed by terc.
+[6/26/2021 9:08:29 PM]
+  Console command "fixitems" executed by terc.
+[6/26/2021 9:08:30 PM]
+  HOST: 1984'd the damage.
+[6/26/2021 9:08:31 PM]
+  noob has joined the server.
+[6/26/2021 9:08:31 PM]
+  noob previously used the name "The Supreme Gentleman" on the server.
+[6/26/2021 9:08:31 PM]
+  Saving client permissions
+[6/26/2021 9:08:32 PM]
+  Console command "freecam" executed by superhands.
+[6/26/2021 9:08:32 PM]
+  terc: alright who the fuck
+[6/26/2021 9:08:34 PM]
+  HOST: hello dink
+[6/26/2021 9:08:36 PM]
+  terc: who did that.
+[6/26/2021 9:08:38 PM]
+  Console command "godmode" executed by sylv.
+[6/26/2021 9:08:38 PM]
+  noob has left the server. Reason: noob has disconnected.
+[6/26/2021 9:08:38 PM]
+  terc: WHO DID IT.
+[6/26/2021 9:08:42 PM]
+  Console command "revive sylv" executed by sylv.
+[6/26/2021 9:08:48 PM]
+  Saving client permissions
+[6/26/2021 9:08:56 PM]
+  terc equipped Rolling Cart
+[6/26/2021 9:09:02 PM]
+  Console command "teleport superhands" executed by terc.
+[6/26/2021 9:09:02 PM]
+  sylv: cring
+[6/26/2021 9:09:04 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:04 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:04 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:04 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:04 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:04 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands has died (Cause of death: Oxygen low)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:05 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:05 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:06 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:06 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:06 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:06 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:07 PM]
+  superhands attacked by terc. Gunshot wound: 8 Bleeding: 1
+[6/26/2021 9:09:07 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:07 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:07 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:07 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:07 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:07 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:10 PM]
+  Console command "teleport sylv" executed by terc.
+[6/26/2021 9:09:10 PM]
+  noob has joined the server.
+[6/26/2021 9:09:10 PM]
+  Saving client permissions
+[6/26/2021 9:09:12 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:12 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:12 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:12 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:09:12 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:12 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:12 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:12 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:13 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:14 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:14 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:14 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:14 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:14 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:14 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:09:14 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:09:18 PM]
+  Saving client permissions
+[6/26/2021 9:09:18 PM]
+  terc dropped Rolling Cart
+[6/26/2021 9:09:18 PM]
+  Console command "teleport" executed by superhands.
+[6/26/2021 9:09:20 PM]
+  Console command "revive" executed by superhands.
+[6/26/2021 9:09:26 PM]
+  Console command "teleport superhands" executed by superhands.
+[6/26/2021 9:09:27 PM]
+  HOST: just waiting on lester
+[6/26/2021 9:09:28 PM]
+  Console command "revive superhands" executed by superhands.
+[6/26/2021 9:09:37 PM]
+  Console command "setclientcharacter superhands superhands" executed by superhands.
+[6/26/2021 9:09:42 PM]
+  terc launched Medium SSL Turret (projectile: Medium SSL Shell (AP))
+[6/26/2021 9:09:45 PM]
+  noob: dude had to disable the (((better))) heads mod
+[6/26/2021 9:09:45 PM]
+  Console command "spawnitem "Alien Rifle" inventory" executed by sylv.
+[6/26/2021 9:09:47 PM]
+  sylv equipped Alien Rifle
+[6/26/2021 9:09:57 PM]
+  noob: (((((((((((((((((((((((("""""""""""""""""BETTER))))))))))))))))""""""""""""""""
+[6/26/2021 9:10:03 PM]
+  Console command "spawnitem "Alien Power Cell" inventory" executed by sylv.
+[6/26/2021 9:10:09 PM]
+  HOST: welcome to the hammerhead, the lag is two doors down the left
+[6/26/2021 9:10:28 PM]
+  Console command "spawnitem "Alien Rifle Cell"" executed by sylv.
+[6/26/2021 9:10:31 PM]
+  Client "superhands" ended the round.
+[6/26/2021 9:10:31 PM]
+  Ending the round...

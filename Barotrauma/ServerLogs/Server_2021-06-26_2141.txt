@@ -1,0 +1,1602 @@
+﻿[6/26/2021 9:23:12 PM]
+  superhands attacked by terc. Burn: 5 ProgressiveStun: 1
+[6/26/2021 9:23:14 PM]
+  Esteban Stanley attacked by terc. Burn: 5 ProgressiveStun: 1
+[6/26/2021 9:23:14 PM]
+  Esteban Stanley used Stun Baton (Battery Cell) on terc.
+[6/26/2021 9:23:15 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:15 PM]
+  Esteban Stanley used Stun Baton (Battery Cell) on terc.
+[6/26/2021 9:23:15 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:16 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:17 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:17 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:17 PM]
+  Esteban Stanley used Stun Baton (Battery Cell) on terc.
+[6/26/2021 9:23:17 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:17 PM]
+  Outer wall breached by superhands
+[6/26/2021 9:23:17 PM]
+  terc equipped Diving Knife
+[6/26/2021 9:23:18 PM]
+  terc attacked by superhands. Bleeding: 0.1 Lacerations: 0.8000001 Gunshot wound: 0.080000006 Burn: 4.5
+[6/26/2021 9:23:18 PM]
+  Esteban Stanley used Stun Baton (Battery Cell) on terc.
+[6/26/2021 9:23:19 PM]
+  terc attacked by superhands. Bleeding: 0.1 Lacerations: 1 Gunshot wound: 0.1 Burn: 5
+[6/26/2021 9:23:19 PM]
+  Esteban Stanley attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:19 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:19 PM]
+  Esteban Stanley used Stun Baton (Battery Cell) on terc.
+[6/26/2021 9:23:19 PM]
+  Esteban Stanley attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:21 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:21 PM]
+  terc attacked by superhands. Bleeding: 0.1 Lacerations: 0.8000001 Gunshot wound: 0.080000006 Burn: 4.5
+[6/26/2021 9:23:22 PM]
+  terc attacked by superhands. Bleeding: 0.1 Lacerations: 0.8000001 Gunshot wound: 0.080000006 Burn: 4.5
+[6/26/2021 9:23:22 PM]
+  Esteban Stanley attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:23 PM]
+  Console command "godmode" executed by terc.
+[6/26/2021 9:23:24 PM]
+  Console command "revive" executed by superhands.
+[6/26/2021 9:23:28 PM]
+  superhands attacked by terc. Lacerations: 4 Bleeding: 10 Stun: 0.2
+[6/26/2021 9:23:28 PM]
+  terc used Diving Knife on superhands.
+[6/26/2021 9:23:29 PM]
+  superhands attacked by terc. Lacerations: 4 Bleeding: 10 Stun: 0.2
+[6/26/2021 9:23:29 PM]
+  terc used Diving Knife on superhands.
+[6/26/2021 9:23:30 PM]
+  superhands attacked by terc. Lacerations: 4 Bleeding: 10 Stun: 0.2
+[6/26/2021 9:23:30 PM]
+  terc used Diving Knife on superhands.
+[6/26/2021 9:23:31 PM]
+  superhands attacked by terc. Lacerations: 4 Bleeding: 10 Stun: 0.2
+[6/26/2021 9:23:31 PM]
+  terc used Diving Knife on superhands.
+[6/26/2021 9:23:31 PM]
+  terc attacked by superhands. Bleeding: 0.1 Lacerations: 0.8000001 Gunshot wound: 0.080000006 Burn: 4.5
+[6/26/2021 9:23:32 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:32 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:32 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:32 PM]
+  Outer wall breached by superhands
+[6/26/2021 9:23:33 PM]
+  terc attacked by superhands. Bleeding: 0.1 Lacerations: 0.8000001 Gunshot wound: 0.080000006 Burn: 4.5
+[6/26/2021 9:23:33 PM]
+  Outer wall breached by superhands
+[6/26/2021 9:23:33 PM]
+  terc attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:34 PM]
+  Esteban Stanley attacked by superhands. Bleeding: 1 Lacerations: 4 Gunshot wound: 0.4 Burn: 5
+[6/26/2021 9:23:34 PM]
+  Esteban Stanley has died (Cause of death: Burn)
+[6/26/2021 9:23:34 PM]
+  Outer wall breached by superhands
+[6/26/2021 9:23:34 PM]
+  Outer wall breached by superhands
+[6/26/2021 9:23:37 PM]
+  Console command "revive" executed by terc.
+[6/26/2021 9:23:38 PM]
+  Console command "teleport" executed by superhands.
+[6/26/2021 9:23:41 PM]
+  Console command "revive" executed by superhands.
+[6/26/2021 9:23:41 PM]
+  terc removed Diving Mask from Esteban Stanley
+[6/26/2021 9:23:42 PM]
+  terc removed Admiral's Uniform from Esteban Stanley
+[6/26/2021 9:23:42 PM]
+  terc removed Admiral's Hat from Esteban Stanley
+[6/26/2021 9:23:43 PM]
+  terc removed Arc Welder from Esteban Stanley
+[6/26/2021 9:23:43 PM]
+  terc removed Marine SMG from Esteban Stanley
+[6/26/2021 9:23:44 PM]
+  terc removed Harmonica from Esteban Stanley
+[6/26/2021 9:23:44 PM]
+  terc removed Headset from Esteban Stanley
+[6/26/2021 9:23:45 PM]
+  terc removed ID Card from Esteban Stanley
+[6/26/2021 9:24:10 PM]
+  terc dropped Bandage
+[6/26/2021 9:24:11 PM]
+  terc dropped Handcuffs
+[6/26/2021 9:24:12 PM]
+  terc dropped Battery Cell
+[6/26/2021 9:24:13 PM]
+  terc dropped Wrench
+[6/26/2021 9:24:14 PM]
+  terc dropped Tazer Gun
+[6/26/2021 9:24:15 PM]
+  terc dropped Stun Baton
+[6/26/2021 9:24:17 PM]
+  terc dropped Metallic Foam Sprayer
+[6/26/2021 9:24:26 PM]
+  terc picked up Combat Diving Suit
+[6/26/2021 9:24:30 PM]
+  Saving client permissions
+[6/26/2021 9:24:37 PM]
+  Saving client permissions
+[6/26/2021 9:24:42 PM]
+  Saving client permissions
+[6/26/2021 9:24:43 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:44 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:48 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:49 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:50 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:52 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:54 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:55 PM]
+  Console command "fixhulls" executed by superhands.
+[6/26/2021 9:24:56 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:56 PM]
+  Console command "revive "Esteban Stanley"" executed by tomacatx1.
+[6/26/2021 9:24:58 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:24:59 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:00 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:01 PM]
+  Esteban Stanley picked up Admiral's Hat
+[6/26/2021 9:25:01 PM]
+  Esteban Stanley unequipped Marine SMG
+[6/26/2021 9:25:02 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:02 PM]
+  Esteban Stanley picked up Headset
+[6/26/2021 9:25:02 PM]
+  Esteban Stanley unequipped Arc Welder
+[6/26/2021 9:25:02 PM]
+  Console command "teleport" executed by superhands.
+[6/26/2021 9:25:03 PM]
+  Esteban Stanley picked up Diving Mask
+[6/26/2021 9:25:03 PM]
+  Esteban Stanley dropped Arc Welder
+[6/26/2021 9:25:03 PM]
+  Console command "spawnitem "satchel charge (c-4)" inventory" executed by terc.
+[6/26/2021 9:25:03 PM]
+  Console command "spawnitem "satchel charge (c-4)" inventory" executed by terc.
+[6/26/2021 9:25:03 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:03 PM]
+  Console command "spawnitem "satchel charge (c-4)" inventory" executed by terc.
+[6/26/2021 9:25:04 PM]
+  Console command "spawnitem "satchel charge (c-4)" inventory" executed by terc.
+[6/26/2021 9:25:04 PM]
+  Esteban Stanley picked up Reinforced Oxygen Tank
+[6/26/2021 9:25:04 PM]
+  Esteban Stanley dropped Arc Welder
+[6/26/2021 9:25:04 PM]
+  Console command "spawnitem "satchel charge (c-4)" inventoryspawnitem "satchel charge (c-4)" inventory" executed by terc.
+[6/26/2021 9:25:04 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:05 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:05 PM]
+  terc equipped Satchel Charge (C-4)
+[6/26/2021 9:25:05 PM]
+  Esteban Stanley removed Diving Suit from Diving Suit Locker (ID: 246)
+[6/26/2021 9:25:06 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:06 PM]
+  terc dropped Satchel Charge (C-4)
+[6/26/2021 9:25:07 PM]
+  Esteban Stanley picked up Diving Suit
+[6/26/2021 9:25:07 PM]
+  terc equipped Satchel Charge (C-4)
+[6/26/2021 9:25:07 PM]
+  Esteban Stanley (as ???) picked up Admiral's Uniform
+[6/26/2021 9:25:09 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:09 PM]
+  terc dropped Satchel Charge (C-4)
+[6/26/2021 9:25:10 PM]
+  terc equipped Satchel Charge (C-4)
+[6/26/2021 9:25:11 PM]
+  terc equipped Satchel Charge (C-4)
+[6/26/2021 9:25:11 PM]
+  terc picked up Satchel Charge (C-4)
+[6/26/2021 9:25:11 PM]
+  terc dropped Satchel Charge (C-4)
+[6/26/2021 9:25:11 PM]
+  Esteban Stanley (as ???) picked up ID Card
+[6/26/2021 9:25:13 PM]
+  terc equipped Satchel Charge (C-4)
+[6/26/2021 9:25:14 PM]
+  Console command "teleport sylv" executed by sylv.
+[6/26/2021 9:25:15 PM]
+  terc dropped Satchel Charge (C-4)
+[6/26/2021 9:25:16 PM]
+  terc dropped Satchel Charge (C-4)
+[6/26/2021 9:25:17 PM]
+  terc dropped Satchel Charge (C-4)
+[6/26/2021 9:25:22 PM]
+  terc: yep
+[6/26/2021 9:25:25 PM]
+  Console command "teleport" executed by terc.
+[6/26/2021 9:25:30 PM]
+  sylv: a
+[6/26/2021 9:25:31 PM]
+  Console command "teleport" executed by terc.
+[6/26/2021 9:25:31 PM]
+  Esteban Stanley dropped Diving Suit
+[6/26/2021 9:25:32 PM]
+  noob: HELLOO
+[6/26/2021 9:25:38 PM]
+  noob: D
+[6/26/2021 9:25:40 PM]
+  noob is ready to start the game.
+[6/26/2021 9:25:41 PM]
+  noob is not ready to start the game.
+[6/26/2021 9:25:41 PM]
+  Esteban Stanley picked up Marine SMG
+[6/26/2021 9:25:42 PM]
+  Esteban Stanley placed Marine SMG in Material Storage Locker (ID: 344)
+[6/26/2021 9:25:43 PM]
+  noob has left the server. Reason: noob has disconnected.
+[6/26/2021 9:25:43 PM]
+  Esteban Stanley picked up Marine SMG
+[6/26/2021 9:25:45 PM]
+  Esteban Stanley equipped Marine SMG
+[6/26/2021 9:25:45 PM]
+  Esteban Stanley equipped Marine SMG
+[6/26/2021 9:25:45 PM]
+  Lestraught: ello
+[6/26/2021 9:25:46 PM]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[6/26/2021 9:25:49 PM]
+  terc picked up Handgun
+[6/26/2021 9:25:50 PM]
+  terc equipped Handgun
+[6/26/2021 9:25:50 PM]
+  Esteban Stanley attacked by terc. Bleeding: 14 Gunshot wound: 6
+[6/26/2021 9:25:51 PM]
+  Esteban Stanley attacked by terc. Bleeding: 14 Gunshot wound: 6
+[6/26/2021 9:25:51 PM]
+  Esteban Stanley attacked by terc. Bleeding: 14 Gunshot wound: 6
+[6/26/2021 9:25:54 PM]
+  Console command "revive sylv" executed by sylv.
+[6/26/2021 9:26:00 PM]
+  Client "tomacatx1" ended the round.
+[6/26/2021 9:26:00 PM]
+  Ending the round...
+[6/26/2021 9:26:00 PM]
+  Round ended.
+[6/26/2021 9:26:08 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:26:21 PM]
+  Lestraught has left the server. Reason: Lestraught has disconnected.
+[6/26/2021 9:26:23 PM]
+  terc: fighter crew?
+[6/26/2021 9:26:25 PM]
+  superhands has left the server. Reason: superhands has disconnected.
+[6/26/2021 9:26:30 PM]
+  Lestraught has joined the server.
+[6/26/2021 9:26:30 PM]
+  Saving client permissions
+[6/26/2021 9:26:30 PM]
+  terc: oh i dont have godmode!
+[6/26/2021 9:26:35 PM]
+  sylv has left the server. Reason: sylv has disconnected.
+[6/26/2021 9:26:41 PM]
+  tomacatx1 (0) couldn't join the server (name too similar to the name of the client "tomacatx1").
+[6/26/2021 9:26:44 PM]
+  Saving client permissions
+[6/26/2021 9:26:50 PM]
+  Saving client permissions
+[6/26/2021 9:26:53 PM]
+  superhands has joined the server.
+[6/26/2021 9:26:53 PM]
+  Saving client permissions
+[6/26/2021 9:27:03 PM]
+  Lestraught: I have God mode, it's when I pray to Lord and ask him for strength
+[6/26/2021 9:27:03 PM]
+  Saving client permissions
+[6/26/2021 9:27:12 PM]
+  Saving client permissions
+[6/26/2021 9:28:08 PM]
+  Gamemode changed to Mission
+[6/26/2021 9:28:10 PM]
+  noob has joined the server.
+[6/26/2021 9:28:10 PM]
+  Saving client permissions
+[6/26/2021 9:28:22 PM]
+  tomascatx1 has joined the server.
+[6/26/2021 9:28:22 PM]
+  tomascatx1 previously used the name "sylv" on the server.
+[6/26/2021 9:28:22 PM]
+  Saving client permissions
+[6/26/2021 9:28:23 PM]
+  noob: hey
+[6/26/2021 9:28:25 PM]
+  Saving client permissions
+[6/26/2021 9:28:32 PM]
+  noob: mfw 1984
+[6/26/2021 9:28:32 PM]
+  Player tomascatx1 has changed their name to sylv.
+[6/26/2021 9:28:34 PM]
+  Saving client permissions
+[6/26/2021 9:28:37 PM]
+  Saving client permissions
+[6/26/2021 9:28:55 PM]
+  terc: non traitor?
+[6/26/2021 9:28:56 PM]
+  terc: mfw
+[6/26/2021 9:29:09 PM]
+  terc: alright FIIINE
+[6/26/2021 9:29:11 PM]
+  terc: ill be gunner
+[6/26/2021 9:29:21 PM]
+  noob: No more traitors. No more griefing. No more trolls.
+[6/26/2021 9:29:34 PM]
+  sylv: ss13 medic time with surgery toolbelt
+[6/26/2021 9:29:53 PM]
+  noob: i am a fighter technician
+[6/26/2021 9:30:00 PM]
+  noob: yup
+[6/26/2021 9:30:05 PM]
+  noob: yup
+[6/26/2021 9:30:19 PM]
+  terc: hold on
+[6/26/2021 9:30:20 PM]
+  tomacatx1 is ready to start the game.
+[6/26/2021 9:30:27 PM]
+  sylv is ready to start the game.
+[6/26/2021 9:30:28 PM]
+  sylv is not ready to start the game.
+[6/26/2021 9:30:28 PM]
+  sylv is ready to start the game.
+[6/26/2021 9:30:28 PM]
+  sylv is not ready to start the game.
+[6/26/2021 9:30:28 PM]
+  sylv is ready to start the game.
+[6/26/2021 9:30:28 PM]
+  sylv is not ready to start the game.
+[6/26/2021 9:30:28 PM]
+  sylv is ready to start the game.
+[6/26/2021 9:30:28 PM]
+  sylv is not ready to start the game.
+[6/26/2021 9:30:29 PM]
+  sylv is ready to start the game.
+[6/26/2021 9:30:29 PM]
+  sylv is not ready to start the game.
+[6/26/2021 9:30:29 PM]
+  sylv is ready to start the game.
+[6/26/2021 9:30:29 PM]
+  sylv is not ready to start the game.
+[6/26/2021 9:30:30 PM]
+  superhands is ready to start the game.
+[6/26/2021 9:30:30 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:30:30 PM]
+  superhands is not ready to start the game.
+[6/26/2021 9:30:31 PM]
+  superhands is ready to start the game.
+[6/26/2021 9:30:34 PM]
+  Lestraught is not ready to start the game.
+[6/26/2021 9:30:34 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:30:34 PM]
+  Lestraught is not ready to start the game.
+[6/26/2021 9:30:34 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:30:34 PM]
+  Lestraught is not ready to start the game.
+[6/26/2021 9:30:34 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:30:35 PM]
+  Lestraught is not ready to start the game.
+[6/26/2021 9:30:35 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:30:35 PM]
+  Lestraught is not ready to start the game.
+[6/26/2021 9:30:35 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:30:35 PM]
+  Lestraught is not ready to start the game.
+[6/26/2021 9:30:35 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:30:35 PM]
+  Lestraught is not ready to start the game.
+[6/26/2021 9:30:36 PM]
+  Lestraught is ready to start the game.
+[6/26/2021 9:30:42 PM]
+  terc: oh yeah.
+[6/26/2021 9:30:43 PM]
+  superhands: bismallah
+[6/26/2021 9:30:45 PM]
+  terc: i look like hitman
+[6/26/2021 9:30:45 PM]
+  sylv: man i jsut wanna heal man i just wanna heal shit
+[6/26/2021 9:30:56 PM]
+  terc is ready to start the game.
+[6/26/2021 9:31:00 PM]
+  sylv: im gonna stab people to heal them
+[6/26/2021 9:31:01 PM]
+  terc is not ready to start the game.
+[6/26/2021 9:31:02 PM]
+  sylv is ready to start the game.
+[6/26/2021 9:31:04 PM]
+  terc is ready to start the game.
+[6/26/2021 9:31:07 PM]
+  noob: i did
+[6/26/2021 9:31:09 PM]
+  noob: i deleted it
+[6/26/2021 9:31:12 PM]
+  noob: just straight up
+[6/26/2021 9:31:19 PM]
+  noob: i need to look like a generic asian guy
+[6/26/2021 9:31:23 PM]
+  noob is ready to start the game.
+[6/26/2021 9:31:28 PM]
+  Client "tomacatx1" started the round.
+[6/26/2021 9:31:28 PM]
+  Starting a new round...
+[6/26/2021 9:31:33 PM]
+  Pirate Greaser equipped Wrench
+[6/26/2021 9:31:33 PM]
+  Pirate Greaser unequipped Wrench
+[6/26/2021 9:31:33 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:31:33 PM]
+  Pirate Physicist equipped Wrench
+[6/26/2021 9:31:33 PM]
+  Pirate Physicist unequipped Wrench
+[6/26/2021 9:31:33 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:31:33 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:31:33 PM]
+  Pirate Physicist equipped Crowbar
+[6/26/2021 9:31:33 PM]
+  Mission: Pirate Vessel
+[6/26/2021 9:31:33 PM]
+  Seek out the pirate vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[6/26/2021 9:31:33 PM]
+  Game mode: Mission
+[6/26/2021 9:31:33 PM]
+  Submarine: ECS. Hammerhead var A v1 re-7
+[6/26/2021 9:31:33 PM]
+  Level seed: Eon0OG4J
+[6/26/2021 9:31:33 PM]
+  Mission: Pirate Vessel
+[6/26/2021 9:31:34 PM]
+  Round started.
+[6/26/2021 9:31:35 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/26/2021 9:31:35 PM]
+  Pirate Physicist unequipped Crowbar
+[6/26/2021 9:31:39 PM]
+  Pirate Elite: Take her fast, take her deep...
+[6/26/2021 9:31:43 PM]
+  Pirate Elite: Take her where the fishes sleep!
+[6/26/2021 9:31:46 PM]
+  Pirate Elite: Damn the depth, damn the pressure...
+[6/26/2021 9:31:47 PM]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 9:31:49 PM]
+  Pirate Elite: Take her down just like the Thresher!
+[6/26/2021 9:31:53 PM]
+  superhands placed 9mm Magazine (High-Capacity) in Handgun (ID: 8042)
+[6/26/2021 9:31:53 PM]
+  Pirate Brute: I know that's an Earth song but it's all too fitting for us!
+[6/26/2021 9:31:55 PM]
+  superhands placed Oxygen Tank in Diving Mask (ID: 8046)
+[6/26/2021 9:31:57 PM]
+  noob set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 9:31:58 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 9:32:03 PM]
+  noob: I'M PROMOTING MYSELF TO ANTAG TIME TO GRIEF
+[6/26/2021 9:32:03 PM]
+  tomacatx1: I'll set the course onwards!
+[6/26/2021 9:32:07 PM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 9:32:09 PM]
+  noob picked up Screwdriver
+[6/26/2021 9:32:10 PM]
+  noob picked up Wrench
+[6/26/2021 9:32:11 PM]
+  superhands picked up Welding Tool
+[6/26/2021 9:32:14 PM]
+  superhands equipped Welding Tool
+[6/26/2021 9:32:14 PM]
+  noob: dude 2 fps
+[6/26/2021 9:32:20 PM]
+  noob picked up Battery Cell
+[6/26/2021 9:32:21 PM]
+  noob picked up Oxygen Tank
+[6/26/2021 9:32:22 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:22 PM]
+  Lestraught set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 9:32:22 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:22 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:22 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:22 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:22 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:22 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:22 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:23 PM]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[6/26/2021 9:32:25 PM]
+  sylv set the value "Channel" of the item "Headset" to "0".
+[6/26/2021 9:32:30 PM]
+  noob picked up Fire Jumpsuit
+[6/26/2021 9:32:31 PM]
+  terc picked up Crowbar
+[6/26/2021 9:32:31 PM]
+  tomacatx1 picked up C-4 Block
+[6/26/2021 9:32:31 PM]
+  tomacatx1 picked up C-4 Block
+[6/26/2021 9:32:31 PM]
+  tomacatx1 picked up C-4 Block
+[6/26/2021 9:32:31 PM]
+  tomacatx1 picked up C-4 Block
+[6/26/2021 9:32:31 PM]
+  tomacatx1 picked up C-4 Block
+[6/26/2021 9:32:31 PM]
+  tomacatx1 picked up C-4 Block
+[6/26/2021 9:32:31 PM]
+  terc equipped Crowbar
+[6/26/2021 9:32:32 PM]
+  tomacatx1 picked up Frag Grenade
+[6/26/2021 9:32:32 PM]
+  tomacatx1 attacked by terc. Blunt force trauma: 3.2
+[6/26/2021 9:32:32 PM]
+  terc used Crowbar on tomacatx1.
+[6/26/2021 9:32:34 PM]
+  terc placed Crowbar in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:34 PM]
+  terc removed Wrench from Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:34 PM]
+  terc removed Wrench from Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:34 PM]
+  terc removed Wrench from Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:34 PM]
+  terc removed Wrench from Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:34 PM]
+  terc picked up Wrench
+[6/26/2021 9:32:34 PM]
+  terc picked up Wrench
+[6/26/2021 9:32:34 PM]
+  terc picked up Wrench
+[6/26/2021 9:32:34 PM]
+  terc picked up Wrench
+[6/26/2021 9:32:35 PM]
+  sylv: sussy baka mission
+[6/26/2021 9:32:36 PM]
+  tomacatx1 picked up 5.7x28mm Magazine
+[6/26/2021 9:32:36 PM]
+  tomacatx1 picked up 5.7x28mm Magazine
+[6/26/2021 9:32:36 PM]
+  tomacatx1 picked up 9mm Magazine (High-Capacity)
+[6/26/2021 9:32:36 PM]
+  tomacatx1 picked up 9mm Magazine (High-Capacity)
+[6/26/2021 9:32:36 PM]
+  tomacatx1 picked up 9mm Magazine (High-Capacity)
+[6/26/2021 9:32:37 PM]
+  noob placed Fire Jumpsuit in Large Steel Cabinet (ID: 201)
+[6/26/2021 9:32:37 PM]
+  tomacatx1 picked up IC-4 Block
+[6/26/2021 9:32:37 PM]
+  tomacatx1 picked up IC-4 Block
+[6/26/2021 9:32:39 PM]
+  tomacatx1 placed C-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:39 PM]
+  tomacatx1 placed C-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:39 PM]
+  tomacatx1 placed C-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:39 PM]
+  tomacatx1 placed C-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:39 PM]
+  tomacatx1 placed C-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:39 PM]
+  tomacatx1 placed C-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:39 PM]
+  noob picked up Metallic Foam Sprayer
+[6/26/2021 9:32:40 PM]
+  tomacatx1 placed Frag Grenade in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:40 PM]
+  tomacatx1 placed 5.7x28mm Magazine in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:40 PM]
+  tomacatx1 placed 5.7x28mm Magazine in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:41 PM]
+  tomacatx1 placed 9mm Magazine (High-Capacity) in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:41 PM]
+  tomacatx1 placed 9mm Magazine (High-Capacity) in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:41 PM]
+  tomacatx1 placed 9mm Magazine (High-Capacity) in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:41 PM]
+  tomacatx1 placed IC-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:41 PM]
+  tomacatx1 placed IC-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:32:42 PM]
+  noob picked up Plasma Cutter
+[6/26/2021 9:32:43 PM]
+  Lestraught placed Oxygen Tank in Diving Mask (ID: 8028)
+[6/26/2021 9:32:47 PM]
+  sylv picked up Toolbelt
+[6/26/2021 9:32:50 PM]
+  superhands picked up Cigarette Pack
+[6/26/2021 9:32:52 PM]
+  superhands picked up Cigarette
+[6/26/2021 9:32:52 PM]
+  superhands equipped Cigarette
+[6/26/2021 9:32:55 PM]
+  tomacatx1 placed Captain's Pipe in Secure Locker (Captain) (ID: 289)
+[6/26/2021 9:32:56 PM]
+  tomacatx1 placed Revolver in Secure Locker (Captain) (ID: 289)
+[6/26/2021 9:32:57 PM]
+  tomacatx1 picked up .357 Revolver
+[6/26/2021 9:32:58 PM]
+  terc equipped Military Mk-I Hardsuit
+[6/26/2021 9:32:58 PM]
+  terc picked up Military Mk-I Hardsuit
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  tomacatx1 picked up .357 Revolver Round
+[6/26/2021 9:33:00 PM]
+  terc picked up Satchel Charge (C-4)
+[6/26/2021 9:33:00 PM]
+  noob: no perms but im in the fighter
+[6/26/2021 9:33:05 PM]
+  sylv placed Morphine in Medic's Fatigues (ID: 8059)
+[6/26/2021 9:33:07 PM]
+  tomacatx1 picked up Beer
+[6/26/2021 9:33:07 PM]
+  tomacatx1 placed Beer in Shelf (ID: 287)
+[6/26/2021 9:33:08 PM]
+  sylv placed Broad-spectrum Antibiotics in Medicine Cabinet (ID: 295)
+[6/26/2021 9:33:08 PM]
+  noob: OH NO
+[6/26/2021 9:33:09 PM]
+  noob: OH NOOO
+[6/26/2021 9:33:14 PM]
+  noob: IM FALLING
+[6/26/2021 9:33:15 PM]
+  noob: HEEELP
+[6/26/2021 9:33:17 PM]
+  terc placed Diving Knife in Material Storage Locker (ID: 344)
+[6/26/2021 9:33:17 PM]
+  terc removed Hatchet from Material Storage Locker (ID: 344)
+[6/26/2021 9:33:17 PM]
+  terc picked up Hatchet
+[6/26/2021 9:33:24 PM]
+  noob: GROUND CONTROL TO MAJOR TIME
+[6/26/2021 9:33:29 PM]
+  noob: IT'S OVER
+[6/26/2021 9:33:30 PM]
+  terc placed SMG in Material Storage Locker (ID: 344)
+[6/26/2021 9:33:30 PM]
+  terc removed Marine SMG from Material Storage Locker (ID: 344)
+[6/26/2021 9:33:30 PM]
+  terc picked up Marine SMG
+[6/26/2021 9:33:31 PM]
+  terc equipped Storage Container
+[6/26/2021 9:33:31 PM]
+  terc picked up Storage Container
+[6/26/2021 9:33:31 PM]
+  terc dropped Military Mk-I Hardsuit
+[6/26/2021 9:33:32 PM]
+  tomacatx1 picked up IC-4 Block
+[6/26/2021 9:33:32 PM]
+  tomacatx1 picked up IC-4 Block
+[6/26/2021 9:33:34 PM]
+  tomacatx1 placed IC-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:33:34 PM]
+  tomacatx1 placed IC-4 Block in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:33:36 PM]
+  terc placed 5.7x28mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:33:36 PM]
+  terc placed 5.7x28mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:33:37 PM]
+  terc placed 5.7x28mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:33:37 PM]
+  terc placed 5.7x28mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:33:39 PM]
+  terc placed Storage Container in Material Storage Locker (ID: 344)
+[6/26/2021 9:33:40 PM]
+  terc picked up 5.7x28mm Magazine
+[6/26/2021 9:33:40 PM]
+  terc picked up 5.7x28mm Magazine
+[6/26/2021 9:33:43 PM]
+  noob: aaaaAAAAAAA
+[6/26/2021 9:33:45 PM]
+  terc placed Satchel Charge (C-4) in Material Storage Locker (ID: 344)
+[6/26/2021 9:33:45 PM]
+  terc removed 5.7x28mm Magazine from Material Storage Locker (ID: 344)
+[6/26/2021 9:33:45 PM]
+  terc removed 5.7x28mm Magazine from Material Storage Locker (ID: 344)
+[6/26/2021 9:33:45 PM]
+  terc picked up 5.7x28mm Magazine
+[6/26/2021 9:33:45 PM]
+  terc picked up 5.7x28mm Magazine
+[6/26/2021 9:33:47 PM]
+  noob: I CANT GET OFF THE WILD RIDE
+[6/26/2021 9:33:47 PM]
+  terc dropped Stun Baton
+[6/26/2021 9:33:50 PM]
+  terc dropped Handcuffs
+[6/26/2021 9:33:51 PM]
+  terc dropped Battery Cell
+[6/26/2021 9:33:54 PM]
+  terc dropped Wrench
+[6/26/2021 9:33:54 PM]
+  terc dropped Wrench
+[6/26/2021 9:33:54 PM]
+  terc dropped Wrench
+[6/26/2021 9:33:54 PM]
+  terc dropped Wrench
+[6/26/2021 9:33:56 PM]
+  terc picked up Tazer Gun
+[6/26/2021 9:34:04 PM]
+  noob: street goofs
+[6/26/2021 9:34:10 PM]
+  tomacatx1 removed Diving Mask from Supplies Cabinet (ID: 1845)
+[6/26/2021 9:34:11 PM]
+  tomacatx1 picked up Diving Mask
+[6/26/2021 9:34:13 PM]
+  terc picked up Satchel Charge (C-4)
+[6/26/2021 9:34:14 PM]
+  tomacatx1 picked up Welding Tool
+[6/26/2021 9:34:15 PM]
+  tomacatx1 picked up Bandage
+[6/26/2021 9:34:15 PM]
+  tomacatx1 picked up Bandage
+[6/26/2021 9:34:15 PM]
+  tomacatx1 picked up Bandage
+[6/26/2021 9:34:15 PM]
+  tomacatx1 picked up Bandage
+[6/26/2021 9:34:16 PM]
+  terc picked up Military Mk-I Hardsuit
+[6/26/2021 9:34:21 PM]
+  noob equipped Metallic Foam Sprayer
+[6/26/2021 9:34:21 PM]
+  Outer wall repaired by noob
+[6/26/2021 9:34:21 PM]
+  Outer wall repaired by noob
+[6/26/2021 9:34:21 PM]
+  Outer wall repaired by noob
+[6/26/2021 9:34:21 PM]
+  Outer wall repaired by noob
+[6/26/2021 9:34:23 PM]
+  tomacatx1 equipped Tactical Backpack
+[6/26/2021 9:34:23 PM]
+  tomacatx1 picked up Tactical Backpack
+[6/26/2021 9:34:26 PM]
+  terc: im power gaming.
+[6/26/2021 9:34:27 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 860)
+[6/26/2021 9:34:27 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 860)
+[6/26/2021 9:34:27 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 860)
+[6/26/2021 9:34:27 PM]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 860)
+[6/26/2021 9:34:31 PM]
+  tomacatx1 equipped Crate of C-4
+[6/26/2021 9:34:31 PM]
+  tomacatx1 picked up Crate of C-4
+[6/26/2021 9:34:40 PM]
+  terc equipped Marine SMG
+[6/26/2021 9:34:42 PM]
+  tomacatx1 placed Crate of C-4 in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:47 PM]
+  tomacatx1 placed Welding Tool in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:47 PM]
+  tomacatx1 removed Screwdriver from Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:47 PM]
+  tomacatx1 removed Screwdriver from Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:47 PM]
+  tomacatx1 removed Screwdriver from Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:47 PM]
+  tomacatx1 removed Screwdriver from Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:47 PM]
+  tomacatx1 picked up Screwdriver
+[6/26/2021 9:34:47 PM]
+  tomacatx1 picked up Screwdriver
+[6/26/2021 9:34:47 PM]
+  tomacatx1 picked up Screwdriver
+[6/26/2021 9:34:47 PM]
+  tomacatx1 picked up Screwdriver
+[6/26/2021 9:34:49 PM]
+  Lestraught picked up Combat Diving Suit
+[6/26/2021 9:34:50 PM]
+  tomacatx1 picked up Welding Tool
+[6/26/2021 9:34:50 PM]
+  tomacatx1 dropped Screwdriver
+[6/26/2021 9:34:50 PM]
+  tomacatx1 dropped Screwdriver
+[6/26/2021 9:34:50 PM]
+  tomacatx1 dropped Screwdriver
+[6/26/2021 9:34:50 PM]
+  tomacatx1 dropped Screwdriver
+[6/26/2021 9:34:50 PM]
+  tomacatx1 placed Screwdriver in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:50 PM]
+  tomacatx1 placed Screwdriver in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:50 PM]
+  tomacatx1 placed Screwdriver in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:50 PM]
+  tomacatx1 placed Screwdriver in Large Steel Cabinet (ID: 573)
+[6/26/2021 9:34:52 PM]
+  Lestraught picked up Reinforced Oxygen Tank
+[6/26/2021 9:34:52 PM]
+  tomacatx1 picked up Screwdriver
+[6/26/2021 9:34:52 PM]
+  Lestraught picked up Reinforced Oxygen Tank
+[6/26/2021 9:34:53 PM]
+  Lestraught picked up Reinforced Oxygen Tank
+[6/26/2021 9:34:55 PM]
+  Lestraught picked up Reinforced Oxygen Tank
+[6/26/2021 9:34:55 PM]
+  Lestraught picked up Reinforced Oxygen Tank
+[6/26/2021 9:34:55 PM]
+  Lestraught picked up Reinforced Oxygen Tank
+[6/26/2021 9:35:07 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 9:35:07 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 9:35:07 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 9:35:07 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 9:35:07 PM]
+  sylv picked up Aquatic Poppy
+[6/26/2021 9:35:07 PM]
+  tomacatx1 picked up Wrench
+[6/26/2021 9:35:07 PM]
+  Lestraught placed Reinforced Oxygen Tank in Renegade Combat Undershirt (ID: 8018)
+[6/26/2021 9:35:07 PM]
+  Lestraught placed Reinforced Oxygen Tank in Renegade Combat Undershirt (ID: 8018)
+[6/26/2021 9:35:10 PM]
+  Lestraught placed Reinforced Oxygen Tank in Renegade Combat Undershirt (ID: 8018)
+[6/26/2021 9:35:10 PM]
+  Lestraught placed Reinforced Oxygen Tank in Renegade Combat Undershirt (ID: 8018)
+[6/26/2021 9:35:10 PM]
+  Lestraught placed Reinforced Oxygen Tank in Renegade Combat Undershirt (ID: 8018)
+[6/26/2021 9:35:10 PM]
+  Lestraught placed Reinforced Oxygen Tank in Renegade Combat Undershirt (ID: 8018)
+[6/26/2021 9:35:16 PM]
+  terc: HELLO (:
+[6/26/2021 9:35:17 PM]
+  Lestraught placed 9mm Magazine (High-Capacity) in Handgun (ID: 8024)
+[6/26/2021 9:35:19 PM]
+  Lestraught placed 10mm-Auto Magazine in Compact SMG (ID: 8030)
+[6/26/2021 9:35:21 PM]
+  Lestraught placed 9mm Magazine (High-Capacity) in Tactical Backpack (ID: 8021)
+[6/26/2021 9:35:21 PM]
+  Lestraught placed 9mm Magazine (High-Capacity) in Tactical Backpack (ID: 8021)
+[6/26/2021 9:35:21 PM]
+  noob: almost
+[6/26/2021 9:35:23 PM]
+  Lestraught placed 10mm-Auto Magazine in Tactical Backpack (ID: 8021)
+[6/26/2021 9:35:23 PM]
+  Lestraught placed 10mm-Auto Magazine in Tactical Backpack (ID: 8021)
+[6/26/2021 9:35:26 PM]
+  superhands launched Coilgun (projectile: Piercing Coilgun Bolt)
+[6/26/2021 9:35:27 PM]
+  Lestraught placed Diving Mask in Tactical Backpack (ID: 8021)
+[6/26/2021 9:35:27 PM]
+  noob: its not DOOOCKING
+[6/26/2021 9:35:27 PM]
+  sylv picked up Fiber Plant
+[6/26/2021 9:35:27 PM]
+  sylv picked up Fiber Plant
+[6/26/2021 9:35:27 PM]
+  sylv picked up Fiber Plant
+[6/26/2021 9:35:27 PM]
+  sylv picked up Fiber Plant
+[6/26/2021 9:35:27 PM]
+  sylv picked up Fiber Plant
+[6/26/2021 9:35:27 PM]
+  sylv picked up Fiber Plant
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  sylv picked up Elastin Plant
+[6/26/2021 9:35:30 PM]
+  sylv picked up Elastin Plant
+[6/26/2021 9:35:30 PM]
+  sylv picked up Elastin Plant
+[6/26/2021 9:35:30 PM]
+  sylv picked up Elastin Plant
+[6/26/2021 9:35:30 PM]
+  sylv picked up Elastin Plant
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:30 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:31 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:31 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:31 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:31 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:31 PM]
+  terc launched Light Rotary Chaingun (projectile: Light Chaingun Turret Piercing Round)
+[6/26/2021 9:35:33 PM]
+  sylv placed Elastin Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:33 PM]
+  sylv placed Elastin Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:33 PM]
+  sylv placed Elastin Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:33 PM]
+  sylv placed Elastin Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:33 PM]
+  sylv placed Elastin Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:34 PM]
+  sylv placed Aquatic Poppy in Deconstructor (ID: 291)
+[6/26/2021 9:35:34 PM]
+  sylv placed Aquatic Poppy in Deconstructor (ID: 291)
+[6/26/2021 9:35:34 PM]
+  sylv placed Aquatic Poppy in Deconstructor (ID: 291)
+[6/26/2021 9:35:34 PM]
+  sylv placed Aquatic Poppy in Deconstructor (ID: 291)
+[6/26/2021 9:35:34 PM]
+  sylv placed Aquatic Poppy in Deconstructor (ID: 291)
+[6/26/2021 9:35:34 PM]
+  Lestraught picked up Laser Rifle (Flashlight)
+[6/26/2021 9:35:35 PM]
+  noob: i am motherfucker
+[6/26/2021 9:35:35 PM]
+  sylv placed Fiber Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:35 PM]
+  sylv placed Fiber Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:35 PM]
+  sylv placed Fiber Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:35 PM]
+  sylv placed Fiber Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:35 PM]
+  sylv placed Fiber Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:35 PM]
+  sylv placed Fiber Plant in Deconstructor (ID: 291)
+[6/26/2021 9:35:36 PM]
+  sylv activated Deconstructor
+[6/26/2021 9:35:37 PM]
+  Lestraught picked up Marine Battle Rifle
+[6/26/2021 9:35:44 PM]
+  Lestraught equipped Storage Container
+[6/26/2021 9:35:44 PM]
+  Lestraught picked up Storage Container
+[6/26/2021 9:35:46 PM]
+  Lestraught placed 5.56x45mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:35:46 PM]
+  Lestraught placed 5.56x45mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:35:47 PM]
+  Lestraught placed 5.56x45mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:35:47 PM]
+  Lestraught placed 5.56x45mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:35:48 PM]
+  Lestraught placed Storage Container in Material Storage Locker (ID: 344)
+[6/26/2021 9:35:49 PM]
+  Lestraught picked up 5.56x45mm Magazine
+[6/26/2021 9:35:49 PM]
+  Lestraught picked up 5.56x45mm Magazine
+[6/26/2021 9:35:49 PM]
+  Lestraught picked up 5.56x45mm Magazine
+[6/26/2021 9:35:49 PM]
+  Lestraught picked up 5.56x45mm Magazine
+[6/26/2021 9:35:56 PM]
+  terc: dink can i shoot your ship
+[6/26/2021 9:35:56 PM]
+  sylv: can someone shoot themselves so i can do surgery
+[6/26/2021 9:35:57 PM]
+  Lestraught placed 5.56x45mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:35:57 PM]
+  Lestraught placed 5.56x45mm Magazine in Material Storage Locker (ID: 344)
+[6/26/2021 9:35:57 PM]
+  Lestraught removed Laser Rifle Cell from Material Storage Locker (ID: 344)
+[6/26/2021 9:35:57 PM]
+  Lestraught removed Laser Rifle Cell from Material Storage Locker (ID: 344)
+[6/26/2021 9:35:57 PM]
+  Lestraught picked up Laser Rifle Cell
+[6/26/2021 9:35:57 PM]
+  Lestraught picked up Laser Rifle Cell
+[6/26/2021 9:35:59 PM]
+  Lestraught picked up 5.56x45mm Magazine
+[6/26/2021 9:35:59 PM]
+  Lestraught picked up 5.56x45mm Magazine
+[6/26/2021 9:35:59 PM]
+  noob: what can i say
+[6/26/2021 9:36:01 PM]
+  noob: im a natrual pilot
+[6/26/2021 9:36:02 PM]
+  Lestraught equipped Laser Rifle (Flashlight)
+[6/26/2021 9:36:08 PM]
+  sylv picked up Body Scanner
+[6/26/2021 9:36:09 PM]
+  sylv equipped Body Scanner
+[6/26/2021 9:36:11 PM]
+  Lestraught equipped Marine Battle Rifle
+[6/26/2021 9:36:16 PM]
+  sylv used item Body Scanner
+[6/26/2021 9:36:16 PM]
+  Pirate Captain: Pirate Greaser, repair damaged systems!
+[6/26/2021 9:36:17 PM]
+  terc placed Military Mk-I Hardsuit in Diving Suit Locker (ID: 303)
+[6/26/2021 9:36:18 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:36:23 PM]
+  Pirate Captain: Pirate Physicist, repair damaged systems!
+[6/26/2021 9:36:24 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:36:25 PM]
+  Pirate Greaser started repairing Battery
+[6/26/2021 9:36:28 PM]
+  sylv picked up Scalpel
+[6/26/2021 9:36:29 PM]
+  Pirate Greaser started repairing Battery
+[6/26/2021 9:36:30 PM]
+  Pirate Physicist started repairing Battery
+[6/26/2021 9:36:35 PM]
+  sylv picked up Retractor
+[6/26/2021 9:36:37 PM]
+  sylv used item Biofoam Injector (contained items: Biofoam Tank)
+[6/26/2021 9:36:41 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/26/2021 9:36:41 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:36:46 PM]
+  sylv placed Body Scanner in Toolbelt (ID: 1820)
+[6/26/2021 9:36:48 PM]
+  sylv placed Scalpel in Toolbelt (ID: 1820)
+[6/26/2021 9:36:49 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:36:49 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:36:50 PM]
+  Pirate Greaser started repairing Battery
+[6/26/2021 9:36:51 PM]
+  sylv placed Retractor in Toolbelt (ID: 1820)
+[6/26/2021 9:37:00 PM]
+  terc: yes
+[6/26/2021 9:37:01 PM]
+  noob removed Fuel Rod from Large Steel Cabinet (ID: 201)
+[6/26/2021 9:37:01 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/26/2021 9:37:02 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:37:06 PM]
+  tomacatx1 picked up Cigarette Pack
+[6/26/2021 9:37:07 PM]
+  superhands picked up Combat Diving Suit
+[6/26/2021 9:37:07 PM]
+  tomacatx1 picked up Cigarette
+[6/26/2021 9:37:09 PM]
+  noob picked up Fuel Rod
+[6/26/2021 9:37:09 PM]
+  noob dropped Fuel Rod
+[6/26/2021 9:37:09 PM]
+  noob placed Fuel Rod in Nuclear Reactor (ID: 192)
+[6/26/2021 9:37:10 PM]
+  tomacatx1 equipped Cigarette
+[6/26/2021 9:37:11 PM]
+  noob placed Fuel Rod in Large Steel Cabinet (ID: 201)
+[6/26/2021 9:37:12 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:12 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:14 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:14 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:14 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:14 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:14 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:14 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:14 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:14 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:16 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:16 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:16 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:16 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:16 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:16 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:16 PM]
+  sylv picked up Opium
+[6/26/2021 9:37:17 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:17 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:17 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:17 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:17 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:17 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:17 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:17 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:18 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:18 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:18 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:18 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:18 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:18 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:18 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:18 PM]
+  sylv picked up Organic Fiber
+[6/26/2021 9:37:22 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:37:22 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:37:23 PM]
+  Pirate Physicist started repairing Supercapacitor
+[6/26/2021 9:37:24 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/26/2021 9:37:24 PM]
+  terc: do i get to take one
+[6/26/2021 9:37:26 PM]
+  superhands equipped Depth Charge Shell
+[6/26/2021 9:37:26 PM]
+  superhands picked up Depth Charge Shell
+[6/26/2021 9:37:27 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:27 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:28 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:28 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:28 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:28 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:28 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:28 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:28 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Opium in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:29 PM]
+  sylv placed Organic Fiber in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:30 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:31 PM]
+  sylv placed Bandage in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  sylv placed Elastin in Material Storage Locker (ID: 293)
+[6/26/2021 9:37:32 PM]
+  noob: dude i gotta take a dump
+[6/26/2021 9:37:35 PM]
+  superhands placed Depth Charge Shell in Depth Charge Loader (ID: 2103)
+[6/26/2021 9:37:35 PM]
+  superhands removed Depth Decoy Shell from Depth Charge Loader (ID: 2103)
+[6/26/2021 9:37:35 PM]
+  superhands equipped Depth Decoy Shell
+[6/26/2021 9:37:35 PM]
+  superhands picked up Depth Decoy Shell
+[6/26/2021 9:37:38 PM]
+  terc: alright good luck
+[6/26/2021 9:37:38 PM]
+  superhands placed Depth Decoy Shell in Depth Charge Loader (ID: 2104)
+[6/26/2021 9:37:41 PM]
+  tomacatx1 set the recharge speed of Battery to 30 %
+[6/26/2021 9:37:41 PM]
+  tomacatx1 set the recharge speed of Battery to 60 %
+[6/26/2021 9:37:41 PM]
+  tomacatx1 set the recharge speed of Battery to 70 %
+[6/26/2021 9:37:41 PM]
+  tomacatx1 set the recharge speed of Battery to 90 %
+[6/26/2021 9:37:41 PM]
+  tomacatx1 set the recharge speed of Battery to 100 %
+[6/26/2021 9:37:43 PM]
+  tomacatx1 set the recharge speed of Battery to 40 %
+[6/26/2021 9:37:43 PM]
+  tomacatx1 set the recharge speed of Battery to 60 %
+[6/26/2021 9:37:43 PM]
+  tomacatx1 set the recharge speed of Battery to 90 %
+[6/26/2021 9:37:43 PM]
+  tomacatx1 set the recharge speed of Battery to 100 %
+[6/26/2021 9:37:45 PM]
+  tomacatx1 set the recharge speed of Battery to 40 %
+[6/26/2021 9:37:45 PM]
+  tomacatx1 set the recharge speed of Battery to 90 %
+[6/26/2021 9:37:45 PM]
+  tomacatx1 set the recharge speed of Battery to 100 %
+[6/26/2021 9:37:45 PM]
+  terc: im gonna guard dink
+[6/26/2021 9:37:46 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:37:46 PM]
+  Pirate Greaser started repairing Supercapacitor
+[6/26/2021 9:37:47 PM]
+  tomacatx1 set the recharge speed of Battery to 40 %
+[6/26/2021 9:37:47 PM]
+  tomacatx1 set the recharge speed of Battery to 80 %
+[6/26/2021 9:37:47 PM]
+  tomacatx1 set the recharge speed of Battery to 90 %
+[6/26/2021 9:37:47 PM]
+  tomacatx1 set the recharge speed of Battery to 100 %
+[6/26/2021 9:37:49 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:37:50 PM]
+  Pirate Greaser failed to repair Supercapacitor
+[6/26/2021 9:37:50 PM]
+  Pirate Physicist started repairing Supercapacitor
+[6/26/2021 9:37:50 PM]
+  sylv picked up Sprayer
+[6/26/2021 9:37:52 PM]
+  sylv picked up Ethanol
+[6/26/2021 9:37:53 PM]
+  sylv picked up Diving Mask
+[6/26/2021 9:37:53 PM]
+  sylv dropped Sprayer
+[6/26/2021 9:37:53 PM]
+  sylv placed Sprayer in Supplies Cabinet (ID: 1850)
+[6/26/2021 9:37:54 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:37:56 PM]
+  sylv placed Diving Mask in Supplies Cabinet (ID: 1850)
+[6/26/2021 9:38:01 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/26/2021 9:38:03 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:38:04 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:38:05 PM]
+  Pirate Physicist started repairing Junction Box
+[6/26/2021 9:38:07 PM]
+  superhands equipped Handgun
+[6/26/2021 9:38:09 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:38:13 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/26/2021 9:38:13 PM]
+  Pirate Greaser equipped Bandage
+[6/26/2021 9:38:14 PM]
+  Pirate Physicist equipped Wrench
+[6/26/2021 9:38:14 PM]
+  Pirate Greaser equipped Wrench
+[6/26/2021 9:38:16 PM]
+  Pirate Physicist unequipped Wrench
+[6/26/2021 9:38:16 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:38:21 PM]
+  sylv: no
+[6/26/2021 9:38:23 PM]
+  Pirate Physicist started repairing Junction Box
+[6/26/2021 9:38:24 PM]
+  sylv picked up Beer
+[6/26/2021 9:38:25 PM]
+  sylv picked up Beer
+[6/26/2021 9:38:26 PM]
+  sylv picked up Beer
+[6/26/2021 9:38:26 PM]
+  Pirate Greaser started repairing Oxygen Generator
+[6/26/2021 9:38:27 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:38:27 PM]
+  Pirate Physicist equipped Wrench
+[6/26/2021 9:38:27 PM]
+  sylv picked up Leninade
+[6/26/2021 9:38:27 PM]
+  Pirate Physicist unequipped Wrench
+[6/26/2021 9:38:35 PM]
+  Pirate Greaser unequipped Wrench
+[6/26/2021 9:38:35 PM]
+  Pirate Greaser equipped Bandage
+[6/26/2021 9:38:39 PM]
+  sylv used item Beer
+[6/26/2021 9:38:40 PM]
+  sylv used item Beer
+[6/26/2021 9:38:41 PM]
+  sylv used item Beer
+[6/26/2021 9:38:43 PM]
+  sylv used item Beer
+[6/26/2021 9:38:43 PM]
+  sylv used item Beer
+[6/26/2021 9:38:46 PM]
+  sylv used item Beer
+[6/26/2021 9:38:48 PM]
+  sylv used item Ethanol
+[6/26/2021 9:38:56 PM]
+  superhands picked up Marine SMG
+[6/26/2021 9:38:58 PM]
+  superhands picked up Riot Shotgun
+[6/26/2021 9:39:00 PM]
+  terc: dink is taking a shit
+[6/26/2021 9:39:06 PM]
+  sylv: i drank five beers and an enthanol
+[6/26/2021 9:39:06 PM]
+  Lestraught placed Reinforced Oxygen Tank in Renegade Combat Undershirt (ID: 8018)
+[6/26/2021 9:39:06 PM]
+  Lestraught removed Reinforced Oxygen Tank from Renegade Combat Undershirt (ID: 8018)
+[6/26/2021 9:39:06 PM]
+  Lestraught placed Reinforced Oxygen Tank in Combat Diving Suit (ID: 306)
+[6/26/2021 9:39:08 PM]
+  superhands equipped Marine SMG
+[6/26/2021 9:39:34 PM]
+  terc used item Anabolic Steroids
+[6/26/2021 9:39:39 PM]
+  Lestraught picked up Cigarette
+[6/26/2021 9:39:41 PM]
+  Lestraught equipped Cigarette
+[6/26/2021 9:39:51 PM]
+  sylv: posted what i see rn in the server
+[6/26/2021 9:39:54 PM]
+  tomacatx1 placed Cigarette in Trash Can (ID: 1717)
+[6/26/2021 9:39:54 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:39:55 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:39:55 PM]
+  Pirate Greaser started repairing Navigation Terminal
+[6/26/2021 9:39:59 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/26/2021 9:39:59 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:40:13 PM]
+  tomacatx1 picked up Cigarette
+[6/26/2021 9:40:13 PM]
+  Lestraught dropped Cigarette
+[6/26/2021 9:40:14 PM]
+  tomacatx1 equipped Cigarette
+[6/26/2021 9:40:15 PM]
+  sylv: i cant fucking see
+[6/26/2021 9:40:20 PM]
+  tomacatx1 picked up Pohmelin
+[6/26/2021 9:40:23 PM]
+  Lestraught unequipped Cigarette
+[6/26/2021 9:40:24 PM]
+  Lestraught equipped Cigarette
+[6/26/2021 9:40:34 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:40:34 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:40:35 PM]
+  tomacatx1 used item Pohmelin
+[6/26/2021 9:40:35 PM]
+  Pirate Greaser started repairing Junction Box
+[6/26/2021 9:40:36 PM]
+  noob: FUUCK
+[6/26/2021 9:40:36 PM]
+  Pirate Physicist started repairing Junction Box
+[6/26/2021 9:40:37 PM]
+  Pirate Greaser unequipped Screwdriver
+[6/26/2021 9:40:39 PM]
+  Pirate Physicist unequipped Screwdriver
+[6/26/2021 9:40:39 PM]
+  terc: wb dink
+[6/26/2021 9:40:41 PM]
+  terc equipped Hatchet
+[6/26/2021 9:40:42 PM]
+  noob: IM FAST AS FUCK
+[6/26/2021 9:40:45 PM]
+  superhands unequipped Cigarette
+[6/26/2021 9:40:45 PM]
+  superhands equipped Electric guitar
+[6/26/2021 9:40:45 PM]
+  terc: why
+[6/26/2021 9:40:46 PM]
+  tomacatx1 placed Pohmelin in Shelf (ID: 287)
+[6/26/2021 9:40:49 PM]
+  noob equipped Medium SSL Shell (AP)
+[6/26/2021 9:40:49 PM]
+  noob picked up Medium SSL Shell (AP)
+[6/26/2021 9:40:50 PM]
+  tomacatx1 picked up Corona Beer
+[6/26/2021 9:40:50 PM]
+  tomacatx1 picked up Corona Beer
+[6/26/2021 9:40:55 PM]
+  tomacatx1 placed Corona Beer in Secure Locker (Captain) (ID: 289)
+[6/26/2021 9:40:55 PM]
+  noob dropped Medium SSL Shell (AP)
+[6/26/2021 9:40:55 PM]
+  tomacatx1 placed Corona Beer in Secure Locker (Captain) (ID: 289)
+[6/26/2021 9:40:57 PM]
+  terc: lets race
+[6/26/2021 9:41:01 PM]
+  noob: IM A HOOLIGAN
+[6/26/2021 9:41:09 PM]
+  terc: hpčd pn
+[6/26/2021 9:41:11 PM]
+  terc: lets race
+[6/26/2021 9:41:14 PM]
+  noob: DISAT
+[6/26/2021 9:41:23 PM]
+  superhands dropped Electric guitar
+[6/26/2021 9:41:25 PM]
+  Lestraught unequipped Cigarette
+[6/26/2021 9:41:25 PM]
+  Lestraught equipped Electric guitar
+[6/26/2021 9:41:28 PM]
+  Lestraught placed Cigarette in Tactical Backpack (ID: 8021)
+[6/26/2021 9:41:29 PM]
+  noob equipped Screwdriver
+[6/26/2021 9:41:29 PM]
+  noob equipped Wrench
+[6/26/2021 9:41:33 PM]
+  superhands equipped Cigarette
+[6/26/2021 9:41:34 PM]
+  Pirate Greaser equipped Screwdriver
+[6/26/2021 9:41:35 PM]
+  Pirate Physicist equipped Screwdriver
+[6/26/2021 9:41:36 PM]
+  superhands dropped Cigarette
+[6/26/2021 9:41:37 PM]
+  sylv equipped Leninade
+[6/26/2021 9:41:38 PM]
+  superhands picked up Cigarette
+[6/26/2021 9:41:38 PM]
+  superhands equipped Cigarette
+[6/26/2021 9:41:39 PM]
+  Pirate Physicist started repairing Junction Box
+[6/26/2021 9:41:43 PM]
+  Pirate Brute: Do you ever wonder what happened to whoever built the ruins?
+[6/26/2021 9:41:44 PM]
+  sylv used item Leninade
+[6/26/2021 9:41:44 PM]
+  sylv used item Leninade
+[6/26/2021 9:41:46 PM]
+  noob: am i hallucenating
+[6/26/2021 9:41:48 PM]
+  Pirate Brute: Who doesn't?
+[6/26/2021 9:41:50 PM]
+  terc: yes
+[6/26/2021 9:41:52 PM]
+  Pirate Physicist started repairing Battery
+[6/26/2021 9:41:52 PM]
+  Pirate Greaser started repairing Battery
+[6/26/2021 9:41:53 PM]
+  noob: i cant REPAIR THIS BROKEN JUNCITON BOX
+[6/26/2021 9:41:55 PM]
+  noob: FUUUCKL
+[6/26/2021 9:41:55 PM]
+  terc: i injected you with steroids
+[6/26/2021 9:41:55 PM]
+  Pirate Physicist started repairing Battery

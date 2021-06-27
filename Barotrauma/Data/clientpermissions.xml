@@ -592,5 +592,7 @@
       name="control" />
     <command
       name="money" />
+    <command
+      name="enablecheats" />
   </Client>
 </ClientPermissions>

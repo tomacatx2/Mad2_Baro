@@ -28,7 +28,7 @@
   corpsedespawndelay="600"
   corpsespersubdespawnthreshold="5"
   usedualmodesockets="true"
-  disableingamehints="false"
+  disableingamehints="true"
   senduserstatistics="true">
   <graphicsmode
     width="1920"
@@ -257,7 +257,7 @@
   <ignoredhints
     identifiers="onstartedinteracting.item.gunloader,onafflictiondisplayed,onadjacenthull.highpressure,onadjacenthull.highwaterpercentage,onstartedinteracting.turretperiscope,onsonarspottedenemy,onstartedinteracting.item.navterminal,reminder.tabmenu,onshootwithoutaiming,onstartedcontrolling.job.securityofficer,onstartedcontrolling.job.assistant,onrepairfailed,onstartedinteracting.item.fabricator,reminder.commandinterface,onstartedinteracting.item.reactor,oncharacterunconscious,onstartedcontrolling.job.engineer,onstartedcontrolling.job.mechanic,onstartedinteracting.item.deconstructor,onstartedinteracting.lootingisstealing,onstartedinteracting.brokenitem" />
   <encountered
-    creatures="human,mudraptor,spineling,crawler,mudraptor_hatchling,swarmcrawler,husk,humanhusk,gundrone,ekdronerallybeacon,humanapostle,humanhive,ramblin,maggot,watcher,crawlerhusk,hammerheadgold,hammerhead,mudraptor_unarmored,peanut,terminalcell,moloch,endworm,moloch_m,charybdis" />
+    creatures="human,mudraptor,spineling,crawler,mudraptor_hatchling,swarmcrawler,husk,humanhusk,gundrone,ekdronerallybeacon,humanapostle,humanhive,ramblin,maggot,watcher,crawlerhusk,hammerheadgold,hammerhead,mudraptor_unarmored,peanut,terminalcell,moloch,endworm,moloch_m,charybdis,tigerthresher,bonethresher" />
   <killed
-    creatures="human,crawler,husk,humanapostle,humanhive,ramblin,maggot,moloch,moloch_m,hammerhead,spineling" />
+    creatures="human,crawler,husk,humanapostle,humanhive,ramblin,maggot,moloch,moloch_m,hammerhead,spineling,mudraptor,tigerthresher,bonethresher" />
 </config>

@@ -61,7 +61,7 @@
   kickafktime="600"
   karmaenabled="False"
   karmapreset="default"
-  gamemodeidentifier="mission"
+  gamemodeidentifier="sandbox"
   missiontype="Combat, Pirate, GoTo"
   maxplayers="10"
   autobantime="3600"

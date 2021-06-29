@@ -48,7 +48,7 @@
     voipattenuationenabled="true"
     usedirectionalvoicechat="true"
     voicesetting="PushToTalk"
-    audiooutputdevice="OpenAL_x0020_Soft_x0020_on_x0020_Speakers_x0020__x0028_High_x0020_Definition_x0020_Audio_x0020_Device_x0029_"
+    audiooutputdevice="OpenAL_x0020_Soft_x0020_on_x0020_Speakers_x0020__x0028_Realtek_x0020_High_x0020_Definition_x0020_Audio_x0029_"
     voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_Microphone_x0020__x0028_Realtek_x0020_High_x0020_Definition_x0020_Audio_x0029_"
     noisegatethreshold="-45"
     uselocalvoicebydefault="false" />
@@ -65,6 +65,10 @@
       name="Vanilla 0.9" />
     <regular>
       <package
+        name="EK Marauder Mk-II" />
+      <package
+        name="EK NurseShark Mk-I" />
+      <package
         name="EK Gunnery"
         enabled="true" />
       <package
@@ -78,9 +82,6 @@
         enabled="true" />
       <package
         name="EK Dockyard"
-        enabled="true" />
-      <package
-        name="Remora-Pirate"
         enabled="true" />
       <package
         name="MoreHeadgear"
@@ -127,10 +128,6 @@
       <package
         name="[ENV] Beacons Extended" />
       <package
-        name="EK Marauder Mk-II" />
-      <package
-        name="EK NurseShark Mk-I" />
-      <package
         name="EK Reliant Mk-V" />
       <package
         name="Jobs+" />
@@ -170,6 +167,9 @@
         name="Berilia pirate" />
       <package
         name="FreddyMod" />
+      <package
+        name="Remora-Pirate"
+        enabled="true" />
     </regular>
   </contentpackages>
   <keymapping

@@ -18,7 +18,8 @@
     <Reputation identifier="location" amount="30" />
     <SubmarineTypes>
       <Submarine path="Mods/Remora-Pirate/Orca-Pirate.sub" preferreddifficulty="15" alternatereward="3600"/>
-<Submarine path="Mods/Remora-Pirate/Berilia pirate.sub" preferreddifficulty="25" alternatereward="4500"/>
+<Submarine path="Mods/Remora-Pirate/Azimuth-Pirate.sub" preferreddifficulty="20" alternatereward="3900"/>
+<Submarine path="Mods/Remora-Pirate/Berilia pirate.sub" preferreddifficulty="45" alternatereward="4500"/>
       <Submarine path="Mods/Remora-Pirate/Remora-Pirate.sub" preferreddifficulty="50" alternatereward="5200"/>
       <Submarine path="Mods/Remora-Pirate/Kastrull-Pirate.sub" preferreddifficulty="90" alternatereward="6300"/>
     </SubmarineTypes>

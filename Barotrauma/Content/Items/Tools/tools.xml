@@ -1329,4 +1329,112 @@
     <AiTarget sightrange="4000"/>
     <Upgrade gameversion="0.10.0.0" scale="0.5" />
   </Item>
+  <Item name="LRS Monitor" identifier="placeableLRS" tags="command,sonarmonitor" category="Machine" linkable="true" allowedlinks="statusmonitor" scale="0.5" 
+  description="Usable device for observing the sub's sonar long range. ( Place by pressing aim + use )" damagedbyexplosions="true" explosiondamagemultiplier="0.2">
+    <Price baseprice="340" soldeverywhere="false" minleveldifficulty="15">
+      <Price locationtype="outpost" multiplier="1.1" sold="false" />
+      <Price locationtype="city" multiplier="0.9" minavailable="1" />
+      <Price locationtype="research" multiplier="1" minavailable="1" />
+      <Price locationtype="military" multiplier="1.2" minavailable="1" />
+      <Price locationtype="mine" multiplier="1.3" minavailable="1" />
+    </Price>
+	<!--
+	20
+	45
+	100
+	100
+	80
+	-->
+    <Fabricate suitablefabricators="fabricator" requiredtime="15" >
+      <RequiredSkill identifier="electrical" level="30" />
+      <RequiredSkill identifier="helm" level="40" />
+      <RequiredItem identifier="physicorium" />
+      <RequiredItem identifier="plastic" />
+      <RequiredItem identifier="wificomponent" />
+      <RequiredItem identifier="fulgurium" />
+      <RequiredItem identifier="fpgacircuit" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="steel" />
+      <Item identifier="plastic" />
+      <Item identifier="wificomponent"/>
+      <Item identifier="wificomponent"/>
+      <Item identifier="fpgacircuit"/>
+    </Deconstruct>
+    <Sprite texture="Mods/EK Utilities/Items/Tools/ekutility_placeableconsoles.png" sourcerect="0,0,192,224" depth="0.8" canflipx="false"/>
+    <BrokenSprite texture="Mods/EK Utilities/Items/Tools/ekutility_placeableconsoles.png" sourcerect="192,0,192,224" depth="0.8" maxcondition="80" fadein="true" />
+    <BrokenSprite texture="Mods/EK Utilities/Items/Tools/ekutility_placeableconsoles.png" sourcerect="192,224,192,224" depth="0.8" maxcondition="0" />
+	
+    <Body width="160" height="200" density="40" />
+    <Holdable selectkey="Select" pickkey="Use" slots="RightHand+LeftHand" msg="ItemMsgDetachWrench" PickingTime="10.0" aimpos="65,-10" handle1="0,0" attachable="true" aimable="false">
+      <RequiredItem identifier="wrench" type="Equipped" />
+      <StatusEffect type="OnActive" target="Character" SpeedMultiplier="0.5" setvalue="true" />
+    </Holdable>
+
+    <LightComponent range="10.0" lightcolor="255,255,255,0" powerconsumption="5"  IsOn="true" castshadows="false" allowingameediting="false" Flicker="0.2" Flickerspeed="0.7">
+      <sprite texture="Mods/EK Utilities/Items/Tools/ekutility_placeableconsoles.png" depth="0.025" sourcerect="16,240,160,160" origin="0.5,0.5" alpha="1.0" />
+    </LightComponent>
+
+    <aitarget sightrange="200" soundrange="20000" staticsight="true" fadeouttime="15" />
+    <Sonar canbeselected="true" range="20000" powerconsumption="600" displaybordersize="-0.1" allowuioverlap="true">
+      <GuiFrame relativesize="0.55,0.59" anchor="Center" relativeoffset="0.1,-0.05" />
+      <sound file="Content/Items/Command/newSounds/SonarSweep1.ogg" type="OnUse" range="20000" volume="2"/>
+	  <sound file="Content/Items/Command/newSounds/SonarSweep2.ogg" type="OnUse" range="20000" volume="2"/>
+	  <sound file="Content/Items/Command/newSounds/SonarSweep3.ogg" type="OnUse" range="20000" volume="2"/>
+	  <sound file="Content/Items/Command/newSounds/SonarSweep4.ogg" type="OnUse" range="20000" volume="2"/>
+	  <sound file="Content/Items/Command/newSounds/SonarSweep5.ogg" type="OnUse" range="20000" volume="2"/>
+      <StatusEffect type="OnUse" >
+        <sound file="Content/Items/Command/SonarPingFar.ogg"  type="OnUse" range="20000.0" volume="0.8" />
+        <sound file="Content/Items/Command/SonarPingFar2.ogg" type="OnUse" range="20000.0" volume="0.8" />
+      </StatusEffect>
+	  <StatusEffect type="OnUse" target="This" delay="2.0"/>
+      <PingCircle texture="Content/Items/Command/pingCircle.png" origin="0.5,0.5" />
+      <DirectionalPingCircle texture="Content/Items/Command/directionalPingCircle.png" origin="0.0,0.5" />
+      <ScreenOverlay texture="Content/Items/Command/sonarOverlay.png" origin="0.5,0.5" />
+      <ScreenBackground texture="Content/Items/Command/sonarBackground.png" origin="0.5,0.5" />
+      <DirectionalPingBackground texture="Content/Items/Command/directionalPingBackground.png" origin="0.5,0.5" />
+      <DirectionalPingButton index="0" texture="Content/Items/Command/directionalPingButton.png" sourcerect="0,0,91,266" origin="-4.5275,0.5" />
+      <DirectionalPingButton index="1" texture="Content/Items/Command/directionalPingButton.png" sourcerect="133,0,91,266" origin="-4.5275,0.5" />
+      <DirectionalPingButton index="2" texture="Content/Items/Command/directionalPingButton.png" sourcerect="266,0,91,266" origin="-4.5275,0.5" />
+      <Blip texture="Content/Items/Command/sonarBlip.png" origin="0.5,0.5" />
+      <LineSprite texture="Content/Items/Command/NavUI.png" sourcerect="181,141,109,4" origin="0,0.5"/>
+      <icon identifier="outpost" texture="Content/UI/MainIconsAtlas.png" sourcerect="352,398,16,8" origin="0.5,0.5"/>
+      <icon identifier="submarine" texture="Content/UI/MainIconsAtlas.png" sourcerect="353,407,14,6" origin="0.5,0.5"/>
+      <icon identifier="shuttle" texture="Content/UI/MainIconsAtlas.png" sourcerect="336,407,8,6" origin="0.5,0.5"/>
+      <icon identifier="artifact" texture="Content/UI/MainIconsAtlas.png" sourcerect="336,414,8,8" origin="0.5,0.5"/>
+      <icon identifier="location" texture="Content/UI/MainIconsAtlas.png" sourcerect="349,435,11,11" origin="0.5,0.5"/>
+      <icon identifier="" texture="Content/UI/MainIconsAtlas.png" sourcerect="346,416,4,4" origin="0.5,0.5"/>
+    </Sonar>
+
+    <ConnectionPanel selectkey="Action" canbeselected="true" hudpriority="10" msg="ItemMsgRewireScrewdriver">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel"/>
+      <RequiredSkill identifier="electrical" level="55" />
+      <StatusEffect type="OnFailure" target="Character" targetlimbs="LeftHand,RightHand">
+        <Sound file="Content/Sounds/Damage/Electrocution1.ogg" range="1000" />
+        <Explosion range="100.0" stun="0" force="5.0" flames="false" shockwave="false" sparks="true" underwaterbubble="false" />
+        <Affliction identifier="stun" strength="5" />
+        <Affliction identifier="burn" strength="5" />
+      </StatusEffect>
+      <RequiredItem items="screwdriver" type="Equipped"/>
+      <input name="power_in" displayname="connection.powerin" />
+      <!--
+	  <input name="transducer_in" displayname="connection.sonartransducerin" />
+	  -->
+    </ConnectionPanel>
+	
+    <Repairable selectkey="Select" header="electricalrepairsheader" deteriorationspeed="0.50" mindeteriorationdelay="60" maxdeteriorationdelay="120" RepairThreshold="80" fixDurationHighSkill="5" fixDurationLowSkill="25" msg="ItemMsgRepairWrench" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.16" minsize="400,180" maxsize="480,216" anchor="Center" relativeoffset="0.1,0.27" style="ItemUI"/>
+      <RequiredSkill identifier="electrical" level="55" />
+      <RequiredItem items="screwdriver" type="equipped" />
+      <ParticleEmitter particle="damagebubbles" particleburstamount="2" particleburstinterval="2.0" particlespersecond="2" scalemin="0.5" scalemax="1.5" anglemin="0" anglemax="359" velocitymin="-10" velocitymax="10" mincondition="0.0" maxcondition="50.0" />
+      <ParticleEmitter particle="spark" particleburstamount="5" particlespersecond="5" anglemin="0" anglemax="359" velocitymin="100" velocitymax="500" particleburstinterval="2"  scalemin="0.5" scalemax="1" mincondition="0.0" maxcondition="15.0" />
+      <ParticleEmitter particle="fleshsmoke" particlespersecond="2" scalemin="1" scalemax="2" mincondition="0.0" maxcondition="50.0" />
+      <StatusEffect type="OnFailure" target="Character" targetlimbs="LeftHand,RightHand">
+        <Sound file="Content/Sounds/Damage/Electrocution1.ogg" range="1000" />
+        <Affliction identifier="stun" strength="5" />
+        <Affliction identifier="burn" strength="5" />
+      </StatusEffect>
+    </Repairable>
+
+  </Item>
  </Items>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!-- UNIFORMS START -->
+  <Item name="Marine Uniform" identifier="marineuniform" aliases="marineuniform" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="Even though it bears no resemblance, this experimental suit is named after a military branch of the old earth. It provides ample protection against the punishment of combat, and has an adaptive holster that can be adjusted to easily fit any hand-held weaponry with ease of access." scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="outpostcrewcabinet" minamount="1" maxamount="1" spawnprobability="0.001"/>
+    <Price baseprice="600">
+      <Price locationtype="outpost" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" minavailable="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" minavailable="1"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1" sold="false"/>
+    </Price>
+	<Deconstruct time="25">
+	  <Item identifier="ballisticfiber" />
+	  <Item identifier="ballisticfiber" />
+	  <Item identifier="physicorium" />
+	  <Item identifier="physicorium" />
+      <Item identifier="securityuniform1" />
+	</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="40">
+      <RequiredSkill identifier="weapons" level="50" />
+	  <Item identifier="ballisticfiber" />
+	  <Item identifier="ballisticfiber" />
+	  <Item identifier="physicorium" />
+	  <Item identifier="physicorium" />
+      <Item identifier="securityuniform1" />
+    </Fabricate>
+    <InventoryIcon name="Marine Uniform Icon" texture="Mods/Extra Clothes/OutfitIcons.png" sourcerect="383,151,129,105" origin="0.5,0.5" />
+    <Sprite name="Marine Uniform" texture="Mods/Extra Clothes/MiscJobGear.png" sourcerect="18,714,205,79" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Marine Uniform Torso" texture="Mods/Extra Clothes/Security/marine_torso_[GENDER].png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Left Arm" texture="Mods/Extra Clothes/Security/marine_torso_[GENDER].png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Right Arm" texture="Mods/Extra Clothes/Security/marine_torso_[GENDER].png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Right Lower Arm" texture="Mods/Extra Clothes/Security/marine_torso_[GENDER].png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Left Lower Arm" texture="Mods/Extra Clothes/Security/marine_torso_[GENDER].png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Waist" texture="Mods/Extra Clothes/Security/marine_legs_[GENDER].png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Right Thigh" texture="Mods/Extra Clothes/Security/marine_legs_[GENDER].png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Left Thigh" texture="Mods/Extra Clothes/Security/marine_legs_[GENDER].png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Right Leg" texture="Mods/Extra Clothes/Security/marine_legs_[GENDER].png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Left Leg" texture="Mods/Extra Clothes/Security/marine_legs_[GENDER].png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Right Shoe" texture="Mods/Extra Clothes/Security/marine_legs_[GENDER].png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Marine Uniform Left Shoe" texture="Mods/Extra Clothes/Security/marine_legs_[GENDER].png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.3" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="bleeding" damagemultiplier="0.9" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.7" damagesound="LimbArmor" deflectprojectiles="true" />
+    </Wearable>
+	<ItemContainer capacity="1" hideitems="true">
+	  <Containable items="revolverammo,shotgunammo,smgammo,explosive,smallarmsammo,ek_ammotag_piperound,revolverround,ek_revolver_flare,ek_ammotag_9mm,9mm_magazine,ek_handgun_mags,magazine,round,handgun_alien_mag,ek_ammotag_57mm,ek_smg_mags,ek_microtorpedo,ek_shotgun_shells,shotgunshell,ek_tazer_mags,ek_tazer_round,ek_flamer_tank,ek_ammotag_alienmag,ek_dart,ek_ammotag_10mm,ek_rocketammo,ek_gausspistol_mags,ek_ammotag_556,ek_ammotag357,ek_revolverloader,grenade,c4block,compoundn,ic4block,volatilecompoundn,spear,alienspear,explosivespear,harpoongun,revolver,smg,stunbaton,divingknife,grenadelauncher,shotgun,stungun,toyhammer,ek_hatchet,ek_captains_sabre,ek_tonfa,ek_throwingknife,ek_piperifle,ek_handgun,ek_smg,ek_riotshield,ek_torpedorifle,ek_flaregun,ek_impact_mine,ek_proximity_mine,ek_double_shotgun,ek_shotgun,ek_tazer,ek_flamethrower,ek_alienrifle,ek_petrobomb,ek_micro_dartgun,ek_dartgun,ek_mini_smg,ek_rocketlauncher,ek_gausspistol,ek_gaussrifle,ek_drumlmg,ek_battlerifle,ek_beast_ssl,ek_ied,ek_breachingcharge,ek_explosivecharge_uex,ek_explosivecharge_c4,ek_thermiteblock,ek_explosivecharge_thermite,ek_laserpistol,ek_laserrifle,ek_dynamite,ek_revolver,ek_ammotag_piperound,ek_ammotag_9mm,ek_ammotag_10mm,ek_ammotag_57mm,ek_ammotag_shotgunshell,ek_ammotag_tazer,ek_ammotag_556drum,ek_ammotag_dart,ek_ammotag_gausspistol,ek_ammotag_gaussrifle,ek_ammotag_microtorpedo,ek_ammotag_rocket,ek_ammotag_30mmfc,ek_ammotag_556,ek_ammotag_laserpistol,ek_ammotag_laserrifle,ek_ammotag_357" />
+	</ItemContainer>
+  </Item>
+  <Item name="SEAL Uniform" identifier="sealuniform" category="Equipment" tags="smallitem,clothing" fireproof="false" cargocontaineridentifier="metalcrate" description="Even though it bears no resemblance, this experimental suit is named after a special operations force of the old earth. It provides ample protection against the punishment of combat, and 4 armored pouches that can safely store ammunition and explosives for prolonged combat." scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="outpostcrewcabinet" minamount="1" maxamount="1" spawnprobability="0.001"/>
+    <Price baseprice="600">
+      <Price locationtype="outpost" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" minavailable="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" minavailable="1"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1" sold="false"/>
+    </Price>
+	<Deconstruct time="25">
+	  <Item identifier="ballisticfiber" />
+	  <Item identifier="ballisticfiber" />
+	  <Item identifier="physicorium" />
+	  <Item identifier="physicorium" />
+      <Item identifier="securityuniform1" />
+	</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="40">
+      <RequiredSkill identifier="weapons" level="50" />
+	  <Item identifier="ballisticfiber" />
+	  <Item identifier="ballisticfiber" />
+	  <Item identifier="physicorium" />
+	  <Item identifier="physicorium" />
+      <Item identifier="securityuniform1" />
+    </Fabricate>
+    <InventoryIcon name="SEAL Uniform Icon" texture="Mods/Extra Clothes/OutfitIcons.png" sourcerect="0,274,128,110" origin="0.5,0.5" />
+    <Sprite name="SEAL Uniform" texture="Mods/Extra Clothes/MiscJobGear.png" sourcerect="232,710,195,83" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="SEAL Uniform Torso" texture="Mods/Extra Clothes/Security/navyseal_torso_[GENDER].png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Left Arm" texture="Mods/Extra Clothes/Security/navyseal_torso_[GENDER].png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Right Arm" texture="Mods/Extra Clothes/Security/navyseal_torso_[GENDER].png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Right Lower Arm" texture="Mods/Extra Clothes/Security/navyseal_torso_[GENDER].png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Left Lower Arm" texture="Mods/Extra Clothes/Security/navyseal_torso_[GENDER].png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Waist" texture="Mods/Extra Clothes/Security/navyseal_legs_[GENDER].png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Right Thigh" texture="Mods/Extra Clothes/Security/navyseal_legs_[GENDER].png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Left Thigh" texture="Mods/Extra Clothes/Security/navyseal_legs_[GENDER].png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Right Leg" texture="Mods/Extra Clothes/Security/navyseal_legs_[GENDER].png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Left Leg" texture="Mods/Extra Clothes/Security/navyseal_legs_[GENDER].png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Right Shoe" texture="Mods/Extra Clothes/Security/navyseal_legs_[GENDER].png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="SEAL Uniform Left Shoe" texture="Mods/Extra Clothes/Security/navyseal_legs_[GENDER].png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.6" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier afflictionidentifiers="bitewounds" armorsector="0.0,360.0" damagemultiplier="0.25" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="bleeding" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.7" damagesound="LimbArmor" deflectprojectiles="true" />
+    </Wearable>
+	<ItemContainer capacity="4" hideitems="true">
+	  <Containable items="revolverammo,shotgunammo,smgammo,explosive,smallarmsammo,ek_ammotag_piperound,revolverround,ek_revolver_flare,ek_ammotag_9mm,9mm_magazine,ek_handgun_mags,magazine,round,handgun_alien_mag,ek_ammotag_57mm,ek_smg_mags,ek_microtorpedo,ek_shotgun_shells,shotgunshell,ek_tazer_mags,ek_tazer_round,ek_flamer_tank,ek_ammotag_alienmag,ek_dart,ek_ammotag_10mm,ek_rocketammo,ek_gausspistol_mags,ek_ammotag_556,ek_ammotag357,ek_revolverloader,grenade,c4block,compoundn,ic4block,volatilecompoundn,ek_throwingknife,ek_ied,ek_breachingcharge,ek_explosivecharge_c4,ek_thermiteblock,ek_explosivecharge_thermite,ek_dynamite" />
+	</ItemContainer>
+  </Item>
+</Items>

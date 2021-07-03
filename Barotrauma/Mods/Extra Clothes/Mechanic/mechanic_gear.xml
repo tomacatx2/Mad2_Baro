@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!-- UNIFORMS START-->
+  <Item name="Boat Mechanic Uniform" identifier="boatmechanicjumpsuit" aliases="boatmechanicjumpsuit" category="Equipment" tags="smallitem,clothing" fireproof="true" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_soft" description="An upgraded mechanic's outfit, modified for operations in dark environments. It features a wrist-mounted flashlight and a battery slot to power it - the light is fairly weak, but as a result the battery lasts 4 times longer." >
+    <PreferredContainer primary="outpostcrewcabinet" minamount="1" maxamount="1" spawnprobability="0.001"/>
+    <Price baseprice="600">
+      <Price locationtype="outpost" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" minavailable="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1"/>
+    </Price>
+	<Deconstruct time="25">
+	  <Item identifier="toolbox" />
+	  <Item identifier="steel" />
+	  <Item identifier="incendium" />
+	  <Item identifier="incendium" />
+	  <Item identifier="bluejumpsuit1" />
+	</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="40">
+      <RequiredSkill identifier="mechanical" level="50" />
+	  <Item identifier="toolbox" />
+	  <Item identifier="steel" />
+	  <Item identifier="incendium" />
+	  <Item identifier="incendium" />
+      <Item identifier="bluejumpsuit1" />
+    </Fabricate>
+		
+    <InventoryIcon name="Boat Mechanic Uniform Icon" texture="Mods/Extra Clothes/OutfitIcons.png" sourcerect="256,274,127,110" origin="0.5,0.5" />
+    <Sprite name="Boat Mechanic Uniform" texture="Mods/Extra Clothes/MiscJobGear.png" sourcerect="13,532,187,71" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Boat Mechanic Uniform Torso" texture="boat_mechanic_torso_[GENDER]_3.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Left Upper Arm" texture="boat_mechanic_torso_[GENDER]_3.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Right Upper Arm" texture="boat_mechanic_torso_[GENDER]_3.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Left Lower Arm" texture="boat_mechanic_torso_[GENDER]_3.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Right Lower Arm" texture="boat_mechanic_torso_[GENDER]_3.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" >
+        <LightComponent LightColor="0.5,0.5,0.5,1.0" Flicker="0.02" range="500" powerconsumption="10" IsOn="true">
+			
+			<LightTexture texture="Mods/Extra Clothes/lightcone.png" origin="0.5, 0.5" size="1.0,1.0" />
+        </LightComponent>
+	  </sprite>
+      <sprite name="Boat Mechanic Uniform Waist" texture="boat_mechanic_legs_[GENDER]_3.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Right Thigh" texture="boat_mechanic_legs_[GENDER]_3.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Left Thigh" texture="boat_mechanic_legs_[GENDER]_3.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Right Leg" texture="boat_mechanic_legs_[GENDER]_3.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Left Leg" texture="boat_mechanic_legs_[GENDER]_3.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Right Shoe" texture="boat_mechanic_legs_[GENDER]_3.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Boat Mechanic Uniform Left Shoe" texture="boat_mechanic_legs_[GENDER]_3.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound, bitewounds" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.9" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="lacerations" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="true" />
+		<StatusEffect type="OnWearing" targettype="Contained" Condition="-0.05">
+			<RequiredItem items="batterycell" type="Contained" />
+		</StatusEffect>
+		<StatusEffect type="OnWearing" targettype="Contained" Condition="-0.025">
+			<RequiredItem items="fulguriumbatterycell" type="Contained" />
+		</StatusEffect>
+		<StatusEffect type="OnWearing" targettype="Contained" Condition="-0.05">
+			<RequiredItem excludedidentifiers="batterycell,fulguriumbatterycell" type="Contained" />
+		</StatusEffect>
+    </Wearable>
+		<ItemContainer capacity="1" hideitems="true">
+		  <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="1,70,107,31" />
+		  <Containable items="mobilebattery">
+			<StatusEffect type="OnContaining" targettype="This,limb" Voltage="1.0" setvalue="true" />
+		  </Containable>
+		</ItemContainer>
+  </Item>
+  <Item name="Heavy Machinery Mechanic Uniform" identifier="heavymachinerymechanicjumpsuit" category="Equipment" tags="smallitem,clothing" fireproof="true" cargocontaineridentifier="metalcrate" scale="0.5" impactsoundtag="impact_soft" description="An upgraded mechanic's outfit, with two tool holsters that can hold welders, plasma cutters or wrenches.">
+    <PreferredContainer primary="outpostcrewcabinet" minamount="1" maxamount="1" spawnprobability="0.001"/>
+    <Price baseprice="600">
+      <Price locationtype="outpost" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.9" minavailable="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1"/>
+    </Price>
+	<Deconstruct time="25">
+	  <Item identifier="toolbox" />
+	  <Item identifier="steel" />
+	  <Item identifier="incendium" />
+	  <Item identifier="incendium" />
+	  <Item identifier="bluejumpsuit2" />
+	</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="40">
+      <RequiredSkill identifier="mechanical" level="50" />
+	  <Item identifier="toolbox" />
+	  <Item identifier="steel" />
+	  <Item identifier="incendium" />
+	  <Item identifier="incendium" />
+      <Item identifier="bluejumpsuit2" />
+    </Fabricate>
+    <InventoryIcon name="Heavy Machinery Mechanic Uniform Icon" texture="Mods/Extra Clothes/OutfitIcons.png" sourcerect="129,274,128,110" origin="0.5,0.5" />
+    <Sprite name="Heavy Machinery Mechanic Uniform" texture="Mods/Extra Clothes/MiscJobGear.png" sourcerect="223,531,207,70" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Heavy Machinery Mechanic Uniform Torso" texture="heavy_machinery_mechanic_torso_[GENDER]_3.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Left Upper Arm" texture="heavy_machinery_mechanic_torso_[GENDER]_3.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Right Upper Arm" texture="heavy_machinery_mechanic_torso_[GENDER]_3.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Left Lower Arm" texture="heavy_machinery_mechanic_torso_[GENDER]_3.png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Right Lower Arm" texture="heavy_machinery_mechanic_torso_[GENDER]_3.png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Waist" texture="heavy_machinery_mechanic_legs_[GENDER]_3.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Right Thigh" texture="heavy_machinery_mechanic_legs_[GENDER]_3.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Left Thigh" texture="heavy_machinery_mechanic_legs_[GENDER]_3.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Right Leg" texture="heavy_machinery_mechanic_legs_[GENDER]_3.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Left Leg" texture="heavy_machinery_mechanic_legs_[GENDER]_3.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Right Shoe" texture="heavy_machinery_mechanic_legs_[GENDER]_3.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Heavy Machinery Mechanic Uniform Left Shoe" texture="heavy_machinery_mechanic_legs_[GENDER]_3.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound, bitewounds" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.9" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="lacerations" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="true" />
+    </Wearable>
+	<ItemContainer capacity="2" hideitems="true">
+	  <Containable items="wrench,plasmacutter,weldingtool" />
+	</ItemContainer>
+  </Item>
+</Items>

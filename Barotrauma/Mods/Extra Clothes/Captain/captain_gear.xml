@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!-- UNIFORMS START -->
+  <Item name="Pioneer Uniform" identifier="pioneeruniform1" aliases="pioneeruniform1" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" scale="0.5" impactsoundtag="impact_soft" description="Pioneers are leaders specializing in discovery, exploration, and colonization of wild territories, and this uniform is their go-to choice for survival in unknown lands. It features a holster for the trusty side-arm, light armor, light exoskeletal legs to provide increased mobility, and an experimental device in the collar that releases inperceptible microvibrations into the nape of the neck to reduce stress and keep the wearer calm under overwhelming conditions.">
+    <PreferredContainer primary="outpostcrewcabinet" minamount="1" maxamount="1" spawnprobability="0.001"/>
+    <Price baseprice="600">
+      <Price locationtype="outpost" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.2" minavailable="1"/>
+      <Price locationtype="research" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1" sold="false"/>
+    </Price>
+	<Deconstruct time="25">
+	  <Item identifier="organicfiber" />
+	  <Item identifier="titaniumaluminiumalloy" />
+	  <Item identifier="dementonite" />
+	  <Item identifier="physicorium" />
+      <Item identifier="captainsuniform1" />
+	</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="40">
+      <RequiredSkill identifier="weapons" level="50" />
+	  <Item identifier="organicfiber" />
+	  <Item identifier="titaniumaluminiumalloy" />
+	  <Item identifier="physicorium" />
+	  <Item identifier="physicorium" />
+      <Item identifier="securityuniform1" />
+    </Fabricate>
+    <InventoryIcon name="Pioneer Uniform Icon" texture="Mods/Extra Clothes/OutfitIcons.png" sourcerect="0,27,128,101" origin="0.5,0.5" />
+    <Sprite name="Pioneer Uniform" texture="Mods/Extra Clothes/MiscJobGear.png" sourcerect="8,361,207,79" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Pioneer Uniform Torso" texture="Mods/Extra Clothes/Captain/pioneer_torso_[GENDER].png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Right Lower Arm" texture="Mods/Extra Clothes/Captain/pioneer_torso_[GENDER].png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Left Lower Arm" texture="Mods/Extra Clothes/Captain/pioneer_torso_[GENDER].png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Right Upper Arm" texture="Mods/Extra Clothes/Captain/pioneer_torso_[GENDER].png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Left Upper Arm" texture="Mods/Extra Clothes/Captain/pioneer_torso_[GENDER].png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Waist" texture="Mods/Extra Clothes/Captain/pioneer_legs_[GENDER].png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Right Thigh" texture="Mods/Extra Clothes/Captain/pioneer_legs_[GENDER].png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Left Thigh" texture="Mods/Extra Clothes/Captain/pioneer_legs_[GENDER].png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Right Leg" texture="Mods/Extra Clothes/Captain/pioneer_legs_[GENDER].png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Left Leg" texture="Mods/Extra Clothes/Captain/pioneer_legs_[GENDER].png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Left Shoe" texture="Mods/Extra Clothes/Captain/pioneer_legs_[GENDER].png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Pioneer Uniform Right Shoe" texture="Mods/Extra Clothes/Captain/pioneer_legs_[GENDER].png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound,bitewounds" armorsector="0.0,360.0" damagemultiplier="0.9" damagesound="LimbArmor" deflectprojectiles="true" />
+      <!--<damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound" damagemultiplier="0.7" damagesound="LimbArmor" deflectprojectiles="true" />-->
+		<StatusEffect type="OnWearing" target="Character">
+			<ReduceAffliction identifier="psychosis" amount="0.5" />
+		</StatusEffect>
+		<StatusEffect type="OnWearing" target="Character" SpeedMultiplier="1.2" setvalue="true" />
+    </Wearable>
+	<ItemContainer hideitems="true" capacity="1" >
+      <Containable items="ek_revolver,revolver,ek_gausspistol,ek_laserpistol,ek_ammotag_gausspistol,ek_ammotag_357,ek_ammotag_laserpistol,ek_ammotag_9mm,ek_handgun" />
+    </ItemContainer>
+  </Item>
+  <Item name="Old Guard Uniform" identifier="oldguarduniform" category="Equipment" cargocontaineridentifier="metalcrate" tags="smallitem,clothing" scale="0.5" impactsoundtag="impact_soft" descrition="The Old Guard are veterans that have seen too much. Every bit of this uniform's surface area is lined with spaces to store unreasonable amounts of tobacco. It also features light armor, light exoskeletal legs to provide increased mobility, and an experimental device in the collar that releases inperceptible microvibrations into the nape of the neck to reduce stress and keep the wearer calm under overwhelming conditions.">
+    <PreferredContainer primary="outpostcrewcabinet" minamount="1" maxamount="1" spawnprobability="0.001"/>
+    <Price baseprice="600">
+      <Price locationtype="outpost" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="city" multiplier="0.2" minavailable="1"/>
+      <Price locationtype="research" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1" sold="false"/>
+    </Price>
+	<Deconstruct time="25">
+	  <Item identifier="organicfiber" />
+	  <Item identifier="titaniumaluminiumalloy" />
+	  <Item identifier="dementonite" />
+	  <Item identifier="physicorium" />
+      <Item identifier="captainsuniform3" />
+	</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="40">
+      <RequiredSkill identifier="weapons" level="50" />
+	  <Item identifier="organicfiber" />
+	  <Item identifier="titaniumaluminiumalloy" />
+	  <Item identifier="physicorium" />
+	  <Item identifier="physicorium" />
+      <Item identifier="securityuniform3" />
+    </Fabricate>
+    <InventoryIcon name="Old Guard Uniform Icon" texture="Mods/Extra Clothes/OutfitIcons.png" sourcerect="255,27,128,101" origin="0.5,0.5" />
+    <Sprite name="Old Guard Uniform" texture="Mods/Extra Clothes/MiscJobGear.png" sourcerect="442,376,206,63" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Old Guard Uniform Torso" texture="Mods/Extra Clothes/Captain/old_guard_torso_[GENDER].png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Right Lower Arm" texture="Mods/Extra Clothes/Captain/old_guard_torso_[GENDER].png" limb="RightHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Left Lower Arm" texture="Mods/Extra Clothes/Captain/old_guard_torso_[GENDER].png" limb="LeftHand" hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Right Upper Arm" texture="Mods/Extra Clothes/Captain/old_guard_torso_[GENDER].png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Left Upper Arm" texture="Mods/Extra Clothes/Captain/old_guard_torso_[GENDER].png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Waist" texture="Mods/Extra Clothes/Captain/old_guard_legs_[GENDER].png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Right Thigh" texture="Mods/Extra Clothes/Captain/old_guard_legs_[GENDER].png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Left Thigh" texture="Mods/Extra Clothes/Captain/old_guard_legs_[GENDER].png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Right Leg" texture="Mods/Extra Clothes/Captain/old_guard_legs_[GENDER].png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Left Leg" texture="Mods/Extra Clothes/Captain/old_guard_legs_[GENDER].png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Left Shoe" texture="Mods/Extra Clothes/Captain/old_guard_legs_[GENDER].png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Old Guard Uniform Right Shoe" texture="Mods/Extra Clothes/Captain/old_guard_legs_[GENDER].png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier afflictionidentifiers="blunttrauma,lacerations,gunshotwound,bitewounds" armorsector="0.0,360.0" damagemultiplier="0.9" damagesound="LimbArmor" deflectprojectiles="true" />
+      <!--<damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound" damagemultiplier="0.7" damagesound="LimbArmor" deflectprojectiles="true" />-->
+		<StatusEffect type="OnWearing" target="Character">
+			<ReduceAffliction identifier="psychosis" amount="0.5" />
+		</StatusEffect>
+		<StatusEffect type="OnWearing" target="Character" SpeedMultiplier="1.2" setvalue="true" />
+    </Wearable>    
+	<ItemContainer hideitems="true" capacity="20" slotsperrow="4" >
+      <Containable items="pipetobacco" />
+    </ItemContainer>
+  </Item>
+  <!-- UNIFORMS END -->
+</Items>

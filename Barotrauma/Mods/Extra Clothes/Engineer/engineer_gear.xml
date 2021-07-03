@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Systems and Control Engineer Uniform" identifier="syscontroljumpsuit" aliases="syscontroljumpsuit" category="Equipment" tags="smallitem,clothing" fireproof="true" cargocontaineridentifier="metalcrate" description="An upgraded engineer's outfit, fitted with extra protection against electrical burns, and an experimental kinetic generator that siphons off of the wearer's movements to charge batteries. Has two battery slots." scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="outpostcrewcabinet" minamount="1" maxamount="1" spawnprobability="0.001"/>
+    <Price baseprice="600">
+      <Price locationtype="outpost" multiplier="1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9" minavailable="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1" sold="false"/>
+    </Price>
+	<Deconstruct time="25">
+	  <Item identifier="rubber" />
+	  <Item identifier="copper" />
+	  <Item identifier="fulguriumbatterycell" />
+	  <Item identifier="fulgurium" />
+	  <Item identifier="orangejumpsuit1" />
+	</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="40">
+      <RequiredSkill identifier="electrical" level="50" />
+	  <Item identifier="rubber" />
+	  <Item identifier="copper" />
+	  <Item identifier="fulguriumbatterycell" />
+	  <Item identifier="fulgurium" />
+      <Item identifier="orangejumpsuit1" />
+    </Fabricate>
+    <InventoryIcon name="Systems and Control Engineer Uniform Icon" texture="Mods/Extra Clothes/OutfitIcons.png" sourcerect="0,150,128,107" origin="0.5,0.5" />
+    <Sprite name="Systems and Control Engineer Uniform" texture="Mods/Extra Clothes/MiscJobGear.png" sourcerect="13,446,208,71" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Systems and Control Engineer Uniform Torso" texture="Mods/Extra Clothes/Engineer/syscontrol_torso_[GENDER]_3.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Left Upper Arm" texture="Mods/Extra Clothes/Engineer/syscontrol_torso_[GENDER]_3.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Right Upper Arm" texture="Mods/Extra Clothes/Engineer/syscontrol_torso_[GENDER]_3.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Left Lower Arm" texture="Mods/Extra Clothes/Engineer/syscontrol_torso_[GENDER]_3.png" limb="LeftHand" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Right Lower Arm" texture="Mods/Extra Clothes/Engineer/syscontrol_torso_[GENDER]_3.png" limb="RightHand" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Waist" texture="Mods/Extra Clothes/Engineer/syscontrol_legs_[GENDER]_3.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Right Thigh" texture="Mods/Extra Clothes/Engineer/syscontrol_legs_[GENDER]_3.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Left Thigh" texture="Mods/Extra Clothes/Engineer/syscontrol_legs_[GENDER]_3.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Right Leg" texture="Mods/Extra Clothes/Engineer/syscontrol_legs_[GENDER]_3.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Left Leg" texture="Mods/Extra Clothes/Engineer/syscontrol_legs_[GENDER]_3.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Right Shoe" texture="Mods/Extra Clothes/Engineer/syscontrol_legs_[GENDER]_3.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Systems and Control Engineer Uniform Left Shoe" texture="Mods/Extra Clothes/Engineer/syscontrol_legs_[GENDER]_3.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound, bitewounds" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="lacerations" damagemultiplier="0.9" damagesound="LimbArmor" deflectprojectiles="true" />
+		<StatusEffect type="OnWearing" targettype="Contained" Condition="+0.5">
+			<RequiredItem items="batterycell" type="Contained" />
+		</StatusEffect>
+		<StatusEffect type="OnWearing" targettype="Contained" Condition="+0.25">
+			<RequiredItem items="fulguriumbatterycell" type="Contained" />
+		</StatusEffect>
+		<StatusEffect type="OnWearing" targettype="Contained" Condition="+0.5">
+			<RequiredItem excludedidentifiers="batterycell,fulguriumbatterycell" type="Contained" />
+		</StatusEffect>
+    </Wearable>
+	<ItemContainer capacity="2" hideitems="true">
+	  <Containable items="mobilebattery" />
+	</ItemContainer>
+  </Item>
+  <Item name="Microelectronics Engineer Uniform" identifier="microelectronicsjumpsuit" category="Equipment" tags="smallitem,clothing" fireproof="true" cargocontaineridentifier="metalcrate" description="An upgraded engineer's outfit, fitted with extra protection against electrical burns, and 4 pockets for storing scredrivers, wires, buttons, and logical components... and detonators..." scale="0.5" impactsoundtag="impact_soft">
+    <PreferredContainer primary="outpostcrewcabinet" minamount="1" maxamount="1" spawnprobability="0.001"/>
+    <Price baseprice="600">
+      <Price locationtype="outpost" multiplier="1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9" minavailable="1" sold="false"/>
+      <Price locationtype="research" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" minavailable="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" minavailable="1" sold="false"/>
+    </Price>
+	<Deconstruct time="25">
+	  <Item identifier="rubber" />
+	  <Item identifier="lead" />
+	  <Item identifier="fulgurium" />
+	  <Item identifier="fulgurium" />
+      <Item identifier="orangejumpsuit2" />
+	</Deconstruct>
+    <Fabricate suitablefabricators="fabricator" requiredtime="40">
+      <RequiredSkill identifier="electrical" level="50" />
+	  <Item identifier="rubber" />
+	  <Item identifier="lead" />
+	  <Item identifier="fulgurium" />
+	  <Item identifier="fulgurium" />
+      <Item identifier="orangejumpsuit2" />
+    </Fabricate>
+    <InventoryIcon name="Microelectronics Engineer Uniform Icon" texture="Mods/Extra Clothes/OutfitIcons.png" sourcerect="384,27,127,101" origin="0.5,0.5" />
+    <Sprite name="Microelectronics Engineer Uniform" texture="Mods/Extra Clothes/MiscJobGear.png" sourcerect="227,452,202,65" depth="0.6" origin="0.5,0.5" />
+    <Body width="180" height="50" density="30" friction="0.8" restitution="0.01" />
+    <Wearable slots="Any,InnerClothes" msg="ItemMsgPickUpSelect">
+      <sprite name="Microelectronics Engineer Uniform Torso" texture="Mods/Extra Clothes/Engineer/microelectronics_torso_[GENDER]_3.png" limb="Torso" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Left Upper Arm" texture="Mods/Extra Clothes/Engineer/microelectronics_torso_[GENDER]_3.png" limb="LeftArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Right Upper Arm" texture="Mods/Extra Clothes/Engineer/microelectronics_torso_[GENDER]_3.png" limb="RightArm" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Left Lower Arm" texture="Mods/Extra Clothes/Engineer/microelectronics_torso_[GENDER]_3.png" limb="LeftHand" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Right Lower Arm" texture="Mods/Extra Clothes/Engineer/microelectronics_torso_[GENDER]_3.png" limb="RightHand" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Waist" texture="Mods/Extra Clothes/Engineer/microelectronics_legs_[GENDER]_3.png" limb="Waist" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Right Thigh" texture="Mods/Extra Clothes/Engineer/microelectronics_legs_[GENDER]_3.png" limb="RightThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Left Thigh" texture="Mods/Extra Clothes/Engineer/microelectronics_legs_[GENDER]_3.png" limb="LeftThigh" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Right Leg" texture="Mods/Extra Clothes/Engineer/microelectronics_legs_[GENDER]_3.png" limb="RightLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Left Leg" texture="Mods/Extra Clothes/Engineer/microelectronics_legs_[GENDER]_3.png" limb="LeftLeg" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Right Shoe" texture="Mods/Extra Clothes/Engineer/microelectronics_legs_[GENDER]_3.png" limb="RightFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <sprite name="Microelectronics Engineer Uniform Left Shoe" texture="Mods/Extra Clothes/Engineer/microelectronics_legs_[GENDER]_3.png" limb="LeftFoot" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound, bitewounds" damagemultiplier="0.8" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictiontypes="burn" damagemultiplier="0.4" damagesound="LimbArmor" deflectprojectiles="true" />
+      <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="lacerations" damagemultiplier="0.9" damagesound="LimbArmor" deflectprojectiles="true" />
+    </Wearable>
+	<ItemContainer capacity="4" hideitems="true">
+	  <Containable items="screwdriver,wire,logic,fuelrod,fulguriumfuelrod,thoriumfuelrod,detonator,button,switch" />
+	</ItemContainer>
+  </Item>
+</Items>

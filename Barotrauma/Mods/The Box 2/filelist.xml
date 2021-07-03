@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="The Box 2" path="Mods/The Box 2/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2535327866" installtime="1625287225">
+  <Submarine file="Mods/The Box 2/The Box 2.sub" />
+</contentpackage>

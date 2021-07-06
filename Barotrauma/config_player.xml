@@ -49,7 +49,7 @@
     usedirectionalvoicechat="true"
     voicesetting="PushToTalk"
     audiooutputdevice="OpenAL_x0020_Soft_x0020_on_x0020_Speakers_x0020__x0028_Realtek_x0020_High_x0020_Definition_x0020_Audio_x0029_"
-    voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_Microphone_x0020__x0028_Yeti_x0020_Stereo_x0020_Microphone_x0029_"
+    voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_Microphone_x0020__x0028_Realtek_x0020_High_x0020_Definition_x0020_Audio_x0029_"
     noisegatethreshold="-45"
     uselocalvoicebydefault="false" />
   <graphicssettings
@@ -67,13 +67,6 @@
       <package
         name="Extra Clothes"
         enabled="true" />
-      <package
-        name="The Box 2"
-        enabled="true" />
-      <package
-        name="EK Marauder Mk-II" />
-      <package
-        name="EK NurseShark Mk-I" />
       <package
         name="EK Gunnery"
         enabled="true" />
@@ -123,6 +116,19 @@
         name="[BOS]Muisc"
         enabled="true" />
       <package
+        name="Remora-Pirate"
+        enabled="true" />
+      <package
+        name="FreddyMod"
+        enabled="true" />
+      <package
+        name="The Box 2"
+        enabled="true" />
+      <package
+        name="EK Marauder Mk-II" />
+      <package
+        name="EK NurseShark Mk-I" />
+      <package
         name="BOScore"
         enabled="true" />
       <package
@@ -171,11 +177,6 @@
         name="Pirate Kastrull" />
       <package
         name="Berilia pirate" />
-      <package
-        name="FreddyMod" />
-      <package
-        name="Remora-Pirate"
-        enabled="true" />
     </regular>
   </contentpackages>
   <keymapping
@@ -244,11 +245,7 @@
     modded="Any" />
   <editorimages />
   <gameplay>
-    <jobpreferences>
-      <job
-        identifier="captain"
-        variant="0" />
-    </jobpreferences>
+    <jobpreferences />
   </gameplay>
   <player
     name="tomacatx1"

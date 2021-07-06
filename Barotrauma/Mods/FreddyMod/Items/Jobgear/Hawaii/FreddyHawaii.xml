@@ -1,5 +1,5 @@
 <Items>
-  <Item name="Balaclava" identifier="balaclava" category="Equipment" tags="smallitem,clothing" cargocontaineridentifier="metalcrate" description="" scale="0.4">
+  <Item name="Balaclava" identifier="balaclava_freddy" category="Equipment" tags="smallitem,clothing" cargocontaineridentifier="metalcrate" description="" scale="0.4">
     <Upgrade gameversion="0.9.6.0" scale="0.4" />
     <PreferredContainer primary="outpostcrewcabinet" minamount="0" maxamount="1" spawnprobability="0"/>
     <Price baseprice="175" soldeverywhere="false">

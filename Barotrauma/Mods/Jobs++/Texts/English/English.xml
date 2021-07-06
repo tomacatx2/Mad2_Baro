@@ -59,11 +59,15 @@
 <jobname.fightercrew>Fighter Crew</jobname.fightercrew>
 <jobdescription.fightercrew>Fighters are a new take on the traditional doctrine of large line formations of big warships. Indeed, a well stocked and well crewed fleet carrier is able to project a great deal of might over much more vast distances.</jobdescription.fightercrew>
 <jobname.fightercrew1>Fighter Pilot</jobname.fightercrew1>
-<jobdescription.fightercrew1>Piloting fighters and gunshuttles attracts a certain breed. A pilot must have trigger like reflexes, the ability to make split second decisions under pressure and the acceptance that they are, indeed, piloting a much more expendable version of a tin can.</jobdescription.fightercrew1>
+<jobdescription.fightercrew1>Piloting fighters and gunshuttles attracts a certain breed. A pilot must have trigger-like reflexes, the ability to make split second decisions under pressure and the acceptance that they are, indeed, piloting a much more expendable version of a tin can.</jobdescription.fightercrew1>
 <jobname.fightercrew2>Fighter Gunner</jobname.fightercrew2>
 <jobdescription.fightercrew2>At best a second rate submarine gunner, the humble fighter gunner is nonetheless neccesary for the day to day operation of a fleet carrier. Aiming while moving at break neck speeds requires a specific skillset and a certain degree of insanity.</jobdescription.fightercrew2>
 <jobname.fightercrew3>Fighter Technician</jobname.fightercrew3>
 <jobdescription.fightercrew3>Fighters, just like their bigger submarine counterparts, break down from time to time. Due to the doctrine of limiting access to fighters just to fighter crew, a specialist engineer-mechanic hybrid is needed in order to ensure the combat capability of a given fighter. </jobdescription.fightercrew3>
+<jobname.officer>Officer</jobname.officer>
+<jobdescription.officer>The abyssal seas of Europa are stressful, the minds of its intrepid captains cannot hope to withstand it for long. Thus, the need arises for captains to delegate command. An officer is required, to stymie the the degradation of the commanders mind and render the transfer of orders more efficient.</jobdescription.officer>
+<jobname.officer1>Pilot</jobname.officer1>
+<jobdescription.officer1>There is something to be said for the specialty of piloting. It levies a considerable burden on the pilot and attracts a certain breed. No matter how brash or uncouth a pilot may seem, they are nonetheless a boon and an asset to any crew, specializing in micromanaging the movement of the vessel.</jobdescription.officer1>
 <!-- Skills -->
 
 </infotexts>

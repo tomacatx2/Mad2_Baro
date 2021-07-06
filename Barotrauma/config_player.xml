@@ -1,0 +1,269 @@
+﻿<config
+  language="English"
+  masterserverurl="http://www.undertowgames.com/baromaster"
+  autocheckupdates="true"
+  musicvolume="0.05"
+  soundvolume="0.22332017"
+  verboselogging="false"
+  savedebugconsolelogs="false"
+  submarineautosave="true"
+  subeditorundobuffer="32"
+  maxautosaves="8"
+  autosaveintervalseconds="300"
+  subeditorbackground="13,37,69,255"
+  enablesplashscreen="true"
+  usesteammatchmaking="true"
+  quickstartsub="Humpback"
+  requiresteamauthentication="false"
+  autoupdateworkshopitems="true"
+  pauseonfocuslost="false"
+  aimassistamount="0.49999997"
+  enablemouselook="true"
+  radialdistortion="true"
+  chatopen="false"
+  crewmenuopen="false"
+  campaigndisclaimershown="true"
+  editordisclaimershown="true"
+  tutorialskipwarning="false"
+  corpsedespawndelay="600"
+  corpsespersubdespawnthreshold="5"
+  usedualmodesockets="true"
+  disableingamehints="true"
+  senduserstatistics="true">
+  <graphicsmode
+    width="1920"
+    height="1080"
+    vsync="true"
+    compresstextures="true"
+    framelimit="200"
+    displaymode="BorderlessWindowed" />
+  <audio
+    musicvolume="0.05"
+    soundvolume="0.22332017"
+    voicechatvolume="1.9584979"
+    voicechatcutoffprevention="0"
+    microphonevolume="1.8"
+    muteonfocuslost="false"
+    dynamicrangecompressionenabled="true"
+    voipattenuationenabled="true"
+    usedirectionalvoicechat="true"
+    voicesetting="PushToTalk"
+    audiooutputdevice="OpenAL_x0020_Soft_x0020_on_x0020_Speakers_x0020__x0028_Realtek_x0020_High_x0020_Definition_x0020_Audio_x0029_"
+    voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_Microphone_x0020__x0028_Yeti_x0020_Stereo_x0020_Microphone_x0029_"
+    noisegatethreshold="-45"
+    uselocalvoicebydefault="false" />
+  <graphicssettings
+    particlelimit="1500"
+    lightmapscale="1"
+    chromaticaberration="true"
+    losmode="Transparent"
+    hudscale="1"
+    inventoryscale="1"
+    textscale="1" />
+  <contentpackages>
+    <core
+      name="Vanilla 0.9" />
+    <regular>
+      <package
+        name="Extra Clothes"
+        enabled="true" />
+      <package
+        name="The Box 2"
+        enabled="true" />
+      <package
+        name="EK Marauder Mk-II" />
+      <package
+        name="EK NurseShark Mk-I" />
+      <package
+        name="EK Gunnery"
+        enabled="true" />
+      <package
+        name="Jobs++"
+        enabled="true" />
+      <package
+        name="EK Utilities"
+        enabled="true" />
+      <package
+        name="EK Armory"
+        enabled="true" />
+      <package
+        name="EK Dockyard"
+        enabled="true" />
+      <package
+        name="MoreHeadgear"
+        enabled="true" />
+      <package
+        name="Seated Operators"
+        enabled="true" />
+      <package
+        name="Deep Sea Alcohol"
+        enabled="true" />
+      <package
+        name="Malborasek"
+        enabled="true" />
+      <package
+        name="Alto saxophone"
+        enabled="true" />
+      <package
+        name="Electric Guitar"
+        enabled="true" />
+      <package
+        name="BetterCharacterHeadFixed"
+        enabled="true" />
+      <package
+        name="ChessSet"
+        enabled="true" />
+      <package
+        name="MedOverhaul"
+        enabled="true" />
+      <package
+        name="CheckersSet"
+        enabled="true" />
+      <package
+        name="[BOS]Muisc"
+        enabled="true" />
+      <package
+        name="BOScore"
+        enabled="true" />
+      <package
+        name="EKM_Myrith_Mk-I" />
+      <package
+        name="SMS Olympus" />
+      <package
+        name="FrithsBiomes" />
+      <package
+        name="[ENV] Beacons Extended" />
+      <package
+        name="EK Reliant Mk-V" />
+      <package
+        name="Jobs+" />
+      <package
+        name="BTE Class A Station" />
+      <package
+        name="BTE The Stinger" />
+      <package
+        name="DelgsMod" />
+      <package
+        name="DelgsModTraitor" />
+      <package
+        name="Humans+" />
+      <package
+        name="Hyperius Asperis Station" />
+      <package
+        name="Mining Station A" />
+      <package
+        name="Vellamo" />
+      <package
+        name="U797 - Content Pack" />
+      <package
+        name="Research Station A" />
+      <package
+        name="Piano" />
+      <package
+        name="Europa Beacon Ecopoint" />
+      <package
+        name="EK_Kira_Mk-II" />
+      <package
+        name="IntoTheAbyss" />
+      <package
+        name="Thalassophobia" />
+      <package
+        name="Pirate Kastrull" />
+      <package
+        name="Berilia pirate" />
+      <package
+        name="FreddyMod" />
+      <package
+        name="Remora-Pirate"
+        enabled="true" />
+    </regular>
+  </contentpackages>
+  <keymapping
+    Select="PrimaryMouse"
+    Use="E"
+    Aim="SecondaryMouse"
+    Up="W"
+    Down="S"
+    Left="A"
+    Right="D"
+    Attack="R"
+    Run="LeftShift"
+    Crouch="LeftControl"
+    InfoTab="Tab"
+    Chat="T"
+    RadioChat="R"
+    CrewOrders="C"
+    Ragdoll="Space"
+    Health="H"
+    Grab="G"
+    SelectNextCharacter="Z"
+    SelectPreviousCharacter="X"
+    Voice="LeftAlt"
+    LocalVoice="V"
+    Deselect="SecondaryMouse"
+    Shoot="PrimaryMouse"
+    Command="MiddleMouse"
+    ToggleInventory="Q"
+    TakeOneFromInventorySlot="LeftControl"
+    TakeHalfFromInventorySlot="LeftShift"
+    NextFireMode="MouseWheelUp"
+    PreviousFireMode="MouseWheelDown" />
+  <inventorykeymapping
+    slot0="D1"
+    slot1="D2"
+    slot2="D3"
+    slot3="D4"
+    slot4="D5"
+    slot5="D6"
+    slot6="D7"
+    slot7="D8"
+    slot8="D9"
+    slot9="D0" />
+  <debugconsolemapping />
+  <serverfilters
+    FilterSameVersion="True"
+    FilterPassword="False"
+    FilterIncompatibleServers="False"
+    FilterFullServers="False"
+    FilterEmptyServers="False"
+    FilterWhitelistedServers="False"
+    FilterOffensiveServers="False"
+    servertag.Serious="True"
+    servertag.Casual="True"
+    servertag.Roleplay="True"
+    servertag.Rampage="True"
+    servertag.SomethingDifferent="True"
+    sandbox="True"
+    mission="True"
+    pvp="True"
+    multiplayercampaign="True"
+    karma="Any"
+    traitors="Any"
+    friendlyfire="Any"
+    voip="Any"
+    modded="Any" />
+  <editorimages />
+  <gameplay>
+    <jobpreferences>
+      <job
+        identifier="captain"
+        variant="0" />
+    </jobpreferences>
+  </gameplay>
+  <player
+    name="tomacatx1"
+    headindex="3"
+    gender="Male"
+    race="White"
+    hairindex="1"
+    beardindex="1"
+    moustacheindex="0"
+    faceattachmentindex="0" />
+  <tutorials />
+  <ignoredhints
+    identifiers="onstartedinteracting.item.gunloader,onafflictiondisplayed,onadjacenthull.highpressure,onadjacenthull.highwaterpercentage,onstartedinteracting.turretperiscope,onsonarspottedenemy,onstartedinteracting.item.navterminal,reminder.tabmenu,onshootwithoutaiming,onstartedcontrolling.job.securityofficer,onstartedcontrolling.job.assistant,onrepairfailed,onstartedinteracting.item.fabricator,reminder.commandinterface,onstartedinteracting.item.reactor,oncharacterunconscious,onstartedcontrolling.job.engineer,onstartedcontrolling.job.mechanic,onstartedinteracting.item.deconstructor,onstartedinteracting.lootingisstealing,onstartedinteracting.brokenitem" />
+  <encountered
+    creatures="human,mudraptor,spineling,crawler,mudraptor_hatchling,swarmcrawler,husk,humanhusk,gundrone,ekdronerallybeacon,humanapostle,humanhive,ramblin,maggot,watcher,crawlerhusk,hammerheadgold,hammerhead,mudraptor_unarmored,peanut,terminalcell,moloch,endworm,moloch_m,charybdis,tigerthresher,bonethresher" />
+  <killed
+    creatures="human,crawler,husk,humanapostle,humanhive,ramblin,maggot,moloch,moloch_m,hammerhead,spineling,mudraptor,tigerthresher,bonethresher" />
+</config>

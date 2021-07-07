@@ -23,4 +23,7 @@
   <None file="Mods/BOScore/music/bws.ogg" />
   <None file="Mods/BOScore/music/ftsq.ogg" />
   <None file="Mods/BOScore/music/lpg.ogg" />
+  <Character file="Mods/BOScore/Characters/Characterx/Characterx.xml" />
+  <Character file="Mods/BOScore/Characters/Test02/Test02.xml" />
+  <Character file="Mods/BOScore/Characters/Abyssalhorror/Abyssalhorror.xml" />
 </contentpackage>

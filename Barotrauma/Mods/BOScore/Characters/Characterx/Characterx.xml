@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Character speciesname="Characterx" humanoid="false">
+  <ragdolls folder="Mods/BOScore/Characters/Characterx/Ragdolls/" />
+  <animations folder="Mods/BOScore/Characters/Characterx/Animations/" />
+  <health />
+  <ai />
+</Character>

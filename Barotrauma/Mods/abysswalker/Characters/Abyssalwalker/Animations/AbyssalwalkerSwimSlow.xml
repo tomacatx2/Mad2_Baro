@@ -17,8 +17,8 @@
   footangles=""
   tailangle="NaN"
   steertorque="25"
-  movementspeed="2.3954313"
+  movementspeed="2.3697958"
   cyclespeed="1.05"
-  headangle="85"
+  headangle="25"
   torsoangle="44"
   type="Abyssalwalker" />

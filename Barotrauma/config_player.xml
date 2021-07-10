@@ -177,6 +177,9 @@
         name="Pirate Kastrull" />
       <package
         name="Berilia pirate" />
+      <package
+        name="abysswalker"
+        enabled="true" />
     </regular>
   </contentpackages>
   <keymapping

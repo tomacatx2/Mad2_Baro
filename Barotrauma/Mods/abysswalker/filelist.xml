@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="abysswalker" path="Mods/abysswalker/filelist.xml" corepackage="false" gameversion="0.14.6.0">
+  <Character file="Mods/abysswalker/Characters/Abyssalwalker/Abyssalwalker.xml" />
+</contentpackage>

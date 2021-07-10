@@ -1117,18 +1117,18 @@
 		<ParticleEmitter particle="ekfusionflash" particleamount="1" scalemin="4" scalemax="4" velocitymin="50" velocitymax="100" />
 		<ParticleEmitter particle="eknukeshockwave" particleamount="1" velocitymin="25" velocitymax="50" />
         <sound file="Mods/EK Armory/Items/Weapons/ek_fusionexplosion.ogg" range="50000" />
-        <Explosion range="4000.0" structuredamage="900" itemdamage="300" force="50.0" severlimbsprobability="5.0" decal="explosion" decalsize="1.0" 
+        <Explosion range="2000.0" structuredamage="900" itemdamage="300" force="50.0" severlimbsprobability="0.75" decal="explosion" decalsize="1.0" 
                    camerashake="500" camerashakerange="4000" 
                    flashrange="8000" flashduration="8.0"
                    screencolor="255,255,255,255" screencolorrange="12000" screencolorduration="4.0">
           <Affliction identifier="burn" strength="500" />
           <!--<Affliction identifier="ek_fusion_railgun_effect" strength="1000" />
           <Affliction identifier="ek_piercing_railgun_effect" strength="250" />-->
-          <Affliction identifier="burn" strength="300" />
-          <Affliction identifier="radiationsickness" strength="100" />
-          <Affliction identifier="explosiondamage" strength="600" />
-          <Affliction identifier="lacerations" strength="400" />
-          <Affliction identifier="stun" strength="10" />
+          <Affliction identifier="burn" strength="600" />
+          <Affliction identifier="radiationsickness" strength="50" />
+          <Affliction identifier="explosiondamage" strength="50" />
+          <Affliction identifier="lacerations" strength="100" />
+          <Affliction identifier="stun" strength="20" />
         </Explosion>
         <Explosion range="8000" force="0.0" smoke="false" sparks="false" empstrength="2" applyfireeffects="false"></Explosion>
         <SpawnItem identifier="ek_railshell_fusion_effect" spawnposition="This"/>

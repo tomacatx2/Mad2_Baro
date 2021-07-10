@@ -292,8 +292,9 @@
 		
         <Explosion range="325.0" structuredamage="0" stun="0.4" force="10.0" severlimbsprobability="0.5" flames="false" smoke="true" sparks="true" underwaterbubble="true" >
           <Affliction identifier="bleeding" strength="4" />
-          <Affliction identifier="lacerations" strength="15" />
-          <Affliction identifier="explosiondamage" strength="20" />
+          <Affliction identifier="lacerations" strength="10" />
+          <Affliction identifier="explosiondamage" strength="10" />
+		  <Affliction identifier="stun" strength="0.5" probability="0.1"/>
         </Explosion>
         <Remove />
       </StatusEffect>
@@ -449,10 +450,10 @@
 	</Holdable>
     <Projectile characterusable="false" launchimpulse="80.0" maxtargetstohit="2">
       <Attack structuredamage="14" itemdamage="20" severlimbsprobability="2" penetration="0.6" >
-        <Affliction identifier="gunshotwound" strength="15" />
-        <Affliction identifier="lacerations" strength="20" />
-        <Affliction identifier="bleeding" strength="4" />
-        <Affliction identifier="stun" strength="0.4" />
+        <Affliction identifier="gunshotwound" strength="5" />
+        <Affliction identifier="lacerations" strength="15" />
+        <Affliction identifier="bleeding" strength="9" />
+        <Affliction identifier="stun" strength="0.5" probability="0.3"/>
       </Attack>
       <StatusEffect type="OnActive" target="This" lifetime="2">
         <ParticleEmitter particle="ammotrailwater" copyentityangle="true" anglemin="-5" anglemax="5" particleamount="1" velocitymin="-10" velocitymax="-100" scalemin="2" scalemax="2.5" />
@@ -608,10 +609,9 @@
 	</Holdable>
     <Projectile characterusable="false" launchimpulse="80.0" maxtargetstohit="3" spread="20">
       <Attack structuredamage="15" itemdamage="10" severlimbsprobability="0.5">
-        <Affliction identifier="gunshotwound" strength="15" />
-        <Affliction identifier="lacerations" strength="20" />
-        <Affliction identifier="bleeding" strength="7.5" />
-        <Affliction identifier="stun" strength="0.6" />
+        <Affliction identifier="gunshotwound" strength="12" />
+        <Affliction identifier="lacerations" strength="10" />
+        <Affliction identifier="bleeding" strength="7" />
       </Attack>
       <StatusEffect type="OnActive" target="This" lifetime="2">
         <ParticleEmitter particle="ammotrailwater" copyentityangle="true" anglemin="-5" anglemax="5" particleamount="1" velocitymin="-10" velocitymax="-100" scalemin="2" scalemax="2.5" />
@@ -767,11 +767,9 @@
 	</Holdable>
     <Projectile characterusable="false" launchimpulse="80.0" maxtargetstohit="3" >
       <Attack structuredamage="40" itemdamage="35" severlimbsprobability="0.5" penetration="0.75" >
-        <Affliction identifier="gunshotwound" strength="15" />
-        <Affliction identifier="lacerations" strength="18" />
-        <Affliction identifier="internaldamage" strength="12" />
-        <Affliction identifier="bleeding" strength="3" />
-        <Affliction identifier="stun" strength="0.6" />
+        <Affliction identifier="lacerations" strength="8" />
+        <Affliction identifier="internaldamage" strength="7" />
+        <Affliction identifier="bleeding" strength="12" />
       </Attack>
       <!-- Remove moloch -->
 	  <!-- gunshotwound=25 lacerations=25 internaldamage=20 bleeding=20
@@ -979,9 +977,8 @@
         <Affliction identifier="gunshotwound" strength="10" />
         <Affliction identifier="lacerations" strength="5" />
         <Affliction identifier="bleeding" strength="5" />
-        <Affliction identifier="stun" strength="0.4" />
-        <Affliction identifier="cyanidepoisoning" amount="4" />
-        <Affliction identifier="sufforinpoisoning" strength="4" />
+        <Affliction identifier="cyanidepoisoning" amount="2" />
+        <Affliction identifier="sufforinpoisoning" strength="2" />
       </Attack>
       <StatusEffect type="OnActive" target="This" lifetime="2">
         <ParticleEmitter particle="ammotrailwater" copyentityangle="true" anglemin="-5" anglemax="5" particleamount="1" velocitymin="-10" velocitymax="-100" scalemin="2" scalemax="2.5" />
@@ -1179,8 +1176,8 @@
     <Holdable slots="RightHand+LeftHand" holdpos="0,-50" handle1="-10,0" handle2="10,0" aimable="false" />
     <Projectile characterusable="false" launchimpulse="120.0" maxtargetstohit="2">
       <Attack structuredamage="10" itemdamage="10" severlimbsprobability="0.5" penetration="0.6" >
-        <Affliction identifier="lacerations" strength="18" />
-        <Affliction identifier="bleeding" strength="1" />
+        <Affliction identifier="lacerations" strength="15" />
+        <Affliction identifier="bleeding" strength="3" />
       </Attack>
       <StatusEffect type="OnActive" target="This" lifetime="2">
         <ParticleEmitter particle="ammotrailwater" copyentityangle="true" anglemin="-5" anglemax="5" particleamount="1" velocitymin="-10" velocitymax="-100" scalemin="0.5" scalemax="1" />

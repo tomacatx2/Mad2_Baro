@@ -603,7 +603,7 @@
                    screencolor="255,255,255,255" screencolorrange="5000" screencolorduration="5.0">        
           <Affliction identifier="burn" strength="400" />
           <Affliction identifier="radiationsickness" strength="100" />
-          <Affliction identifier="explosiondamage" strength="500" />
+          <Affliction identifier="explosiondamage" strength="400" />
           <Affliction identifier="stun" strength="8" />
         </Explosion>
         <Explosion range="3000" force="0.0" smoke="false" sparks="false" empstrength="2" applyfireeffects="false"></Explosion>
@@ -879,7 +879,7 @@
     <Body width="215" height="30" density="30" />
     <Holdable slots="RightHand+LeftHand" holdpos="0,-50" handle1="-10,0" handle2="10,0" aimable="false" msg="ItemMsgPickUpSelect" />
     <Projectile characterusable="false" launchimpulse="85.0" maxtargetstohit="3" >
-      <Attack structuredamage="60" itemdamage="60" severlimbsprobability="2.0" penetration="0.6" >
+      <Attack structuredamage="60" itemdamage="60" severlimbsprobability="0.5" penetration="0.7" >
 	  <!--
         <Affliction identifier="gunshotwound" strength="100" />
         <Affliction identifier="lacerations" strength="50" />
@@ -894,11 +894,11 @@
 		
 		new total has to equal 750
 	  -->
-        <Affliction identifier="gunshotwound" strength="250" />
-        <Affliction identifier="lacerations" strength="400" />
-        <Affliction identifier="internaldamage" strength="100" />
-        <Affliction identifier="bleeding" strength="50" />
-        <Affliction identifier="stun" strength="12" />
+        <Affliction identifier="gunshotwound" strength="100" />
+        <Affliction identifier="lacerations" strength="200" />
+        <Affliction identifier="internaldamage" strength="75" />
+        <Affliction identifier="bleeding" strength="25" />
+        <Affliction identifier="stun" strength="12"/>
       </Attack>
 
       <StatusEffect type="OnActive" target="This" condition="-5" disabledeltatime="true" stackable="false" delay="0.3" >
@@ -954,8 +954,8 @@
     <Deconstruct time="15">
       <Item identifier="steel" />
       <Item identifier="c4block" />
-      <Item identifier="copper" outcondition="0.5"/>
-      <Item identifier="titanium" outcondition="0.5"/>
+      <Item identifier="copper"/>
+      <Item identifier="titanium"/>
     </Deconstruct>
     <Fabricate suitablefabricators="fabricator" requiredtime="30">
       <RequiredSkill identifier="weapons" level="25" />
@@ -970,7 +970,7 @@
     <Body width="215" height="30" density="30" />
     <Holdable slots="RightHand+LeftHand" holdpos="0,-50" handle1="-10,0" handle2="10,0" aimable="false" msg="ItemMsgPickUpSelect" />
     <Projectile characterusable="false" launchimpulse="85.0" maxtargetstohit="3" severlimbsprobability="2" >
-      <Attack structuredamage="75" itemdamage="125" severlimbsprobability="1.0" penetration="1.0" >
+      <Attack structuredamage="75" itemdamage="125" severlimbsprobability="0.4" penetration="0.6" >
 	  <!--
         <Affliction identifier="gunshotwound" strength="100" />
         <Affliction identifier="lacerations" strength="50" />
@@ -984,13 +984,13 @@
         <Affliction identifier="bleeding" strength="75" />
         <Affliction identifier="stun" strength="10" />
 	  
-	    new total has to equal 1500
+	    new total has to equal 1500 || WROOONG :^)
 	  -->
-        <Affliction identifier="burn" strength="150" />
-        <Affliction identifier="gunshotwound" strength="250" />
-        <Affliction identifier="lacerations" strength="750" />
-        <Affliction identifier="explosiondamage" strength="250" />
-        <Affliction identifier="bleeding" strength="100" />
+        <Affliction identifier="burn" strength="100" />
+        <Affliction identifier="gunshotwound" strength="150" />
+        <Affliction identifier="lacerations" strength="300" />
+        <Affliction identifier="explosiondamage" strength="150" />
+        <Affliction identifier="bleeding" strength="50" />
         <Affliction identifier="stun" strength="15" />
       </Attack>
 
@@ -1020,7 +1020,7 @@
         <sound file="Content/Items/Weapons/ExplosionSmall1.ogg" selectionmode="Random" range="50000"/>
         <sound file="Content/Items/Weapons/ExplosionSmall2.ogg" selectionmode="Random" range="50000"/>
         <sound file="Content/Items/Weapons/ExplosionSmall3.ogg" selectionmode="Random" range="50000"/>
-        <Explosion range="250.0" structuredamage="100" itemdamage="100" force="50.0" severlimbsprobability="1.5" >
+        <Explosion range="250.0" structuredamage="100" itemdamage="100" force="50.0" severlimbsprobability="0.2" >
           <Affliction identifier="explosiondamage" strength="25" />
           <Affliction identifier="stun" strength="1" />
         </Explosion>
@@ -1496,7 +1496,7 @@
        </StatusEffect>
       <StatusEffect type="OnImpact" target="This" Condition="-100.0" disabledeltatime="true">
         <Explosion range="250.0" structuredamage="100" itemdamage="100" force="50.0" severlimbsprobability="1.5" decal="explosion">
-          <Affliction identifier="explosiondamage" strength="500" />
+          <Affliction identifier="explosiondamage" strength="400" />
           <Affliction identifier="stun" strength="5" />
         </Explosion>
       </StatusEffect>

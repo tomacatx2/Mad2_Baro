@@ -160,14 +160,14 @@
       <sound file="Content/Items/Weapons/ExplosionLarge2.ogg" type="OnUse" selectionmode="Random" range="50000" />
       <StatusEffect type="OnImpact" target="This" condition="-100"/>
       <StatusEffect type="OnBroken" target="Contained">
-        <Explosion range="1500.0" structuredamage="1000" itemdamage="500" force="50.0" severlimbsprobability="5.0" decal="explosion" decalsize="1.0"
+        <Explosion range="1000.0" structuredamage="1000" itemdamage="500" force="50.0" severlimbsprobability="5.0" decal="explosion" decalsize="1.0"
                    camerashake="500" camerashakerange="50000" 
                    flashrange="10000" flashduration="5.0"
                    screencolor="255,255,255,255" screencolorrange="5000" screencolorduration="5.0">        
-          <Affliction identifier="burn" strength="300" />
+          <Affliction identifier="burn" strength="200" />
           <Affliction identifier="radiationsickness" strength="100" />
-          <Affliction identifier="explosiondamage" strength="600" />
-          <Affliction identifier="stun" strength="20" />
+          <Affliction identifier="explosiondamage" strength="500" />
+          <Affliction identifier="stun" strength="15" />
         </Explosion>
         <Explosion range="3000" force="0.0" smoke="false" sparks="false" empstrength="2" applyfireeffects="false"></Explosion>
 		<SpawnItem identifier="nuclearaftereffectemitter" spawnposition="This"/>
@@ -597,14 +597,14 @@
         <Remove />
       </StatusEffect>
       <StatusEffect type="OnImpact" Condition="-100.0" disabledeltatime="true">
-		<Explosion range="1500.0" structuredamage="1000" itemdamage="300" force="50.0" severlimbsprobability="5.0" decal="explosion" decalsize="1.0"
+		<Explosion range="1000.0" structuredamage="1000" itemdamage="300" force="50.0" severlimbsprobability="5.0" decal="explosion" decalsize="1.0"
                    camerashake="500" camerashakerange="50000" 
                    flashrange="10000" flashduration="5.0"
                    screencolor="255,255,255,255" screencolorrange="5000" screencolorduration="5.0">        
-          <Affliction identifier="burn" strength="500" />
+          <Affliction identifier="burn" strength="400" />
           <Affliction identifier="radiationsickness" strength="100" />
-          <Affliction identifier="explosiondamage" strength="600" />
-          <Affliction identifier="stun" strength="10" />
+          <Affliction identifier="explosiondamage" strength="500" />
+          <Affliction identifier="stun" strength="8" />
         </Explosion>
         <Explosion range="3000" force="0.0" smoke="false" sparks="false" empstrength="2" applyfireeffects="false"></Explosion>
 		<SpawnItem identifier="nuclearaftereffectemitter" spawnposition="This"/>

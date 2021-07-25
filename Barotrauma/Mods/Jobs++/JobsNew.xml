@@ -168,7 +168,7 @@
 	</ItemSet>
   </Job>
   <Job identifier="officer"
-       minnumber="0" maxnumber="3" minkarma="0" initialcount="0"
+       minnumber="0" maxnumber="1" minkarma="0" initialcount="0"
        uicolor="3,177,252"
        vitalitymodifier="+20"
        pricemultiplier="2"

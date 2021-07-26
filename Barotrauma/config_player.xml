@@ -21,7 +21,7 @@
   enablemouselook="true"
   radialdistortion="true"
   chatopen="false"
-  crewmenuopen="false"
+  crewmenuopen="true"
   campaigndisclaimershown="true"
   editordisclaimershown="true"
   tutorialskipwarning="false"
@@ -49,7 +49,7 @@
     usedirectionalvoicechat="true"
     voicesetting="PushToTalk"
     audiooutputdevice="OpenAL_x0020_Soft_x0020_on_x0020_Speakers_x0020__x0028_High_x0020_Definition_x0020_Audio_x0020_Device_x0029_"
-    voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_Microphone_x0020__x0028_Realtek_x0020_High_x0020_Definition_x0020_Audio_x0029_"
+    voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_Microphone_x0020__x0028_Yeti_x0020_Stereo_x0020_Microphone_x0029_"
     noisegatethreshold="-45"
     uselocalvoicebydefault="false" />
   <graphicssettings
@@ -122,15 +122,18 @@
         name="FreddyMod"
         enabled="true" />
       <package
+        name="BOScore"
+        enabled="true" />
+      <package
+        name="abysswalker"
+        enabled="true" />
+      <package
         name="The Box 2"
         enabled="true" />
       <package
         name="EK Marauder Mk-II" />
       <package
         name="EK NurseShark Mk-I" />
-      <package
-        name="BOScore"
-        enabled="true" />
       <package
         name="EKM_Myrith_Mk-I" />
       <package
@@ -177,9 +180,6 @@
         name="Pirate Kastrull" />
       <package
         name="Berilia pirate" />
-      <package
-        name="abysswalker"
-        enabled="true" />
     </regular>
   </contentpackages>
   <keymapping
@@ -202,8 +202,8 @@
     Grab="G"
     SelectNextCharacter="Z"
     SelectPreviousCharacter="X"
-    Voice="LeftAlt"
-    LocalVoice="V"
+    Voice="MouseButton5"
+    LocalVoice="MouseButton4"
     Deselect="SecondaryMouse"
     Shoot="PrimaryMouse"
     Command="MiddleMouse"
@@ -251,19 +251,19 @@
     <jobpreferences />
   </gameplay>
   <player
-    name="tomacatx1"
-    headindex="3"
-    gender="Male"
-    race="White"
+    name="superhands"
+    headindex="6"
+    gender="Female"
+    race="Asian"
     hairindex="1"
-    beardindex="1"
+    beardindex="0"
     moustacheindex="0"
     faceattachmentindex="0" />
   <tutorials />
   <ignoredhints
     identifiers="onstartedinteracting.item.gunloader,onafflictiondisplayed,onadjacenthull.highpressure,onadjacenthull.highwaterpercentage,onstartedinteracting.turretperiscope,onsonarspottedenemy,onstartedinteracting.item.navterminal,reminder.tabmenu,onshootwithoutaiming,onstartedcontrolling.job.securityofficer,onstartedcontrolling.job.assistant,onrepairfailed,onstartedinteracting.item.fabricator,reminder.commandinterface,onstartedinteracting.item.reactor,oncharacterunconscious,onstartedcontrolling.job.engineer,onstartedcontrolling.job.mechanic,onstartedinteracting.item.deconstructor,onstartedinteracting.lootingisstealing,onstartedinteracting.brokenitem" />
   <encountered
-    creatures="human,mudraptor,spineling,crawler,mudraptor_hatchling,swarmcrawler,husk,humanhusk,gundrone,ekdronerallybeacon,humanapostle,humanhive,ramblin,maggot,watcher,crawlerhusk,hammerheadgold,hammerhead,mudraptor_unarmored,peanut,terminalcell,moloch,endworm,moloch_m,charybdis,tigerthresher,bonethresher" />
+    creatures="human,mudraptor,spineling,crawler,mudraptor_hatchling,swarmcrawler,husk,humanhusk,gundrone,ekdronerallybeacon,humanapostle,humanhive,ramblin,maggot,watcher,crawlerhusk,hammerheadgold,hammerhead,mudraptor_unarmored,peanut,terminalcell,moloch,endworm,moloch_m,charybdis,tigerthresher,bonethresher,crawler_hatchling,hammerheadmatriarch,hammerheadspawn,leucocyte" />
   <killed
     creatures="human,crawler,husk,humanapostle,humanhive,ramblin,maggot,moloch,moloch_m,hammerhead,spineling,mudraptor,tigerthresher,bonethresher" />
 </config>

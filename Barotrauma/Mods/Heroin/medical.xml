@@ -1,0 +1,1748 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  
+  <Heroin name="Heroin" identifier="Heroin" category="Misc" Tags="Heroin,smallitem" description="Recently legalized substance with high sales tax. Very addictive but really calms the nerves." scale="0.220" cargocontaineridentifier="chemicalcrate">
+    <PreferredContainer primary="chemicalcrate" minamount="2" maxamount="10" spawnprobability="0.9"/>
+	<PreferredContainer primary="chemicalcrate" minamount="12" maxamount="12"/>
+    <Price locationtype="Research" buyprice="16" />
+    <Price locationtype="Military" buyprice="60" />
+    <Price locationtype="City" buyprice="20" />
+    <Price locationtype="Outpost" buyprice="40" />
+    <Price locationtype="Mine" buyprice="40" />
+    <Deconstruct time="10">
+      <Item identifier="slimebacteria" outcondition="0.1" />
+      <Item identifier="rubber" outcondition="0.1" />
+      <Item identifier="carbon" outcondition="0.1" />
+    </Deconstruct>
+    <Sprite texture="heroin.png" sourcerect="0,0,120,23" scale="0.220" depth="0.55" />
+    <BrokenSprite texture="heroin.png" sourcerect="0,0,120,23" scale="0.220" depth="0.55" maxcondition="99" />
+    <BrokenSprite texture="heroin.png" sourcerect="0,0,120,23" scale="0.220" depth="0.55" maxcondition="40" />
+    <BrokenSprite texture="heroin.png" sourcerect="0,0,120,23" scale="0.220" depth="0.55" maxcondition="0" />
+    <InventoryIcon texture="HeroinIcon.png" sourcerect="0,0,120,120" depth="0.55" />
+    <Body width="120" height="23" density="9.9" />
+    <RepairTool structurefixamount="0.0" usablein="Air">	
+		<StatusEffect type="OnFailure" target="UseTarget">
+        <ParticleEmitter particle="bubbles" particlespersecond="0" anglemin="-10" anglemax="10" scalemin="0.3" scalemax="0.7" velocitymin="5" velocitymax="100" copyentityangle="true"/>
+        <ParticleEmitter particle="fleshsmoke" particlespersecond="0" anglemin="-10" anglemax="10" scalemin="1" scalemax="1.5" velocitymin="5" velocitymax="200" copyentityangle="true"/>
+      </StatusEffect>
+		<StatusEffect  type="OnUse" target="Character" duration="2">
+			<Affliction identifier="oxygenlow" amount="0.42"/>
+			<Affliction identifier="opiateaddiction" amount="0.10"/>
+			<ReduceAffliction identifier="opiatewithdrawal" amount="2.0"/>
+			<Affliction identifier="opiateoverdose" amount="0.10"/>
+			<Affliction identifier="strengthen" amount="0.8"/>
+			<Affliction identifier="ohigh" amount="0.13"/>
+		</StatusEffect>
+
+		<!-- make the item unusable when there's less than 10% oxygen -->
+		  <StatusEffect type="OnUse" target="This" UsableIn="None">
+			<Conditional OxygenPercentage="lt 10"/>
+		  </StatusEffect>
+		  <!-- make the item usable again when there's more than 10% oxygen -->
+		  <StatusEffect type="OnFailure" target="This" UsableIn="Air">
+			<Conditional OxygenPercentage="gt 10"/>
+		  </StatusEffect>
+
+      <ParticleEmitter particle="" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<sound file="Mods/Heroin/HeroinInject.ogg" type="OnUse" range="100" loop="true"/>
+		
+        <StatusEffect type="OnActive" target="This,Hull" Condition="-30.0">
+          <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+        </StatusEffect>
+		<StatusEffect type="OnUse" target="Hull" Oxygen="-50"/>
+
+        <StatusEffect type="InWater" target="This" IsOn="false" />
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+
+        <!-- <StatusEffect type="OnBroken" target="This" IsOn="false" /> -->
+      </LightComponent>
+    </RepairTool>
+    <Holdable slots="RightHand+LeftHand,Any" controlpose="true" aimpos="35,18" handle1="-30,0" handle2="90,10" />
+  </Heroin>
+	
+	<Whiskey name="Metal Flask of Whiskey" identifier="Whiskey" category="Misc" Tags="Whiskey,smallitem" description="Strong Alcohol. Enhances the effects of other drugs, also useful for ingesting pills. Smells like the ABV is 50%" scale="0.290" cargocontaineridentifier="chemicalcrate">
+    <PreferredContainer primary="chemicalcrate" minamount="2" maxamount="10" spawnprobability="0.9"/>
+	<PreferredContainer primary="chemicalcrate" minamount="12" maxamount="12"/>
+    <Price locationtype="Research" buyprice="16" />
+    <Price locationtype="Military" buyprice="20" />
+    <Price locationtype="City" buyprice="18" />
+    <Price locationtype="Outpost" buyprice="20" />
+    <Price locationtype="Mine" buyprice="16" />
+    <Deconstruct time="10">
+      <Item identifier="slimebacteria" outcondition="0.1" />
+      <Item identifier="rubber" outcondition="0.1" />
+      <Item identifier="carbon" outcondition="0.1" />
+    </Deconstruct>
+    <Sprite texture="Whiskey.png" sourcerect="0,0,40,40" scale="0.4" depth="0.55" />
+    <BrokenSprite texture="Whiskey.png" sourcerect="0,0,40,40" depth="0.55" maxcondition="99" />
+    <BrokenSprite texture="Whiskey.png" sourcerect="0,0,40,40" depth="0.55" maxcondition="40" />
+    <BrokenSprite texture="Whiskey.png" sourcerect="0,0,40,40" depth="0.55" maxcondition="0" />
+    <InventoryIcon texture="WhiskeyIcon.png" sourcerect="0,0,120,121" depth="0.55" />
+    <Body width="40" height="40" scale="0.4" density="9.9" />
+    <RepairTool structurefixamount="0.0" usablein="Air">	
+		<StatusEffect type="OnFailure" target="UseTarget">
+        <ParticleEmitter particle="bubbles" particlespersecond="0" anglemin="-10" anglemax="10" scalemin="0.3" scalemax="0.7" velocitymin="5" velocitymax="100" copyentityangle="true"/>
+        <ParticleEmitter particle="fleshsmoke" particlespersecond="0" anglemin="-10" anglemax="10" scalemin="1" scalemax="1.5" velocitymin="5" velocitymax="200" copyentityangle="true"/>
+      </StatusEffect>
+		<StatusEffect  type="OnUse" target="Character" duration="2">
+			<Affliction identifier="drunk" amount="0.027"/>
+			<Affliction identifier="durationincrease" amount="0.095"/>
+			<Affliction identifier="drinker" amount="0.0095"/>
+			<ReduceAffliction identifier="alcoholic" amount="0.027"/>
+                        <Affliction identifier="psychosisresistance" amount="0.1"/>
+		</StatusEffect>
+
+		<!-- make the item unusable when there's less than 10% oxygen -->
+		  <StatusEffect type="OnUse" target="This" UsableIn="None">
+			<Conditional OxygenPercentage="lt 10"/>
+		  </StatusEffect>
+		  <!-- make the item usable again when there's more than 10% oxygen -->
+		  <StatusEffect type="OnFailure" target="This" UsableIn="Air">
+			<Conditional OxygenPercentage="gt 10"/>
+		  </StatusEffect>
+
+      <ParticleEmitter particle="" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<sound file="Mods/Heroin/Whiskeydrink.ogg" type="OnUse" range="100" loop="true"/>
+		
+        <StatusEffect type="OnActive" target="This,Hull" Condition="-6.0">
+          <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+        </StatusEffect>
+		<StatusEffect type="OnUse" target="Hull" Oxygen="-50"/>
+
+        <StatusEffect type="InWater" target="This" IsOn="false" />
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+
+        <!-- <StatusEffect type="OnBroken" target="This" IsOn="false" /> -->
+      </LightComponent>
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Modafinil" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+        <ReduceAffliction identifier="stun" amount="10"/>
+        <Affliction identifier="haste" amount="0.090"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/swallow.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Modafinil" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Modafinil" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+	<Affliction identifier="ohigh" amount="0.8" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="2"/>
+	<Affliction identifier="opiateaddiction" amount="0.6666666666"/>
+	<Affliction identifier="strengthen" amount="6.666666667"/>
+        <Affliction identifier="oxygenlow" amount="1.25"/>
+	</StatusEffect>
+	
+	
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Fentanyl" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Fentanyl" type="Contained"/>
+	
+     
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+    <StatusEffect type="OnUse" targettype="Contained" targets="Xanax" Condition="-142"/>
+    <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+    <Affliction identifier="Bhigh" amount="0.175" />
+    <Affliction identifier="BAddict" amount="0.0875"/>
+    <Affliction identifier="psychosisresistance" amount="2.25"/>
+    <Affliction identifier="paralysisresistance" amount="2.25" />
+    <ReduceAffliction identifier="diaz" amount="1.25" />
+    <ReduceAffliction identifier="invertcontrols" amount="40"/>
+    </StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Xanax" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Xanax" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+    <StatusEffect type="OnUse" IsActive="true" targettype="Contained" Condition="-142"/>
+    <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+    <Affliction identifier="ohigh" amount="0"/>
+        <Affliction identifier="nausea" amount="50"/>
+        <ReduceAffliction identifier="ohigh" amount="10"/>
+        <ReduceAffliction identifier="opiateoverdose" amount="10"/>
+	<ReduceAffliction identifier="strengthen" amount="17"/>
+        </StatusEffect>
+        <StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Naloxone" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Naloxone" type="Contained"/>
+	
+     
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Dramamine Tablet" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="4" delay="0">
+	<Affliction identifier="Dihigh" amount="0.06249999996" />
+        <ReduceAffliction identifier="dimen" amount="0.04166666666"/>
+	<Affliction identifier="DiAddict" amount="0.0125"/>
+        <ReduceAffliction identifier="nausea" amount="16.66666667"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/swallow.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Dramamine Tablet" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Dramamine Tablet" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Oxycodone" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+	<Affliction identifier="ohigh" amount="0.1"/>
+	<ReduceAffliction identifier="opiatewithdrawal" amount="0.12"/>
+	<Affliction identifier="opiateaddiction" amount="0.06"/>
+	<Affliction identifier="strengthen" amount="0.8"/>
+        <Affliction identifier="drunk" amount="0.0625"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Oxycodone" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Oxycodone" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+    <StatusEffect type="OnUse" targettype="Contained" targets="Diazepam" Condition="-142"/>
+    <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+    <Affliction identifier="Bhigh" amount="0.07999999998" />
+    <Affliction identifier="BAddict" amount="0.07999999998"/>
+    <Affliction identifier="psychosisresistance" amount="1.5"/>
+    <Affliction identifier="paralysisresistance" amount="1.5" />
+    <ReduceAffliction identifier="diaz" amount="0.8333333333" />
+    <ReduceAffliction identifier="stun" amount="0.75"/>
+    <ReduceAffliction identifier="invertcontrols" amount="20"/>
+    </StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Diazepam" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Diazepam" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Morphine Tablet" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+	<Affliction identifier="ohigh" amount="0.05"/>
+	<ReduceAffliction identifier="opiatewithdrawal" amount="0.05"/>
+	<Affliction identifier="opiateaddiction" amount="0.08"/>
+	<Affliction identifier="strengthen" amount="0.4"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Morphine Tablet" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Morphine Tablet" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Adderall Pill" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+	<Affliction identifier="Dhigh" amount="0.08"/>
+	<ReduceAffliction identifier="dext" amount="0.08"/>
+	<Affliction identifier="Daddict" amount="0.16"/>
+	<Affliction identifier="haste" amount="0.5"/>
+        <Affliction identifier="psychosisresistance" amount="0.5"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/swallow.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Adderall Pill" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Adderall Pill" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <ItemContainer capacity="1" maxstacksize="1" hideitems="True" itempos="18,0" containedspritedepth="0.56">
+      <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="0,157,92,27" />
+      <Containable items="Pill" />
+    </ItemContainer>
+    <Holdable slots="RightHand,LeftHand,Any" controlpose="true" aimpos="40,18" handle1="-5,0" handle2="-5,0" />
+  </Whiskey>
+
+	<Coke name="Coke" identifier="Coke" category="Misc" Tags="Coke,smallitem" description="A single hit of coke in a small package. Makes one hyperactive." scale="0.5" cargocontaineridentifier="chemicalcrate">
+    <PreferredContainer primary="chemicalcrate" minamount="2" maxamount="10" spawnprobability="0.9"/>
+	<PreferredContainer primary="chemicalcrate" minamount="12" maxamount="12"/>
+    <Price locationtype="Research" buyprice="20" />
+    <Price locationtype="Military" buyprice="35" />
+    <Price locationtype="City" buyprice="30" />
+    <Price locationtype="Outpost" buyprice="35" />
+    <Price locationtype="Mine" buyprice="15" />
+    <Deconstruct time="10">
+      <Item identifier="slimebacteria" outcondition="0.1" />
+      <Item identifier="rubber" outcondition="0.1" />
+      <Item identifier="carbon" outcondition="0.1" />
+    </Deconstruct>
+    <Sprite texture="Coke.png" sourcerect="0,0,25,25" scale="0.5" depth="0.55" />
+    <BrokenSprite texture="Coke.png" sourcerect="0,0,25,25" depth="0.55" maxcondition="99" />
+    <BrokenSprite texture="Coke.png" sourcerect="0,0,25,25" depth="0.55" maxcondition="40" />
+    <BrokenSprite texture="Coke.png" sourcerect="0,0,25,25" depth="0.55" maxcondition="0" />
+    <InventoryIcon texture="CokeIcon.png" sourcerect="0,0,120,120" depth="0.55" />
+    <Body width="25" height="25" density="9.9" />
+    <RepairTool structurefixamount="0.0" usablein="Air">	
+		<StatusEffect type="OnFailure" target="UseTarget">
+        <ParticleEmitter particle="bubbles" particlespersecond="0" anglemin="-10" anglemax="10" scalemin="0.3" scalemax="0.7" velocitymin="5" velocitymax="100" copyentityangle="true"/>
+        <ParticleEmitter particle="fleshsmoke" particlespersecond="0" anglemin="-10" anglemax="10" scalemin="1" scalemax="1.5" velocitymin="5" velocitymax="200" copyentityangle="true"/>
+      </StatusEffect>
+		<StatusEffect  type="OnUse" target="Character" duration="2">
+			<Affliction identifier="haste" amount="0.2"/>
+			<Affliction identifier="CokeAddict" amount="0.055"/>
+			<ReduceAffliction identifier="Coke" amount="0.018"/>
+			<Affliction identifier="cokeover" amount="0.060"/>
+			<Affliction identifier="strengthen" amount="0.36"/>
+        </StatusEffect>
+
+		<!-- make the item unusable when there's less than 10% oxygen -->
+		  <StatusEffect type="OnUse" target="This" UsableIn="None">
+			<Conditional OxygenPercentage="lt 10"/>
+		  </StatusEffect>
+		  <!-- make the item usable again when there's more than 10% oxygen -->
+		  <StatusEffect type="OnFailure" target="This" UsableIn="Air">
+			<Conditional OxygenPercentage="gt 10"/>
+		  </StatusEffect>
+
+      <ParticleEmitter particle="" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<sound file="Mods/Heroin/Cokesniff.ogg" type="OnUse" range="100" loop="true"/>
+		
+        <StatusEffect type="OnActive" target="This,Hull" Condition="-64.0">
+          <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+        </StatusEffect>
+		<StatusEffect type="OnUse" target="Hull" Oxygen="-50"/>
+
+        <StatusEffect type="InWater" target="This" IsOn="false" />
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+
+        <!-- <StatusEffect type="OnBroken" target="This" IsOn="false" /> -->
+      </LightComponent>
+    </RepairTool>
+    <Holdable slots="RightHand,LeftHand,Any" controlpose="true" aimpos="35,18" handle1="-5,0" handle2="-5,0" />
+  </Coke>
+
+ <Item name="Crackrock" identifier="crackrock" category="Misc" maxstacksize="2" Tags="smallitem,cokerock" description="Crack that needs to be smoked, Very potent.." scale="0.5" impactsoundtag="impact_metal_light" isshootable="true" cargocontaineridentifier="chemicalcrate">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <Price baseprice="40" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="tobaccobud" />
+      <Item identifier="tobaccobud" />
+      <Item identifier="tobaccobud" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="tobaccobud" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/CokeRockIcon.png" sourcerect="0,0,120,120" />
+    <Sprite texture="Mods/Heroin/CokeRock.png" sourcerect="0,0,25,25" depth="0.55" />
+    <Body width="25" height="25" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+ <Item name="Oxycodone" identifier="Oxycodone" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Oxycodone,Pill" description="A single pill of Oxycodone, an Opiate." useinhealthinterface="true" scale="0.250" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="opiatewithdrawal" suitability="-10" />
+    <Price baseprice="25" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="carbon" />
+      <Item identifier="nitrate" />
+      <Item identifier="hydrogen" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrate" />
+      <Item identifier="hydrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/Oxycodonepill.png" sourcerect="0,0,22,22" />
+    <Sprite texture="Mods/Heroin/Oxycodonepill.png" sourcerect="0,0,22,22" depth="0.55" />
+    <Body width="22" height="22" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="2">
+        <Affliction identifier="ohigh" amount="1.5" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="4"/>
+	<Affliction identifier="opiateaddiction" amount="1"/>
+	<Affliction identifier="strengthen" amount="10"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="ohigh" amount="1.5" />
+	<ReduceAffliction identifier="opiatewithdrawal" amount="4"/>
+	<Affliction identifier="opiateaddiction" amount="1"/>
+	<Affliction identifier="strengthen" amount="10"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+        <Affliction identifier="ohigh" amount="1.5" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="4"/>
+	<Affliction identifier="opiateaddiction" amount="1"/>
+	<Affliction identifier="strengthen" amount="10"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="ohigh" amount="1.5" />
+	<ReduceAffliction identifier="opiatewithdrawal" amount="4"/>
+	<Affliction identifier="opiateaddiction" amount="1"/>
+	<Affliction identifier="strengthen" amount="10"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+   <Item name="Diazepam" identifier="Diazepam" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Diazepam,Pill" description="A single pill of Diazepam, a Standard benzodiazepine. Used for Stress Relief." useinhealthinterface="true" scale="0.250" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="psychosisresistance" suitability="-10" />
+    <Price baseprice="7" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="Oxygen" />
+      <Item identifier="Hydrogen" />
+      <Item identifier="carbon" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="Hydrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/diazepamsprite.png" sourcerect="0,0,22,22" />
+    <Sprite texture="Mods/Heroin/diazepamsprite.png" sourcerect="0,0,22,22" depth="0.55" />
+    <Body width="22" height="22" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="2">
+        <Affliction identifier="Bhigh" amount="0.7" />
+	<Affliction identifier="BAddict" amount="1.4"/>
+	<Affliction identifier="psychosisresistance" amount="10"/>
+        <Affliction identifier="paralysisresistance" amount="5" />
+        <ReduceAffliction identifier="diaz" amount="4" />
+	<ReduceAffliction identifier="invertcontrols" amount="20" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="Bhigh" amount="0.7" />
+	<Affliction identifier="BAddict" amount="1.4"/>
+	<Affliction identifier="psychosisresistance" amount="10"/>
+        <Affliction identifier="paralysisresistance" amount="5" />
+        <ReduceAffliction identifier="diaz" amount="0.5" />
+	<ReduceAffliction identifier="invertcontrols" amount="20" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+        <Affliction identifier="Bhigh" amount="0.7" />
+	<Affliction identifier="BAddict" amount="1.4"/>
+	<Affliction identifier="psychosisresistance" amount="10"/>
+         <Affliction identifier="paralysisresistance" amount="5" />
+        <ReduceAffliction identifier="diaz" amount="0.5" />
+	<ReduceAffliction identifier="invertcontrols" amount="20" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="Bhigh" amount="0.7" />
+	<Affliction identifier="BAddict" amount="1.4"/>
+	<Affliction identifier="psychosisresistance" amount="10"/>
+        <Affliction identifier="paralysisresistance" amount="5" />
+        <ReduceAffliction identifier="diaz" amount="0.5" />
+	<ReduceAffliction identifier="invertcontrols" amount="20" />
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Morphine Tablet" identifier="Morphine Tablet" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Morphine Tablet,Pill" description="A single Tablet of Morphine, an Opiate. Used for pain relief." useinhealthinterface="true" scale="0.250" cargocontaineridentifier="chemicalcrate" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="opiatewithdrawal" suitability="-5" />
+    <Price baseprice="15" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="nitrogen" />
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="oxyg" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/morphinepill.png" sourcerect="0,0,21,22" />
+    <Sprite texture="Mods/Heroin/morphinepill.png" sourcerect="0,0,21,22" depth="0.55" />
+    <Body width="21" height="22" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="2">
+        <Affliction identifier="ohigh" amount="1.5" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="2"/>
+	<Affliction identifier="opiateaddiction" amount="0.6"/>
+	<Affliction identifier="strengthen" amount="5"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="ohigh" amount="1.5" />
+	<ReduceAffliction identifier="opiatewithdrawal" amount="2"/>
+	<Affliction identifier="opiateaddiction" amount="0.6"/>
+	<Affliction identifier="strengthen" amount="5"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+        <Affliction identifier="ohigh" amount="1.5" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="2"/>
+	<Affliction identifier="opiateaddiction" amount="0.6"/>
+	<Affliction identifier="strengthen" amount="5"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="ohigh" amount="1.5" />
+	<ReduceAffliction identifier="opiatewithdrawal" amount="2"/>
+	<Affliction identifier="opiateaddiction" amount="0.6"/>
+	<Affliction identifier="strengthen" amount="5"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Adderall Pill" identifier="Adderall Pill" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Adderall Pill,Pill" description="A single Pill of Adderall , a Dextroamphetamine. Used to combat stress and improve workspeed." useinhealthinterface="true" scale="0.250" cargocontaineridentifier="chemicalcrate" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="opiatewithdrawal" suitability="-5" />
+    <Price baseprice="8" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/Apillb.png" sourcerect="0,0,22,22" />
+    <Sprite texture="Mods/Heroin/Apillb.png" sourcerect="0,0,22,22" depth="0.55" />
+    <Body width="22" height="22" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="2">
+        <Affliction identifier="Dhigh" amount="1.5" />
+        <ReduceAffliction identifier="dext" amount="4"/>
+	<Affliction identifier="DAddict" amount="0.6"/>
+        <Affliction identifier="haste" amount="10"/>
+        <Affliction identifier="psychosisresistance" amount="30"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="Dhigh" amount="1.5" />
+	<ReduceAffliction identifier="dext" amount="4"/>
+	<Affliction identifier="DAddict" amount="0.6"/>
+        <Affliction identifier="haste" amount="10"/>
+        <Affliction identifier="psychosisresistance" amount="30"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+        <Affliction identifier="Dhigh" amount="1.5" />
+        <ReduceAffliction identifier="dext" amount="4"/>
+	<Affliction identifier="DAddict" amount="0.6"/>
+        <Affliction identifier="haste" amount="10"/>
+        <Affliction identifier="psychosisresistance" amount="30"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="Dhigh" amount="1.5" />
+	<ReduceAffliction identifier="dext" amount="4"/>
+	<Affliction identifier="DAddict" amount="0.6"/>
+        <Affliction identifier="haste" amount="10"/>
+        <Affliction identifier="psychosisresistance" amount="30"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Bottle of Beer" identifier="bottleofbeer" category="Misc" Tags="bottleofbeer,smallitem" description="Weak Alcohol. Slightly Enhances the effects of other drugs, also useful for ingesting pills." scale="0.350" cargocontaineridentifier="chemicalcrate">
+    <PreferredContainer primary="chemicalcrate" minamount="2" maxamount="10" spawnprobability="0.9"/>
+	<PreferredContainer primary="chemicalcrate" minamount="12" maxamount="12"/>
+    <Price locationtype="Research" buyprice="20" />
+    <Price locationtype="Military" buyprice="20" />
+    <Price locationtype="City" buyprice="10" />
+    <Price locationtype="Outpost" buyprice="20" />
+    <Price locationtype="Mine" buyprice="16" />
+    <Deconstruct time="10">
+      <Item identifier="rubber" outcondition="0.1" />
+      <Item identifier="carbon" outcondition="0.1" />
+    </Deconstruct>
+    <Sprite texture="beerbottlesprite.png" sourcerect="0,0,74,20" scale="0.4" depth="0.55" />
+    <BrokenSprite texture="beerbottlesprite.png" sourcerect="0,0,74,20" depth="0.55" maxcondition="99" />
+    <BrokenSprite texture="beerbottlesprite.png" sourcerect="0,0,74,20" depth="0.55" maxcondition="40" />
+    <BrokenSprite texture="beerbottlesprite.png" sourcerect="0,0,74,20" depth="0.55" maxcondition="0" />
+    <InventoryIcon texture="beerbottleheroin.png" sourcerect="0,0,20,74" depth="0.55" />
+    <Body width="74" height="20" scale="0.4" density="9.9" />
+    <RepairTool structurefixamount="0.0" usablein="Air">	
+		<StatusEffect type="OnFailure" target="UseTarget">
+        <ParticleEmitter particle="bubbles" particlespersecond="0" anglemin="-10" anglemax="10" scalemin="0.3" scalemax="0.7" velocitymin="5" velocitymax="100" copyentityangle="true"/>
+        <ParticleEmitter particle="fleshsmoke" particlespersecond="0" anglemin="-10" anglemax="10" scalemin="1" scalemax="1.5" velocitymin="5" velocitymax="200" copyentityangle="true"/>
+      </StatusEffect>
+		<StatusEffect  type="OnUse" target="Character" duration="2">
+			<Affliction identifier="drunk" amount="0.0045"/>
+			<Affliction identifier="durationincrease" amount="0.03166666666"/>
+			<Affliction identifier="drinker" amount="0.00475"/>
+			<ReduceAffliction identifier="alcoholic" amount="0.0045"/>
+                        <Affliction identifier="psychosisresistance" amount="0.03333333333"/>
+		</StatusEffect>
+
+		<!-- make the item unusable when there's less than 10% oxygen -->
+		  <StatusEffect type="OnUse" target="This" UsableIn="None">
+			<Conditional OxygenPercentage="lt 10"/>
+		  </StatusEffect>
+		  <!-- make the item usable again when there's more than 10% oxygen -->
+		  <StatusEffect type="OnFailure" target="This" UsableIn="Air">
+			<Conditional OxygenPercentage="gt 10"/>
+		  </StatusEffect>
+
+      <ParticleEmitter particle="" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<sound file="Mods/Heroin/Whiskeydrink.ogg" type="OnUse" range="100" loop="true"/>
+		
+        <StatusEffect type="OnActive" target="This,Hull" Condition="-6.0">
+          <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+        </StatusEffect>
+		<StatusEffect type="OnUse" target="Hull" Oxygen="-50"/>
+
+        <StatusEffect type="InWater" target="This" IsOn="false" />
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+
+        <!-- <StatusEffect type="OnBroken" target="This" IsOn="false" /> -->
+      </LightComponent>
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Modafinil" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+        <ReduceAffliction identifier="stun" amount="10"/>
+        <Affliction identifier="haste" amount="0.090"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/swallow.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Modafinil" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Modafinil" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+	<Affliction identifier="ohigh" amount="0.7" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="1.5"/>
+	<Affliction identifier="opiateaddiction" amount="0.5"/>
+	<Affliction identifier="strengthen" amount="4.5"/>
+        <Affliction identifier="oxygenlow" amount="0.8"/>
+	</StatusEffect>
+	
+	
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Fentanyl" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Fentanyl" type="Contained"/>
+	
+     
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Oxycodone" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+	<Affliction identifier="ohigh" amount="0.06666666666"/>
+	<ReduceAffliction identifier="opiatewithdrawal" amount="0.08"/>
+	<Affliction identifier="opiateaddiction" amount="0.04"/>
+	<Affliction identifier="strengthen" amount="0.53333333333"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Oxycodone" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Oxycodone" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+    <StatusEffect type="OnUse" targettype="Contained" targets="Diazepam" Condition="-142"/>
+    <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+    <Affliction identifier="Bhigh" amount="0.03999999999" />
+    <Affliction identifier="BAddict" amount="0.03999999999"/>
+    <Affliction identifier="psychosisresistance" amount="0.75"/>
+    <Affliction identifier="paralysisresistance" amount="0.75" />
+    <ReduceAffliction identifier="diaz" amount="0.41666666666" />
+    <ReduceAffliction identifier="stun" amount="0.375"/>
+    <ReduceAffliction identifier="invertcontrols" amount="10"/>
+    </StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Diazepam" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Diazepam" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Dramamine Tablet" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="4" delay="0">
+	<Affliction identifier="Dihigh" amount="0.04166666664" />
+        <ReduceAffliction identifier="dimen" amount="0.02777777778"/>
+	<Affliction identifier="DiAddict" amount="0.008333333334"/>
+        <ReduceAffliction identifier="nausea" amount="11.11111111"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/swallow.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Dramamine Tablet" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Dramamine Tablet" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Morphine Tablet" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+	<Affliction identifier="ohigh" amount="0.03333333333"/>
+	<ReduceAffliction identifier="opiatewithdrawal" amount="0.03333333333"/>
+	<Affliction identifier="opiateaddiction" amount="0.05333333333"/>
+	<Affliction identifier="strengthen" amount="0.26666666666"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Morphine Tablet" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Morphine Tablet" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+	<StatusEffect type="OnUse" IsActive="true" targettype="Contained" targets="Adderall Pill" Condition="-142"/>
+        <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+	<Affliction identifier="Dhigh" amount="0.05333333333"/>
+	<ReduceAffliction identifier="dext" amount="0.05333333333"/>
+	<Affliction identifier="Daddict" amount="0.10666666666"/>
+	<Affliction identifier="haste" amount="0.33333333333"/>
+        <Affliction identifier="psychosisresistance" amount="0.33333333333"/>
+	</StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/swallow.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Adderall Pill" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Adderall Pill" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+    <StatusEffect type="OnUse" IsActive="true" targettype="Contained" Condition="-142"/>
+    <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+    <Affliction identifier="ohigh" amount="0"/>
+        <Affliction identifier="nausea" amount="50"/>
+        <ReduceAffliction identifier="ohigh" amount="10"/>
+        <ReduceAffliction identifier="opiateoverdose" amount="10"/>
+	<ReduceAffliction identifier="strengthen" amount="17"/>
+        </StatusEffect>
+        <StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Naloxone" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Naloxone" type="Contained"/>
+	
+     
+    </RepairTool>
+    <RepairTool structurefixamount="0.0">
+    <StatusEffect type="OnUse" targettype="Contained" targets="Xanax" Condition="-142"/>
+    <StatusEffect type="OnUse" target="Character" duration="2" delay="0">
+    <Affliction identifier="Bhigh" amount="0.1166666667" />
+    <Affliction identifier="BAddict" amount="0.05833333334"/>
+    <Affliction identifier="psychosisresistance" amount="1.5"/>
+    <Affliction identifier="paralysisresistance" amount="1.5" />
+    <ReduceAffliction identifier="diaz" amount="1.5" />
+    <ReduceAffliction identifier="invertcontrols" amount="40"/>
+    </StatusEffect>
+	
+		
+        
+	<StatusEffect type="OnUse" target="This">
+		<ParticleEmitter particle="swirlysmoke" particlespersecond="0" scalemin="1" scalemax="2" anglemin="0" anglemax="360" velocitymin="0" velocitymax="10"/>
+	</StatusEffect>
+
+      <ParticleEmitter particle="cigsmoke" particlespersecond="0" anglemin="-5" anglemax="5" velocitymin="10" velocitymax="20" />
+      <LightComponent LightColor="0.0,0.0,0.0,0.0" Flicker="0.0" range="100" IsOn="false" CastShadows="false">
+		<!-- Not meant for a long loop but will serve on short eating sounds -->
+		<sound file="Mods/Heroin/watergulp.ogg" type="OnUse" range="100" loop="true"/>
+        <StatusEffect type="OnFire" target="This" Condition="-20" IsOn="true" />
+
+        <StatusEffect type="OnFire" target="This">
+          <Remove />
+        </StatusEffect>
+      <StatusEffect type="OnImpact" target="This" Condition="0.0" setvalue="true" />
+		<StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+	<RequiredItems items="Xanax" type="Contained"/>
+	
+	
+	
+	
+	   
+	 
+
+      </LightComponent>
+	<RequiredItems items="Xanax" type="Contained"/>
+	
+	   
+	   
+
+    </RepairTool>
+    <ItemContainer capacity="1" maxstacksize="1" hideitems="True" itempos="18,0" containedspritedepth="0.56">
+      <ContainedStateIndicator texture="Content/UI/ContainerIndicators.png" sourcerect="0,157,92,27" />
+      <Containable items="Pill" />
+    </ItemContainer>
+    <Holdable slots="RightHand,LeftHand,Any" controlpose="true" aimpos="40,18" handle1="-5,0" handle2="-5,0" />
+  </Item>
+  <Item name="Dramamine Tablet" identifier="Dramamine Tablet" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Dramamine Tablet,Pill" description="A single tablet of Dramamine, a Dimenhydrinate. Typically used for Nausea." useinhealthinterface="true" scale="0.250" cargocontaineridentifier="chemicalcrate" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="opiatewithdrawal" suitability="-5" />
+    <Price baseprice="1" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="oxyg" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/dramaminepill.png" sourcerect="0,0,22,22" />
+    <Sprite texture="Mods/Heroin/dramaminepill.png" sourcerect="0,0,22,22" depth="0.55" />
+    <Body width="22" height="22" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="4">
+        <Affliction identifier="Dihigh" amount="0.75" />
+        <ReduceAffliction identifier="dimen" amount="4"/>
+	<Affliction identifier="DiAddict" amount="0.15"/>
+        <ReduceAffliction identifier="nausea" amount="200"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="Dihigh" amount="0.75" />
+        <ReduceAffliction identifier="dimen" amount="4"/>
+	<Affliction identifier="DiAddict" amount="0.15"/>
+        <ReduceAffliction identifier="nausea" amount="200"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="4">
+        <Affliction identifier="Dihigh" amount="0.75" />
+        <ReduceAffliction identifier="dimen" amount="4"/>
+	<Affliction identifier="DiAddict" amount="0.15"/>
+        <ReduceAffliction identifier="nausea" amount="200"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="Dihigh" amount="0.75" />
+        <ReduceAffliction identifier="dimen" amount="4"/>
+	<Affliction identifier="DiAddict" amount="0.15"/>
+        <ReduceAffliction identifier="nausea" amount="200"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Xanax" identifier="Xanax" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Xanax,Pill" description="A single pill of Xanax, a Strong benzodiazepine. Used for Anxiety and Stress Relief." useinhealthinterface="true" scale="0.250" cargocontaineridentifier="chemicalcrate" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="psychosisresistance" suitability="-10" />
+    <Price baseprice="7" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/Xan.png" sourcerect="0,0,22,7" />
+    <Sprite texture="Mods/Heroin/Xan.png" sourcerect="0,0,22,7" depth="0.55" />
+    <Body width="22" height="7" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="2">
+        <Affliction identifier="Bhigh" amount="1.5" />
+	<Affliction identifier="BAddict" amount="1.4"/>
+	<Affliction identifier="psychosisresistance" amount="20"/>
+        <Affliction identifier="paralysisresistance" amount="10" />
+        <ReduceAffliction identifier="diaz" amount="4" />
+	<ReduceAffliction identifier="invertcontrols" amount="40" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="Bhigh" amount="1.5" />
+	<Affliction identifier="BAddict" amount="1.4"/>
+	<Affliction identifier="psychosisresistance" amount="20"/>
+        <Affliction identifier="paralysisresistance" amount="10" />
+        <ReduceAffliction identifier="diaz" amount="4" />
+	<ReduceAffliction identifier="invertcontrols" amount="40" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+        <Affliction identifier="Bhigh" amount="1.5" />
+	<Affliction identifier="BAddict" amount="1.4"/>
+	<Affliction identifier="psychosisresistance" amount="20"/>
+        <Affliction identifier="paralysisresistance" amount="10" />
+        <ReduceAffliction identifier="diaz" amount="4" />
+	<ReduceAffliction identifier="invertcontrols" amount="40" />
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="Bhigh" amount="1.5" />
+	<Affliction identifier="BAddict" amount="1.4"/>
+	<Affliction identifier="psychosisresistance" amount="20"/>
+        <Affliction identifier="paralysisresistance" amount="10" />
+        <ReduceAffliction identifier="diaz" amount="1" />
+	<ReduceAffliction identifier="invertcontrols" amount="40" />
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Nicotine" identifier="Nicotine" category="Misc,Smoke" maxstacksize="2" Tags="smallitem,Nicotine,Smoke" description="A single vial of Nicotine, Highly addictive. Used for Anxiety and Stress Relief." useinhealthinterface="true" scale="0.170" cargocontaineridentifier="chemicalcrate" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="psychosisresistance" suitability="-10" />
+    <Price baseprice="22" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="tobaccobud" />
+      <Item identifier="tobaccobud" />
+      <Item identifier="tobaccobud" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="tobaccobud" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/nicotine.png" sourcerect="0,0,25,70" />
+    <Sprite texture="Mods/Heroin/nicotine.png" sourcerect="0,0,25,70" depth="0.55" />
+    <Body width="25" height="70" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    </Holdable>
+    </Item>
+    <Item name="Fentanyl" identifier="Fentanyl" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Fentanyl,Pill" description="A single 1mg pill of Fentanyl, a Very strong expensive Opiate. Use with extreme caution." useinhealthinterface="true" scale="0.250" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="opiatewithdrawal" suitability="-10" />
+    <Price baseprice="25" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+      <Item identifier="oxyg" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/FentanylPill.png" sourcerect="0,0,22,22" />
+    <Sprite texture="Mods/Heroin/FentanylPill.png" sourcerect="0,0,22,22" depth="0.55" />
+    <Body width="22" height="22" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="2">
+        <Affliction identifier="ohigh" amount="14.8" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="24"/>
+	<Affliction identifier="opiateaddiction" amount="8"/>
+	<Affliction identifier="strengthen" amount="80"/>
+        <Affliction identifier="oxygenlow" amount="30"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="ohigh" amount="14.8" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="24"/>
+	<Affliction identifier="opiateaddiction" amount="8"/>
+	<Affliction identifier="strengthen" amount="80"/>
+        <Affliction identifier="oxygenlow" amount="30"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+        <Affliction identifier="ohigh" amount="14.8" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="24"/>
+	<Affliction identifier="opiateaddiction" amount="8"/>
+	<Affliction identifier="strengthen" amount="80"/>
+        <Affliction identifier="oxygenlow" amount="30"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="ohigh" amount="14.8" />
+        <ReduceAffliction identifier="opiatewithdrawal" amount="24"/>
+	<Affliction identifier="opiateaddiction" amount="8"/>
+	<Affliction identifier="strengthen" amount="80"/>
+        <Affliction identifier="oxygenlow" amount="30"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Naloxone Pills" identifier="Naloxone" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Naloxone,Pill" description="A single 2mg pill of Naloxone, used to reduce Opioid high and stop overdose." useinhealthinterface="true" scale="0.250" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="opiateoverdose" suitability="-10" />
+    <Price baseprice="15" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+      <Item identifier="oxyg" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifer="nitrogen" />	
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/NaloxonePills.png" sourcerect="0,0,22,8" />
+    <Sprite texture="Mods/Heroin/NaloxonePills.png" sourcerect="0,0,22,8" depth="0.55" />
+    <Body width="22" height="8" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="10">
+        <Affliction identifier="ohigh" amount="0"/>
+        <Affliction identifier="nausea" amount="50"/>
+        <ReduceAffliction identifier="ohigh" amount="10"/>
+        <ReduceAffliction identifier="opiateoverdose" amount="10"/>
+	<ReduceAffliction identifier="strengthen" amount="17"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="ohigh" amount="0"/>
+	<Affliction identifier="nausea" amount="50"/>
+        <ReduceAffliction identifier="ohigh" amount="10"/>
+        <ReduceAffliction identifier="opiateoverdose" amount="10"/>
+	<ReduceAffliction identifier="strengthen" amount="17"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+        <Affliction identifier="ohigh" amount="0"/>
+	<Affliction identifier="nausea" amount="50"/>
+        <ReduceAffliction identifier="ohigh" amount="10"/>
+        <ReduceAffliction identifier="opiateoverdose" amount="10"/>
+	<ReduceAffliction identifier="strengthen" amount="17"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <Affliction identifier="ohigh" amount="0"/>
+	<Affliction identifier="nausea" amount="50"/>
+        <ReduceAffliction identifier="ohigh" amount="10"/>
+        <ReduceAffliction identifier="opiateoverdose" amount="10"/>
+	<ReduceAffliction identifier="strengthen" amount="17"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Modafinil Pills" identifier="Modafinil" category="Misc,Pill" maxstacksize="12" Tags="smallitem,Modafinil,Pill" description="A single 100mg pill of Modafinil, used to wake up unresponsive patients." useinhealthinterface="true" scale="0.250" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="opiatewithdrawal" suitability="-10" />
+    <Price baseprice="5" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="sulfur" />
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+      <Item identifier="oxyg" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/Modpill.png" sourcerect="0,0,22,10" />
+    <Sprite texture="Mods/Heroin/Modpill.png" sourcerect="0,0,22,10" depth="0.55" />
+    <Body width="22" height="10" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="10">
+        <ReduceAffliction identifier="stun" amount="10"/>
+        <Affliction identifier="haste" amount="0.5"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <ReduceAffliction identifier="stun" amount="10"/>
+        <Affliction identifier="haste" amount="0.5"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+       <ReduceAffliction identifier="stun" amount="10"/>
+       <Affliction identifier="haste" amount="0.5"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/swallow.ogg" range="500" />
+        <ReduceAffliction identifier="stun" amount="10"/>
+        <Affliction identifier="haste" amount="0.5"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+  <Item name="Epinephrine" identifier="epipen" category="Misc" maxstacksize="1" Tags="smallitem" description="A single Shot of epinephrine, used to wake up unresponsive patients and provide a boost." useinhealthinterface="true" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="chemicalcrate" spawnprobability="0.01"/>
+    <SuitableTreatment identifier="opiatewithdrawal" suitability="-10" />
+    <Price baseprice="50" soldeverywhere="false">
+      <Price locationtype="outpost" multiplier="1.1" minavailable="1"/>
+      <Price locationtype="city" multiplier="0.9"  minavailable="2"/>
+      <Price locationtype="research" multiplier="1" sold="false"/>
+      <Price locationtype="military" multiplier="1" sold="false"/>
+      <Price locationtype="mine" multiplier="1" sold="false"/>
+    </Price>
+   
+    <Fabricate suitablefabricators="fabricator" requiredtime="20">
+      <RequiredSkill identifier="helm" level="30" />
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+      <Item identifier="oxyg" />
+    </Fabricate>
+    <Deconstruct time="20">
+      <Item identifier="carbon" />
+      <Item identifier="hydrogen" />
+      <Item identifier="nitrogen" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Heroin/epip.png" sourcerect="0,0,25,4" />
+    <Sprite texture="Mods/Heroin/epip.png" sourcerect="0,0,25,4" depth="0.55" />
+    <Body width="25" height="4" />
+    <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" >
+    <StatusEffect type="OnFailure" target="This" Condition="-100.0" disabledeltatime="true" />
+      <RequiredSkill identifier="medical" level="1" />
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true" />
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="10">
+        <ReduceAffliction identifier="stun" amount="30"/>
+        <Affliction identifier="haste" amount="10"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnUse" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/HeroinInject.ogg" range="500" />
+        <ReduceAffliction identifier="stun" amount="30"/>
+        <Affliction identifier="haste" amount="10"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" duration="2">
+       <ReduceAffliction identifier="stun" amount="30"/>
+       <Affliction identifier="haste" amount="10"/>
+      </StatusEffect>
+      <StatusEffect tags="medical" type="OnFailure" target="Character" disabledeltatime="true">
+        <Sound file="Mods/Heroin/HeroinInject.ogg" range="500" />
+        <ReduceAffliction identifier="stun" amount="30"/>
+        <Affliction identifier="haste" amount="10"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+</Items>
+<!-- legacy **************************************************************************************** -->
+<!-- Medical items -->
+<!--
+  <Item
+    name="Oxygenic Acid"
+    identifier="erythrozine"
+    category="Material"
+    spritecolor="0.5,0.5,1.0,1.0"
+    containercolor="0.5,0.5,1.0,1.0"
+    cargocontaineridentifier="chemicalcrate"
+    Tags="smallitem,chem,medical"
+    description="Most commonly used for treating oxygen deprivation."
+    useinhealthinterface="true">
+    
+    <Price locationtype="Research" buyprice="25"/>
+    <Price locationtype="Military" buyprice="25"/>
+    <Price locationtype="City" buyprice="50"/>
+    <Price locationtype="Outpost" buyprice="100"/>
+
+    <InventoryIcon texture="Content/Items/InventoryIconAtlas.png" sourcerect="128,192,64,64"/>
+    <Sprite texture="med.png" sourcerect="24,16,8,16" depth="0.6" />
+
+    <Body width="8" height="16" density="20"/>
+
+    <SuitableTreatment identifier="oxygenlow" suitability="50"/>
+
+    <ItemComponent>
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="10.0">
+        <ReduceAffliction identifier="oxygenlow" amount="1"/>
+      </StatusEffect>
+      <StatusEffect type="OnUse" target="This" Condition="-100.0" disabledeltatime="true"/>
+    </ItemComponent>
+    
+    <Throwable characterusable="true" canBeCombined="true" slots="Any,RightHand,LeftHand" throwforce="4.0" aimpos="35,-10">
+      <StatusEffect tags="medical" type="OnUse" target="Character" duration="10">
+        <ReduceAffliction identifier="oxygenlow" amount="2"/>
+        <RequiredItem identifier="medicalsyringe" type="Container"/>
+      </StatusEffect>
+      <StatusEffect type="OnBroken" target="This">
+        <Remove/>
+      </StatusEffect>
+    </Throwable>
+  </Item>
+-->

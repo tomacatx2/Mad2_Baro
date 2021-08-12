@@ -1,0 +1,1602 @@
+﻿[07/08/2021 20:21:31]
+  superhands picked up Revolver
+[07/08/2021 20:21:31]
+  terc: pirate femboy.
+[07/08/2021 20:21:37]
+  superhands placed Stun Baton in Pirate Gunner
+[07/08/2021 20:21:37]
+  superhands removed Revolver from Pirate Gunner
+[07/08/2021 20:21:37]
+  superhands picked up Revolver
+[07/08/2021 20:21:38]
+  sylv picked up Morphine
+[07/08/2021 20:21:38]
+  sylv picked up Morphine
+[07/08/2021 20:21:41]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:21:43]
+  Joyce Lowe started repairing Oxygen Generator
+[07/08/2021 20:21:44]
+  terc: nonono
+[07/08/2021 20:21:46]
+  terc: toma look
+[07/08/2021 20:21:47]
+  superhands: Pirate Femboy.
+[07/08/2021 20:21:47]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:21:47]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:21:49]
+  terc: its right here
+[07/08/2021 20:21:51]
+  sylv picked up ID Card
+[07/08/2021 20:21:52]
+  Joyce Lowe started repairing Navigation Terminal
+[07/08/2021 20:21:56]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:22:03]
+  terc picked up Incendium Grenade
+[07/08/2021 20:22:06]
+  terc unequipped Underwater Scooter
+[07/08/2021 20:22:06]
+  terc equipped Exploding Ammunition Box
+[07/08/2021 20:22:08]
+  tomacatx1 picked up Shotgun Grenade
+[07/08/2021 20:22:09]
+  tomacatx1 placed Shotgun Flechette in Toolbelt (ID: 1142)
+[07/08/2021 20:22:09]
+  tomacatx1 placed Shotgun Flechette in Toolbelt (ID: 1142)
+[07/08/2021 20:22:09]
+  tomacatx1 placed Shotgun Flechette in Toolbelt (ID: 1142)
+[07/08/2021 20:22:12]
+  sylv (as Pirate Captain) placed ID Card in Toxin Cabinet (ID: 1523)
+[07/08/2021 20:22:12]
+  sylv (as Pirate Captain) removed Deliriumine from Toxin Cabinet (ID: 1523)
+[07/08/2021 20:22:12]
+  sylv (as Pirate Captain) picked up Deliriumine
+[07/08/2021 20:22:15]
+  sylv (as Pirate Captain) removed ID Card from Toxin Cabinet (ID: 1523)
+[07/08/2021 20:22:15]
+  superhands equipped Railgun Shell
+[07/08/2021 20:22:15]
+  superhands picked up Railgun Shell
+[07/08/2021 20:22:15]
+  tomacatx1 placed Shotgun Slug in Toolbelt (ID: 1142)
+[07/08/2021 20:22:15]
+  tomacatx1 placed Shotgun Slug in Toolbelt (ID: 1142)
+[07/08/2021 20:22:15]
+  tomacatx1 placed Shotgun Slug in Toolbelt (ID: 1142)
+[07/08/2021 20:22:15]
+  tomacatx1 placed Shotgun Slug in Toolbelt (ID: 1142)
+[07/08/2021 20:22:15]
+  tomacatx1 placed Shotgun Slug in Toolbelt (ID: 1142)
+[07/08/2021 20:22:15]
+  tomacatx1 placed Shotgun Slug in Toolbelt (ID: 1142)
+[07/08/2021 20:22:18]
+  tomacatx1 placed Shotgun Grenade in Riot Shotgun (ID: 1211)
+[07/08/2021 20:22:18]
+  tomacatx1 equipped Riot Shotgun
+[07/08/2021 20:22:26]
+  sylv (as Pirate Captain) attacked by tomacatx1. Blunt force trauma: 7.2
+[07/08/2021 20:22:26]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[07/08/2021 20:22:28]
+  terc opened Custom Hatch
+[07/08/2021 20:22:29]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 1211)
+[07/08/2021 20:22:29]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 1211)
+[07/08/2021 20:22:29]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 1211)
+[07/08/2021 20:22:29]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 1211)
+[07/08/2021 20:22:29]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 1211)
+[07/08/2021 20:22:29]
+  tomacatx1 placed 12-Gauge Shell in Riot Shotgun (ID: 1211)
+[07/08/2021 20:22:32]
+  terc closed Custom Hatch
+[07/08/2021 20:22:33]
+  terc opened Custom Door
+[07/08/2021 20:22:33]
+  terc closed Custom Door
+[07/08/2021 20:22:37]
+  superhands opened Custom Hatch
+[07/08/2021 20:22:39]
+  superhands closed Custom Hatch
+[07/08/2021 20:22:40]
+  terc dropped Diving Suit
+[07/08/2021 20:22:40]
+  superhands closed Custom Door
+[07/08/2021 20:22:40]
+  superhands opened Custom Door
+[07/08/2021 20:22:40]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:22:41]
+  Joyce Lowe started repairing Supercapacitor
+[07/08/2021 20:22:41]
+  superhands opened Custom Door
+[07/08/2021 20:22:41]
+  superhands closed Custom Door
+[07/08/2021 20:22:41]
+  tomacatx1 picked up Shotgun Flechette
+[07/08/2021 20:22:41]
+  tomacatx1 picked up Shotgun Flechette
+[07/08/2021 20:22:41]
+  tomacatx1 picked up Shotgun Flechette
+[07/08/2021 20:22:42]
+  tomacatx1 placed .357 Revolver Round in Toolbelt (ID: 1142)
+[07/08/2021 20:22:42]
+  tomacatx1 placed .357 Revolver Round in Toolbelt (ID: 1142)
+[07/08/2021 20:22:42]
+  tomacatx1 placed .357 Revolver Round in Toolbelt (ID: 1142)
+[07/08/2021 20:22:42]
+  tomacatx1 placed .357 Revolver Round in Toolbelt (ID: 1142)
+[07/08/2021 20:22:42]
+  tomacatx1 placed .357 Revolver Round in Toolbelt (ID: 1142)
+[07/08/2021 20:22:42]
+  tomacatx1 placed .357 Revolver Round in Toolbelt (ID: 1142)
+[07/08/2021 20:22:44]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:22:45]
+  tomacatx1 equipped Shotgun Flechette
+[07/08/2021 20:22:46]
+  terc dropped Exploding Ammunition Box
+[07/08/2021 20:22:46]
+  sylv (as Pirate Captain) opened Custom Door
+[07/08/2021 20:22:47]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:22:49]
+  Joyce Lowe started repairing Small Pump
+[07/08/2021 20:22:50]
+  terc equipped Incendium Grenade
+[07/08/2021 20:22:50]
+  sylv (as Pirate Captain) closed Custom Door
+[07/08/2021 20:22:51]
+  sylv (as Pirate Captain) opened Custom Door
+[07/08/2021 20:22:52]
+  sylv (as Pirate Captain) closed Custom Door
+[07/08/2021 20:22:53]
+  terc threw Incendium Grenade
+[07/08/2021 20:22:54]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:22:59]
+  tomacatx1 picked up 12-Gauge Shell
+[07/08/2021 20:22:59]
+  tomacatx1 picked up 12-Gauge Shell
+[07/08/2021 20:22:59]
+  tomacatx1 picked up 12-Gauge Shell
+[07/08/2021 20:22:59]
+  tomacatx1 picked up 12-Gauge Shell
+[07/08/2021 20:22:59]
+  tomacatx1 picked up 12-Gauge Shell
+[07/08/2021 20:22:59]
+  tomacatx1 picked up 12-Gauge Shell
+[07/08/2021 20:23:00]
+  tomacatx1 placed Shotgun Flechette in Riot Shotgun (ID: 1211)
+[07/08/2021 20:23:00]
+  tomacatx1 placed Shotgun Flechette in Riot Shotgun (ID: 1211)
+[07/08/2021 20:23:00]
+  tomacatx1 placed Shotgun Flechette in Riot Shotgun (ID: 1211)
+[07/08/2021 20:23:01]
+  sylv (as Pirate Captain) used item Plastiseal
+[07/08/2021 20:23:01]
+  superhands dropped Railgun Shell
+[07/08/2021 20:23:01]
+  tomacatx1 opened Custom Hatch
+[07/08/2021 20:23:02]
+  sylv (as Pirate Captain) used item Blood Pack
+[07/08/2021 20:23:03]
+  superhands equipped Fire Extinguisher
+[07/08/2021 20:23:03]
+  superhands picked up Fire Extinguisher
+[07/08/2021 20:23:04]
+  sylv (as Pirate Captain) used item Morphine
+[07/08/2021 20:23:04]
+  tomacatx1 closed Custom Hatch
+[07/08/2021 20:23:04]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:23:04]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:23:05]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:23:05]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:23:07]
+  Joyce Lowe has died (Cause of death: Burn)
+[07/08/2021 20:23:16]
+  tomacatx1 equipped Fire Extinguisher
+[07/08/2021 20:23:16]
+  tomacatx1 picked up Fire Extinguisher
+[07/08/2021 20:23:20]
+  superhands: explain yourself
+[07/08/2021 20:23:20]
+  sylv (as Pirate Captain) opened Custom Door
+[07/08/2021 20:23:21]
+  tomacatx1 dropped Fire Extinguisher
+[07/08/2021 20:23:23]
+  tomacatx1 attacked by terc. Gunshot wound: 9.6 Stun: 0.4
+[07/08/2021 20:23:23]
+  tomacatx1 attacked by terc. Gunshot wound: 12.696 Bleeding: 24
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  terc attacked by tomacatx1. Bleeding: 7.2000003 Lacerations: 0.6 Gunshot wound: 0.6 Deep tissue injury: 2
+[07/08/2021 20:23:24]
+  tomacatx1 attacked by terc. Gunshot wound: 12.696
+[07/08/2021 20:23:24]
+  tomacatx1 attacked by terc. Bleeding: 20 Gunshot wound: 9.6 Stun: 0.4
+[07/08/2021 20:23:24]
+  tomacatx1 attacked by terc. Gunshot wound: 12.696
+[07/08/2021 20:23:25]
+  tomacatx1 attacked by terc. Gunshot wound: 12.696
+[07/08/2021 20:23:25]
+  superhands placed Fire Extinguisher in Fire Extinguisher Bracket (ID: 808)
+[07/08/2021 20:23:25]
+  tomacatx1 attacked by terc. Gunshot wound: 12.696 Bleeding: 24
+[07/08/2021 20:23:29]
+  superhands equipped Revolver
+[07/08/2021 20:23:29]
+  superhands equipped Revolver
+[07/08/2021 20:23:33]
+  terc attacked by superhands. Bleeding: 32 Gunshot wound: 9 Stun: 0.4
+[07/08/2021 20:23:33]
+  terc attacked by superhands. Bleeding: 32 Gunshot wound: 9 Stun: 0.4
+[07/08/2021 20:23:34]
+  tomacatx1 attacked by terc. Bleeding: 20 Gunshot wound: 9.6 Stun: 0.4
+[07/08/2021 20:23:34]
+  tomacatx1 attacked by terc. Gunshot wound: 12.696
+[07/08/2021 20:23:35]
+  superhands attacked by terc. Gunshot wound: 11.88 Bleeding: 24
+[07/08/2021 20:23:35]
+  superhands attacked by terc. Gunshot wound: 11.88
+[07/08/2021 20:23:35]
+  superhands attacked by terc. Gunshot wound: 11.88
+[07/08/2021 20:23:35]
+  superhands attacked by terc. Bleeding: 20 Gunshot wound: 7.8749995 Stun: 0.2
+[07/08/2021 20:23:36]
+  terc attacked by superhands. Bleeding: 32 Gunshot wound: 9 Stun: 0.4
+[07/08/2021 20:23:36]
+  terc attacked by superhands. Bleeding: 32 Gunshot wound: 9 Stun: 0.4
+[07/08/2021 20:23:47]
+  superhands used item Bandage
+[07/08/2021 20:23:50]
+  superhands used item Bandage
+[07/08/2021 20:23:52]
+  terc has died (Cause of death: Blood loss)
+[07/08/2021 20:23:53]
+  superhands used item Anabolic Steroids
+[07/08/2021 20:23:53]
+  sylv (as Pirate Captain) opened Custom Hatch
+[07/08/2021 20:23:55]
+  sylv (as Pirate Captain) closed Custom Door
+[07/08/2021 20:23:55]
+  sylv (as Pirate Captain) opened Custom Door
+[07/08/2021 20:23:55]
+  tomacatx1 has died (Cause of death: Gunshot wound)
+[07/08/2021 20:23:55]
+  superhands used item Blood Pack
+[07/08/2021 20:23:58]
+  sylv (as Pirate Captain) opened Custom Door
+[07/08/2021 20:23:58]
+  sylv (as Pirate Captain) closed Custom Door
+[07/08/2021 20:24:00]
+  sylv (as Pirate Captain) closed Custom Door
+[07/08/2021 20:24:00]
+  sylv (as Pirate Captain) opened Custom Door
+[07/08/2021 20:24:03]
+  terc: lol
+[07/08/2021 20:24:03]
+  superhands: god fucking dammit
+[07/08/2021 20:24:06]
+  superhands placed Underwater Scooter in Toolbelt (ID: 1142)
+[07/08/2021 20:24:06]
+  superhands removed Bandage from Toolbelt (ID: 1142)
+[07/08/2021 20:24:06]
+  superhands removed Bandage from Toolbelt (ID: 1142)
+[07/08/2021 20:24:06]
+  superhands removed Bandage from Toolbelt (ID: 1142)
+[07/08/2021 20:24:06]
+  superhands removed Bandage from Toolbelt (ID: 1142)
+[07/08/2021 20:24:06]
+  superhands removed Bandage from Toolbelt (ID: 1142)
+[07/08/2021 20:24:06]
+  superhands removed Bandage from Toolbelt (ID: 1142)
+[07/08/2021 20:24:06]
+  superhands picked up Bandage
+[07/08/2021 20:24:06]
+  superhands picked up Bandage
+[07/08/2021 20:24:06]
+  superhands picked up Bandage
+[07/08/2021 20:24:06]
+  superhands picked up Bandage
+[07/08/2021 20:24:06]
+  superhands picked up Bandage
+[07/08/2021 20:24:06]
+  superhands picked up Bandage
+[07/08/2021 20:24:10]
+  superhands used item Bandage
+[07/08/2021 20:24:11]
+  superhands used item Bandage
+[07/08/2021 20:24:11]
+  superhands used item Bandage
+[07/08/2021 20:24:12]
+  superhands used item Bandage
+[07/08/2021 20:24:17]
+  terc: ayo why da pirate captain on our shi
+[07/08/2021 20:24:19]
+  superhands placed Blood Pack in tomacatx1
+[07/08/2021 20:24:19]
+  superhands placed Blood Pack in tomacatx1
+[07/08/2021 20:24:19]
+  superhands placed Blood Pack in tomacatx1
+[07/08/2021 20:24:19]
+  superhands placed Blood Pack in tomacatx1
+[07/08/2021 20:24:19]
+  superhands placed Blood Pack in tomacatx1
+[07/08/2021 20:24:19]
+  superhands placed Blood Pack in tomacatx1
+[07/08/2021 20:24:20]
+  sylv: hi
+[07/08/2021 20:24:24]
+  sylv: wtf happened
+[07/08/2021 20:24:30]
+  superhands: terc blew up the place then shot tom
+[07/08/2021 20:24:30]
+  sylv (as Pirate Captain) used item Morphine
+[07/08/2021 20:24:32]
+  sylv (as Pirate Captain) used item Plastiseal
+[07/08/2021 20:24:33]
+  superhands: im about to die
+[07/08/2021 20:24:33]
+  sylv (as Pirate Captain) used item Blood Pack
+[07/08/2021 20:24:37]
+  sylv (as Pirate Captain) used item Plastiseal
+[07/08/2021 20:24:43]
+  superhands: thanks
+[07/08/2021 20:24:45]
+  superhands: lets gtfo
+[07/08/2021 20:24:59]
+  superhands: i was so confused cause i didnt even know traitors was on
+[07/08/2021 20:25:08]
+  sylv (as Pirate Captain) dropped Diving Suit
+[07/08/2021 20:25:13]
+  superhands: airlock flooded
+[07/08/2021 20:25:20]
+  sylv picked up Diving Suit
+[07/08/2021 20:25:21]
+  sylv (as Pirate Captain) opened Custom Door
+[07/08/2021 20:25:21]
+  sylv (as Pirate Captain) closed Custom Door
+[07/08/2021 20:25:22]
+  HOST: nah it wasnt traitors i just declared Havoc (by saying murderbone)
+[07/08/2021 20:25:32]
+  superhands: why
+[07/08/2021 20:25:33]
+  sylv: i hid in the pirate ballast until shit blew over
+[07/08/2021 20:25:37]
+  sylv (as Pirate Captain) placed Diving Suit in Diving Suit Locker (ID: 196)
+[07/08/2021 20:25:46]
+  HOST: end of round, pirates dead, wanna get to campaign
+[07/08/2021 20:25:51]
+  superhands: oh
+[07/08/2021 20:26:02]
+  sylv attacked by superhands. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[07/08/2021 20:26:02]
+  sylv attacked by superhands. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[07/08/2021 20:26:04]
+  sylv attacked by superhands. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[07/08/2021 20:26:04]
+  sylv attacked by superhands. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[07/08/2021 20:26:04]
+  terc: pulls out guns
+[07/08/2021 20:26:04]
+  HOST: also kill terc
+[07/08/2021 20:26:05]
+  sylv attacked by superhands. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[07/08/2021 20:26:05]
+  sylv attacked by superhands. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[07/08/2021 20:26:05]
+  sylv: ow
+[07/08/2021 20:26:06]
+  terc: sylv runs off
+[07/08/2021 20:26:14]
+  superhands: hes dead
+[07/08/2021 20:26:19]
+  sylv has died (Cause of death: Blood loss)
+[07/08/2021 20:26:22]
+  terc: finn wins again
+[07/08/2021 20:26:25]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:25]
+  superhands unequipped Revolver
+[07/08/2021 20:26:25]
+  superhands unequipped Revolver
+[07/08/2021 20:26:25]
+  superhands equipped Frag Grenade
+[07/08/2021 20:26:26]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:26]
+  superhands equipped Frag Grenade
+[07/08/2021 20:26:26]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:26]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:27]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:27]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:27]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:27]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:27]
+  Console command "spawnitem "Frag Grenade" superhands" executed by tomacatx1.
+[07/08/2021 20:26:29]
+  superhands dropped Welding Tool
+[07/08/2021 20:26:42]
+  superhands dropped Oxygen Tank
+[07/08/2021 20:26:42]
+  superhands dropped Oxygen Tank
+[07/08/2021 20:26:42]
+  superhands dropped Oxygen Tank
+[07/08/2021 20:26:43]
+  superhands dropped Utility Mk-I Hardsuit
+[07/08/2021 20:26:46]
+  superhands equipped Frag Grenade
+[07/08/2021 20:26:46]
+  superhands threw Frag Grenade
+[07/08/2021 20:26:46]
+  superhands picked up Frag Grenade
+[07/08/2021 20:26:46]
+  superhands equipped Frag Grenade
+[07/08/2021 20:26:46]
+  superhands threw Frag Grenade
+[07/08/2021 20:26:46]
+  superhands equipped Frag Grenade
+[07/08/2021 20:26:46]
+  superhands threw Frag Grenade
+[07/08/2021 20:26:47]
+  superhands threw Frag Grenade
+[07/08/2021 20:26:47]
+  superhands dropped Frag Grenade
+[07/08/2021 20:26:47]
+  superhands dropped Frag Grenade
+[07/08/2021 20:26:49]
+  Inner wall breached by superhands
+[07/08/2021 20:26:49]
+  Inner wall breached by superhands
+[07/08/2021 20:26:50]
+  Inner wall breached by superhands
+[07/08/2021 20:26:52]
+  tomacatx1: based
+[07/08/2021 20:26:53]
+  superhands has died (Cause of death: Deep tissue injury)
+[07/08/2021 20:26:55]
+  Client "tomacatx1" ended the round.
+[07/08/2021 20:26:55]
+  Ending the round...
+[07/08/2021 20:26:55]
+  Round ended.
+[07/08/2021 20:27:13]
+  terc: hold on
+[07/08/2021 20:27:17]
+  Gamemode changed to Campaign
+[07/08/2021 20:27:17]
+  superhands: i am indestructable
+[07/08/2021 20:27:18]
+  terc: im gonna do a funny speedrun.
+[07/08/2021 20:27:29]
+  terc: wait.
+[07/08/2021 20:27:29]
+  sylv: no
+[07/08/2021 20:27:34]
+  terc: ill be back in like 2 minutes
+[07/08/2021 20:32:06]
+  terc: bavck
+[07/08/2021 20:32:14]
+  terc: i made a banana smoothie.
+[07/08/2021 20:32:25]
+  tomacatx1 is ready to start the game.
+[07/08/2021 20:32:26]
+  sylv is ready to start the game.
+[07/08/2021 20:32:26]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:26]
+  sylv is ready to start the game.
+[07/08/2021 20:32:27]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:27]
+  sylv is ready to start the game.
+[07/08/2021 20:32:27]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:27]
+  sylv is ready to start the game.
+[07/08/2021 20:32:27]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:27]
+  sylv is ready to start the game.
+[07/08/2021 20:32:27]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:27]
+  terc is ready to start the game.
+[07/08/2021 20:32:28]
+  sylv is ready to start the game.
+[07/08/2021 20:32:28]
+  superhands is ready to start the game.
+[07/08/2021 20:32:28]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:28]
+  sylv is ready to start the game.
+[07/08/2021 20:32:28]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:28]
+  sylv is ready to start the game.
+[07/08/2021 20:32:28]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:29]
+  sylv is ready to start the game.
+[07/08/2021 20:32:29]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:29]
+  sylv is ready to start the game.
+[07/08/2021 20:32:29]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:29]
+  sylv is ready to start the game.
+[07/08/2021 20:32:29]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:29]
+  sylv is ready to start the game.
+[07/08/2021 20:32:29]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:29]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:29]
+  superhands is ready to start the game.
+[07/08/2021 20:32:30]
+  sylv is ready to start the game.
+[07/08/2021 20:32:30]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:30]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:30]
+  sylv is ready to start the game.
+[07/08/2021 20:32:30]
+  superhands is ready to start the game.
+[07/08/2021 20:32:30]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:30]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:30]
+  sylv is ready to start the game.
+[07/08/2021 20:32:30]
+  superhands is ready to start the game.
+[07/08/2021 20:32:30]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:30]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:30]
+  superhands is ready to start the game.
+[07/08/2021 20:32:31]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:31]
+  sylv is ready to start the game.
+[07/08/2021 20:32:31]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:31]
+  superhands is ready to start the game.
+[07/08/2021 20:32:31]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:31]
+  superhands is ready to start the game.
+[07/08/2021 20:32:31]
+  sylv is ready to start the game.
+[07/08/2021 20:32:31]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:31]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:31]
+  superhands is ready to start the game.
+[07/08/2021 20:32:31]
+  sylv is ready to start the game.
+[07/08/2021 20:32:31]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:31]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:31]
+  superhands is ready to start the game.
+[07/08/2021 20:32:32]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:32]
+  sylv is ready to start the game.
+[07/08/2021 20:32:32]
+  superhands is ready to start the game.
+[07/08/2021 20:32:32]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:32]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:32]
+  sylv is ready to start the game.
+[07/08/2021 20:32:32]
+  superhands is ready to start the game.
+[07/08/2021 20:32:32]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:32]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:32]
+  sylv is ready to start the game.
+[07/08/2021 20:32:32]
+  superhands is ready to start the game.
+[07/08/2021 20:32:32]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:32]
+  superhands is ready to start the game.
+[07/08/2021 20:32:36]
+  Starting a new round...
+[07/08/2021 20:32:36]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:36]
+  superhands is ready to start the game.
+[07/08/2021 20:32:36]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:36]
+  superhands is ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:36]
+  sylv is ready to start the game.
+[07/08/2021 20:32:37]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:38]
+  sylv is ready to start the game.
+[07/08/2021 20:32:39]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:39]
+  sylv is ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is ready to start the game.
+[07/08/2021 20:32:40]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:41]
+  sylv is ready to start the game.
+[07/08/2021 20:32:41]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:41]
+  sylv is ready to start the game.
+[07/08/2021 20:32:43]
+  tomacatx1 is not ready to start the game.
+[07/08/2021 20:32:43]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:43]
+  sylv is ready to start the game.
+[07/08/2021 20:32:43]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:43]
+  sylv is ready to start the game.
+[07/08/2021 20:32:44]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:44]
+  sylv is ready to start the game.
+[07/08/2021 20:32:44]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:44]
+  sylv is ready to start the game.
+[07/08/2021 20:32:44]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:44]
+  sylv is ready to start the game.
+[07/08/2021 20:32:44]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:45]
+  sylv is ready to start the game.
+[07/08/2021 20:32:45]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:45]
+  sylv is ready to start the game.
+[07/08/2021 20:32:45]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:46]
+  sylv is ready to start the game.
+[07/08/2021 20:32:47]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:47]
+  sylv is ready to start the game.
+[07/08/2021 20:32:47]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:47]
+  superhands is not ready to start the game.
+[07/08/2021 20:32:48]
+  sylv is ready to start the game.
+[07/08/2021 20:32:48]
+  sylv is not ready to start the game.
+[07/08/2021 20:32:48]
+  sylv is ready to start the game.
+[07/08/2021 20:33:03]
+  Game mode: Campaign
+[07/08/2021 20:33:03]
+  Submarine: ECS. Ordovicia V2 re-9 (CMP)
+[07/08/2021 20:33:03]
+  Level seed: BerithAndrogeos Linea
+[07/08/2021 20:33:04]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:33:04]
+  terc is not ready to start the game.
+[07/08/2021 20:33:04]
+  sylv is not ready to start the game.
+[07/08/2021 20:33:04]
+  sylv is ready to start the game.
+[07/08/2021 20:33:04]
+  Round started.
+[07/08/2021 20:33:07]
+  Carson Molina started repairing Junction Box
+[07/08/2021 20:33:10]
+  Carson Molina started repairing Junction Bus
+[07/08/2021 20:33:11]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[07/08/2021 20:33:12]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:33:12]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 20:33:12]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:33:12]
+  Carson Molina equipped Wrench
+[07/08/2021 20:33:16]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:33:20]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[07/08/2021 20:33:32]
+  terc set the value "Channel" of the item "Headset" to "0".
+[07/08/2021 20:33:32]
+  terc equipped Alto Saxophone
+[07/08/2021 20:33:35]
+  terc dropped Alto Saxophone
+[07/08/2021 20:33:39]
+  Carson Molina: Do you ever get the feeling the whole moon is against us?
+[07/08/2021 20:33:42]
+  terc picked up Tactical Backpack
+[07/08/2021 20:33:54]
+  terc placed Body Armor in Large Steel Cabinet (ID: 373)
+[07/08/2021 20:33:54]
+  terc removed Mercenary Combat Armor from Large Steel Cabinet (ID: 373)
+[07/08/2021 20:33:54]
+  terc picked up Mercenary Combat Armor
+[07/08/2021 20:33:55]
+  sylv set the value "Channel" of the item "Headset" to "0".
+[07/08/2021 20:33:57]
+  terc placed Mercenary Combat Armor in Large Steel Cabinet (ID: 373)
+[07/08/2021 20:34:11]
+  terc: where is da beast
+[07/08/2021 20:34:19]
+  terc: gun
+[07/08/2021 20:34:26]
+  terc picked up 'Beast' SSL (Flashlight)
+[07/08/2021 20:34:28]
+  terc: here it is
+[07/08/2021 20:34:30]
+  sylv picked up Dart Gun
+[07/08/2021 20:34:31]
+  terc picked up Drum LMG
+[07/08/2021 20:34:37]
+  terc placed SMG in Large Steel Cabinet (ID: 213)
+[07/08/2021 20:34:40]
+  sylv placed Medical Officer's Outfit in Storage Container (ID: 2027)
+[07/08/2021 20:34:40]
+  terc dropped Handcuffs
+[07/08/2021 20:34:41]
+  sylv placed Paralyxis in Storage Container (ID: 2027)
+[07/08/2021 20:34:41]
+  sylv placed Paralyxis in Storage Container (ID: 2027)
+[07/08/2021 20:34:46]
+  sylv picked up Organic Fiber
+[07/08/2021 20:34:46]
+  sylv picked up Organic Fiber
+[07/08/2021 20:34:46]
+  sylv picked up Organic Fiber
+[07/08/2021 20:34:52]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:34:52]
+  sylv placed Salt Bulb in Storage Container (ID: 2027)
+[07/08/2021 20:34:52]
+  sylv placed Salt Bulb in Storage Container (ID: 2027)
+[07/08/2021 20:34:52]
+  sylv placed Salt Bulb in Storage Container (ID: 2027)
+[07/08/2021 20:34:52]
+  sylv placed Salt Bulb in Storage Container (ID: 2027)
+[07/08/2021 20:34:52]
+  sylv placed Salt Bulb in Storage Container (ID: 2027)
+[07/08/2021 20:34:52]
+  sylv placed Salt Bulb in Storage Container (ID: 2027)
+[07/08/2021 20:34:54]
+  terc placed Ballistic Helmet in Large Steel Cabinet (ID: 213)
+[07/08/2021 20:34:54]
+  terc removed Military Helmet with NVG from Large Steel Cabinet (ID: 213)
+[07/08/2021 20:34:54]
+  terc picked up Military Helmet with NVG
+[07/08/2021 20:34:56]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:34:56]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 20:34:58]
+  sylv equipped Medical Backpack
+[07/08/2021 20:34:58]
+  sylv picked up Medical Backpack
+[07/08/2021 20:35:02]
+  sylv placed Medical Backpack in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:35:02]
+  sylv removed Storage Container from Large Steel Cabinet (ID: 291)
+[07/08/2021 20:35:02]
+  sylv equipped Storage Container
+[07/08/2021 20:35:02]
+  sylv picked up Storage Container
+[07/08/2021 20:35:05]
+  sylv placed Storage Container in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:35:05]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 20:35:08]
+  tomacatx1 equipped Flare Depth Charge
+[07/08/2021 20:35:08]
+  tomacatx1 picked up Flare Depth Charge
+[07/08/2021 20:35:08]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:35:08]
+  Carson Molina equipped Wrench
+[07/08/2021 20:35:10]
+  tomacatx1 placed Flare Depth Charge in Crate Rack (ID: 3271)
+[07/08/2021 20:35:10]
+  tomacatx1 removed Depth Decoy Shell from Crate Rack (ID: 3271)
+[07/08/2021 20:35:10]
+  tomacatx1 equipped Depth Decoy Shell
+[07/08/2021 20:35:10]
+  tomacatx1 picked up Depth Decoy Shell
+[07/08/2021 20:35:11]
+  sylv equipped Crate of Ethanol
+[07/08/2021 20:35:11]
+  sylv picked up Crate of Ethanol
+[07/08/2021 20:35:12]
+  tomacatx1 placed Depth Decoy Shell in Depth Charge Loader (ID: 698)
+[07/08/2021 20:35:12]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:35:16]
+  superhands placed Armored Hawaiian Shirt in Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:16]
+  superhands removed Heavy Machinery Mechanic Uniform from Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:16]
+  superhands picked up Heavy Machinery Mechanic Uniform
+[07/08/2021 20:35:19]
+  superhands placed Heavy Machinery Mechanic Uniform in Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:19]
+  superhands removed Systems and Control Engineer Uniform from Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:19]
+  superhands picked up Systems and Control Engineer Uniform
+[07/08/2021 20:35:22]
+  sylv picked up Paralyzant
+[07/08/2021 20:35:22]
+  sylv picked up Paralyzant
+[07/08/2021 20:35:25]
+  sylv picked up 40mm Grenade
+[07/08/2021 20:35:25]
+  sylv picked up 40mm Grenade
+[07/08/2021 20:35:29]
+  terc picked up Marine Combat Undershirt
+[07/08/2021 20:35:32]
+  superhands placed Systems and Control Engineer Uniform in Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:32]
+  superhands removed Armored Hawaiian Shirt from Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:32]
+  superhands picked up Armored Hawaiian Shirt
+[07/08/2021 20:35:35]
+  superhands placed Armored Hawaiian Shirt in Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:35]
+  superhands removed Hazmat Suit from Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:35]
+  superhands picked up Hazmat Suit
+[07/08/2021 20:35:37]
+  sylv placed 40mm Grenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:35:37]
+  sylv placed 40mm Grenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:35:39]
+  superhands placed Hazmat Suit in Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:39]
+  superhands removed Armored Hawaiian Shirt from Medium Steel Cabinet (ID: 413)
+[07/08/2021 20:35:39]
+  superhands picked up Armored Hawaiian Shirt
+[07/08/2021 20:35:43]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:35:47]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 20:35:49]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:35:49]
+  Carson Molina equipped Wrench
+[07/08/2021 20:35:54]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:35:54]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 20:35:54]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:35:54]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:36:01]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 20:36:05]
+  sylv placed Ethanol in Toxin Cabinet (ID: 944)
+[07/08/2021 20:36:05]
+  sylv placed Ethanol in Toxin Cabinet (ID: 944)
+[07/08/2021 20:36:05]
+  sylv placed Ethanol in Toxin Cabinet (ID: 944)
+[07/08/2021 20:36:05]
+  sylv placed Ethanol in Toxin Cabinet (ID: 944)
+[07/08/2021 20:36:10]
+  terc picked up SMG
+[07/08/2021 20:36:12]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:36:12]
+  terc placed SMG in Secure Steel Cabinet (ID: 180)
+[07/08/2021 20:36:22]
+  sylv placed Serpent Mask in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:36:22]
+  sylv removed Health Scanner HUD from Large Steel Cabinet (ID: 291)
+[07/08/2021 20:36:22]
+  sylv picked up Health Scanner HUD
+[07/08/2021 20:36:28]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:29]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:29]
+  sylv equipped Flare
+[07/08/2021 20:36:29]
+  sylv equipped Organic Fiber
+[07/08/2021 20:36:32]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:32]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:33]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:33]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:34]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:34]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:34]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:35]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:35]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:36]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:36]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:37]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:37]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:38]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:38]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:39]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:39]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:39]
+  sylv threw Flare
+[07/08/2021 20:36:40]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:40]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:41]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:41]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:41]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:42]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:42]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:43]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:43]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:44]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:44]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:45]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:45]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:46]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:46]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:36:48]
+  terc: finally
+[07/08/2021 20:37:14]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:37:14]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:37:15]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:37:15]
+  tomacatx1 launched Coilgun (projectile: Hybrid Coilgun Bolt)
+[07/08/2021 20:37:15]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:37:16]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:37:16]
+  tomacatx1 launched Coilgun (projectile: Hybrid Coilgun Bolt)
+[07/08/2021 20:37:16]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 20:37:16]
+  tomacatx1 launched Coilgun (projectile: Hybrid Coilgun Bolt)
+[07/08/2021 20:37:17]
+  tomacatx1 launched Coilgun (projectile: Hybrid Coilgun Bolt)
+[07/08/2021 20:37:21]
+  terc equipped Physicorium Autocannon Ammunition Box
+[07/08/2021 20:37:21]
+  terc picked up Physicorium Autocannon Ammunition Box
+[07/08/2021 20:37:23]
+  terc dropped Physicorium Autocannon Ammunition Box
+[07/08/2021 20:37:25]
+  terc equipped Autocannon Ammunition Box
+[07/08/2021 20:37:25]
+  terc picked up Autocannon Ammunition Box
+[07/08/2021 20:37:28]
+  terc placed Autocannon Ammunition Box in Autocannon Loader (ID: 76)
+[07/08/2021 20:37:28]
+  terc equipped Rolling Cart
+[07/08/2021 20:37:31]
+  terc dropped Rolling Cart
+[07/08/2021 20:37:32]
+  Carson Molina equipped Physicorium Autocannon Ammunition Box
+[07/08/2021 20:37:32]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:37:32]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:37:32]
+  Carson Molina equipped Wrench
+[07/08/2021 20:37:32]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:37:34]
+  sylv equipped Hallucinogenic Bufotoxin
+[07/08/2021 20:37:34]
+  terc dropped Rolling Cart
+[07/08/2021 20:37:38]
+  superhands: no
+[07/08/2021 20:37:38]
+  terc equipped Physicorium Autocannon Ammunition Box
+[07/08/2021 20:37:38]
+  terc picked up Physicorium Autocannon Ammunition Box
+[07/08/2021 20:37:43]
+  sylv dropped Hallucinogenic Bufotoxin
+[07/08/2021 20:37:46]
+  terc placed Physicorium Autocannon Ammunition Box in Deconstructor (ID: 230)
+[07/08/2021 20:37:49]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:37:54]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:37:54]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 20:37:55]
+  terc equipped Autocannon Ammunition Box
+[07/08/2021 20:37:55]
+  terc picked up Autocannon Ammunition Box
+[07/08/2021 20:37:59]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 20:38:01]
+  terc placed Autocannon Ammunition Box in Deconstructor (ID: 230)
+[07/08/2021 20:38:02]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:38:02]
+  Carson Molina equipped Wrench
+[07/08/2021 20:38:07]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:38:09]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:38:20]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 20:38:23]
+  terc: awesome
+[07/08/2021 20:38:23]
+  sylv equipped Poop
+[07/08/2021 20:38:24]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:38:24]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 20:38:24]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:38:24]
+  Carson Molina equipped Wrench
+[07/08/2021 20:38:24]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:38:24]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:38:25]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 20:38:25]
+  terc: we are all going to die
+[07/08/2021 20:38:27]
+  sylv threw Poop
+[07/08/2021 20:38:27]
+  sylv equipped Poop
+[07/08/2021 20:38:28]
+  sylv threw Poop
+[07/08/2021 20:38:28]
+  sylv dropped Poop
+[07/08/2021 20:38:28]
+  sylv equipped Poop
+[07/08/2021 20:38:28]
+  sylv threw Poop
+[07/08/2021 20:38:28]
+  sylv dropped Poop
+[07/08/2021 20:38:30]
+  superhands: yeah the great sea is the open ocean, were below the caverns and you only get rocky floating ice here mostly
+[07/08/2021 20:38:43]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 20:38:52]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 20:38:56]
+  terc picked up Welding Tool
+[07/08/2021 20:38:57]
+  superhands: we are going deeper were heading to the hydrothermal wastelands
+[07/08/2021 20:38:59]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 20:39:01]
+  sylv picked up Bandage
+[07/08/2021 20:39:01]
+  sylv picked up Bandage
+[07/08/2021 20:39:02]
+  terc: i got my beast and ammo back
+[07/08/2021 20:39:02]
+  terc equipped 'Beast' SSL (Flashlight)
+[07/08/2021 20:39:02]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:39:02]
+  Carson Molina equipped Wrench
+[07/08/2021 20:39:05]
+  sylv picked up Bandage
+[07/08/2021 20:39:05]
+  sylv picked up Bandage
+[07/08/2021 20:39:06]
+  sylv started fabricating Raptor Bane Extract in Medical Fabricator
+[07/08/2021 20:39:06]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:39:36]
+  sylv equipped Syringe Gun
+[07/08/2021 20:39:36]
+  sylv picked up Syringe Gun
+[07/08/2021 20:39:37]
+  superhands: ruin
+[07/08/2021 20:39:40]
+  sylv removed Adrenaline from Syringe Gun (ID: 3011)
+[07/08/2021 20:39:40]
+  sylv removed Adrenaline from Syringe Gun (ID: 3011)
+[07/08/2021 20:39:40]
+  sylv removed Adrenaline from Syringe Gun (ID: 3011)
+[07/08/2021 20:39:43]
+  sylv placed Syringe Gun in Cabinets (ID: 284)
+[07/08/2021 20:39:44]
+  sylv equipped Syringe Gun
+[07/08/2021 20:39:44]
+  sylv picked up Syringe Gun
+[07/08/2021 20:39:47]
+  sylv placed Syringe Gun in Cabinets (ID: 284)
+[07/08/2021 20:39:49]
+  sylv picked up Syringe Gun
+[07/08/2021 20:39:53]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:39:57]
+  superhands: if terc wants to
+[07/08/2021 20:39:57]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:39:57]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 20:39:57]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:39:57]
+  Carson Molina equipped Wrench
+[07/08/2021 20:40:00]
+  Carson Molina started repairing Oxygen Generator
+[07/08/2021 20:40:00]
+  terc: i do
+[07/08/2021 20:40:00]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 20:40:00]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 20:40:00]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 20:40:00]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 20:40:03]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:40:03]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:40:08]
+  sylv: i pity any raptor that boards
+[07/08/2021 20:40:08]
+  superhands placed Armored Hawaiian Shirt in Secure Steel Cabinet (ID: 1167)
+[07/08/2021 20:40:10]
+  superhands placed Screwdriver in Secure Steel Cabinet (ID: 1167)
+[07/08/2021 20:40:10]
+  superhands removed Underwater Scooter from Secure Steel Cabinet (ID: 1167)
+[07/08/2021 20:40:10]
+  superhands picked up Underwater Scooter
+[07/08/2021 20:40:12]
+  superhands placed Wrench in Secure Steel Cabinet (ID: 1167)
+[07/08/2021 20:40:13]
+  Carson Molina started repairing Junction Box
+[07/08/2021 20:40:13]
+  superhands placed Welding Tool in Secure Steel Cabinet (ID: 1167)
+[07/08/2021 20:40:13]
+  superhands removed Ancient Weapon from Secure Steel Cabinet (ID: 1167)
+[07/08/2021 20:40:13]
+  superhands picked up Ancient Weapon
+[07/08/2021 20:40:15]
+  sylv placed Raptor Bane Extract in Syringe Gun (ID: 3011)
+[07/08/2021 20:40:15]
+  sylv placed Raptor Bane Extract in Syringe Gun (ID: 3011)
+[07/08/2021 20:40:15]
+  sylv placed Raptor Bane Extract in Syringe Gun (ID: 3011)
+[07/08/2021 20:40:15]
+  sylv placed Raptor Bane Extract in Syringe Gun (ID: 3011)
+[07/08/2021 20:40:16]
+  superhands picked up Advanced Sonar Beacon
+[07/08/2021 20:40:19]
+  sylv: 20
+[07/08/2021 20:40:22]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 20:40:28]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 20:40:30]
+  sylv placed Syringe Gun in Cabinets (ID: 284)
+[07/08/2021 20:40:37]
+  sylv: pomegrenades are being grown now
+[07/08/2021 20:40:39]
+  superhands equipped Utility Mk-I Hardsuit
+[07/08/2021 20:40:39]
+  superhands picked up Utility Mk-I Hardsuit
+[07/08/2021 20:40:44]
+  superhands picked up Oxygen Tank
+[07/08/2021 20:40:45]
+  superhands picked up Oxygen Tank
+[07/08/2021 20:40:45]
+  superhands picked up Oxygen Tank
+[07/08/2021 20:40:46]
+  terc equipped Military Mk-II Hardsuit
+[07/08/2021 20:40:46]
+  terc picked up Military Mk-II Hardsuit
+[07/08/2021 20:40:48]
+  superhands equipped Crate Transport Mule
+[07/08/2021 20:40:48]
+  terc picked up Reinforced Oxygen Tank
+[07/08/2021 20:40:48]
+  terc picked up Reinforced Oxygen Tank
+[07/08/2021 20:40:49]
+  terc picked up Reinforced Oxygen Tank
+[07/08/2021 20:40:50]
+  sylv: nah dinks sprinklers are good
+[07/08/2021 20:40:50]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 20:40:54]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:40:54]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 20:40:57]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 20:41:01]
+  superhands dropped Crate Transport Mule
+[07/08/2021 20:41:02]
+  superhands equipped Advanced Sonar Beacon
+[07/08/2021 20:41:04]
+  Carson Molina started repairing Battery
+[07/08/2021 20:41:04]
+  sylv: apparently
+[07/08/2021 20:41:06]
+  Carson Molina started repairing Battery
+[07/08/2021 20:41:12]
+  terc placed Reinforced Oxygen Tank in Oxygen Generator (ID: 871)
+[07/08/2021 20:41:13]
+  terc placed Reinforced Oxygen Tank in Oxygen Generator (ID: 871)
+[07/08/2021 20:41:15]
+  sylv picked up Raptor Bane Extract
+[07/08/2021 20:41:16]
+  terc placed Reinforced Oxygen Tank in Military Mk-II Hardsuit (ID: 2944)
+[07/08/2021 20:41:16]
+  superhands dropped Crate Transport Mule
+[07/08/2021 20:41:17]
+  sylv started fabricating Raptor Bane Extract in Medical Fabricator
+[07/08/2021 20:41:21]
+  superhands equipped Metal Crate
+[07/08/2021 20:41:21]
+  superhands picked up Metal Crate
+[07/08/2021 20:41:21]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 20:41:23]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 20:41:25]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:41:25]
+  Carson Molina equipped Wrench
+[07/08/2021 20:41:26]
+  superhands placed Metal Crate in Crate Transport Mule (ID: 3075)
+[07/08/2021 20:41:26]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[07/08/2021 20:41:27]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 20:41:28]
+  sylv: no rod
+[07/08/2021 20:41:29]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 228)
+[07/08/2021 20:41:30]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:41:36]
+  tomacatx1 equipped Loading Kit
+[07/08/2021 20:41:36]
+  tomacatx1 picked up Loading Kit
+[07/08/2021 20:41:36]
+  terc placed Commando's Fatigues in Large Steel Cabinet (ID: 373)
+[07/08/2021 20:41:36]
+  terc removed Underwater Scooter from Large Steel Cabinet (ID: 373)
+[07/08/2021 20:41:36]
+  terc picked up Underwater Scooter
+[07/08/2021 20:41:36]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:41:37]
+  terc removed Commando's Fatigues from Large Steel Cabinet (ID: 373)
+[07/08/2021 20:41:39]
+  tomacatx1 placed Loading Kit in Fabricator (ID: 229)
+[07/08/2021 20:41:39]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 20:41:40]
+  tomacatx1 picked up Ethanol
+[07/08/2021 20:41:42]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:41:42]
+  Carson Molina equipped Wrench
+[07/08/2021 20:41:42]
+  tomacatx1 picked up FPGA Circuit
+[07/08/2021 20:41:44]
+  tomacatx1 placed Ethanol in Material Storage Locker (ID: 960)
+[07/08/2021 20:41:46]
+  tomacatx1 placed FPGA Circuit in Large Steel Cabinet (ID: 231)
+[07/08/2021 20:41:47]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:41:47]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 20:41:47]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:41:48]
+  terc equipped Underwater Scooter
+[07/08/2021 20:41:48]
+  tomacatx1 picked up Physicorium Bar
+[07/08/2021 20:41:51]
+  tomacatx1 placed Physicorium Bar in Material Storage Locker (ID: 960)
+[07/08/2021 20:41:54]
+  sylv: would raptor bane be good to sell
+[07/08/2021 20:41:57]
+  tomacatx1 started fabricating .357 Revolver Round in Fabricator
+[07/08/2021 20:42:05]
+  superhands: what direction is the ruin
+[07/08/2021 20:42:07]
+  sylv picked up Raptor Bane Extract
+[07/08/2021 20:42:08]
+  sylv started fabricating Raptor Bane Extract in Medical Fabricator
+[07/08/2021 20:42:10]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:10]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:10]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:10]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:10]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:10]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:10]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:10]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:11]
+  tomacatx1 started fabricating .357 Revolver Round in Fabricator
+[07/08/2021 20:42:12]
+  sylv placed Raptor Bane Extract in Large Steel Cabinet (ID: 292)
+[07/08/2021 20:42:12]
+  sylv placed Raptor Bane Extract in Large Steel Cabinet (ID: 292)
+[07/08/2021 20:42:16]
+  Carson Molina equipped Screwdriver
+[07/08/2021 20:42:21]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:21]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:21]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:21]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:21]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:21]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:21]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:21]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:24]
+  superhands dropped Crate Transport Mule
+[07/08/2021 20:42:25]
+  tomacatx1 picked up Loading Kit
+[07/08/2021 20:42:25]
+  superhands equipped Ancient Weapon
+[07/08/2021 20:42:27]
+  tomacatx1 placed Loading Kit in Fabricator (ID: 229)
+[07/08/2021 20:42:27]
+  terc unequipped Underwater Scooter
+[07/08/2021 20:42:27]
+  terc equipped Crate Transport Mule
+[07/08/2021 20:42:28]
+  Carson Molina started repairing Junction Box
+[07/08/2021 20:42:28]
+  tomacatx1 started fabricating .357 Revolver Round in Fabricator
+[07/08/2021 20:42:29]
+  tomacatx1 started fabricating .357 Revolver Round in Fabricator
+[07/08/2021 20:42:30]
+  superhands equipped Ion Pulse Cutter
+[07/08/2021 20:42:31]
+  Carson Molina started repairing Battery
+[07/08/2021 20:42:34]
+  sylv placed Organic Fiber in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:34]
+  sylv placed Organic Fiber in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:34]
+  sylv placed Organic Fiber in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:34]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 20:42:34]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 20:42:34]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 20:42:34]
+  Carson Molina equipped Wrench
+[07/08/2021 20:42:35]
+  sylv placed Pomegrenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:35]
+  sylv placed Pomegrenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:35]
+  sylv placed Pomegrenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:35]
+  sylv placed Pomegrenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:35]
+  sylv placed Pomegrenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:35]
+  sylv placed Pomegrenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:35]
+  sylv placed Pomegrenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:35]
+  sylv placed Pomegrenade in Large Steel Cabinet (ID: 291)
+[07/08/2021 20:42:38]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:38]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:38]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:38]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:38]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:38]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:38]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:38]
+  tomacatx1 picked up .357 Revolver Round
+[07/08/2021 20:42:39]
+  Carson Molina unequipped Wrench
+[07/08/2021 20:42:42]
+  superhands equipped Underwater Scooter
+[07/08/2021 20:42:43]
+  tomacatx1 picked up Loading Kit
+[07/08/2021 20:42:46]
+  tomacatx1 placed Loading Kit in Large Steel Cabinet (ID: 231)
+[07/08/2021 20:42:49]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:49]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:49]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:49]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:49]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:49]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:49]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:49]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:50]
+  sylv placed Pomegrenade Extract in Medical Backpack (ID: 1541)
+[07/08/2021 20:42:51]
+  superhands opened Alien Hatch
+[07/08/2021 20:43:02]
+  superhands opened Alien Door
+[07/08/2021 20:43:02]
+  superhands closed Alien Door
+[07/08/2021 20:43:02]
+  terc opened Alien Door
+[07/08/2021 20:43:02]
+  sylv: i have been
+[07/08/2021 20:43:03]
+  terc closed Alien Door
+[07/08/2021 20:43:03]
+  terc closed Alien Door
+[07/08/2021 20:43:03]
+  terc opened Alien Door
+[07/08/2021 20:43:03]
+  terc opened Alien Door

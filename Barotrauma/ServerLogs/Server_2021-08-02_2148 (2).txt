@@ -1,0 +1,1600 @@
+﻿[02/08/2021 21:33:55]
+  Zoey Sexton (as ???) dropped Body Armor
+[02/08/2021 21:33:55]
+  superhands placed Microtorpedo in Torpedo Rifle (ID: 7274)
+[02/08/2021 21:33:55]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:33:57]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:33:57]
+  Carson Molina equipped Wrench
+[02/08/2021 21:33:58]
+  terc: piece a shit
+[02/08/2021 21:34:01]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 21:34:04]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:34:04]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:34:07]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:07]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:07]
+  superhands picked up FPGA Circuit
+[02/08/2021 21:34:09]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:34:09]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:34:09]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:09]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:09]
+  Inner wall breached by tomacatx1
+[02/08/2021 21:34:10]
+  Zoey Sexton (as ???) picked up Physicorium Bar
+[02/08/2021 21:34:12]
+  sylv attacked by tomacatx1. Blunt force trauma: 1.8
+[02/08/2021 21:34:12]
+  tomacatx1 used Crowbar on sylv.
+[02/08/2021 21:34:13]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:13]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:15]
+  superhands picked up Potassium
+[02/08/2021 21:34:16]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:16]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:17]
+  sylv placed Adrenaline Gland in Deconstructor (ID: 230)
+[02/08/2021 21:34:18]
+  sylv activated Deconstructor
+[02/08/2021 21:34:18]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:18]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:20]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:20]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:20]
+  superhands placed Potassium in Fabricator (ID: 229)
+[02/08/2021 21:34:21]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:21]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:22]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:34:22]
+  superhands placed FPGA Circuit in Fabricator (ID: 229)
+[02/08/2021 21:34:23]
+  sylv attacked by tomacatx1. Blunt force trauma: 1.8
+[02/08/2021 21:34:23]
+  tomacatx1 used Crowbar on sylv.
+[02/08/2021 21:34:24]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:24]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:25]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:25]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:26]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:26]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:29]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:29]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:30]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:30]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:30]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:34:30]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:34:31]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:31]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:31]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:34:31]
+  Carson Molina equipped Welding Tool
+[02/08/2021 21:34:32]
+  Inner wall repaired by Carson Molina
+[02/08/2021 21:34:32]
+  Carson Molina: No more leaks in electrical!
+[02/08/2021 21:34:33]
+  Leucocyte attacked by tomacatx1. Blunt force trauma: 8
+[02/08/2021 21:34:33]
+  tomacatx1 used Crowbar on Leucocyte.
+[02/08/2021 21:34:38]
+  sylv placed Abyss Diving Suit in Diving Suit Locker (ID: 958)
+[02/08/2021 21:34:38]
+  superhands: damn we poor now
+[02/08/2021 21:34:41]
+  Inner wall repaired by Carson Molina
+[02/08/2021 21:34:42]
+  Carson Molina unequipped Welding Tool
+[02/08/2021 21:34:50]
+  tomacatx1 picked up Adrenaline
+[02/08/2021 21:34:50]
+  tomacatx1 picked up Adrenaline
+[02/08/2021 21:34:50]
+  tomacatx1 picked up Adrenaline
+[02/08/2021 21:34:50]
+  tomacatx1 picked up Adrenaline
+[02/08/2021 21:34:52]
+  Zoey Sexton (as ???) placed Military Mk-II Hardsuit (Bandit) in Diving Suit Locker (ID: 1745)
+[02/08/2021 21:34:55]
+  Zoey Sexton placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 959)
+[02/08/2021 21:34:55]
+  Zoey Sexton placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 959)
+[02/08/2021 21:34:55]
+  Zoey Sexton placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 959)
+[02/08/2021 21:34:57]
+  sylv placed Health Scanner HUD in Chemical Crate (ID: 2550)
+[02/08/2021 21:34:57]
+  sylv removed Serpent Mask from Chemical Crate (ID: 2550)
+[02/08/2021 21:34:57]
+  sylv picked up Serpent Mask
+[02/08/2021 21:35:01]
+  superhands equipped Storage Container
+[02/08/2021 21:35:01]
+  superhands picked up Storage Container
+[02/08/2021 21:35:03]
+  superhands placed Storage Container in Material Storage Locker (ID: 1493)
+[02/08/2021 21:35:03]
+  Zoey Sexton dropped ID Card
+[02/08/2021 21:35:04]
+  superhands equipped Storage Container
+[02/08/2021 21:35:04]
+  superhands picked up Storage Container
+[02/08/2021 21:35:04]
+  sylv: snake hat
+[02/08/2021 21:35:05]
+  tomacatx1 placed Adrenaline in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:35:05]
+  tomacatx1 placed Adrenaline in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:35:05]
+  tomacatx1 placed Adrenaline in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:35:05]
+  tomacatx1 placed Adrenaline in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:35:05]
+  superhands placed Storage Container in Material Storage Locker (ID: 1493)
+[02/08/2021 21:35:07]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:35:10]
+  Zoey Sexton equipped Wrench
+[02/08/2021 21:35:11]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:35:11]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:35:12]
+  sylv: good
+[02/08/2021 21:35:20]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:35:23]
+  sylv: you forget who you are taliing to
+[02/08/2021 21:35:24]
+  Zoey Sexton placed Physicorium Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 21:35:25]
+  superhands: what is 
+[02/08/2021 21:35:27]
+  superhands: hold on
+[02/08/2021 21:35:28]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:35:32]
+  tomacatx1 equipped Crate Transport Mule
+[02/08/2021 21:35:33]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 21:35:33]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 21:35:34]
+  tomacatx1 dropped Crate Transport Mule
+[02/08/2021 21:35:36]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:35:36]
+  Carson Molina equipped Reinforced Oxygen Tank
+[02/08/2021 21:35:39]
+  Carson Molina unequipped Reinforced Oxygen Tank
+[02/08/2021 21:35:39]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:35:39]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:35:39]
+  Carson Molina equipped Wrench
+[02/08/2021 21:35:40]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:35:41]
+  tomacatx1 picked up Gunner's Helmet
+[02/08/2021 21:35:41]
+  tomacatx1 picked up Gunner's Uniform
+[02/08/2021 21:35:45]
+  sylv placed Europan Worm in Toolbelt (ID: 3278)
+[02/08/2021 21:35:45]
+  sylv placed Europan Worm in Toolbelt (ID: 3278)
+[02/08/2021 21:35:45]
+  sylv placed Europan Worm in Toolbelt (ID: 3278)
+[02/08/2021 21:35:45]
+  sylv placed Europan Worm in Toolbelt (ID: 3278)
+[02/08/2021 21:35:45]
+  sylv placed Europan Worm in Toolbelt (ID: 3278)
+[02/08/2021 21:35:45]
+  sylv placed Europan Worm in Toolbelt (ID: 3278)
+[02/08/2021 21:35:49]
+  tomacatx1 placed Bandage in Tactical Backpack (ID: 7291)
+[02/08/2021 21:35:51]
+  tomacatx1 equipped Duffel Bag
+[02/08/2021 21:35:53]
+  tomacatx1 placed Gunner's Uniform in Duffel Bag (ID: 2844)
+[02/08/2021 21:35:54]
+  tomacatx1 placed Gunner's Helmet in Duffel Bag (ID: 2844)
+[02/08/2021 21:35:55]
+  tomacatx1 placed Stun Baton in Duffel Bag (ID: 2844)
+[02/08/2021 21:35:56]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:35:57]
+  tomacatx1 picked up Handcuffs
+[02/08/2021 21:35:57]
+  sylv placed Biofoam Tank in Toolbelt (ID: 3278)
+[02/08/2021 21:35:57]
+  sylv placed Biofoam Tank in Toolbelt (ID: 3278)
+[02/08/2021 21:35:57]
+  sylv placed Biofoam Tank in Toolbelt (ID: 3278)
+[02/08/2021 21:35:57]
+  tomacatx1 unequipped Revolver
+[02/08/2021 21:36:00]
+  tomacatx1 placed Crowbar in Duffel Bag (ID: 2844)
+[02/08/2021 21:36:01]
+  tomacatx1 placed Handcuffs in Duffel Bag (ID: 2844)
+[02/08/2021 21:36:01]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:36:01]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:36:02]
+  tomacatx1 placed Revolver in Duffel Bag (ID: 2844)
+[02/08/2021 21:36:06]
+  terc: i looked up ratwiggle but the gif wont load
+[02/08/2021 21:36:07]
+  sylv placed Biofoam Sprayer in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:36:08]
+  tomacatx1 placed Duffel Bag in Tall Crate Rack (ID: 677)
+[02/08/2021 21:36:10]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:36:11]
+  sylv placed Biofoam Sprayer in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:36:14]
+  superhands picked up IC-4 Block
+[02/08/2021 21:36:17]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:36:25]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:36:25]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:36:25]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:36:31]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:36:33]
+  superhands placed IC-4 Block in Deconstructor (ID: 1739)
+[02/08/2021 21:36:34]
+  superhands activated Deconstructor
+[02/08/2021 21:36:34]
+  sylv: oh yeah i saw that gif lol
+[02/08/2021 21:36:37]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:36:39]
+  superhands placed IC-4 Block in Deconstructor (ID: 1739)
+[02/08/2021 21:36:39]
+  superhands activated Deconstructor
+[02/08/2021 21:36:42]
+  superhands picked up IC-4 Block
+[02/08/2021 21:36:44]
+  superhands placed Chlorine in Deconstructor (ID: 1739)
+[02/08/2021 21:36:44]
+  superhands activated Deconstructor
+[02/08/2021 21:36:44]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:36:45]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:36:51]
+  superhands placed IC-4 Block in Deconstructor (ID: 230)
+[02/08/2021 21:36:52]
+  superhands activated Deconstructor
+[02/08/2021 21:36:55]
+  terc: dude we are
+[02/08/2021 21:36:56]
+  superhands picked up IC-4 Block
+[02/08/2021 21:36:58]
+  terc: DECKED OUT
+[02/08/2021 21:36:59]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:37:01]
+  terc: in physicorium
+[02/08/2021 21:37:05]
+  sylv: i jhave 2 grenade launchers 
+[02/08/2021 21:37:07]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:37:08]
+  superhands equipped Railgun Shell
+[02/08/2021 21:37:08]
+  superhands picked up Railgun Shell
+[02/08/2021 21:37:10]
+  superhands picked up C-4 Block
+[02/08/2021 21:37:10]
+  superhands dropped IC-4 Block
+[02/08/2021 21:37:10]
+  superhands placed IC-4 Block in Railgun Shell (ID: 2791)
+[02/08/2021 21:37:11]
+  superhands placed Railgun Shell in Railgun Loader (ID: 1531)
+[02/08/2021 21:37:14]
+  sylv: no
+[02/08/2021 21:37:15]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:37:18]
+  sylv placed Grenade Launcher in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:37:21]
+  sylv placed 40mm Grenade in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:37:21]
+  sylv placed 40mm Grenade in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:37:25]
+  superhands equipped Loading Kit
+[02/08/2021 21:37:25]
+  superhands picked up Loading Kit
+[02/08/2021 21:37:26]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:37:26]
+  sylv: i have a mini armory
+[02/08/2021 21:37:31]
+  superhands placed Loading Kit in Large Steel Cabinet (ID: 231)
+[02/08/2021 21:37:34]
+  superhands equipped Hand Truck
+[02/08/2021 21:37:35]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:37:35]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:37:37]
+  superhands placed C-4 Block in Fabricator (ID: 229)
+[02/08/2021 21:37:38]
+  superhands dropped Hand Truck
+[02/08/2021 21:37:40]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:37:48]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:37:50]
+  superhands picked up Carbon
+[02/08/2021 21:37:53]
+  superhands picked up Iron
+[02/08/2021 21:37:55]
+  Outer wall breached by Mudraptor_unarmored
+[02/08/2021 21:37:55]
+  sylv: 3 smgs, 2 harpoon launchers, various poisons, a revolver
+[02/08/2021 21:37:55]
+  superhands placed Carbon in Fabricator (ID: 229)
+[02/08/2021 21:37:56]
+  superhands placed Iron in Fabricator (ID: 229)
+[02/08/2021 21:37:56]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:37:56]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:37:57]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:37:57]
+  superhands started fabricating Steel Bar in Fabricator
+[02/08/2021 21:37:58]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:37:59]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:00]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:00]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:01]
+  Mudraptor_unarmored attacked by tomacatx1. Gunshot wound: 8 Bleeding: 0.5
+[02/08/2021 21:38:01]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:01]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:01]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:01]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:02]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:02]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:02]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:02]
+  Mudraptor_unarmored attacked by tomacatx1. Gunshot wound: 1.6
+[02/08/2021 21:38:02]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:02]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:05]
+  Carson Molina equipped Reinforced Oxygen Tank
+[02/08/2021 21:38:07]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:38:12]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:13]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:15]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:38:15]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:15]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:16]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:17]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:17]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:19]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:19]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:19]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:20]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:20]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:21]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:21]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:21]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:38:22]
+  sylv placed Fiber Plant in Chemical Crate (ID: 2550)
+[02/08/2021 21:38:22]
+  sylv placed Fiber Plant in Chemical Crate (ID: 2550)
+[02/08/2021 21:38:22]
+  sylv placed Fiber Plant in Chemical Crate (ID: 2550)
+[02/08/2021 21:38:22]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:38:26]
+  terc: oh my god i cant aim
+[02/08/2021 21:38:27]
+  superhands placed Steel Bar in Fabricator (ID: 229)
+[02/08/2021 21:38:29]
+  sylv placed Fentanyl in Toxin Cabinet (ID: 944)
+[02/08/2021 21:38:29]
+  sylv placed Fentanyl in Toxin Cabinet (ID: 944)
+[02/08/2021 21:38:29]
+  Carson Molina started repairing Battery
+[02/08/2021 21:38:32]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:32]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[02/08/2021 21:38:33]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:34]
+  sylv placed Splinting Kit in Medical Backpack (ID: 7368)
+[02/08/2021 21:38:37]
+  superhands started fabricating Microtorpedo in Fabricator
+[02/08/2021 21:38:38]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:38:38]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:38:43]
+  sylv placed Adrenaline in Toxin Cabinet (ID: 944)
+[02/08/2021 21:38:49]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:50]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:50]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:51]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:52]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:38:52]
+  Carson Molina equipped Wrench
+[02/08/2021 21:38:52]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:53]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:55]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:38:55]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:55]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:38:55]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:55]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:38:55]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:55]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:38:55]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:55]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:38:55]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:56]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:38:56]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:56]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 1.6 Bleeding: 0.1
+[02/08/2021 21:38:56]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:56]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 1.6 Bleeding: 0.1
+[02/08/2021 21:38:56]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:56]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 1.6 Bleeding: 0.1
+[02/08/2021 21:38:56]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:56]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 1.6 Bleeding: 0.1
+[02/08/2021 21:38:56]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:56]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 1.6 Bleeding: 0.1
+[02/08/2021 21:38:56]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:56]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 1.6 Bleeding: 0.1
+[02/08/2021 21:38:56]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:38:56]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:56]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:57]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 21:38:59]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:38:59]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:00]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:00]
+  tomacatx1 picked up Piercing Micro SSL Ammunition Box
+[02/08/2021 21:39:00]
+  sylv placed Fiber Plant in Deconstructor (ID: 230)
+[02/08/2021 21:39:00]
+  sylv placed Fiber Plant in Deconstructor (ID: 230)
+[02/08/2021 21:39:00]
+  sylv placed Fiber Plant in Deconstructor (ID: 230)
+[02/08/2021 21:39:00]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:01]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:39:01]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:39:01]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:02]
+  sylv activated Deconstructor
+[02/08/2021 21:39:02]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:02]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:03]
+  tomacatx1 placed Piercing Micro SSL Ammunition Box in Micro SSL Loader (ID: 99)
+[02/08/2021 21:39:03]
+  tomacatx1 removed Piercing Micro SSL Ammunition Box from Micro SSL Loader (ID: 99)
+[02/08/2021 21:39:03]
+  tomacatx1 equipped Piercing Micro SSL Ammunition Box
+[02/08/2021 21:39:03]
+  tomacatx1 picked up Piercing Micro SSL Ammunition Box
+[02/08/2021 21:39:03]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:03]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:03]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:03]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:04]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:04]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:04]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:04]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:04]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:04]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:04]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:04]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:04]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:04]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by superhands. Lacerations: 32 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by superhands. Lacerations: 7.3599997 Deep tissue injury: 3.6799998 Bleeding: 0.91999996
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by superhands. Lacerations: 32 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by superhands. Lacerations: 7.3599997 Deep tissue injury: 3.6799998 Bleeding: 0.91999996
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:05]
+  Bonethresher attacked by superhands. Lacerations: 32 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 21:39:05]
+  Bonethresher attacked by tomacatx1. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 21:39:05]
+  tomacatx1 launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:39:06]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:06]
+  Bonethresher attacked by superhands. Lacerations: 7.3599997 Deep tissue injury: 3.6799998 Bleeding: 0.91999996
+[02/08/2021 21:39:06]
+  Bonethresher has died (Cause of death: Gunshot wound)
+[02/08/2021 21:39:06]
+  Bonethresher attacked by superhands. Lacerations: 32 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 21:39:06]
+  Bonethresher attacked by superhands. Lacerations: 7.3599997 Deep tissue injury: 3.6799998 Bleeding: 0.91999996
+[02/08/2021 21:39:06]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:06]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:06]
+  Bonethresher has died (Cause of death: Lacerations)
+[02/08/2021 21:39:06]
+  Bonethresher attacked by superhands. Lacerations: 32 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 21:39:06]
+  Bonethresher attacked by superhands. Lacerations: 16 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 21:39:06]
+  superhands launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:06]
+  Bonethresher attacked by superhands. Lacerations: 32 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 21:39:06]
+  Bonethresher attacked by superhands. Lacerations: 7.3599997 Deep tissue injury: 3.6799998 Bleeding: 0.91999996
+[02/08/2021 21:39:07]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:08]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:09]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:12]
+  tomacatx1 dropped Piercing Micro SSL Ammunition Box
+[02/08/2021 21:39:17]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:39:19]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:20]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:20]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:20]
+  Mudraptor has died (Cause of death: Lacerations)
+[02/08/2021 21:39:20]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:21]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:21]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:21]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:21]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:21]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:21]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:21]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:21]
+  sylv placed Organic Fiber in Chemical Crate (ID: 2550)
+[02/08/2021 21:39:21]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:21]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:22]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:22]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:23]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:23]
+  Tigerthresher has died (Cause of death: Lacerations)
+[02/08/2021 21:39:23]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:24]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:25]
+  sylv placed Health Scanner HUD in Deconstructor (ID: 230)
+[02/08/2021 21:39:26]
+  sylv activated Deconstructor
+[02/08/2021 21:39:26]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:39:27]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:28]
+  Zoey Sexton launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 21:39:30]
+  Outer wall repaired by tomacatx1
+[02/08/2021 21:39:33]
+  Zoey Sexton equipped Physicorium Autocannon Ammunition Box
+[02/08/2021 21:39:33]
+  Zoey Sexton picked up Physicorium Autocannon Ammunition Box
+[02/08/2021 21:39:34]
+  Zoey Sexton removed Autocannon Ammunition Box from Autocannon Loader (ID: 76)
+[02/08/2021 21:39:35]
+  Zoey Sexton placed Physicorium Autocannon Ammunition Box in Autocannon Loader (ID: 76)
+[02/08/2021 21:39:40]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:39:40]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:39:40]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:39:40]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:39:40]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:39:40]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:39:40]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:39:40]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:39:43]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:39:47]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:48]
+  Carson Molina: Is it ‘thalamuses’ or ‘thalami’?
+[02/08/2021 21:39:48]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:49]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:39:49]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:39:50]
+  sylv started fabricating Raptor Bane Extract in Medical Fabricator
+[02/08/2021 21:39:54]
+  Tigerthresher has died (Cause of death: Internal damage)
+[02/08/2021 21:40:03]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:40:03]
+  sylv picked up Flare
+[02/08/2021 21:40:05]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:40:05]
+  Carson Molina equipped Wrench
+[02/08/2021 21:40:07]
+  sylv placed Oxygen Tank in Oxygen Tank Shelf (ID: 1552)
+[02/08/2021 21:40:08]
+  sylv placed Oxygen Tank in Oxygen Tank Shelf (ID: 1552)
+[02/08/2021 21:40:08]
+  sylv placed Oxygen Tank in Oxygen Tank Shelf (ID: 1552)
+[02/08/2021 21:40:12]
+  Carson Molina started repairing Fabricator
+[02/08/2021 21:40:14]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:14]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:14]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:14]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:14]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:14]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:14]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:14]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[02/08/2021 21:40:14]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:15]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:15]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:15]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:15]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:15]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:15]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:15]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:15]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:16]
+  Zoey Sexton launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 21:40:16]
+  sylv placed Raptor Bane Extract in Chemical Crate (ID: 2550)
+[02/08/2021 21:40:16]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:40:16]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:40:17]
+  sylv started fabricating Raptor Bane Extract in Medical Fabricator
+[02/08/2021 21:40:23]
+  sylv picked up Raptor Bane Extract
+[02/08/2021 21:40:23]
+  sylv picked up Organic Fiber
+[02/08/2021 21:40:30]
+  superhands placed Microtorpedo in Torpedo Rifle (ID: 7274)
+[02/08/2021 21:40:31]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:40:33]
+  sylv placed Chemical Crate in Climate-Controlled Crate Rack (ID: 2254)
+[02/08/2021 21:40:39]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:40:46]
+  terc: abyss diving suit
+[02/08/2021 21:40:49]
+  terc: 8 minutes to craft
+[02/08/2021 21:40:51]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:40:56]
+  terc: compared to the 30 seconds i had
+[02/08/2021 21:40:59]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:41:02]
+  sylv placed Organic Fiber in Medical Fabricator (ID: 281)
+[02/08/2021 21:41:03]
+  sylv picked up Raptor Bane Extract
+[02/08/2021 21:41:05]
+  sylv placed Raptor Bane Extract in Medicine Cabinet (ID: 280)
+[02/08/2021 21:41:05]
+  sylv placed Raptor Bane Extract in Medicine Cabinet (ID: 280)
+[02/08/2021 21:41:06]
+  terc: im so salty
+[02/08/2021 21:41:08]
+  sylv picked up Raptor Bane Extract
+[02/08/2021 21:41:08]
+  sylv picked up Raptor Bane Extract
+[02/08/2021 21:41:10]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:41:10]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:41:11]
+  sylv placed Raptor Bane Extract in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:41:11]
+  sylv placed Raptor Bane Extract in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:41:13]
+  Carson Molina started repairing Battery
+[02/08/2021 21:41:21]
+  Carson Molina started repairing Battery
+[02/08/2021 21:41:25]
+  Outer wall breached by Bonethresher
+[02/08/2021 21:41:25]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:25]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:26]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:26]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:27]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:28]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:28]
+  Carson Molina started repairing Battery
+[02/08/2021 21:41:28]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:28]
+  Bonethresher has died (Cause of death: Lacerations)
+[02/08/2021 21:41:28]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:29]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:29]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:31]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:31]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:31]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:31]
+  Zoey Sexton launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:41:32]
+  Tigerthresher has died (Cause of death: Lacerations)
+[02/08/2021 21:41:34]
+  sylv started fabricating Raptor Bane Extract in Medical Fabricator
+[02/08/2021 21:41:35]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:41:35]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:41:38]
+  Carson Molina: I need diving gear!
+[02/08/2021 21:41:46]
+  sylv picked up Watering Can
+[02/08/2021 21:41:48]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:41:48]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:41:48]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:41:48]
+  Carson Molina equipped Wrench
+[02/08/2021 21:41:50]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:41:50]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:41:54]
+  superhands picked up Physicorium Bar
+[02/08/2021 21:41:57]
+  superhands placed Physicorium Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 21:41:59]
+  superhands picked up Iron
+[02/08/2021 21:41:59]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:41:59]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:41:59]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:41:59]
+  Carson Molina equipped Wrench
+[02/08/2021 21:41:59]
+  Carson Molina started repairing Pump
+[02/08/2021 21:42:00]
+  superhands picked up Carbon
+[02/08/2021 21:42:03]
+  superhands placed Carbon in Fabricator (ID: 229)
+[02/08/2021 21:42:03]
+  superhands placed Iron in Fabricator (ID: 229)
+[02/08/2021 21:42:04]
+  Zoey Sexton equipped 'Beast' SSL (Flashlight)
+[02/08/2021 21:42:07]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:42:07]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:42:12]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:42:17]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:42:17]
+  Carson Molina equipped Wrench
+[02/08/2021 21:42:17]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:42:17]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:42:20]
+  sylv detached Small Planter Box from a wall
+[02/08/2021 21:42:22]
+  sylv equipped Small Planter Box
+[02/08/2021 21:42:23]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:42:24]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:42:24]
+  Carson Molina equipped Wrench
+[02/08/2021 21:42:28]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:42:28]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:42:30]
+  sylv attached Small Planter Box to a wall
+[02/08/2021 21:42:32]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:42:32]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:42:32]
+  Carson Molina equipped Wrench
+[02/08/2021 21:42:34]
+  sylv equipped Pomegrenade Seed
+[02/08/2021 21:42:37]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:42:37]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:42:40]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:42:41]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:42:41]
+  Carson Molina equipped Wrench
+[02/08/2021 21:42:45]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:42:45]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:42:49]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:42:49]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:42:49]
+  Carson Molina equipped Wrench
+[02/08/2021 21:42:52]
+  superhands started fabricating Steel Bar in Fabricator
+[02/08/2021 21:42:53]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:42:53]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:42:56]
+  sylv: if dinks sprinkler system doesnt work then his pets fucking die instantly
+[02/08/2021 21:42:57]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:42:57]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:42:57]
+  Carson Molina equipped Wrench
+[02/08/2021 21:43:01]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:43:01]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:43:06]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:43:07]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:43:07]
+  Carson Molina equipped Wrench
+[02/08/2021 21:43:11]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:43:11]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:43:11]
+  sylv: planted pomegrenades
+[02/08/2021 21:43:14]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:43:15]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:43:15]
+  Carson Molina equipped Wrench
+[02/08/2021 21:43:19]
+  superhands picked up Fuel Rod
+[02/08/2021 21:43:20]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:43:20]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:43:21]
+  superhands picked up Fuel Rod
+[02/08/2021 21:43:21]
+  superhands dropped Fuel Rod
+[02/08/2021 21:43:21]
+  superhands placed Fuel Rod in Nuclear Reactor (ID: 228)
+[02/08/2021 21:43:23]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:43:24]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:43:24]
+  Carson Molina equipped Wrench
+[02/08/2021 21:43:25]
+  superhands placed Fuel Rod in Deconstructor (ID: 230)
+[02/08/2021 21:43:26]
+  superhands activated Deconstructor
+[02/08/2021 21:43:28]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:43:28]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:43:29]
+  tomacatx1 picked up Diving Suit
+[02/08/2021 21:43:30]
+  superhands dropped Hand Truck
+[02/08/2021 21:43:31]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:43:32]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:43:32]
+  Carson Molina equipped Wrench
+[02/08/2021 21:43:34]
+  superhands picked up Steel Bar
+[02/08/2021 21:43:37]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:43:37]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:43:40]
+  tomacatx1 dropped Diving Suit
+[02/08/2021 21:43:40]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:43:41]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:43:41]
+  Carson Molina equipped Wrench
+[02/08/2021 21:43:46]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:43:46]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:43:49]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:43:50]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:43:50]
+  Carson Molina equipped Wrench
+[02/08/2021 21:43:54]
+  superhands placed Steel Bar in Fabricator (ID: 229)
+[02/08/2021 21:43:54]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:43:54]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:43:55]
+  terc: till what
+[02/08/2021 21:43:58]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:43:58]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:43:58]
+  Carson Molina equipped Wrench
+[02/08/2021 21:44:00]
+  superhands started fabricating Gauss Pistol Magazine in Fabricator
+[02/08/2021 21:44:02]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:44:02]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:44:04]
+  terc: zoey sexton?
+[02/08/2021 21:44:06]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:44:06]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:44:06]
+  Carson Molina equipped Wrench
+[02/08/2021 21:44:08]
+  sylv: can i kill you terc
+[02/08/2021 21:44:11]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:44:11]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:44:11]
+  terc: man.
+[02/08/2021 21:44:15]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:44:15]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:44:15]
+  Carson Molina equipped Wrench
+[02/08/2021 21:44:15]
+  terc: yeah sure
+[02/08/2021 21:44:17]
+  superhands placed Gauss Pistol Magazine in SEAL Uniform (ID: 7254)
+[02/08/2021 21:44:17]
+  sylv equipped Dart Gun
+[02/08/2021 21:44:19]
+  Zoey Sexton attacked by sylv.
+[02/08/2021 21:44:19]
+  sylv has lost more than 25 karma in the past minute.
+[02/08/2021 21:44:20]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:44:20]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:44:20]
+  superhands removed Alien Power Cell from Deconstructor (ID: 230)
+[02/08/2021 21:44:22]
+  superhands placed Gauss Pistol Magazine in Deconstructor (ID: 230)
+[02/08/2021 21:44:23]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:44:24]
+  superhands picked up Steel Bar
+[02/08/2021 21:44:24]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:44:24]
+  Carson Molina equipped Wrench
+[02/08/2021 21:44:24]
+  superhands activated Deconstructor
+[02/08/2021 21:44:25]
+  terc: i feel funny
+[02/08/2021 21:44:28]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:44:28]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:44:29]
+  Zoey Sexton attacked by sylv.
+[02/08/2021 21:44:32]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:44:32]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:44:32]
+  Carson Molina equipped Wrench
+[02/08/2021 21:44:39]
+  Carson Molina started repairing Nuclear Reactor
+[02/08/2021 21:44:41]
+  superhands placed Steel Bar in Deconstructor (ID: 230)
+[02/08/2021 21:44:43]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:44:43]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:44:43]
+  superhands picked up Steel Bar
+[02/08/2021 21:44:43]
+  superhands picked up Lead
+[02/08/2021 21:44:44]
+  superhands picked up Steel Bar
+[02/08/2021 21:44:46]
+  superhands placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 21:44:46]
+  superhands placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 21:44:47]
+  superhands placed Lead in Large Steel Cabinet (ID: 231)
+[02/08/2021 21:44:50]
+  terc: oh man
+[02/08/2021 21:44:51]
+  superhands picked up Plastic
+[02/08/2021 21:44:51]
+  superhands picked up FPGA Circuit
+[02/08/2021 21:44:54]
+  Carson Molina started repairing Junction Bus
+[02/08/2021 21:44:54]
+  superhands placed Plastic in Large Steel Cabinet (ID: 231)
+[02/08/2021 21:44:54]
+  superhands placed FPGA Circuit in Large Steel Cabinet (ID: 231)
+[02/08/2021 21:44:54]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:44:54]
+  Carson Molina equipped Wrench
+[02/08/2021 21:44:58]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:44:58]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:45:00]
+  sylv: wacky
+[02/08/2021 21:45:08]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:45:09]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:45:09]
+  Carson Molina equipped Wrench
+[02/08/2021 21:45:13]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:45:13]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:45:20]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:45:20]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:45:20]
+  Carson Molina equipped Wrench
+[02/08/2021 21:45:25]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:45:25]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:45:26]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:45:27]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:45:27]
+  Carson Molina equipped Wrench
+[02/08/2021 21:45:28]
+  terc: no
+[02/08/2021 21:45:33]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:45:33]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:45:33]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:45:34]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:45:34]
+  Carson Molina equipped Wrench
+[02/08/2021 21:45:35]
+  terc: its uhh
+[02/08/2021 21:45:37]
+  terc: taking a while
+[02/08/2021 21:45:39]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:45:39]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:45:39]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:45:40]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:45:40]
+  Carson Molina equipped Wrench
+[02/08/2021 21:45:42]
+  Console command "teleport "Zoey Sexton"" executed by sylv.
+[02/08/2021 21:45:42]
+  superhands picked up Marine Combat Undershirt
+[02/08/2021 21:45:45]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:45:45]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:45:48]
+  Console command "teleport "Zoey Sexton"" executed by sylv.
+[02/08/2021 21:45:48]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:45:49]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:45:49]
+  Carson Molina equipped Wrench
+[02/08/2021 21:45:51]
+  superhands placed Marine Combat Undershirt in Cabinets (ID: 1154)
+[02/08/2021 21:45:51]
+  superhands equipped Storage Container
+[02/08/2021 21:45:51]
+  superhands picked up Storage Container
+[02/08/2021 21:45:52]
+  Console command "teleport "Zoey Sexton"" executed by sylv.
+[02/08/2021 21:45:53]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:45:53]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:45:54]
+  superhands placed Aviators in Storage Container (ID: 3012)
+[02/08/2021 21:45:54]
+  superhands removed Fire Helmet from Storage Container (ID: 3012)
+[02/08/2021 21:45:54]
+  superhands picked up Fire Helmet
+[02/08/2021 21:45:54]
+  terc: ill put it here
+[02/08/2021 21:45:56]
+  superhands picked up Aviators
+[02/08/2021 21:45:57]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:45:57]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:45:57]
+  Carson Molina equipped Wrench
+[02/08/2021 21:45:57]
+  Zoey Sexton has died (Cause of death: Oxygen low)
+[02/08/2021 21:46:00]
+  tomacatx1 picked up Military Helmet with NVG
+[02/08/2021 21:46:03]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:46:03]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:46:03]
+  tomacatx1 placed Plasma Cutter in Tactical Backpack (ID: 7438)
+[02/08/2021 21:46:04]
+  superhands placed Fire Helmet in Storage Container (ID: 3012)
+[02/08/2021 21:46:04]
+  tomacatx1 placed Welding Tool in Tactical Backpack (ID: 7438)
+[02/08/2021 21:46:04]
+  sylv: that was me
+[02/08/2021 21:46:05]
+  superhands placed Storage Container in Cabinets (ID: 1154)
+[02/08/2021 21:46:06]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:46:07]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:46:07]
+  Carson Molina equipped Wrench
+[02/08/2021 21:46:11]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:46:11]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:46:12]
+  tomacatx1 placed Underwater Scooter in Tactical Backpack (ID: 7438)
+[02/08/2021 21:46:15]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:46:15]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:46:15]
+  Carson Molina equipped Wrench
+[02/08/2021 21:46:16]
+  tomacatx1 placed Wrench in Tactical Backpack (ID: 7438)
+[02/08/2021 21:46:17]
+  tomacatx1 placed Screwdriver in Tactical Backpack (ID: 7438)
+[02/08/2021 21:46:19]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:46:19]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:46:22]
+  tomacatx1 picked up ID Card
+[02/08/2021 21:46:23]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:46:23]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:46:23]
+  Carson Molina equipped Wrench
+[02/08/2021 21:46:25]
+  tomacatx1 removed Tactical Backpack from Zoey Sexton
+[02/08/2021 21:46:28]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:46:28]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:46:32]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:46:33]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:46:33]
+  Carson Molina equipped Wrench
+[02/08/2021 21:46:35]
+  tomacatx1 picked up Duffel Bag
+[02/08/2021 21:46:37]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:46:37]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:46:43]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:46:44]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:46:44]
+  Carson Molina equipped Wrench
+[02/08/2021 21:46:45]
+  tomacatx1 removed Marine Combat Undershirt from Zoey Sexton
+[02/08/2021 21:46:46]
+  tomacatx1 removed 'Beast' SSL (Flashlight) from Zoey Sexton
+[02/08/2021 21:46:47]
+  tomacatx1 removed Drum LMG from Zoey Sexton
+[02/08/2021 21:46:48]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:46:48]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:46:51]
+  tomacatx1 unequipped 'Beast' SSL (Flashlight)
+[02/08/2021 21:46:53]
+  tomacatx1 unequipped Drum LMG
+[02/08/2021 21:46:55]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:46:55]
+  tomacatx1 picked up Marine Combat Undershirt
+[02/08/2021 21:46:55]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:46:55]
+  Carson Molina equipped Wrench
+[02/08/2021 21:46:56]
+  superhands equipped Storage Container
+[02/08/2021 21:46:56]
+  superhands picked up Storage Container
+[02/08/2021 21:46:59]
+  sylv equipped Duffel Bag
+[02/08/2021 21:46:59]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:46:59]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:47:01]
+  superhands placed Storage Container in Shelf (ID: 1446)
+[02/08/2021 21:47:02]
+  superhands equipped Storage Container
+[02/08/2021 21:47:02]
+  superhands picked up Storage Container
+[02/08/2021 21:47:02]
+  sylv dropped Duffel Bag
+[02/08/2021 21:47:04]
+  superhands placed Storage Container in Shelf (ID: 1446)
+[02/08/2021 21:47:06]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:47:06]
+  tomacatx1 placed Duffel Bag in Tall Crate Rack (ID: 677)
+[02/08/2021 21:47:07]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:47:07]
+  Carson Molina equipped Wrench
+[02/08/2021 21:47:08]
+  tomacatx1 placed 'Beast' SSL (Flashlight) in Large Steel Cabinet (ID: 213)
+[02/08/2021 21:47:09]
+  tomacatx1 placed Drum LMG in Large Steel Cabinet (ID: 213)
+[02/08/2021 21:47:10]
+  tomacatx1 placed Military Helmet with NVG in Large Steel Cabinet (ID: 213)
+[02/08/2021 21:47:11]
+  tomacatx1 placed Marine Combat Undershirt in Large Steel Cabinet (ID: 213)
+[02/08/2021 21:47:11]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:47:11]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:47:11]
+  superhands equipped Storage Container
+[02/08/2021 21:47:11]
+  superhands picked up Storage Container
+[02/08/2021 21:47:13]
+  superhands placed Storage Container in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:47:14]
+  superhands equipped Toolbelt
+[02/08/2021 21:47:14]
+  superhands picked up Toolbelt
+[02/08/2021 21:47:16]
+  superhands placed Toolbelt in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:47:17]
+  Carson Molina started repairing Junction Bus
+[02/08/2021 21:47:18]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:47:18]
+  Carson Molina equipped Wrench
+[02/08/2021 21:47:21]
+  superhands picked up Syringe Gun
+[02/08/2021 21:47:22]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:47:22]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:47:23]
+  superhands placed Syringe Gun in Cabinets (ID: 284)
+[02/08/2021 21:47:24]
+  superhands picked up Syringe Gun
+[02/08/2021 21:47:25]
+  sylv equipped Poop
+[02/08/2021 21:47:26]
+  superhands placed Syringe Gun in Cabinets (ID: 284)
+[02/08/2021 21:47:27]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:47:27]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:47:27]
+  Carson Molina equipped Wrench
+[02/08/2021 21:47:31]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:47:31]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:47:32]
+  sylv threw Poop
+[02/08/2021 21:47:35]
+  superhands picked up Logbook
+[02/08/2021 21:47:36]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:47:36]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:47:36]
+  Carson Molina equipped Wrench
+[02/08/2021 21:47:36]
+  superhands equipped Logbook
+[02/08/2021 21:47:36]
+  sylv equipped Raptor Bane
+[02/08/2021 21:47:36]
+  sylv equipped Raptor Bane
+[02/08/2021 21:47:37]
+  sylv equipped Poop
+[02/08/2021 21:47:39]
+  sylv threw Poop
+[02/08/2021 21:47:40]
+  sylv equipped Poop
+[02/08/2021 21:47:40]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:47:40]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:47:40]
+  superhands placed Logbook in Toxin Cabinet (ID: 944)
+[02/08/2021 21:47:41]
+  sylv (as ???) equipped Poop
+[02/08/2021 21:47:43]
+  Ending the round...
+[02/08/2021 21:47:43]
+  Round ended.
+[02/08/2021 21:47:45]
+  Starting a new round...

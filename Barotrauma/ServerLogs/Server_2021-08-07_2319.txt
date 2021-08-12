@@ -1,0 +1,1600 @@
+﻿[07/08/2021 22:57:25]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:57:25]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:57:29]
+  terc: why do i have eternal bullet wounds
+[07/08/2021 22:57:29]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:57:29]
+  Carson Molina equipped Wrench
+[07/08/2021 22:57:29]
+  Carson Molina started repairing Pump
+[07/08/2021 22:57:33]
+  sylv started fabricating Raptor Bane Extract in Medical Fabricator
+[07/08/2021 22:57:38]
+  Carson Molina started repairing Oxygen Generator
+[07/08/2021 22:57:38]
+  sylv: idk
+[07/08/2021 22:57:41]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:57:41]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:57:44]
+  sylv: worms dont do shit
+[07/08/2021 22:57:48]
+  sylv: somehow
+[07/08/2021 22:57:55]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:58:01]
+  sylv picked up Plastiseal
+[07/08/2021 22:58:01]
+  sylv picked up Plastiseal
+[07/08/2021 22:58:02]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:58:02]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:58:04]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:58:07]
+  sylv used item Plastiseal
+[07/08/2021 22:58:10]
+  sylv used item Plastiseal
+[07/08/2021 22:58:12]
+  terc picked up Fuel Rod
+[07/08/2021 22:58:12]
+  terc picked up Fuel Rod
+[07/08/2021 22:58:12]
+  terc picked up Fuel Rod
+[07/08/2021 22:58:12]
+  terc picked up Fuel Rod
+[07/08/2021 22:58:13]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:58:14]
+  terc placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[07/08/2021 22:58:14]
+  terc placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[07/08/2021 22:58:15]
+  terc placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[07/08/2021 22:58:15]
+  sylv picked up Bandage
+[07/08/2021 22:58:15]
+  sylv picked up Bandage
+[07/08/2021 22:58:15]
+  sylv picked up Bandage
+[07/08/2021 22:58:15]
+  sylv picked up Bandage
+[07/08/2021 22:58:15]
+  sylv picked up Bandage
+[07/08/2021 22:58:15]
+  sylv picked up Bandage
+[07/08/2021 22:58:15]
+  sylv picked up Bandage
+[07/08/2021 22:58:15]
+  sylv picked up Bandage
+[07/08/2021 22:58:20]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:58:21]
+  terc placed Fuel Rod in Nuclear Reactor (ID: 228)
+[07/08/2021 22:58:22]
+  sylv used item Bandage
+[07/08/2021 22:58:26]
+  tomacatx1 equipped Toolbelt
+[07/08/2021 22:58:26]
+  tomacatx1 picked up Toolbelt
+[07/08/2021 22:58:26]
+  sylv used item Morphine
+[07/08/2021 22:58:27]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:58:28]
+  tomacatx1 picked up Europan Worm
+[07/08/2021 22:58:28]
+  tomacatx1 picked up Europan Worm
+[07/08/2021 22:58:28]
+  tomacatx1 picked up Europan Worm
+[07/08/2021 22:58:28]
+  tomacatx1 picked up Europan Worm
+[07/08/2021 22:58:29]
+  tomacatx1 placed Europan Worm in Toolbelt (ID: 7363)
+[07/08/2021 22:58:29]
+  tomacatx1 placed Europan Worm in Toolbelt (ID: 7363)
+[07/08/2021 22:58:30]
+  sylv used item Bandage
+[07/08/2021 22:58:31]
+  tomacatx1 placed Europan Worm in Toolbelt (ID: 7363)
+[07/08/2021 22:58:32]
+  tomacatx1 placed Toolbelt in Large Steel Cabinet (ID: 292)
+[07/08/2021 22:58:33]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:58:39]
+  sylv used item Naloxone
+[07/08/2021 22:58:41]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:58:49]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:58:49]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:58:51]
+  terc: down here
+[07/08/2021 22:58:54]
+  tomacatx1 used item Europan Worm
+[07/08/2021 22:58:55]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:59:00]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:59:05]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:59:09]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:59:17]
+  sylv equipped Toolbelt
+[07/08/2021 22:59:17]
+  sylv picked up Toolbelt
+[07/08/2021 22:59:17]
+  terc: hello sylv surgery me
+[07/08/2021 22:59:20]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:59:24]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:59:30]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 22:59:31]
+  sylv used item Body Scanner
+[07/08/2021 22:59:33]
+  sylv used item Scalpel
+[07/08/2021 22:59:35]
+  sylv used item Retractor
+[07/08/2021 22:59:37]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:59:37]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:59:37]
+  sylv used item Biofoam Injector (contained items: Biofoam Tank)
+[07/08/2021 22:59:40]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:59:41]
+  sylv used item Bandage
+[07/08/2021 22:59:47]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:59:50]
+  sylv: ok
+[07/08/2021 22:59:53]
+  superhands: we do be in the abyss
+[07/08/2021 22:59:54]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:00:00]
+  sylv placed Toolbelt in Large Steel Cabinet (ID: 292)
+[07/08/2021 23:00:02]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:00:02]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:00:03]
+  Carson Molina started repairing Battery
+[07/08/2021 23:00:03]
+  terc picked up Fuel Rod
+[07/08/2021 23:00:08]
+  terc placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[07/08/2021 23:00:11]
+  sylv picked up Raptor Bane Extract
+[07/08/2021 23:00:11]
+  Carson Molina: At times I feel like we're just puppets on a string.
+[07/08/2021 23:00:16]
+  Carson Molina: Dancing and dying for the amusement of the thing beyond the curtain.
+[07/08/2021 23:00:22]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 23:00:23]
+  superhands placed Welding Tool in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:00:24]
+  superhands placed Screwdriver in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:00:24]
+  superhands placed Wrench in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:00:26]
+  superhands picked up Underwater Scooter
+[07/08/2021 23:00:28]
+  sylv placed Tobacco Bud in Fabricator (ID: 229)
+[07/08/2021 23:00:28]
+  sylv placed Tobacco Bud in Fabricator (ID: 229)
+[07/08/2021 23:00:28]
+  sylv placed Tobacco Bud in Fabricator (ID: 229)
+[07/08/2021 23:00:28]
+  sylv placed Tobacco Bud in Fabricator (ID: 229)
+[07/08/2021 23:00:29]
+  terc picked up Jetscooter
+[07/08/2021 23:00:31]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 23:00:35]
+  superhands picked up Long Range Radio
+[07/08/2021 23:00:36]
+  sylv started fabricating Pipe Tobacco in Fabricator
+[07/08/2021 23:00:38]
+  superhands placed Gauss Pistol in Toolbelt (ID: 7463)
+[07/08/2021 23:00:40]
+  Carson Molina started repairing Battery Assembly
+[07/08/2021 23:00:44]
+  sylv placed Bandage in Medical Backpack (ID: 7378)
+[07/08/2021 23:00:44]
+  sylv placed Bandage in Medical Backpack (ID: 7378)
+[07/08/2021 23:00:44]
+  sylv placed Bandage in Medical Backpack (ID: 7378)
+[07/08/2021 23:00:44]
+  sylv placed Bandage in Medical Backpack (ID: 7378)
+[07/08/2021 23:00:44]
+  sylv placed Bandage in Medical Backpack (ID: 7378)
+[07/08/2021 23:00:48]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:00:48]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:00:53]
+  terc equipped Military Mk-II Hardsuit (Bandit)
+[07/08/2021 23:00:53]
+  terc picked up Military Mk-II Hardsuit (Bandit)
+[07/08/2021 23:00:56]
+  Carson Molina started repairing Junction Bus
+[07/08/2021 23:01:03]
+  terc: im ready
+[07/08/2021 23:01:03]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:01:03]
+  superhands placed Underwater Scooter in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:01:03]
+  superhands removed Ancient Weapon from Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:01:03]
+  superhands picked up Ancient Weapon
+[07/08/2021 23:01:05]
+  superhands picked up Underwater Scooter
+[07/08/2021 23:01:07]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:01:07]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:01:16]
+  Carson Molina started repairing Navigation Terminal
+[07/08/2021 23:01:17]
+  superhands picked up Handheld Sonar
+[07/08/2021 23:01:21]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:01:21]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:01:22]
+  superhands picked up Ion Pulse Cutter
+[07/08/2021 23:01:22]
+  terc: i have a jetscooter
+[07/08/2021 23:01:23]
+  superhands placed Battery Cell in Ion Pulse Cutter (ID: 3341)
+[07/08/2021 23:01:23]
+  superhands removed Battery Cell from Ion Pulse Cutter (ID: 3341)
+[07/08/2021 23:01:23]
+  superhands placed Battery Cell in Underwater Scooter (ID: 1030)
+[07/08/2021 23:01:24]
+  superhands placed Ion Pulse Cutter in Large Steel Cabinet (ID: 373)
+[07/08/2021 23:01:27]
+  superhands placed Battery Cell in Toolbelt (ID: 7463)
+[07/08/2021 23:01:27]
+  superhands placed Battery Cell in Toolbelt (ID: 7463)
+[07/08/2021 23:01:27]
+  superhands placed Battery Cell in Toolbelt (ID: 7463)
+[07/08/2021 23:01:48]
+  Console command "freecam" executed by tomacatx1.
+[07/08/2021 23:01:48]
+  superhands picked up Military Mk-II Hardsuit (Bandit)
+[07/08/2021 23:01:51]
+  superhands picked up Reinforced Oxygen Tank
+[07/08/2021 23:01:51]
+  superhands picked up Reinforced Oxygen Tank
+[07/08/2021 23:01:52]
+  superhands picked up Reinforced Oxygen Tank
+[07/08/2021 23:01:54]
+  superhands picked up Reinforced Oxygen Tank
+[07/08/2021 23:01:54]
+  superhands equipped Reinforced Oxygen Tank
+[07/08/2021 23:01:54]
+  superhands picked up Reinforced Oxygen Tank
+[07/08/2021 23:01:55]
+  superhands equipped Reinforced Oxygen Tank
+[07/08/2021 23:01:55]
+  superhands picked up Reinforced Oxygen Tank
+[07/08/2021 23:01:56]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 956)
+[07/08/2021 23:01:58]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 956)
+[07/08/2021 23:01:59]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 956)
+[07/08/2021 23:02:01]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 23:02:01]
+  Carson Molina equipped Wrench
+[07/08/2021 23:02:02]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 1689)
+[07/08/2021 23:02:03]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 1689)
+[07/08/2021 23:02:03]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 1689)
+[07/08/2021 23:02:07]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:02:07]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:02:08]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:02:08]
+  Carson Molina started repairing Fabricator
+[07/08/2021 23:02:13]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:02:13]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:02:14]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:02:15]
+  terc: you look swag in that suit
+[07/08/2021 23:02:15]
+  Console command "control tomacatx1" executed by tomacatx1.
+[07/08/2021 23:02:32]
+  Carson Molina unequipped Wrench
+[07/08/2021 23:02:32]
+  Carson Molina equipped Screwdriver
+[07/08/2021 23:02:37]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:02:37]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:02:39]
+  terc: oh
+[07/08/2021 23:02:42]
+  terc: we are still moving.
+[07/08/2021 23:02:47]
+  terc: well then
+[07/08/2021 23:02:50]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:02:51]
+  terc placed Reinforced Oxygen Tank in Tactical Backpack (ID: 7280)
+[07/08/2021 23:02:51]
+  terc removed Oxygen Tank from Tactical Backpack (ID: 7280)
+[07/08/2021 23:02:51]
+  terc placed Oxygen Tank in Military Mk-II Hardsuit (Bandit) (ID: 3577)
+[07/08/2021 23:02:57]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:02:57]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:03:03]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 23:03:09]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:03:10]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 23:03:10]
+  Carson Molina equipped Wrench
+[07/08/2021 23:03:11]
+  Console command "freecam" executed by tomacatx1.
+[07/08/2021 23:03:18]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:20]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:21]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:21]
+  Carson Molina: Leak in engine room!
+[07/08/2021 23:03:21]
+  Carson Molina started repairing Large Engine
+[07/08/2021 23:03:26]
+  sylv: then fix it
+[07/08/2021 23:03:30]
+  Carson Molina unequipped Wrench
+[07/08/2021 23:03:30]
+  Carson Molina equipped Screwdriver
+[07/08/2021 23:03:32]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:32]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:33]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:35]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:35]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:36]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:36]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 23:03:37]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:38]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:40]
+  Console command "spawn mudraptor cursor" executed by tomacatx1.
+[07/08/2021 23:03:44]
+  Console command "control tomacatx1" executed by tomacatx1.
+[07/08/2021 23:03:44]
+  terc: is this it
+[07/08/2021 23:03:45]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 23:03:48]
+  sylv picked up Medical Backpack
+[07/08/2021 23:03:50]
+  superhands: thats it yeah
+[07/08/2021 23:03:54]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:03:54]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:03:57]
+  sylv placed Pomegrenade Extract in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:03:57]
+  sylv placed Pomegrenade Extract in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:03:57]
+  sylv placed Pomegrenade Extract in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:03:57]
+  sylv placed Pomegrenade Extract in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:03:57]
+  sylv placed Pomegrenade Extract in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:03:57]
+  sylv placed Pomegrenade Extract in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:03:57]
+  sylv placed Pomegrenade Extract in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:03:57]
+  sylv placed Pomegrenade Extract in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:04:07]
+  superhands equipped Gauss Rifle
+[07/08/2021 23:04:08]
+  sylv placed Raptor Bane Extract in Medical Backpack (ID: 3821)
+[07/08/2021 23:04:10]
+  sylv placed Medical Backpack in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:04:10]
+  Console command "freecam" executed by tomacatx1.
+[07/08/2021 23:04:13]
+  sylv equipped Medical Backpack
+[07/08/2021 23:04:13]
+  sylv picked up Medical Backpack
+[07/08/2021 23:04:16]
+  sylv picked up Laser Bore
+[07/08/2021 23:04:18]
+  sylv placed Medical Backpack in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:04:19]
+  Spineling has died (Cause of death: Bite wounds)
+[07/08/2021 23:04:19]
+  terc placed Battery Cell in Tactical Backpack (ID: 7280)
+[07/08/2021 23:04:19]
+  terc removed Battery Cell from Tactical Backpack (ID: 7280)
+[07/08/2021 23:04:19]
+  terc placed Battery Cell in Jetscooter (ID: 7309)
+[07/08/2021 23:04:19]
+  sylv equipped Tactical Backpack
+[07/08/2021 23:04:19]
+  sylv picked up Tactical Backpack
+[07/08/2021 23:04:22]
+  sylv placed Tactical Backpack in Large Steel Cabinet (ID: 291)
+[07/08/2021 23:04:25]
+  sylv picked up Giant Dad Mask
+[07/08/2021 23:04:26]
+  terc: dont touc that
+[07/08/2021 23:04:29]
+  sylv picked up Pomegrenade Extract
+[07/08/2021 23:04:29]
+  sylv picked up Pomegrenade Extract
+[07/08/2021 23:04:29]
+  sylv picked up Pomegrenade Extract
+[07/08/2021 23:04:29]
+  sylv picked up Pomegrenade Extract
+[07/08/2021 23:04:29]
+  sylv picked up Pomegrenade Extract
+[07/08/2021 23:04:29]
+  sylv picked up Pomegrenade Extract
+[07/08/2021 23:04:29]
+  sylv picked up Pomegrenade Extract
+[07/08/2021 23:04:29]
+  sylv picked up Pomegrenade Extract
+[07/08/2021 23:04:33]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:04:33]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:04:37]
+  sylv placed Giant Dad Mask in Medic Crate (ID: 2219)
+[07/08/2021 23:04:39]
+  terc picked up 30mm-FC Clip
+[07/08/2021 23:04:39]
+  Carson Molina started repairing Battery
+[07/08/2021 23:04:45]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:04:48]
+  Console command "control tomacatx1" executed by tomacatx1.
+[07/08/2021 23:04:52]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:04:59]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:05:03]
+  terc placed 30mm-FC Clip in 'Beast' SSL (Flashlight) (ID: 7342)
+[07/08/2021 23:05:13]
+  Console command "freecam" executed by tomacatx1.
+[07/08/2021 23:05:23]
+  sylv picked up Aluminum
+[07/08/2021 23:05:23]
+  Mudraptor attacked by superhands. Gunshot wound: 70 Bleeding: 45
+[07/08/2021 23:05:24]
+  Mudraptor attacked by superhands. Gunshot wound: 38.5 Bleeding: 22.5
+[07/08/2021 23:05:24]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[07/08/2021 23:05:25]
+  sylv placed Laser Bore in Deconstructor (ID: 230)
+[07/08/2021 23:05:26]
+  Console command "control tomacatx1" executed by tomacatx1.
+[07/08/2021 23:05:26]
+  sylv placed Aluminum in Deconstructor (ID: 230)
+[07/08/2021 23:05:27]
+  sylv activated Deconstructor
+[07/08/2021 23:05:32]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:05:32]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:05:33]
+  sylv picked up Sodium
+[07/08/2021 23:05:33]
+  sylv picked up Sodium
+[07/08/2021 23:05:33]
+  sylv picked up Sodium
+[07/08/2021 23:05:33]
+  sylv picked up Sodium
+[07/08/2021 23:05:33]
+  sylv picked up Sodium
+[07/08/2021 23:05:33]
+  sylv picked up Sodium
+[07/08/2021 23:05:38]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 23:05:38]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:05:38]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:05:38]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:05:38]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:05:38]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:05:38]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:05:38]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:05:38]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:05:39]
+  Spineling has died (Cause of death: Lacerations)
+[07/08/2021 23:05:47]
+  sylv placed Sodium in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:05:47]
+  sylv placed Sodium in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:05:47]
+  sylv placed Sodium in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:05:47]
+  sylv placed Sodium in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:05:47]
+  sylv placed Sodium in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:05:47]
+  sylv placed Sodium in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:05:47]
+  terc picked up 30mm-FC Clip
+[07/08/2021 23:05:48]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:05:50]
+  Mudraptor attacked by superhands. Gunshot wound: 38.5 Bleeding: 22.5
+[07/08/2021 23:05:51]
+  terc attacked by superhands. Gunshot wound: 18.19125 Bleeding: 18.984373
+[07/08/2021 23:05:52]
+  Mudraptor has died (Cause of death: Lacerations)
+[07/08/2021 23:05:53]
+  sylv equipped Silicon
+[07/08/2021 23:05:53]
+  sylv equipped Tin
+[07/08/2021 23:05:53]
+  Mudraptor attacked by superhands. Gunshot wound: 38.5 Bleeding: 22.5
+[07/08/2021 23:05:56]
+  terc placed 30mm-FC Clip in 'Beast' SSL (Flashlight) (ID: 7342)
+[07/08/2021 23:05:56]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[07/08/2021 23:05:56]
+  Mudraptor attacked by superhands. Gunshot wound: 38.5 Bleeding: 22.5
+[07/08/2021 23:05:56]
+  Carson Molina started repairing Battery
+[07/08/2021 23:05:57]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:05:57]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:05:57]
+  Mudraptor attacked by terc. Bleeding: 8.400001 Gunshot wound: 4.6
+[07/08/2021 23:05:58]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:05:58]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:05:58]
+  Mudraptor attacked by terc. Bleeding: 10.5 Gunshot wound: 5
+[07/08/2021 23:05:58]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:06:04]
+  sylv placed Silicon in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:06:04]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:06:04]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:06:05]
+  sylv placed Tin in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:06:07]
+  terc: ow
+[07/08/2021 23:06:08]
+  sylv removed Silicon from Large Steel Cabinet (ID: 231)
+[07/08/2021 23:06:11]
+  sylv placed Copper in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:06:12]
+  Carson Molina started repairing Battery
+[07/08/2021 23:06:17]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:06:17]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:06:17]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:06:17]
+  sylv picked up Salt Vine Seed
+[07/08/2021 23:06:18]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:18]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:18]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:18]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:20]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:06:22]
+  superhands equipped Handheld Sonar
+[07/08/2021 23:06:23]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:23]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:23]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:23]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:23]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:23]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:23]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:23]
+  sylv placed Salt Vine Seed in Deconstructor (ID: 230)
+[07/08/2021 23:06:24]
+  sylv activated Deconstructor
+[07/08/2021 23:06:26]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:06:27]
+  terc: can you bandage me up
+[07/08/2021 23:06:27]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 23:06:27]
+  Carson Molina equipped Wrench
+[07/08/2021 23:06:29]
+  sylv picked up Titanium-Aluminum Alloy
+[07/08/2021 23:06:30]
+  Carson Molina started repairing Deconstructor
+[07/08/2021 23:06:34]
+  Carson Molina unequipped Wrench
+[07/08/2021 23:06:34]
+  Carson Molina equipped Screwdriver
+[07/08/2021 23:06:35]
+  sylv placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:06:37]
+  superhands: i dont have bandages
+[07/08/2021 23:06:39]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:06:39]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:06:44]
+  terc used item Bandage
+[07/08/2021 23:06:54]
+  terc: SORRY
+[07/08/2021 23:06:57]
+  superhands: great
+[07/08/2021 23:07:01]
+  terc used item Bandage
+[07/08/2021 23:07:03]
+  superhands: hello
+[07/08/2021 23:07:06]
+  terc used item Bandage
+[07/08/2021 23:07:10]
+  terc used item Fentanyl
+[07/08/2021 23:07:14]
+  superhands: thanks
+[07/08/2021 23:07:38]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:07:43]
+  superhands equipped Torpedo Rifle
+[07/08/2021 23:07:44]
+  Mudraptor has died (Cause of death: Lacerations)
+[07/08/2021 23:07:45]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:07:45]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:07:47]
+  Mudraptor attacked by terc. Bleeding: 10.5 Gunshot wound: 5
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 8.400001 Gunshot wound: 4.6
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 8.400001 Gunshot wound: 4.6
+[07/08/2021 23:07:48]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:48]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:49]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:49]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:49]
+  Mudraptor attacked by terc. Bleeding: 8.400001 Gunshot wound: 4.6
+[07/08/2021 23:07:49]
+  Mudraptor attacked by superhands. Gunshot wound: 38.5 Bleeding: 22.5
+[07/08/2021 23:07:49]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:49]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:07:49]
+  Mudraptor attacked by terc. Bleeding: 10.5 Gunshot wound: 5
+[07/08/2021 23:07:49]
+  Mudraptor attacked by terc. Bleeding: 10.5 Gunshot wound: 5
+[07/08/2021 23:07:49]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[07/08/2021 23:07:49]
+  Mudraptor attacked by superhands. Gunshot wound: 70 Bleeding: 45
+[07/08/2021 23:07:50]
+  Mudraptor attacked by terc. Bleeding: 8.400001 Gunshot wound: 4.6
+[07/08/2021 23:07:50]
+  Mudraptor attacked by terc. Bleeding: 8.400001 Gunshot wound: 4.6
+[07/08/2021 23:07:50]
+  Mudraptor attacked by terc. Bleeding: 8.400001 Gunshot wound: 4.6
+[07/08/2021 23:07:50]
+  Mudraptor attacked by superhands. Gunshot wound: 70 Bleeding: 45
+[07/08/2021 23:07:51]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:07:56]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:07:59]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 23:08:00]
+  terc used item Bandage
+[07/08/2021 23:08:09]
+  terc picked up 5.56x45mm Drum
+[07/08/2021 23:08:11]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:08:14]
+  Console command "freecam" executed by tomacatx1.
+[07/08/2021 23:08:16]
+  terc: ok
+[07/08/2021 23:08:18]
+  terc: ill handle it
+[07/08/2021 23:08:20]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:08:20]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:08:25]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[07/08/2021 23:08:26]
+  Mudraptor has died (Cause of death: Lacerations)
+[07/08/2021 23:08:28]
+  Mudraptor attacked by terc. Bleeding: 42 Gunshot wound: 20
+[07/08/2021 23:08:28]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:08:28]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:08:28]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:08:29]
+  Mudraptor attacked by terc. Bleeding: 21 Gunshot wound: 10
+[07/08/2021 23:08:31]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[07/08/2021 23:08:31]
+  Mudraptor attacked by superhands. Gunshot wound: 70 Bleeding: 45
+[07/08/2021 23:08:32]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 23:08:34]
+  terc placed 30mm-FC Clip in 'Beast' SSL (Flashlight) (ID: 7342)
+[07/08/2021 23:08:40]
+  Mudraptor has died (Cause of death: Lacerations)
+[07/08/2021 23:08:40]
+  Mudraptor attacked by superhands. Gunshot wound: 38.5 Bleeding: 22.5
+[07/08/2021 23:08:41]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 23:08:44]
+  Mudraptor has died (Cause of death: Unknown)
+[07/08/2021 23:08:45]
+  Mudraptor has died (Cause of death: Unknown)
+[07/08/2021 23:08:51]
+  terc used item Fentanyl
+[07/08/2021 23:08:52]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:08:52]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:08:53]
+  Carson Molina: We can do this.
+[07/08/2021 23:08:55]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:08:58]
+  terc picked up Physicorium 5.56x45mm Drum
+[07/08/2021 23:08:58]
+  terc dropped 5.56x45mm Drum
+[07/08/2021 23:08:58]
+  terc placed 5.56x45mm Drum in Drum LMG (ID: 7345)
+[07/08/2021 23:09:00]
+  terc dropped Physicorium 5.56x45mm Drum
+[07/08/2021 23:09:01]
+  Console command "spawn spineling cursor" executed by tomacatx1.
+[07/08/2021 23:09:02]
+  Console command "spawn spineling cursor" executed by tomacatx1.
+[07/08/2021 23:09:04]
+  terc picked up 30mm-FC Clip
+[07/08/2021 23:09:07]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:08]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:08]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:08]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:08]
+  Spineling has died (Cause of death: Gunshot wound)
+[07/08/2021 23:09:08]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:08]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:08]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:08]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:08]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:09]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:09]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:09]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:09]
+  Spineling attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:09:09]
+  Spineling has died (Cause of death: Gunshot wound)
+[07/08/2021 23:09:09]
+  Spineling attacked by superhands. Gunshot wound: 70 Bleeding: 45
+[07/08/2021 23:09:11]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 23:09:11]
+  Carson Molina equipped Wrench
+[07/08/2021 23:09:14]
+  Carson Molina started repairing Deconstructor
+[07/08/2021 23:09:18]
+  Carson Molina unequipped Wrench
+[07/08/2021 23:09:18]
+  Carson Molina equipped Screwdriver
+[07/08/2021 23:09:25]
+  superhands equipped Thermal Alien Artifact
+[07/08/2021 23:09:31]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:09:31]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:09:31]
+  superhands: i ragdoll
+[07/08/2021 23:09:34]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:09:34]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[07/08/2021 23:09:36]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[07/08/2021 23:09:36]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[07/08/2021 23:09:37]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[07/08/2021 23:09:38]
+  Console command "spawn husk cursor" executed by tomacatx1.
+[07/08/2021 23:09:41]
+  Console command "control tomacatx1" executed by tomacatx1.
+[07/08/2021 23:09:41]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:09:48]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:09:53]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:09:53]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:09:53]
+  terc: AAAA
+[07/08/2021 23:09:58]
+  sylv: awi
+[07/08/2021 23:10:02]
+  Carson Molina started repairing Battery
+[07/08/2021 23:10:13]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:10:17]
+  tomacatx1 picked up Battery Cell
+[07/08/2021 23:10:19]
+  tomacatx1 picked up FPGA Circuit
+[07/08/2021 23:10:21]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:10:21]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:10:26]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 23:10:35]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:35]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:42]
+  terc: E
+[07/08/2021 23:10:42]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:10:42]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:10:48]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:10:51]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:51]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:51]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:51]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:51]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:51]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:51]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:51]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:10:51]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:51]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:51]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:51]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:52]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:52]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:52]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:54]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:54]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:54]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:54]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:54]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:54]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk has died (Cause of death: Gunshot wound)
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:55]
+  Husk attacked by terc. Bleeding: 15 Gunshot wound: 8
+[07/08/2021 23:10:59]
+  tomacatx1 placed Pipe Tobacco in Fabricator (ID: 229)
+[07/08/2021 23:10:59]
+  terc placed Oxygen Tank in Tactical Backpack (ID: 7280)
+[07/08/2021 23:10:59]
+  terc removed Oxygen Tank from Tactical Backpack (ID: 7280)
+[07/08/2021 23:10:59]
+  terc placed Oxygen Tank in Military Mk-II Hardsuit (Bandit) (ID: 3577)
+[07/08/2021 23:11:00]
+  tomacatx1 started fabricating Crate of Carbon in Fabricator
+[07/08/2021 23:11:00]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:11:03]
+  tomacatx1 equipped Crate of Carbon
+[07/08/2021 23:11:03]
+  tomacatx1 picked up Crate of Carbon
+[07/08/2021 23:11:07]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 23:11:07]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:07]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:11:10]
+  superhands: he spawned in 5 husks
+[07/08/2021 23:11:10]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:11:10]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:11:11]
+  tomacatx1 started fabricating Crate of Carbon in Fabricator
+[07/08/2021 23:11:11]
+  terc: idk if this is the right way
+[07/08/2021 23:11:18]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:11:18]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:11:18]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:11:18]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:11:18]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:11:20]
+  terc: ragdoll again
+[07/08/2021 23:11:23]
+  superhands: why did he spawn those in
+[07/08/2021 23:11:24]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 23:11:26]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:11:26]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:11:26]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:11:26]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:11:26]
+  tomacatx1 placed Carbon in Large Steel Cabinet (ID: 231)
+[07/08/2021 23:11:29]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:11:32]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:11:32]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:11:35]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:11:35]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:11:37]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 23:11:37]
+  sylv dropped Strange Egg
+[07/08/2021 23:11:40]
+  tomacatx1 placed Crate of Carbon in Material Storage Locker (ID: 958)
+[07/08/2021 23:11:40]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 23:11:40]
+  Carson Molina equipped Wrench
+[07/08/2021 23:11:43]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 958)
+[07/08/2021 23:11:43]
+  Carson Molina started repairing Deconstructor
+[07/08/2021 23:11:47]
+  Carson Molina unequipped Wrench
+[07/08/2021 23:11:47]
+  Carson Molina equipped Screwdriver
+[07/08/2021 23:11:52]
+  sylv equipped Poop
+[07/08/2021 23:11:52]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:11:52]
+  terc: yeah
+[07/08/2021 23:11:53]
+  superhands dropped Thermal Alien Artifact
+[07/08/2021 23:11:53]
+  sylv equipped Pomegrenade
+[07/08/2021 23:11:53]
+  sylv equipped Pomegrenade
+[07/08/2021 23:11:55]
+  tomacatx1 equipped Aluminum
+[07/08/2021 23:11:55]
+  tomacatx1 picked up Aluminum
+[07/08/2021 23:11:56]
+  terc: absolutely not sure
+[07/08/2021 23:11:58]
+  sylv dropped Pomegrenade
+[07/08/2021 23:11:58]
+  tomacatx1 placed Aluminum in Material Storage Locker (ID: 958)
+[07/08/2021 23:12:01]
+  tomacatx1 equipped Carbon
+[07/08/2021 23:12:01]
+  tomacatx1 picked up Carbon
+[07/08/2021 23:12:02]
+  superhands: nice it just drops
+[07/08/2021 23:12:11]
+  sylv: eat shit
+[07/08/2021 23:12:12]
+  sylv threw Poop
+[07/08/2021 23:12:13]
+  terc: its right here
+[07/08/2021 23:12:16]
+  tomacatx1 equipped Carbon
+[07/08/2021 23:12:16]
+  tomacatx1 picked up Carbon
+[07/08/2021 23:12:19]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 23:12:19]
+  Carson Molina equipped Wrench
+[07/08/2021 23:12:21]
+  Husk has died (Cause of death: Gunshot wound)
+[07/08/2021 23:12:21]
+  superhands placed Gauss Rifle Magazine in Toolbelt (ID: 7463)
+[07/08/2021 23:12:21]
+  superhands removed Gauss Rifle Magazine from Toolbelt (ID: 7463)
+[07/08/2021 23:12:21]
+  superhands placed Gauss Rifle Magazine in Gauss Rifle (ID: 7475)
+[07/08/2021 23:12:22]
+  Carson Molina started repairing Oxygen Generator
+[07/08/2021 23:12:23]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:12:23]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:12:23]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:12:23]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:12:23]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:12:23]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:12:23]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:12:23]
+  tomacatx1 placed Carbon in Tactical Backpack (ID: 7212)
+[07/08/2021 23:12:23]
+  Husk attacked by superhands. Gunshot wound: 70 Bleeding: 45
+[07/08/2021 23:12:24]
+  Husk has died (Cause of death: Gunshot wound)
+[07/08/2021 23:12:25]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 958)
+[07/08/2021 23:12:25]
+  tomacatx1 placed Carbon in Material Storage Locker (ID: 958)
+[07/08/2021 23:12:28]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:29]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:30]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[07/08/2021 23:12:30]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[07/08/2021 23:12:30]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[07/08/2021 23:12:30]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[07/08/2021 23:12:32]
+  sylv picked up Salt Bulb
+[07/08/2021 23:12:32]
+  sylv picked up Salt Bulb
+[07/08/2021 23:12:33]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:33]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:33]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:33]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:33]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:33]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:33]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:33]
+  tomacatx1 placed Carbon in Fabricator (ID: 229)
+[07/08/2021 23:12:34]
+  tomacatx1 started fabricating Crate of Carbon in Fabricator
+[07/08/2021 23:12:34]
+  superhands: you grab it
+[07/08/2021 23:12:36]
+  terc: i dont thin
+[07/08/2021 23:12:38]
+  terc unequipped 'Beast' SSL (Flashlight)
+[07/08/2021 23:12:38]
+  terc equipped Thermal Alien Artifact
+[07/08/2021 23:12:42]
+  tomacatx1 equipped Crate of Carbon
+[07/08/2021 23:12:42]
+  tomacatx1 picked up Crate of Carbon
+[07/08/2021 23:12:42]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 23:12:42]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 23:12:42]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 23:12:42]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 23:12:42]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 23:12:43]
+  tomacatx1 started fabricating Crate of Carbon in Fabricator
+[07/08/2021 23:12:43]
+  sylv activated Deconstructor
+[07/08/2021 23:12:59]
+  tomacatx1 placed Crate of Carbon in Material Storage Locker (ID: 958)
+[07/08/2021 23:13:12]
+  Carson Molina unequipped Wrench
+[07/08/2021 23:13:12]
+  Carson Molina equipped Screwdriver
+[07/08/2021 23:13:12]
+  tomacatx1 dropped FPGA Circuit
+[07/08/2021 23:13:17]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:13:17]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:13:28]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:13:28]
+  tomacatx1 placed Battery Cell in Battery (ID: 485)
+[07/08/2021 23:13:41]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:13:41]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:13:45]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 23:13:50]
+  tomacatx1 placed 9mm Magazine (High-Capacity) in Tactical Backpack (ID: 7212)
+[07/08/2021 23:13:50]
+  tomacatx1 removed Physicorium 9mm Magazine from Tactical Backpack (ID: 7212)
+[07/08/2021 23:13:50]
+  tomacatx1 placed Physicorium 9mm Magazine in Handgun (Flashlight) (ID: 3664)
+[07/08/2021 23:13:51]
+  terc: its a thermal artifact
+[07/08/2021 23:13:53]
+  Mission info: Artifact collected - The artifact is now on board. Navigate the submarine out of the cavern to claim the reward.
+[07/08/2021 23:13:54]
+  tomacatx1 placed 9mm Magazine (High-Capacity) in Secure Steel Cabinet (ID: 215)
+[07/08/2021 23:13:56]
+  terc placed Thermal Alien Artifact in Artifact Container (ID: 2706)
+[07/08/2021 23:13:57]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 23:13:57]
+  Carson Molina equipped Wrench
+[07/08/2021 23:13:59]
+  Carson Molina started repairing Deconstructor
+[07/08/2021 23:14:01]
+  terc: i put it in the holder
+[07/08/2021 23:14:03]
+  Carson Molina unequipped Wrench
+[07/08/2021 23:14:03]
+  Carson Molina equipped Screwdriver
+[07/08/2021 23:14:10]
+  terc placed Military Mk-II Hardsuit (Bandit) in Diving Suit Locker (ID: 1728)
+[07/08/2021 23:14:13]
+  tomacatx1 used item Bandage
+[07/08/2021 23:14:13]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:14:13]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:14:14]
+  sylv: oh my god
+[07/08/2021 23:14:16]
+  tomacatx1 used item Bandage
+[07/08/2021 23:14:18]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:14:18]
+  tomacatx1 used item Bandage
+[07/08/2021 23:14:22]
+  terc used item Bandage
+[07/08/2021 23:14:26]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:14:26]
+  Carson Molina started repairing Battery
+[07/08/2021 23:14:29]
+  terc used item Bandage
+[07/08/2021 23:14:32]
+  tomacatx1 removed Military Mk-II Hardsuit (Bandit) from superhands
+[07/08/2021 23:14:33]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:14:38]
+  terc picked up Military Mk-II Hardsuit (Bandit)
+[07/08/2021 23:14:42]
+  terc placed Oxygen Tank in Tactical Backpack (ID: 7280)
+[07/08/2021 23:14:42]
+  terc removed Oxygen Tank from Tactical Backpack (ID: 7280)
+[07/08/2021 23:14:42]
+  terc placed Oxygen Tank in Military Mk-II Hardsuit (Bandit) (ID: 3582)
+[07/08/2021 23:14:45]
+  terc placed Military Mk-II Hardsuit (Bandit) in Diving Suit Locker (ID: 2347)
+[07/08/2021 23:14:45]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 23:14:54]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 23:14:58]
+  sylv used item Bandage
+[07/08/2021 23:15:01]
+  sylv used item Morphine
+[07/08/2021 23:15:04]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:15:04]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:15:06]
+  terc picked up Biofoam Sprayer
+[07/08/2021 23:15:07]
+  terc equipped Biofoam Sprayer
+[07/08/2021 23:15:10]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:15:17]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:15:17]
+  Carson Molina started repairing Battery
+[07/08/2021 23:15:19]
+  sylv: its alive
+[07/08/2021 23:15:22]
+  terc placed Biofoam Sprayer in Large Steel Cabinet (ID: 292)
+[07/08/2021 23:15:32]
+  terc: it was
+[07/08/2021 23:15:34]
+  sylv used item Bandage
+[07/08/2021 23:15:38]
+  superhands: Assume? you spawned in everything
+[07/08/2021 23:15:44]
+  sylv used item Bandage
+[07/08/2021 23:15:58]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:15:58]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:16:01]
+  sylv used item Bandage
+[07/08/2021 23:16:05]
+  sylv used item Bandage
+[07/08/2021 23:16:06]
+  terc: well yeah it was pretty fun
+[07/08/2021 23:16:10]
+  Carson Molina started repairing Battery Assembly
+[07/08/2021 23:16:16]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:16:17]
+  tomacatx1 picked up Incendium Fuel Tank
+[07/08/2021 23:16:17]
+  tomacatx1 picked up Incendium Fuel Tank
+[07/08/2021 23:16:17]
+  sylv: oh my god
+[07/08/2021 23:16:22]
+  sylv used item Morphine
+[07/08/2021 23:16:23]
+  sylv used item Morphine
+[07/08/2021 23:16:23]
+  Carson Molina started repairing Battery
+[07/08/2021 23:16:26]
+  sylv used item Naloxone
+[07/08/2021 23:16:28]
+  superhands placed Underwater Scooter in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:16:29]
+  superhands picked up Screwdriver
+[07/08/2021 23:16:30]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:16:30]
+  superhands placed Handheld Sonar in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:16:31]
+  superhands picked up Wrench
+[07/08/2021 23:16:37]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:16:37]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:16:42]
+  tomacatx1 placed Incendium Fuel Tank in Material Storage Locker (ID: 1695)
+[07/08/2021 23:16:42]
+  tomacatx1 placed Incendium Fuel Tank in Material Storage Locker (ID: 1695)
+[07/08/2021 23:16:43]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 23:16:46]
+  tomacatx1 placed Welding Fuel Tank in Material Storage Locker (ID: 1695)
+[07/08/2021 23:16:46]
+  tomacatx1 removed Welding Fuel Tank from Material Storage Locker (ID: 1695)
+[07/08/2021 23:16:46]
+  tomacatx1 placed Welding Fuel Tank in Welding Tool (ID: 3633)
+[07/08/2021 23:16:48]
+  tomacatx1 placed Welding Fuel Tank in Storage Container (ID: 3508)
+[07/08/2021 23:16:48]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:16:48]
+  superhands placed Long Range Radio in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:16:50]
+  terc: im still badly burnt
+[07/08/2021 23:16:51]
+  superhands picked up Gauss Rifle Magazine
+[07/08/2021 23:16:52]
+  terc placed 30mm-FC Clip in 'Beast' SSL (Flashlight) (ID: 7342)
+[07/08/2021 23:16:54]
+  superhands picked up Welding Tool
+[07/08/2021 23:16:54]
+  superhands dropped Ancient Weapon
+[07/08/2021 23:16:54]
+  superhands placed Ancient Weapon in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:16:59]
+  sylv: i need to get more badanges duh
+[07/08/2021 23:17:00]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:17:00]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:17:00]
+  tomacatx1 equipped Metal Crate
+[07/08/2021 23:17:02]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 23:17:03]
+  Carson Molina started repairing Navigation Terminal
+[07/08/2021 23:17:03]
+  tomacatx1 dropped Metal Crate
+[07/08/2021 23:17:08]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:17:09]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:17:10]
+  superhands placed Oxygen Tank in Oxygen Generator (ID: 869)
+[07/08/2021 23:17:11]
+  superhands placed Oxygen Tank in Oxygen Generator (ID: 869)
+[07/08/2021 23:17:13]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[07/08/2021 23:17:14]
+  sylv: i just used them all on those 2
+[07/08/2021 23:17:14]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:17:16]
+  sylv equipped Storage Container
+[07/08/2021 23:17:16]
+  sylv picked up Storage Container
+[07/08/2021 23:17:17]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:17]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:17]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:17]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:17]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:17]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:17]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:17]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:18]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:17:18]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:17:19]
+  sylv placed Storage Container in Medicine Cabinet (ID: 280)
+[07/08/2021 23:17:20]
+  sylv picked up Bandage
+[07/08/2021 23:17:20]
+  sylv picked up Bandage
+[07/08/2021 23:17:20]
+  sylv picked up Bandage
+[07/08/2021 23:17:20]
+  sylv picked up Bandage
+[07/08/2021 23:17:20]
+  sylv picked up Bandage
+[07/08/2021 23:17:20]
+  sylv picked up Bandage
+[07/08/2021 23:17:20]
+  sylv picked up Bandage
+[07/08/2021 23:17:20]
+  sylv picked up Bandage
+[07/08/2021 23:17:20]
+  superhands placed Oxygen Tank in Oxygen Generator (ID: 869)
+[07/08/2021 23:17:28]
+  Carson Molina started repairing Junction Box
+[07/08/2021 23:17:32]
+  superhands dropped Oxygen Tank
+[07/08/2021 23:17:32]
+  superhands dropped Oxygen Tank
+[07/08/2021 23:17:32]
+  superhands dropped Oxygen Tank
+[07/08/2021 23:17:32]
+  superhands dropped Oxygen Tank
+[07/08/2021 23:17:33]
+  sylv used item Bandage
+[07/08/2021 23:17:35]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:17:35]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:17:35]
+  sylv used item Bandage
+[07/08/2021 23:17:39]
+  superhands picked up Oxygen Tank
+[07/08/2021 23:17:39]
+  sylv used item Bandage
+[07/08/2021 23:17:45]
+  sylv used item Bandage
+[07/08/2021 23:17:48]
+  sylv used item Bandage
+[07/08/2021 23:17:49]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 23:17:55]
+  sylv: out
+[07/08/2021 23:17:57]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 23:18:04]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:18:04]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 23:18:06]
+  superhands placed Oxygen Tank in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:18:06]
+  superhands placed Oxygen Tank in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:18:06]
+  superhands placed Oxygen Tank in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:18:06]
+  superhands placed Oxygen Tank in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:18:06]
+  superhands placed Oxygen Tank in Secure Steel Cabinet (ID: 1161)
+[07/08/2021 23:18:11]
+  sylv: ive nit played ss13 in ages but yeah
+[07/08/2021 23:18:16]
+  superhands placed Gauss Rifle Magazine in Deconstructor (ID: 230)
+[07/08/2021 23:18:16]
+  superhands activated Deconstructor
+[07/08/2021 23:18:22]
+  terc: opiate overdose
+[07/08/2021 23:18:24]
+  terc: my face when
+[07/08/2021 23:18:28]
+  superhands picked up Steel Bar
+[07/08/2021 23:18:38]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:18:38]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 23:18:39]
+  terc: if i hadnt
+[07/08/2021 23:18:40]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:18:44]
+  terc: me and finn wouldnt have come back alive
+[07/08/2021 23:18:47]
+  terc: probably
+[07/08/2021 23:18:49]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 23:18:54]
+  sylv: and ur dying anyway
+[07/08/2021 23:19:00]
+  Ending the round...
+[07/08/2021 23:19:00]
+  Round ended.
+[07/08/2021 23:19:00]
+  Client "superhands" started the round.
+[07/08/2021 23:19:01]
+  Starting a new round...
+[07/08/2021 23:19:42]
+  Game mode: Campaign
+[07/08/2021 23:19:42]
+  Submarine: ECS. Ordovicia V2 re-9 (CMP)
+[07/08/2021 23:19:42]
+  Level seed: VortaAutonoe Linea
+[07/08/2021 23:19:42]
+  Carson Molina equipped Screwdriver
+[07/08/2021 23:19:42]
+  Round started.
+[07/08/2021 23:19:42]
+  Carson Molina: Need a medic in engine room!
+[07/08/2021 23:19:42]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 23:19:42]
+  Carson Molina: Can't find the tools to do the repairs!

@@ -1,0 +1,1602 @@
+﻿[02/08/2021 19:43:23]
+  tomacatx1 removed Abyss Diving Suit from Fabricator (ID: 229)
+[02/08/2021 19:43:24]
+  tomacatx1 placed Diving Suit in Fabricator (ID: 229)
+[02/08/2021 19:43:24]
+  sylv placed Bandage in Storage Container (ID: 1827)
+[02/08/2021 19:43:24]
+  sylv placed Bandage in Storage Container (ID: 1827)
+[02/08/2021 19:43:25]
+  tomacatx1 started fabricating Abyss Diving Suit in Fabricator
+[02/08/2021 19:43:27]
+  superhands: where the hell is my navy suit
+[02/08/2021 19:43:30]
+  tomacatx1 equipped Abyss Diving Suit
+[02/08/2021 19:43:31]
+  sylv picked up Morphine
+[02/08/2021 19:43:32]
+  sylv started fabricating Morphine in Medical Fabricator
+[02/08/2021 19:43:34]
+  sylv placed Morphine in Medicine Cabinet (ID: 280)
+[02/08/2021 19:43:35]
+  terc: its in
+[02/08/2021 19:43:36]
+  tomacatx1 placed Oxygen Tank in Abyss Diving Suit (ID: 2516)
+[02/08/2021 19:43:36]
+  terc: hold on
+[02/08/2021 19:43:42]
+  superhands equipped Storage Container
+[02/08/2021 19:43:42]
+  superhands picked up Storage Container
+[02/08/2021 19:43:44]
+  superhands placed Storage Container in Shelf (ID: 1575)
+[02/08/2021 19:43:51]
+  sylv picked up Steel Bar
+[02/08/2021 19:43:51]
+  sylv picked up Steel Bar
+[02/08/2021 19:43:53]
+  tomacatx1 placed Abyss Diving Suit in Diving Suit Locker (ID: 1090)
+[02/08/2021 19:43:53]
+  terc: its in da armorus
+[02/08/2021 19:43:53]
+  superhands equipped Storage Container
+[02/08/2021 19:43:53]
+  superhands picked up Storage Container
+[02/08/2021 19:43:55]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 19:43:55]
+  terc: armrmy
+[02/08/2021 19:43:59]
+  superhands placed Storage Container in Cabinets (ID: 1155)
+[02/08/2021 19:43:59]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:43:59]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:44:04]
+  tomacatx1 placed Reinforced Oxygen Tank in Large Steel Cabinet (ID: 373)
+[02/08/2021 19:44:05]
+  superhands: i just look there wth
+[02/08/2021 19:44:06]
+  tomacatx1 picked up Reinforced Oxygen Tank
+[02/08/2021 19:44:07]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 19:44:19]
+  superhands picked up Storage Container
+[02/08/2021 19:44:19]
+  Carson Molina started repairing Battery
+[02/08/2021 19:44:24]
+  superhands: yeah its not there
+[02/08/2021 19:44:25]
+  sylv picked up Morphine
+[02/08/2021 19:44:26]
+  sylv started fabricating Morphine in Medical Fabricator
+[02/08/2021 19:44:28]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 19:44:28]
+  sylv placed Welding Tool in Medicine Cabinet (ID: 280)
+[02/08/2021 19:44:29]
+  superhands: great my seal suit is missing too
+[02/08/2021 19:44:29]
+  sylv placed Morphine in Medicine Cabinet (ID: 280)
+[02/08/2021 19:44:31]
+  sylv picked up Welding Tool
+[02/08/2021 19:44:32]
+  superhands placed Storage Container in Large Steel Cabinet (ID: 213)
+[02/08/2021 19:44:32]
+  terc: we dont have
+[02/08/2021 19:44:32]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:44:36]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:44:36]
+  Carson Molina equipped Wrench
+[02/08/2021 19:44:38]
+  terc: but
+[02/08/2021 19:44:39]
+  terc: we dont have
+[02/08/2021 19:44:42]
+  terc: rhe storagr
+[02/08/2021 19:44:45]
+  terc: the storeage for it
+[02/08/2021 19:44:46]
+  tomacatx1 equipped Storage Container
+[02/08/2021 19:44:46]
+  tomacatx1 picked up Storage Container
+[02/08/2021 19:44:46]
+  terc started fabricating Abyss Diving Suit in Fabricator
+[02/08/2021 19:44:49]
+  tomacatx1 picked up Marine Uniform
+[02/08/2021 19:44:50]
+  sylv: i will never take off my shearclaw suit
+[02/08/2021 19:44:51]
+  tomacatx1 placed Storage Container in Large Steel Cabinet (ID: 213)
+[02/08/2021 19:45:01]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:45:01]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:45:03]
+  superhands: engine
+[02/08/2021 19:45:05]
+  sylv picked up Morphine
+[02/08/2021 19:45:07]
+  superhands: no its the seal uniform
+[02/08/2021 19:45:07]
+  sylv placed Morphine in Medicine Cabinet (ID: 280)
+[02/08/2021 19:45:08]
+  terc: hey sylv
+[02/08/2021 19:45:09]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:45:11]
+  tomacatx1 placed Marine Uniform in Storage Container (ID: 1934)
+[02/08/2021 19:45:12]
+  superhands equipped Storage Container
+[02/08/2021 19:45:12]
+  superhands picked up Storage Container
+[02/08/2021 19:45:13]
+  superhands placed Storage Container in Shelf (ID: 1448)
+[02/08/2021 19:45:14]
+  superhands equipped Storage Container
+[02/08/2021 19:45:14]
+  superhands picked up Storage Container
+[02/08/2021 19:45:16]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:45:16]
+  terc: whats the crush depth for that thing anyways
+[02/08/2021 19:45:17]
+  tomacatx1 equipped Secure Metal Crate
+[02/08/2021 19:45:17]
+  tomacatx1 picked up Secure Metal Crate
+[02/08/2021 19:45:17]
+  superhands placed Storage Container in Shelf (ID: 1448)
+[02/08/2021 19:45:18]
+  tomacatx1 placed Secure Metal Crate in Tall Crate Rack (ID: 677)
+[02/08/2021 19:45:19]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 19:45:21]
+  superhands equipped Storage Container
+[02/08/2021 19:45:21]
+  superhands picked up Storage Container
+[02/08/2021 19:45:23]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:45:23]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 19:45:23]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:45:23]
+  Carson Molina equipped Wrench
+[02/08/2021 19:45:24]
+  Carson Molina: At times I feel like we're just puppets on a string.
+[02/08/2021 19:45:24]
+  superhands placed Storage Container in Material Storage Locker (ID: 1495)
+[02/08/2021 19:45:25]
+  superhands equipped Storage Container
+[02/08/2021 19:45:25]
+  superhands picked up Storage Container
+[02/08/2021 19:45:26]
+  superhands placed Storage Container in Material Storage Locker (ID: 1495)
+[02/08/2021 19:45:29]
+  Carson Molina: Dancing and dying for the amusement of the thing beyond the curtain.
+[02/08/2021 19:45:29]
+  tomacatx1 picked up Storage Container
+[02/08/2021 19:45:32]
+  terc: crafted
+[02/08/2021 19:45:33]
+  Carson Molina started repairing Fabricator
+[02/08/2021 19:45:37]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:45:37]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:45:38]
+  tomacatx1 placed Storage Container in Cabinets (ID: 415)
+[02/08/2021 19:45:39]
+  sylv started fabricating Morphine in Medical Fabricator
+[02/08/2021 19:45:45]
+  terc: im gonna go wash my hands
+[02/08/2021 19:45:46]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 19:45:49]
+  tomacatx1 placed Reinforced Oxygen Tank in Abyss Diving Suit (ID: 2435)
+[02/08/2021 19:45:50]
+  terc: cringe compilation.
+[02/08/2021 19:45:51]
+  tomacatx1 picked up Abyss Diving Suit
+[02/08/2021 19:45:53]
+  tomacatx1 dropped Abyss Diving Suit
+[02/08/2021 19:45:54]
+  tomacatx1 equipped Abyss Diving Suit
+[02/08/2021 19:45:56]
+  superhands picked up Physicorium Bar
+[02/08/2021 19:45:58]
+  superhands picked up Physicorium Bar
+[02/08/2021 19:46:00]
+  superhands: i am now
+[02/08/2021 19:46:05]
+  superhands placed Physicorium Bar in Fabricator (ID: 229)
+[02/08/2021 19:46:05]
+  superhands placed Physicorium Bar in Fabricator (ID: 229)
+[02/08/2021 19:46:05]
+  tomacatx1 placed Abyss Diving Suit in Diving Suit Locker (ID: 2360)
+[02/08/2021 19:46:08]
+  sylv picked up Morphine
+[02/08/2021 19:46:09]
+  superhands picked up Ballistic Fiber
+[02/08/2021 19:46:11]
+  sylv placed Morphine in Medicine Cabinet (ID: 280)
+[02/08/2021 19:46:11]
+  superhands placed Ballistic Fiber in Fabricator (ID: 229)
+[02/08/2021 19:46:14]
+  sylv started fabricating Morphine in Medical Fabricator
+[02/08/2021 19:46:20]
+  sylv: 4000
+[02/08/2021 19:46:23]
+  sylv: cring
+[02/08/2021 19:46:25]
+  superhands picked up Plastic
+[02/08/2021 19:46:33]
+  superhands placed Plastic in Fabricator (ID: 229)
+[02/08/2021 19:46:34]
+  sylv picked up Morphine
+[02/08/2021 19:46:36]
+  superhands picked up Titanium
+[02/08/2021 19:46:36]
+  sylv started fabricating Morphine in Medical Fabricator
+[02/08/2021 19:46:38]
+  sylv placed Morphine in Medicine Cabinet (ID: 280)
+[02/08/2021 19:46:38]
+  superhands placed Titanium in Fabricator (ID: 229)
+[02/08/2021 19:46:40]
+  superhands started fabricating Ballistic Fiber in Fabricator
+[02/08/2021 19:46:41]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:46:41]
+  Carson Molina equipped Wrench
+[02/08/2021 19:46:44]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:46:44]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:46:48]
+  superhands: gettin me suit ready
+[02/08/2021 19:46:51]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 19:46:55]
+  sylv picked up Morphine
+[02/08/2021 19:46:56]
+  sylv started fabricating Morphine in Medical Fabricator
+[02/08/2021 19:46:58]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:46:59]
+  sylv placed Morphine in Medicine Cabinet (ID: 280)
+[02/08/2021 19:47:01]
+  Carson Molina started repairing Battery
+[02/08/2021 19:47:02]
+  terc: back
+[02/08/2021 19:47:04]
+  terc: what suit
+[02/08/2021 19:47:05]
+  terc: sylv
+[02/08/2021 19:47:06]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:47:06]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:47:08]
+  sylv: what
+[02/08/2021 19:47:08]
+  superhands: terc can u craft this in a moment
+[02/08/2021 19:47:09]
+  terc: whats the crushdepth
+[02/08/2021 19:47:10]
+  terc: for your suit
+[02/08/2021 19:47:12]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:47:12]
+  Carson Molina equipped Wrench
+[02/08/2021 19:47:13]
+  sylv: 4000
+[02/08/2021 19:47:15]
+  superhands placed Ballistic Fiber in Fabricator (ID: 229)
+[02/08/2021 19:47:16]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:47:16]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:47:19]
+  superhands picked up Storage Container
+[02/08/2021 19:47:19]
+  terc: thats uhhhh
+[02/08/2021 19:47:20]
+  superhands picked up Commando's Fatigues
+[02/08/2021 19:47:21]
+  superhands placed Storage Container in Cabinets (ID: 1155)
+[02/08/2021 19:47:23]
+  sylv: i know
+[02/08/2021 19:47:24]
+  terc: i dont think thats gonna be good enough sylv
+[02/08/2021 19:47:25]
+  superhands placed Commando's Fatigues in Fabricator (ID: 229)
+[02/08/2021 19:47:28]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 19:47:37]
+  superhands: terc can you come craft SEAL uniform
+[02/08/2021 19:47:50]
+  sylv picked up Morphine
+[02/08/2021 19:47:51]
+  sylv started fabricating Morphine in Medical Fabricator
+[02/08/2021 19:47:54]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 19:47:55]
+  terc started fabricating SEAL Uniform in Fabricator
+[02/08/2021 19:47:56]
+  sylv placed Morphine in Medicine Cabinet (ID: 280)
+[02/08/2021 19:47:57]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:47:57]
+  Carson Molina equipped Wrench
+[02/08/2021 19:48:00]
+  superhands: thank you
+[02/08/2021 19:48:02]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:48:02]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 19:48:02]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:48:02]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:48:05]
+  tomacatx1 picked up Syringe Gun
+[02/08/2021 19:48:07]
+  superhands equipped Duffel Bag
+[02/08/2021 19:48:07]
+  superhands picked up Duffel Bag
+[02/08/2021 19:48:08]
+  tomacatx1 placed Syringe Gun in Cabinets (ID: 284)
+[02/08/2021 19:48:09]
+  Carson Molina started repairing Battery
+[02/08/2021 19:48:09]
+  superhands placed Duffel Bag in Tall Crate Rack (ID: 859)
+[02/08/2021 19:48:10]
+  terc: whenever you tell me to craft something i just feel an urge to say something racially charged
+[02/08/2021 19:48:10]
+  sylv picked up Morphine
+[02/08/2021 19:48:14]
+  sylv placed Morphine in Medicine Cabinet (ID: 280)
+[02/08/2021 19:48:21]
+  superhands picked up SEAL Uniform
+[02/08/2021 19:48:21]
+  sylv picked up Syringe Gun
+[02/08/2021 19:48:23]
+  sylv placed Syringe Gun in Cabinets (ID: 284)
+[02/08/2021 19:48:26]
+  terc: sigh
+[02/08/2021 19:48:39]
+  terc: hold on
+[02/08/2021 19:48:40]
+  superhands: its my work clothes not my drip clothes
+[02/08/2021 19:48:41]
+  sylv: i could probably kill the entire sub 4 times over with all my darts
+[02/08/2021 19:48:42]
+  terc: im gonna uhhhh
+[02/08/2021 19:48:45]
+  terc: test your suit
+[02/08/2021 19:48:50]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:48:51]
+  superhands placed VIP Outfit in Secure Steel Cabinet (ID: 1169)
+[02/08/2021 19:48:51]
+  terc placed Physicorium 5.56x45mm Drum in Tactical Backpack (ID: 7681)
+[02/08/2021 19:48:51]
+  terc removed 5.56x45mm Drum from Tactical Backpack (ID: 7681)
+[02/08/2021 19:48:51]
+  terc placed 5.56x45mm Drum in Drum LMG (ID: 7731)
+[02/08/2021 19:48:53]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:48:53]
+  Carson Molina equipped Wrench
+[02/08/2021 19:48:55]
+  superhands attacked by terc. Bleeding: 12.45 Gunshot wound: 2.64
+[02/08/2021 19:48:59]
+  terc: cool
+[02/08/2021 19:48:59]
+  sylv picked up Raptor Bane Extract
+[02/08/2021 19:49:02]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 19:49:02]
+  sylv picked up Raptor Bane Extract
+[02/08/2021 19:49:03]
+  terc placed 5.56x45mm Drum in Tactical Backpack (ID: 7681)
+[02/08/2021 19:49:03]
+  terc removed Physicorium 5.56x45mm Drum from Tactical Backpack (ID: 7681)
+[02/08/2021 19:49:03]
+  terc placed Physicorium 5.56x45mm Drum in Drum LMG (ID: 7731)
+[02/08/2021 19:49:05]
+  sylv placed Raptor Bane Extract in Medical Fabricator (ID: 281)
+[02/08/2021 19:49:05]
+  sylv placed Raptor Bane Extract in Medical Fabricator (ID: 281)
+[02/08/2021 19:49:06]
+  sylv placed Steel Bar in Medical Fabricator (ID: 281)
+[02/08/2021 19:49:06]
+  sylv placed Steel Bar in Medical Fabricator (ID: 281)
+[02/08/2021 19:49:10]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:49:10]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:49:12]
+  sylv started fabricating Dart (Raptorbane) in Medical Fabricator
+[02/08/2021 19:49:12]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:49:12]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:49:13]
+  superhands: AAAAAAAAAAAAAAAAAAAAAAA
+[02/08/2021 19:49:19]
+  sylv picked up Biofoam Sprayer
+[02/08/2021 19:49:20]
+  sylv equipped Biofoam Sprayer
+[02/08/2021 19:49:22]
+  superhands: (i am dying)
+[02/08/2021 19:49:26]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:49:27]
+  terc: black suit
+[02/08/2021 19:49:29]
+  terc: or red suit
+[02/08/2021 19:49:31]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:49:31]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:49:31]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:49:31]
+  Carson Molina equipped Wrench
+[02/08/2021 19:49:33]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:49:33]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:49:34]
+  terc: what to wear
+[02/08/2021 19:49:35]
+  sylv picked up Plastiseal
+[02/08/2021 19:49:35]
+  sylv picked up Plastiseal
+[02/08/2021 19:49:35]
+  sylv picked up Plastiseal
+[02/08/2021 19:49:35]
+  sylv picked up Plastiseal
+[02/08/2021 19:49:35]
+  sylv picked up Plastiseal
+[02/08/2021 19:49:35]
+  sylv picked up Plastiseal
+[02/08/2021 19:49:35]
+  sylv picked up Plastiseal
+[02/08/2021 19:49:35]
+  sylv picked up Plastiseal
+[02/08/2021 19:49:37]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:49:40]
+  sylv used item Plastiseal
+[02/08/2021 19:49:42]
+  terc equipped Secure Metal Crate
+[02/08/2021 19:49:42]
+  terc picked up Secure Metal Crate
+[02/08/2021 19:49:44]
+  terc placed Secure Metal Crate in Tall Crate Rack (ID: 677)
+[02/08/2021 19:49:46]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 19:49:48]
+  sylv used item Splinting Kit
+[02/08/2021 19:49:50]
+  terc placed Alien Power Cell in Secure Steel Cabinet (ID: 180)
+[02/08/2021 19:49:54]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:49:57]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:50:02]
+  terc placed Alien Rifle Cell in Secure Steel Cabinet (ID: 180)
+[02/08/2021 19:50:05]
+  sylv: ur good
+[02/08/2021 19:50:06]
+  superhands: thank you mr buttermusli
+[02/08/2021 19:50:10]
+  sylv picked up Dart (Raptorbane)
+[02/08/2021 19:50:12]
+  sylv started fabricating Dart (Raptorbane) in Medical Fabricator
+[02/08/2021 19:50:12]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 19:50:16]
+  superhands placed Screwdriver in Secure Steel Cabinet (ID: 1169)
+[02/08/2021 19:50:17]
+  superhands placed Wrench in Secure Steel Cabinet (ID: 1169)
+[02/08/2021 19:50:18]
+  superhands placed Welding Tool in Secure Steel Cabinet (ID: 1169)
+[02/08/2021 19:50:21]
+  sylv picked up Dart (Raptorbane)
+[02/08/2021 19:50:21]
+  sylv started fabricating Dart (Raptorbane) in Medical Fabricator
+[02/08/2021 19:50:22]
+  superhands picked up Underwater Scooter
+[02/08/2021 19:50:26]
+  sylv picked up Dart (Raptorbane)
+[02/08/2021 19:50:26]
+  superhands picked up Advanced Sonar Beacon
+[02/08/2021 19:50:26]
+  sylv started fabricating Dart (Raptorbane) in Medical Fabricator
+[02/08/2021 19:50:28]
+  tomacatx1 picked up Explosive Harpoon
+[02/08/2021 19:50:28]
+  tomacatx1 picked up Explosive Harpoon
+[02/08/2021 19:50:29]
+  superhands picked up Ancient Weapon
+[02/08/2021 19:50:31]
+  sylv picked up Dart (Raptorbane)
+[02/08/2021 19:50:39]
+  superhands: alright good to go
+[02/08/2021 19:50:40]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 19:50:41]
+  tomacatx1 placed Explosive Harpoon in Cabinets (ID: 284)
+[02/08/2021 19:50:44]
+  tomacatx1 placed Explosive Harpoon in Cabinets (ID: 284)
+[02/08/2021 19:50:46]
+  superhands equipped Utility Mk-I Hardsuit
+[02/08/2021 19:50:46]
+  superhands picked up Utility Mk-I Hardsuit
+[02/08/2021 19:50:47]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:50:48]
+  superhands picked up Oxygen Tank
+[02/08/2021 19:50:49]
+  superhands picked up Oxygen Tank
+[02/08/2021 19:50:49]
+  superhands picked up Oxygen Tank
+[02/08/2021 19:50:51]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:50:51]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 19:50:51]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:50:51]
+  Carson Molina equipped Wrench
+[02/08/2021 19:50:54]
+  terc equipped Military Mk-II Hardsuit
+[02/08/2021 19:50:54]
+  terc picked up Military Mk-II Hardsuit
+[02/08/2021 19:51:01]
+  terc picked up Reinforced Oxygen Tank
+[02/08/2021 19:51:01]
+  terc picked up Reinforced Oxygen Tank
+[02/08/2021 19:51:01]
+  superhands equipped Advanced Sonar Beacon
+[02/08/2021 19:51:04]
+  terc picked up Reinforced Oxygen Tank
+[02/08/2021 19:51:15]
+  sylv placed Shearclaw Helmet in Large Steel Cabinet (ID: 291)
+[02/08/2021 19:51:15]
+  sylv removed Micro Dart Gun from Large Steel Cabinet (ID: 291)
+[02/08/2021 19:51:15]
+  superhands equipped Crate Transport Mule
+[02/08/2021 19:51:16]
+  terc placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 1086)
+[02/08/2021 19:51:16]
+  terc removed Oxygen Tank from Oxygen Tank Shelf (ID: 1086)
+[02/08/2021 19:51:16]
+  terc placed Oxygen Tank in Plasma Cutter (ID: 7745)
+[02/08/2021 19:51:16]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:51:16]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:51:21]
+  terc placed Oxygen Tank in Oxygen Tank Shelf (ID: 1086)
+[02/08/2021 19:51:21]
+  terc removed Reinforced Oxygen Tank from Oxygen Tank Shelf (ID: 1086)
+[02/08/2021 19:51:21]
+  terc placed Reinforced Oxygen Tank in Plasma Cutter (ID: 7745)
+[02/08/2021 19:51:22]
+  superhands dropped Crate Transport Mule
+[02/08/2021 19:51:24]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:51:26]
+  tomacatx1 equipped Metal Crate
+[02/08/2021 19:51:26]
+  tomacatx1 picked up Metal Crate
+[02/08/2021 19:51:28]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:51:28]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:51:28]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:51:28]
+  Carson Molina equipped Wrench
+[02/08/2021 19:51:29]
+  sylv placed Dart (Paralyzant) in Large Steel Cabinet (ID: 291)
+[02/08/2021 19:51:31]
+  sylv placed Dart (Raptorbane) in Micro Dart Gun (ID: 3323)
+[02/08/2021 19:51:32]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:51:32]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:51:39]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:51:45]
+  tomacatx1 placed Metal Crate in Crate Transport Mule (ID: 3166)
+[02/08/2021 19:51:45]
+  tomacatx1 equipped Crate Transport Mule
+[02/08/2021 19:51:47]
+  Carson Molina started repairing Battery
+[02/08/2021 19:51:47]
+  tomacatx1 dropped Crate Transport Mule
+[02/08/2021 19:51:49]
+  superhands equipped Crate Transport Mule
+[02/08/2021 19:52:02]
+  terc was kicked because they were expecting a very old network event (29301 (created 10.1 s ago, 10.07 s older than last event sent to anyone) Events queued: 828, last sent to all: 29300
+[02/08/2021 19:52:02]
+  terc has left the server. Reason: ExcessiveDesyncOldEventYou have been disconnected because your client was expecting a very old network event.
+[02/08/2021 19:52:02]
+  terc has left the server.
+[02/08/2021 19:52:04]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:52:06]
+  superhands: he fucking died
+[02/08/2021 19:52:08]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:52:08]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 19:52:08]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:52:08]
+  Carson Molina equipped Wrench
+[02/08/2021 19:52:13]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:52:13]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:52:14]
+  sylv: uhhhh medical-assigned raptorbane gun
+[02/08/2021 19:52:20]
+  superhands: were in airlock
+[02/08/2021 19:52:22]
+  superhands: imma go piss
+[02/08/2021 19:52:23]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 19:52:25]
+  sylv placed Micro Dart Gun in Supplies Cabinet (ID: 665)
+[02/08/2021 19:52:26]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:52:26]
+  Carson Molina equipped Wrench
+[02/08/2021 19:52:28]
+  sylv placed Dart (Raptorbane) in Supplies Cabinet (ID: 665)
+[02/08/2021 19:52:28]
+  sylv placed Dart (Raptorbane) in Supplies Cabinet (ID: 665)
+[02/08/2021 19:52:28]
+  sylv placed Dart (Raptorbane) in Supplies Cabinet (ID: 665)
+[02/08/2021 19:52:30]
+  terc has joined the server.
+[02/08/2021 19:52:30]
+  Saving client permissions
+[02/08/2021 19:52:30]
+  terc was kicked because they were expecting a removed network event (29301, last available is 30620)
+[02/08/2021 19:52:30]
+  terc has left the server. Reason: ExcessiveDesyncRemovedEventYou have been disconnected because your client was expecting a removed network event.
+[02/08/2021 19:52:30]
+  terc has left the server.
+[02/08/2021 19:52:35]
+  Console command "teleport terc" executed by tomacatx1.
+[02/08/2021 19:52:42]
+  sylv: captains now has raptorbane dart gun
+[02/08/2021 19:52:45]
+  sylv: i made too much
+[02/08/2021 19:52:47]
+  terc has joined the server.
+[02/08/2021 19:52:47]
+  Saving client permissions
+[02/08/2021 19:52:47]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:52:47]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:52:52]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:52:52]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:52:52]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:52:52]
+  Carson Molina equipped Wrench
+[02/08/2021 19:52:52]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:52:52]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:52:55]
+  tomacatx1 picked up Micro Dart Gun
+[02/08/2021 19:52:56]
+  terc: i crashd
+[02/08/2021 19:52:56]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:52:57]
+  tomacatx1 placed Dart (Raptorbane) in Supplies Cabinet (ID: 665)
+[02/08/2021 19:52:57]
+  tomacatx1 removed Dart (Raptorbane) from Supplies Cabinet (ID: 665)
+[02/08/2021 19:52:57]
+  tomacatx1 placed Dart (Raptorbane) in Micro Dart Gun (ID: 3323)
+[02/08/2021 19:52:58]
+  tomacatx1 picked up Dart (Raptorbane)
+[02/08/2021 19:52:58]
+  tomacatx1 picked up Dart (Raptorbane)
+[02/08/2021 19:52:58]
+  tomacatx1 picked up Dart (Raptorbane)
+[02/08/2021 19:53:03]
+  tomacatx1 placed Micro Dart Gun in Secure Steel Cabinet (ID: 215)
+[02/08/2021 19:53:04]
+  tomacatx1 placed Dart (Raptorbane) in Secure Steel Cabinet (ID: 215)
+[02/08/2021 19:53:04]
+  tomacatx1 placed Dart (Raptorbane) in Secure Steel Cabinet (ID: 215)
+[02/08/2021 19:53:04]
+  tomacatx1 placed Dart (Raptorbane) in Secure Steel Cabinet (ID: 215)
+[02/08/2021 19:53:16]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 19:53:20]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 19:53:26]
+  superhands: back
+[02/08/2021 19:53:27]
+  tomacatx1 picked up Steel Bar
+[02/08/2021 19:53:27]
+  tomacatx1 picked up Steel Bar
+[02/08/2021 19:53:27]
+  tomacatx1 picked up Steel Bar
+[02/08/2021 19:53:27]
+  tomacatx1 picked up Steel Bar
+[02/08/2021 19:53:27]
+  tomacatx1 picked up Steel Bar
+[02/08/2021 19:53:27]
+  tomacatx1 picked up Steel Bar
+[02/08/2021 19:53:29]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 19:53:29]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 19:53:29]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 19:53:29]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 19:53:29]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 19:53:29]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 19:53:33]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:53:33]
+  Carson Molina equipped Wrench
+[02/08/2021 19:53:33]
+  tomacatx1 started fabricating Storage Container in Fabricator
+[02/08/2021 19:53:35]
+  sylv picked up Velonaceps Calyx Eggs
+[02/08/2021 19:53:35]
+  sylv picked up Velonaceps Calyx Eggs
+[02/08/2021 19:53:35]
+  sylv picked up Velonaceps Calyx Eggs
+[02/08/2021 19:53:37]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:53:37]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 19:53:37]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:53:37]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:53:45]
+  Carson Molina started repairing Battery
+[02/08/2021 19:53:45]
+  superhands dropped Crate Transport Mule
+[02/08/2021 19:53:48]
+  sylv picked up Alien Blood
+[02/08/2021 19:53:48]
+  sylv picked up Alien Blood
+[02/08/2021 19:53:48]
+  sylv picked up Alien Blood
+[02/08/2021 19:53:48]
+  sylv picked up Alien Blood
+[02/08/2021 19:53:48]
+  sylv picked up Alien Blood
+[02/08/2021 19:53:48]
+  sylv picked up Alien Blood
+[02/08/2021 19:53:48]
+  sylv picked up Alien Blood
+[02/08/2021 19:53:48]
+  sylv picked up Alien Blood
+[02/08/2021 19:53:48]
+  sylv dropped Plastiseal
+[02/08/2021 19:53:48]
+  sylv dropped Plastiseal
+[02/08/2021 19:53:48]
+  sylv dropped Plastiseal
+[02/08/2021 19:53:48]
+  sylv dropped Plastiseal
+[02/08/2021 19:53:48]
+  sylv dropped Plastiseal
+[02/08/2021 19:53:48]
+  sylv dropped Plastiseal
+[02/08/2021 19:53:48]
+  sylv dropped Plastiseal
+[02/08/2021 19:53:48]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:48]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:48]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:48]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:48]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:48]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:48]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:49]
+  tomacatx1 equipped Storage Container
+[02/08/2021 19:53:49]
+  tomacatx1 picked up Storage Container
+[02/08/2021 19:53:51]
+  sylv picked up Plastiseal
+[02/08/2021 19:53:51]
+  sylv picked up Plastiseal
+[02/08/2021 19:53:51]
+  sylv picked up Plastiseal
+[02/08/2021 19:53:51]
+  sylv picked up Plastiseal
+[02/08/2021 19:53:51]
+  sylv picked up Plastiseal
+[02/08/2021 19:53:51]
+  sylv picked up Plastiseal
+[02/08/2021 19:53:51]
+  sylv picked up Plastiseal
+[02/08/2021 19:53:51]
+  sylv dropped Alien Blood
+[02/08/2021 19:53:51]
+  sylv dropped Alien Blood
+[02/08/2021 19:53:51]
+  sylv dropped Alien Blood
+[02/08/2021 19:53:51]
+  sylv dropped Alien Blood
+[02/08/2021 19:53:51]
+  sylv dropped Alien Blood
+[02/08/2021 19:53:51]
+  sylv dropped Alien Blood
+[02/08/2021 19:53:51]
+  sylv dropped Alien Blood
+[02/08/2021 19:53:51]
+  sylv dropped Alien Blood
+[02/08/2021 19:53:51]
+  sylv placed Alien Blood in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:51]
+  sylv placed Alien Blood in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:51]
+  sylv placed Alien Blood in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:51]
+  sylv placed Alien Blood in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:51]
+  sylv placed Alien Blood in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:51]
+  sylv placed Alien Blood in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:51]
+  sylv placed Alien Blood in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:51]
+  sylv placed Alien Blood in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:53]
+  sylv equipped Plastiseal
+[02/08/2021 19:53:56]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:56]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:56]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:56]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:56]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:56]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:53:56]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 19:54:03]
+  sylv picked up Broad-spectrum Antibiotics
+[02/08/2021 19:54:03]
+  sylv picked up Broad-spectrum Antibiotics
+[02/08/2021 19:54:03]
+  sylv picked up Broad-spectrum Antibiotics
+[02/08/2021 19:54:03]
+  sylv picked up Broad-spectrum Antibiotics
+[02/08/2021 19:54:05]
+  sylv picked up Stabilozine
+[02/08/2021 19:54:05]
+  sylv picked up Stabilozine
+[02/08/2021 19:54:05]
+  sylv picked up Stabilozine
+[02/08/2021 19:54:05]
+  sylv picked up Stabilozine
+[02/08/2021 19:54:05]
+  sylv picked up Stabilozine
+[02/08/2021 19:54:05]
+  sylv picked up Stabilozine
+[02/08/2021 19:54:05]
+  sylv picked up Stabilozine
+[02/08/2021 19:54:05]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:54:07]
+  terc set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 19:54:07]
+  tomacatx1 placed Storage Container in Secure Steel Cabinet (ID: 215)
+[02/08/2021 19:54:08]
+  tomacatx1 placed Jotaro's Cap in Storage Container (ID: 1757)
+[02/08/2021 19:54:09]
+  tomacatx1 placed Imperial Tricorn in Storage Container (ID: 1757)
+[02/08/2021 19:54:10]
+  terc: HGHHGHHGHG
+[02/08/2021 19:54:10]
+  tomacatx1 placed Commander's Cap in Storage Container (ID: 1757)
+[02/08/2021 19:54:11]
+  tomacatx1 placed Pilot Cap in Storage Container (ID: 1757)
+[02/08/2021 19:54:12]
+  tomacatx1 placed ID Card in Storage Container (ID: 1757)
+[02/08/2021 19:54:13]
+  tomacatx1 placed ID Card in Storage Container (ID: 1757)
+[02/08/2021 19:54:14]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 19:54:18]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:54:18]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:54:18]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:54:18]
+  Carson Molina equipped Wrench
+[02/08/2021 19:54:18]
+  sylv removed Happy Clown Mask from Medical Fabricator (ID: 281)
+[02/08/2021 19:54:20]
+  terc equipped Underwater Scooter
+[02/08/2021 19:54:22]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:54:22]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:54:22]
+  sylv placed Stabilozine in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Stabilozine in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Stabilozine in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Stabilozine in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Stabilozine in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Stabilozine in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Stabilozine in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Broad-spectrum Antibiotics in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Broad-spectrum Antibiotics in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Broad-spectrum Antibiotics in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:22]
+  sylv placed Broad-spectrum Antibiotics in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:23]
+  sylv placed Velonaceps Calyx Eggs in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:23]
+  sylv placed Velonaceps Calyx Eggs in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:23]
+  sylv placed Velonaceps Calyx Eggs in Medical Fabricator (ID: 281)
+[02/08/2021 19:54:25]
+  sylv started fabricating Calyxanide in Medical Fabricator
+[02/08/2021 19:54:29]
+  Carson Molina started repairing Battery Assembly
+[02/08/2021 19:54:34]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:54:37]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:54:37]
+  Carson Molina equipped Wrench
+[02/08/2021 19:54:39]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 19:54:42]
+  sylv picked up Broad-spectrum Antibiotics
+[02/08/2021 19:54:42]
+  sylv picked up Broad-spectrum Antibiotics
+[02/08/2021 19:54:42]
+  sylv picked up Broad-spectrum Antibiotics
+[02/08/2021 19:54:43]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:54:43]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:54:46]
+  sylv placed Broad-spectrum Antibiotics in Medicine Cabinet (ID: 280)
+[02/08/2021 19:54:46]
+  sylv placed Broad-spectrum Antibiotics in Medicine Cabinet (ID: 280)
+[02/08/2021 19:54:46]
+  sylv placed Broad-spectrum Antibiotics in Medicine Cabinet (ID: 280)
+[02/08/2021 19:54:48]
+  sylv picked up Calyxanide
+[02/08/2021 19:54:49]
+  sylv started fabricating Calyxanide in Medical Fabricator
+[02/08/2021 19:54:53]
+  sylv placed Calyxanide in Large Steel Cabinet (ID: 292)
+[02/08/2021 19:54:54]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 19:54:55]
+  terc equipped Plasma Cutter
+[02/08/2021 19:54:57]
+  Outer wall breached by terc
+[02/08/2021 19:54:59]
+  superhands dropped Crate Transport Mule
+[02/08/2021 19:55:01]
+  superhands equipped Ancient Weapon
+[02/08/2021 19:55:08]
+  sylv picked up Calyxanide
+[02/08/2021 19:55:09]
+  sylv started fabricating Calyxanide in Medical Fabricator
+[02/08/2021 19:55:10]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:55:10]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:55:11]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 19:55:14]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:55:14]
+  Carson Molina equipped Wrench
+[02/08/2021 19:55:14]
+  superhands closed Alien Door
+[02/08/2021 19:55:14]
+  superhands opened Alien Door
+[02/08/2021 19:55:15]
+  superhands closed Alien Door
+[02/08/2021 19:55:15]
+  superhands opened Alien Door
+[02/08/2021 19:55:15]
+  superhands closed Alien Door
+[02/08/2021 19:55:24]
+  sylv: theres no logical reason why the biofoam gun doesnt heal burns
+[02/08/2021 19:55:24]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:55:24]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:55:28]
+  superhands: you can have all the loot idm
+[02/08/2021 19:55:29]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:55:29]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:55:29]
+  Carson Molina equipped Wrench
+[02/08/2021 19:55:32]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:55:32]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:55:34]
+  terc: no loot
+[02/08/2021 19:55:36]
+  terc: like 0
+[02/08/2021 19:55:36]
+  sylv picked up Calyxanide
+[02/08/2021 19:55:41]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 19:55:44]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 19:55:45]
+  superhands: there will be more chests
+[02/08/2021 19:55:45]
+  sylv placed Calyxanide in Large Steel Cabinet (ID: 292)
+[02/08/2021 19:55:45]
+  sylv placed Calyxanide in Large Steel Cabinet (ID: 292)
+[02/08/2021 19:55:50]
+  sylv picked up Broad-spectrum Antibiotics
+[02/08/2021 19:55:51]
+  sylv picked up Stabilozine
+[02/08/2021 19:55:51]
+  sylv picked up Stabilozine
+[02/08/2021 19:55:51]
+  sylv picked up Stabilozine
+[02/08/2021 19:55:51]
+  sylv picked up Stabilozine
+[02/08/2021 19:55:54]
+  superhands opened Alien Door
+[02/08/2021 19:55:54]
+  superhands closed Alien Door
+[02/08/2021 19:55:54]
+  superhands opened Alien Door
+[02/08/2021 19:55:54]
+  Carson Molina: Do you ever wonder what happened to whoever built the ruins?
+[02/08/2021 19:55:55]
+  terc closed Alien Door
+[02/08/2021 19:55:55]
+  terc opened Alien Door
+[02/08/2021 19:55:55]
+  terc closed Alien Door
+[02/08/2021 19:55:55]
+  terc opened Alien Door
+[02/08/2021 19:55:55]
+  terc closed Alien Door
+[02/08/2021 19:55:55]
+  terc opened Alien Door
+[02/08/2021 19:55:55]
+  terc closed Alien Door
+[02/08/2021 19:55:55]
+  terc opened Alien Door
+[02/08/2021 19:55:55]
+  terc closed Alien Door
+[02/08/2021 19:55:55]
+  terc closed Alien Door
+[02/08/2021 19:55:55]
+  terc opened Alien Door
+[02/08/2021 19:55:56]
+  terc opened Alien Door
+[02/08/2021 19:55:56]
+  terc opened Alien Door
+[02/08/2021 19:55:56]
+  terc closed Alien Door
+[02/08/2021 19:55:56]
+  terc closed Alien Door
+[02/08/2021 19:55:56]
+  terc closed Alien Door
+[02/08/2021 19:55:56]
+  terc opened Alien Door
+[02/08/2021 19:55:57]
+  terc opened Alien Door
+[02/08/2021 19:55:57]
+  terc opened Alien Door
+[02/08/2021 19:55:57]
+  terc closed Alien Door
+[02/08/2021 19:55:57]
+  terc closed Alien Door
+[02/08/2021 19:55:57]
+  terc closed Alien Door
+[02/08/2021 19:55:57]
+  terc opened Alien Door
+[02/08/2021 19:55:57]
+  terc opened Alien Door
+[02/08/2021 19:55:57]
+  terc opened Alien Door
+[02/08/2021 19:55:57]
+  terc closed Alien Door
+[02/08/2021 19:55:57]
+  terc closed Alien Door
+[02/08/2021 19:55:57]
+  terc closed Alien Door
+[02/08/2021 19:55:57]
+  terc opened Alien Door
+[02/08/2021 19:55:58]
+  terc opened Alien Door
+[02/08/2021 19:55:58]
+  terc opened Alien Door
+[02/08/2021 19:55:58]
+  terc closed Alien Door
+[02/08/2021 19:55:58]
+  sylv placed Broad-spectrum Antibiotics in Medicine Cabinet (ID: 280)
+[02/08/2021 19:55:58]
+  terc closed Alien Door
+[02/08/2021 19:55:58]
+  terc closed Alien Door
+[02/08/2021 19:55:58]
+  terc opened Alien Door
+[02/08/2021 19:55:58]
+  terc opened Alien Door
+[02/08/2021 19:55:58]
+  terc opened Alien Door
+[02/08/2021 19:55:58]
+  terc closed Alien Door
+[02/08/2021 19:55:58]
+  terc closed Alien Door
+[02/08/2021 19:55:58]
+  terc closed Alien Door
+[02/08/2021 19:55:58]
+  terc opened Alien Door
+[02/08/2021 19:55:58]
+  terc opened Alien Door
+[02/08/2021 19:55:58]
+  terc opened Alien Door
+[02/08/2021 19:55:59]
+  terc closed Alien Door
+[02/08/2021 19:55:59]
+  terc closed Alien Door
+[02/08/2021 19:55:59]
+  terc closed Alien Door
+[02/08/2021 19:55:59]
+  terc opened Alien Door
+[02/08/2021 19:55:59]
+  terc opened Alien Door
+[02/08/2021 19:55:59]
+  terc closed Alien Door
+[02/08/2021 19:55:59]
+  terc closed Alien Door
+[02/08/2021 19:55:59]
+  terc opened Alien Door
+[02/08/2021 19:55:59]
+  terc opened Alien Door
+[02/08/2021 19:55:59]
+  terc closed Alien Door
+[02/08/2021 19:55:59]
+  terc closed Alien Door
+[02/08/2021 19:55:59]
+  terc opened Alien Door
+[02/08/2021 19:55:59]
+  terc opened Alien Door
+[02/08/2021 19:55:59]
+  terc opened Alien Door
+[02/08/2021 19:56:00]
+  terc closed Alien Door
+[02/08/2021 19:56:00]
+  terc closed Alien Door
+[02/08/2021 19:56:00]
+  terc closed Alien Door
+[02/08/2021 19:56:00]
+  terc opened Alien Door
+[02/08/2021 19:56:00]
+  terc opened Alien Door
+[02/08/2021 19:56:00]
+  terc closed Alien Door
+[02/08/2021 19:56:00]
+  terc closed Alien Door
+[02/08/2021 19:56:00]
+  terc opened Alien Door
+[02/08/2021 19:56:00]
+  terc opened Alien Door
+[02/08/2021 19:56:00]
+  terc opened Alien Door
+[02/08/2021 19:56:00]
+  terc closed Alien Door
+[02/08/2021 19:56:00]
+  terc closed Alien Door
+[02/08/2021 19:56:01]
+  terc opened Alien Door
+[02/08/2021 19:56:01]
+  terc opened Alien Door
+[02/08/2021 19:56:01]
+  terc closed Alien Door
+[02/08/2021 19:56:01]
+  terc closed Alien Door
+[02/08/2021 19:56:01]
+  terc closed Alien Door
+[02/08/2021 19:56:01]
+  terc opened Alien Door
+[02/08/2021 19:56:01]
+  terc opened Alien Door
+[02/08/2021 19:56:01]
+  terc opened Alien Door
+[02/08/2021 19:56:01]
+  terc closed Alien Door
+[02/08/2021 19:56:01]
+  terc closed Alien Door
+[02/08/2021 19:56:02]
+  terc closed Alien Door
+[02/08/2021 19:56:02]
+  terc opened Alien Door
+[02/08/2021 19:56:02]
+  terc opened Alien Door
+[02/08/2021 19:56:03]
+  terc closed Alien Door
+[02/08/2021 19:56:03]
+  terc closed Alien Door
+[02/08/2021 19:56:03]
+  terc opened Alien Door
+[02/08/2021 19:56:03]
+  terc opened Alien Door
+[02/08/2021 19:56:03]
+  terc opened Alien Door
+[02/08/2021 19:56:03]
+  terc closed Alien Door
+[02/08/2021 19:56:03]
+  terc closed Alien Door
+[02/08/2021 19:56:03]
+  terc opened Alien Door
+[02/08/2021 19:56:03]
+  terc closed Alien Door
+[02/08/2021 19:56:04]
+  terc opened Alien Door
+[02/08/2021 19:56:04]
+  terc closed Alien Door
+[02/08/2021 19:56:04]
+  terc opened Alien Door
+[02/08/2021 19:56:05]
+  terc closed Alien Door
+[02/08/2021 19:56:05]
+  terc opened Alien Door
+[02/08/2021 19:56:05]
+  terc closed Alien Door
+[02/08/2021 19:56:05]
+  terc closed Alien Door
+[02/08/2021 19:56:06]
+  terc opened Alien Door
+[02/08/2021 19:56:06]
+  terc opened Alien Door
+[02/08/2021 19:56:06]
+  terc closed Alien Door
+[02/08/2021 19:56:06]
+  terc closed Alien Door
+[02/08/2021 19:56:06]
+  terc opened Alien Door
+[02/08/2021 19:56:07]
+  terc opened Alien Door
+[02/08/2021 19:56:07]
+  terc closed Alien Door
+[02/08/2021 19:56:07]
+  terc opened Alien Door
+[02/08/2021 19:56:07]
+  terc closed Alien Door
+[02/08/2021 19:56:08]
+  terc opened Alien Door
+[02/08/2021 19:56:08]
+  terc opened Alien Door
+[02/08/2021 19:56:08]
+  terc closed Alien Door
+[02/08/2021 19:56:08]
+  terc closed Alien Door
+[02/08/2021 19:56:09]
+  terc opened Alien Door
+[02/08/2021 19:56:09]
+  terc opened Alien Door
+[02/08/2021 19:56:17]
+  terc opened Alien Hatch
+[02/08/2021 19:56:24]
+  sylv: damn i was gonna do something funny by controlling the bot
+[02/08/2021 19:56:26]
+  terc placed Alien Trinket in Tactical Backpack (ID: 7681)
+[02/08/2021 19:56:29]
+  terc: trinked
+[02/08/2021 19:56:30]
+  sylv: but no perms
+[02/08/2021 19:56:35]
+  superhands: stick it in here
+[02/08/2021 19:56:39]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:56:39]
+  Carson Molina equipped Wrench
+[02/08/2021 19:56:43]
+  Console command "teleport" executed by sylv.
+[02/08/2021 19:56:44]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:56:44]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:56:44]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:56:44]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:56:46]
+  terc: cant
+[02/08/2021 19:56:49]
+  superhands dropped Crate Transport Mule
+[02/08/2021 19:56:49]
+  terc: ill just cary it
+[02/08/2021 19:56:51]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:56:52]
+  terc opened Alien Hatch
+[02/08/2021 19:56:53]
+  sylv: i have literally every perm but control
+[02/08/2021 19:56:54]
+  Carson Molina started repairing Battery
+[02/08/2021 19:56:59]
+  terc: i hear
+[02/08/2021 19:57:02]
+  terc: an artifact
+[02/08/2021 19:57:07]
+  Console command "teleport" executed by sylv.
+[02/08/2021 19:57:07]
+  superhands dropped Crate Transport Mule
+[02/08/2021 19:57:11]
+  terc unequipped Plasma Cutter
+[02/08/2021 19:57:11]
+  terc equipped Crate Transport Mule
+[02/08/2021 19:57:11]
+  Outer wall breached by superhands
+[02/08/2021 19:57:15]
+  Carson Molina started repairing Junction Bus
+[02/08/2021 19:57:19]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:57:19]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 19:57:19]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:57:19]
+  Carson Molina equipped Wrench
+[02/08/2021 19:57:21]
+  terc placed Alien Trinket in Metal Crate (ID: 2803)
+[02/08/2021 19:57:23]
+  superhands equipped Underwater Scooter
+[02/08/2021 19:57:25]
+  Saving client permissions
+[02/08/2021 19:57:29]
+  sylv: im gonna use them only if i get baro momented
+[02/08/2021 19:57:29]
+  superhands: chest
+[02/08/2021 19:57:34]
+  terc placed Alien Ornament in Metal Crate (ID: 2803)
+[02/08/2021 19:57:37]
+  terc placed Sulphurite Shard in Metal Crate (ID: 2803)
+[02/08/2021 19:57:39]
+  terc placed Alien Trinket in Metal Crate (ID: 2803)
+[02/08/2021 19:57:39]
+  Console command "control "Carson Molina"" executed by sylv.
+[02/08/2021 19:57:41]
+  Carson Molina set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 19:57:45]
+  terc opened Alien Hatch
+[02/08/2021 19:57:45]
+  sylv: pee
+[02/08/2021 19:57:49]
+  Console command "control sylv" executed by sylv.
+[02/08/2021 19:57:50]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:57:50]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:57:50]
+  sylv set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 19:57:54]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:57:54]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 19:57:54]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:57:54]
+  Carson Molina equipped Wrench
+[02/08/2021 19:57:55]
+  Carson Molina unequipped Wrench
+[02/08/2021 19:57:55]
+  Carson Molina equipped Screwdriver
+[02/08/2021 19:57:56]
+  Carson Molina started repairing Battery
+[02/08/2021 19:58:09]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:58:15]
+  Carson Molina started repairing Junction Box
+[02/08/2021 19:58:21]
+  superhands: yeah
+[02/08/2021 19:58:21]
+  terc: no
+[02/08/2021 19:58:24]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 19:58:37]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 19:58:43]
+  sylv placed Stabilozine in Large Steel Cabinet (ID: 292)
+[02/08/2021 19:58:43]
+  sylv placed Stabilozine in Large Steel Cabinet (ID: 292)
+[02/08/2021 19:58:43]
+  sylv placed Stabilozine in Large Steel Cabinet (ID: 292)
+[02/08/2021 19:58:43]
+  sylv placed Stabilozine in Large Steel Cabinet (ID: 292)
+[02/08/2021 19:58:43]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 19:58:51]
+  superhands dropped Oxygen Tank
+[02/08/2021 19:58:51]
+  superhands placed Oxygen Tank in Utility Mk-I Hardsuit (ID: 1474)
+[02/08/2021 19:58:51]
+  superhands removed Oxygen Tank from Utility Mk-I Hardsuit (ID: 1474)
+[02/08/2021 19:58:53]
+  terc: drill through the walls
+[02/08/2021 19:59:00]
+  terc placed Reinforced Oxygen Tank in Tactical Backpack (ID: 7681)
+[02/08/2021 19:59:02]
+  terc placed Reinforced Oxygen Tank in Military Mk-II Hardsuit (ID: 3020)
+[02/08/2021 19:59:05]
+  sylv picked up Adrenaline
+[02/08/2021 19:59:05]
+  sylv picked up Adrenaline
+[02/08/2021 19:59:05]
+  sylv picked up Adrenaline
+[02/08/2021 19:59:05]
+  sylv picked up Adrenaline
+[02/08/2021 19:59:09]
+  terc: lol ok
+[02/08/2021 19:59:09]
+  sylv picked up Syringe Gun
+[02/08/2021 19:59:11]
+  superhands: i think thats it
+[02/08/2021 19:59:12]
+  sylv placed Adrenaline in Syringe Gun (ID: 3094)
+[02/08/2021 19:59:12]
+  sylv placed Adrenaline in Syringe Gun (ID: 3094)
+[02/08/2021 19:59:12]
+  sylv placed Adrenaline in Syringe Gun (ID: 3094)
+[02/08/2021 19:59:12]
+  sylv placed Adrenaline in Syringe Gun (ID: 3094)
+[02/08/2021 19:59:15]
+  terc: same
+[02/08/2021 19:59:30]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:59:36]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 19:59:37]
+  superhands: its your trinket making the noise
+[02/08/2021 19:59:40]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 19:59:40]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 19:59:40]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 19:59:40]
+  Carson Molina equipped Wrench
+[02/08/2021 19:59:46]
+  terc: wait
+[02/08/2021 19:59:48]
+  terc: drill here
+[02/08/2021 19:59:50]
+  terc: could be sumn
+[02/08/2021 19:59:53]
+  Outer wall breached by superhands
+[02/08/2021 20:00:04]
+  terc: nvm lol
+[02/08/2021 20:00:05]
+  terc: stupid 
+[02/08/2021 20:00:13]
+  sylv equipped Syringe Gun
+[02/08/2021 20:00:30]
+  terc: take it away
+[02/08/2021 20:00:33]
+  terc: drill
+[02/08/2021 20:00:41]
+  Outer wall breached by superhands
+[02/08/2021 20:00:44]
+  Carson Molina unequipped Wrench
+[02/08/2021 20:00:44]
+  Carson Molina equipped Screwdriver
+[02/08/2021 20:00:46]
+  terc: dont think there was a room with these walls
+[02/08/2021 20:00:49]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:00:49]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:00:49]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:00:50]
+  terc opened Alien Hatch
+[02/08/2021 20:00:52]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 20:00:52]
+  Carson Molina equipped Wrench
+[02/08/2021 20:00:53]
+  terc: yup
+[02/08/2021 20:00:57]
+  sylv placed Syringe Gun in Cabinets (ID: 284)
+[02/08/2021 20:01:14]
+  Carson Molina unequipped Wrench
+[02/08/2021 20:01:14]
+  Carson Molina equipped Screwdriver
+[02/08/2021 20:01:16]
+  Outer wall breached by superhands
+[02/08/2021 20:01:18]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:01:18]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:01:18]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 20:01:18]
+  Carson Molina equipped Wrench
+[02/08/2021 20:01:21]
+  Carson Molina unequipped Wrench
+[02/08/2021 20:01:21]
+  Carson Molina equipped Screwdriver
+[02/08/2021 20:01:30]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:01:32]
+  superhands: yeah
+[02/08/2021 20:01:33]
+  terc: yeah
+[02/08/2021 20:01:43]
+  terc: better be something in here
+[02/08/2021 20:01:45]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:01:49]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:01:52]
+  terc: nvm
+[02/08/2021 20:02:01]
+  Carson Molina started repairing Battery
+[02/08/2021 20:02:06]
+  tomacatx1 picked up Cigarette Pack
+[02/08/2021 20:02:07]
+  tomacatx1 picked up Cigarette
+[02/08/2021 20:02:08]
+  tomacatx1 placed Cigarette Pack in Shelf (ID: 1575)
+[02/08/2021 20:02:10]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:02:12]
+  sylv picked up Happy Clown Mask
+[02/08/2021 20:02:17]
+  tomacatx1 equipped Cigarette
+[02/08/2021 20:02:25]
+  Carson Molina started repairing Junction Box

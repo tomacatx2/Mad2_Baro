@@ -1,0 +1,1602 @@
+﻿[02/08/2021 20:32:47]
+  terc equipped Railgun Shell
+[02/08/2021 20:32:47]
+  terc picked up Railgun Shell
+[02/08/2021 20:32:51]
+  terc: loaded a nuke shell.
+[02/08/2021 20:33:01]
+  sylv picked up Shearclaw Armor
+[02/08/2021 20:33:02]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:33:02]
+  terc placed Railgun Shell in Huge Railgun Shell Rack (ID: 1444)
+[02/08/2021 20:33:02]
+  terc removed Railgun Flare Shell from Huge Railgun Shell Rack (ID: 1444)
+[02/08/2021 20:33:02]
+  terc equipped Railgun Flare Shell
+[02/08/2021 20:33:02]
+  terc picked up Railgun Flare Shell
+[02/08/2021 20:33:05]
+  terc placed Railgun Flare Shell in Huge Railgun Shell Rack (ID: 1444)
+[02/08/2021 20:33:06]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:33:06]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:33:16]
+  terc: watch out
+[02/08/2021 20:33:22]
+  sylv equipped Welding Tool
+[02/08/2021 20:33:30]
+  Outer wall repaired by sylv
+[02/08/2021 20:33:31]
+  terc: top bottom?
+[02/08/2021 20:33:31]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:33:34]
+  terc launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:33:35]
+  terc launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:33:35]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:33:35]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:33:36]
+  terc launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:33:36]
+  Crawler attacked by terc. Lacerations: 16 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 20:33:36]
+  Crawler attacked by terc. Lacerations: 16 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 20:33:36]
+  Crawler has died (Cause of death: Lacerations)
+[02/08/2021 20:33:40]
+  tomacatx1 launched Railgun C (projectile: Railgun Shell, contained items: C-4 Block)
+[02/08/2021 20:33:41]
+  Crawler has died (Cause of death: Lacerations)
+[02/08/2021 20:33:41]
+  Crawler attacked by tomacatx1. Lacerations: 250 Bleeding: 50 Stun: 15
+[02/08/2021 20:33:41]
+  Crawler has died (Cause of death: Deep tissue injury)
+[02/08/2021 20:33:41]
+  Crawler has died (Cause of death: Deep tissue injury)
+[02/08/2021 20:33:41]
+  sylv opened Custom Windowed Door
+[02/08/2021 20:33:42]
+  Outer wall breached by Crawler
+[02/08/2021 20:33:49]
+  tomacatx1 equipped Railgun Shell
+[02/08/2021 20:33:49]
+  tomacatx1 picked up Railgun Shell
+[02/08/2021 20:33:52]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 1531)
+[02/08/2021 20:33:52]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:33:55]
+  sylv equipped Screwdriver
+[02/08/2021 20:33:55]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:33:55]
+  Crawler attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[02/08/2021 20:33:55]
+  Crawler has died (Cause of death: Lacerations)
+[02/08/2021 20:33:55]
+  Crawler attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[02/08/2021 20:34:00]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:34:01]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:34:01]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:34:01]
+  tomacatx1 picked up Depth Decoy Shell
+[02/08/2021 20:34:02]
+  tomacatx1 placed Depth Decoy Shell in Depth Charge Loader (ID: 698)
+[02/08/2021 20:34:02]
+  tomacatx1 removed Cyanide Depth Charge from Depth Charge Loader (ID: 698)
+[02/08/2021 20:34:02]
+  tomacatx1 picked up Cyanide Depth Charge
+[02/08/2021 20:34:03]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:34:03]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:34:05]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:34:06]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:34:07]
+  tomacatx1 launched Depth Charge Tube (projectile: Depth Decoy Shell, contained items: C-4 Block)
+[02/08/2021 20:34:09]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:34:11]
+  Crawler attacked by tomacatx1. Blunt force trauma: 10
+[02/08/2021 20:34:11]
+  Crawler has died (Cause of death: Burn)
+[02/08/2021 20:34:11]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:34:11]
+  tomacatx1 placed Cyanide Depth Charge in Depth Charge Loader (ID: 698)
+[02/08/2021 20:34:12]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:34:14]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[02/08/2021 20:34:18]
+  Outer wall repaired by sylv
+[02/08/2021 20:34:18]
+  terc removed Physicorium Autocannon Ammunition Box from Autocannon Loader (ID: 76)
+[02/08/2021 20:34:19]
+  Outer wall repaired by sylv
+[02/08/2021 20:34:19]
+  terc equipped Autocannon Ammunition Box
+[02/08/2021 20:34:19]
+  terc picked up Autocannon Ammunition Box
+[02/08/2021 20:34:22]
+  terc placed Autocannon Ammunition Box in Autocannon Loader (ID: 76)
+[02/08/2021 20:34:39]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:34:39]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:34:39]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 20:34:39]
+  Carson Molina equipped Wrench
+[02/08/2021 20:34:45]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 20:34:46]
+  terc: they gone?
+[02/08/2021 20:34:49]
+  Carson Molina unequipped Wrench
+[02/08/2021 20:34:49]
+  Carson Molina equipped Screwdriver
+[02/08/2021 20:35:01]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:35:04]
+  superhands: go down and right
+[02/08/2021 20:35:13]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:35:17]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:35:18]
+  sylv equipped Pipe Tobacco
+[02/08/2021 20:35:24]
+  terc: fart on crawler
+[02/08/2021 20:35:25]
+  terc: dead
+[02/08/2021 20:35:26]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 20:35:33]
+  Carson Molina started repairing Battery
+[02/08/2021 20:35:38]
+  sylv placed Carbon in Large Steel Cabinet (ID: 231)
+[02/08/2021 20:35:38]
+  sylv placed Carbon in Large Steel Cabinet (ID: 231)
+[02/08/2021 20:35:38]
+  sylv placed Carbon in Large Steel Cabinet (ID: 231)
+[02/08/2021 20:35:38]
+  sylv placed Carbon in Large Steel Cabinet (ID: 231)
+[02/08/2021 20:35:47]
+  sylv equipped Captain's Pipe
+[02/08/2021 20:35:53]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:35:55]
+  terc: youre gonna ram a wall.
+[02/08/2021 20:35:57]
+  sylv placed Pipe Tobacco in Captain's Pipe (ID: 7422)
+[02/08/2021 20:36:00]
+  terc: crush it
+[02/08/2021 20:36:01]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:36:06]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:36:06]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:36:09]
+  terc picked up Abyss Diving Suit
+[02/08/2021 20:36:10]
+  Carson Molina started repairing Battery
+[02/08/2021 20:36:13]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:36:13]
+  sylv placed Tobacco Bud in Metal Crate (ID: 3478)
+[02/08/2021 20:36:13]
+  sylv placed Tobacco Bud in Metal Crate (ID: 3478)
+[02/08/2021 20:36:13]
+  sylv placed Tobacco Bud in Metal Crate (ID: 3478)
+[02/08/2021 20:36:13]
+  sylv placed Tobacco Bud in Metal Crate (ID: 3478)
+[02/08/2021 20:36:13]
+  sylv placed Tobacco Bud in Metal Crate (ID: 3478)
+[02/08/2021 20:36:13]
+  sylv placed Tobacco Bud in Metal Crate (ID: 3478)
+[02/08/2021 20:36:16]
+  sylv equipped Medic Crate
+[02/08/2021 20:36:16]
+  sylv picked up Medic Crate
+[02/08/2021 20:36:17]
+  terc equipped Underwater Scooter
+[02/08/2021 20:36:22]
+  sylv placed Health Scanner HUD in Medic Crate (ID: 2255)
+[02/08/2021 20:36:22]
+  sylv removed Mother's Countenance from Medic Crate (ID: 2255)
+[02/08/2021 20:36:22]
+  sylv picked up Mother's Countenance
+[02/08/2021 20:36:23]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:36:30]
+  sylv placed Medic Crate in Tall Crate Rack (ID: 1674)
+[02/08/2021 20:36:33]
+  terc equipped Drum LMG
+[02/08/2021 20:36:34]
+  sylv picked up Medic Crate
+[02/08/2021 20:36:38]
+  sylv placed Medic's Fatigues in Medic Crate (ID: 2255)
+[02/08/2021 20:36:38]
+  sylv removed Mother's Providence from Medic Crate (ID: 2255)
+[02/08/2021 20:36:38]
+  sylv picked up Mother's Providence
+[02/08/2021 20:36:40]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:36:40]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:36:40]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:36:43]
+  sylv picked up Toy Hammer
+[02/08/2021 20:36:43]
+  terc: its stuck
+[02/08/2021 20:36:45]
+  sylv placed Medic Crate in Tall Crate Rack (ID: 1674)
+[02/08/2021 20:36:47]
+  terc equipped Wrench
+[02/08/2021 20:36:48]
+  terc equipped Screwdriver
+[02/08/2021 20:36:48]
+  sylv dropped Shearclaw Armor
+[02/08/2021 20:37:00]
+  terc equipped Welding Tool
+[02/08/2021 20:37:02]
+  sylv equipped Toy Hammer
+[02/08/2021 20:37:07]
+  tomacatx1 attacked by sylv.
+[02/08/2021 20:37:07]
+  sylv used Toy Hammer on tomacatx1.
+[02/08/2021 20:37:08]
+  terc: what
+[02/08/2021 20:37:10]
+  terc: how is it still alive
+[02/08/2021 20:37:14]
+  terc equipped 'Beast' SSL (Flashlight)
+[02/08/2021 20:37:19]
+  Crawler has died (Cause of death: Lacerations)
+[02/08/2021 20:37:23]
+  superhands attacked by sylv.
+[02/08/2021 20:37:23]
+  sylv used Toy Hammer on superhands.
+[02/08/2021 20:37:26]
+  superhands equipped Compact SMG
+[02/08/2021 20:37:30]
+  sylv picked up ID Card
+[02/08/2021 20:37:30]
+  Outer wall repaired by terc
+[02/08/2021 20:37:32]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:37:32]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:37:36]
+  Carson Molina started repairing Battery
+[02/08/2021 20:37:38]
+  terc: dont
+[02/08/2021 20:37:43]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:37:43]
+  sylv: unnamed id card
+[02/08/2021 20:37:47]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:37:50]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:37:57]
+  sylv placed Toy Hammer in Medic Crate (ID: 2255)
+[02/08/2021 20:37:59]
+  sylv placed ID Card in Medic Crate (ID: 2255)
+[02/08/2021 20:38:01]
+  sylv picked up Medic Crate
+[02/08/2021 20:38:04]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:38:08]
+  sylv placed Mother's Providence in Medic Crate (ID: 2255)
+[02/08/2021 20:38:08]
+  sylv removed Medic's Fatigues from Medic Crate (ID: 2255)
+[02/08/2021 20:38:08]
+  sylv picked up Medic's Fatigues
+[02/08/2021 20:38:08]
+  terc placed Abyss Diving Suit in Diving Suit Locker (ID: 1096)
+[02/08/2021 20:38:09]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:38:11]
+  sylv placed Mother's Countenance in Medic Crate (ID: 2255)
+[02/08/2021 20:38:11]
+  sylv removed Health Scanner HUD from Medic Crate (ID: 2255)
+[02/08/2021 20:38:11]
+  sylv picked up Health Scanner HUD
+[02/08/2021 20:38:19]
+  sylv picked up Doctor's Uniform
+[02/08/2021 20:38:20]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 20:38:20]
+  Carson Molina equipped Wrench
+[02/08/2021 20:38:21]
+  Carson Molina: I need diving gear!
+[02/08/2021 20:38:25]
+  sylv placed Splinting Kit in Doctor's Uniform (ID: 1514)
+[02/08/2021 20:38:28]
+  sylv placed Calyxanide in Doctor's Uniform (ID: 1514)
+[02/08/2021 20:38:28]
+  sylv placed Calyxanide in Doctor's Uniform (ID: 1514)
+[02/08/2021 20:38:31]
+  terc: no you dont
+[02/08/2021 20:38:32]
+  Carson Molina started repairing Pump
+[02/08/2021 20:38:34]
+  terc equipped Rolling Cart
+[02/08/2021 20:38:35]
+  sylv placed Medic's Fatigues in Medic Crate (ID: 2255)
+[02/08/2021 20:38:36]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:38:36]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:38:36]
+  Carson Molina unequipped Wrench
+[02/08/2021 20:38:36]
+  Carson Molina equipped Screwdriver
+[02/08/2021 20:38:39]
+  sylv placed Medic Crate in Tall Crate Rack (ID: 1674)
+[02/08/2021 20:38:41]
+  terc removed Piercing Micro SSL Ammunition Box from Rolling Cart (ID: 3656)
+[02/08/2021 20:38:41]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 20:38:41]
+  Carson Molina equipped Screwdriver
+[02/08/2021 20:38:41]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 20:38:41]
+  Carson Molina equipped Wrench
+[02/08/2021 20:38:44]
+  terc removed Piercing Micro SSL Ammunition Box from Rolling Cart (ID: 3656)
+[02/08/2021 20:38:46]
+  sylv picked up Shearclaw Armor
+[02/08/2021 20:38:47]
+  superhands: can i kill him
+[02/08/2021 20:38:47]
+  terc dropped Rolling Cart
+[02/08/2021 20:38:48]
+  Carson Molina unequipped Wrench
+[02/08/2021 20:38:48]
+  Carson Molina equipped Screwdriver
+[02/08/2021 20:38:48]
+  Carson Molina started repairing Battery Assembly
+[02/08/2021 20:38:51]
+  sylv picked up Shearclaw Helmet
+[02/08/2021 20:39:03]
+  superhands picked up Reinforced Oxygen Tank
+[02/08/2021 20:39:03]
+  superhands dropped Reinforced Oxygen Tank
+[02/08/2021 20:39:03]
+  superhands placed Reinforced Oxygen Tank in Military Mk-II Hardsuit (Bandit) (ID: 3792)
+[02/08/2021 20:39:08]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:39:13]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:39:13]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:39:14]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:39:15]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:39:16]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:39:16]
+  Crawler attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:39:16]
+  Crawler has died (Cause of death: Lacerations)
+[02/08/2021 20:39:16]
+  Crawler attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:39:16]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:39:17]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:39:19]
+  terc: its dead
+[02/08/2021 20:39:24]
+  sylv placed Biofoam Injector in Toolbelt (ID: 3278)
+[02/08/2021 20:39:27]
+  terc picked up Abyss Diving Suit
+[02/08/2021 20:39:48]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:39:51]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:39:52]
+  terc placed Abyss Diving Suit in Diving Suit Locker (ID: 2352)
+[02/08/2021 20:39:55]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:39:55]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:40:04]
+  tomacatx1 picked up Fuel Rod
+[02/08/2021 20:40:07]
+  tomacatx1 picked up Thorium Fuel Rod
+[02/08/2021 20:40:07]
+  tomacatx1 dropped Fuel Rod
+[02/08/2021 20:40:07]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 228)
+[02/08/2021 20:40:07]
+  sylv: im
+[02/08/2021 20:40:10]
+  tomacatx1 placed Thorium Fuel Rod in Deconstructor (ID: 230)
+[02/08/2021 20:40:11]
+  Console command "control "Carson Molina"" executed by sylv.
+[02/08/2021 20:40:11]
+  tomacatx1 activated Deconstructor
+[02/08/2021 20:40:12]
+  Carson Molina set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 20:40:20]
+  terc placed Thorium Fuel Rod in Medium Steel Cabinet (ID: 187)
+[02/08/2021 20:40:20]
+  terc placed Thorium Fuel Rod in Medium Steel Cabinet (ID: 187)
+[02/08/2021 20:40:21]
+  terc placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[02/08/2021 20:40:21]
+  terc placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[02/08/2021 20:40:23]
+  Console command "control sylv" executed by sylv.
+[02/08/2021 20:40:24]
+  sylv set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 20:40:28]
+  terc: this is sex.
+[02/08/2021 20:40:31]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:40:34]
+  terc: we have 9 thorium rods
+[02/08/2021 20:40:35]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:40:35]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:40:40]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:40:47]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:40:49]
+  sylv: maybe it needs a plasma cutter? (the bot) idk what for but its a tool it doesnt have
+[02/08/2021 20:41:02]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:41:05]
+  Console command "control "Carson Molina"" executed by sylv.
+[02/08/2021 20:41:06]
+  Carson Molina set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 20:41:37]
+  sylv: I can't find a plasma cutter!
+[02/08/2021 20:41:38]
+  tomacatx1 launched Railgun C (projectile: Railgun Shell, contained items: IC-4 Block)
+[02/08/2021 20:41:38]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:38]
+  Moloch attacked by tomacatx1. Lacerations: 160.00002 Bleeding: 30.000002 Stun: 15
+[02/08/2021 20:41:39]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:39]
+  Moloch attacked by terc. Lacerations: 12 Gunshot wound: 6 Bleeding: 2
+[02/08/2021 20:41:39]
+  Moloch attacked by terc. Lacerations: 12 Gunshot wound: 6 Bleeding: 2
+[02/08/2021 20:41:39]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:39]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:39]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:40]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:40]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:40]
+  Moloch attacked by terc. Lacerations: 36 Gunshot wound: 18 Bleeding: 6
+[02/08/2021 20:41:40]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:41]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:41]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:41]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:41]
+  Moloch attacked by terc. Lacerations: 36 Gunshot wound: 18 Bleeding: 6
+[02/08/2021 20:41:41]
+  Moloch attacked by terc. Lacerations: 6 Gunshot wound: 3 Bleeding: 1
+[02/08/2021 20:41:42]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:42]
+  Moloch attacked by terc. Lacerations: 36 Gunshot wound: 18 Bleeding: 6
+[02/08/2021 20:41:43]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:43]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:43]
+  tomacatx1 launched Railgun C (projectile: Railgun Piercing Shell)
+[02/08/2021 20:41:44]
+  Moloch attacked by terc. Lacerations: 6 Gunshot wound: 3 Bleeding: 1
+[02/08/2021 20:41:44]
+  Moloch attacked by terc. Lacerations: 6 Gunshot wound: 3 Bleeding: 1
+[02/08/2021 20:41:44]
+  Moloch attacked by tomacatx1. Gunshot wound: 150 Lacerations: 300 Internal damage: 112.5 Bleeding: 37.5 Stun: 12
+[02/08/2021 20:41:44]
+  Moloch attacked by tomacatx1. Gunshot wound: 25 Lacerations: 50 Internal damage: 18.75 Bleeding: 6.25 Stun: 12
+[02/08/2021 20:41:44]
+  Moloch attacked by tomacatx1. Gunshot wound: 25 Lacerations: 50 Internal damage: 18.75 Bleeding: 6.25 Stun: 12
+[02/08/2021 20:41:44]
+  Moloch attacked by terc. Lacerations: 12 Gunshot wound: 6 Bleeding: 2
+[02/08/2021 20:41:44]
+  Moloch has died (Cause of death: Lacerations)
+[02/08/2021 20:41:44]
+  Moloch attacked by terc. Lacerations: 12 Gunshot wound: 6 Bleeding: 2
+[02/08/2021 20:41:44]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:44]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:41:45]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:45]
+  Moloch attacked by terc. Lacerations: 12 Gunshot wound: 6 Bleeding: 2
+[02/08/2021 20:41:45]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:45]
+  Moloch attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:41:48]
+  tomacatx1 equipped Railgun Shell
+[02/08/2021 20:41:48]
+  tomacatx1 picked up Railgun Shell
+[02/08/2021 20:41:51]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 1531)
+[02/08/2021 20:41:52]
+  tomacatx1 equipped Railgun Piercing Shell
+[02/08/2021 20:41:52]
+  tomacatx1 picked up Railgun Piercing Shell
+[02/08/2021 20:41:54]
+  tomacatx1 placed Railgun Piercing Shell in Railgun Loader (ID: 1531)
+[02/08/2021 20:41:59]
+  sylv: gonna have to make one bc i cant find one
+[02/08/2021 20:42:02]
+  sylv: anything to shut it up
+[02/08/2021 20:42:17]
+  terc unequipped Screwdriver
+[02/08/2021 20:42:17]
+  terc unequipped Wrench
+[02/08/2021 20:42:17]
+  terc equipped Physicorium Autocannon Ammunition Box
+[02/08/2021 20:42:22]
+  tomacatx1 equipped Railgun Flare Shell
+[02/08/2021 20:42:22]
+  tomacatx1 picked up Railgun Flare Shell
+[02/08/2021 20:42:23]
+  Carson Molina picked up Plasma Cutter
+[02/08/2021 20:42:24]
+  tomacatx1 placed Railgun Flare Shell in Railgun Loader (ID: 1531)
+[02/08/2021 20:42:24]
+  tomacatx1 removed Railgun Shell from Railgun Loader (ID: 1531)
+[02/08/2021 20:42:24]
+  tomacatx1 picked up Railgun Shell
+[02/08/2021 20:42:25]
+  terc placed Physicorium Autocannon Ammunition Box in Deconstructor (ID: 230)
+[02/08/2021 20:42:26]
+  terc placed Alien Power Cell in Deconstructor (ID: 230)
+[02/08/2021 20:42:26]
+  Console command "control sylv" executed by sylv.
+[02/08/2021 20:42:27]
+  terc activated Deconstructor
+[02/08/2021 20:42:27]
+  sylv set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 20:42:28]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:42:28]
+  tomacatx1 placed Railgun Shell in Huge Railgun Shell Rack (ID: 1444)
+[02/08/2021 20:42:29]
+  terc deactivated Deconstructor
+[02/08/2021 20:42:30]
+  terc activated Deconstructor
+[02/08/2021 20:42:31]
+  terc picked up Alien Power Cell
+[02/08/2021 20:42:32]
+  terc equipped Alien Power Cell
+[02/08/2021 20:42:35]
+  tomacatx1 launched Railgun C (projectile: Railgun Flare Shell)
+[02/08/2021 20:42:41]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:42:41]
+  terc placed Alien Power Cell in Deconstructor (ID: 230)
+[02/08/2021 20:42:44]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:42:47]
+  tomacatx1 picked up Railgun Shell
+[02/08/2021 20:42:49]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 1531)
+[02/08/2021 20:42:53]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:42:57]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:43:02]
+  terc: glowing crystal
+[02/08/2021 20:43:03]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:43:03]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:43:03]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 20:43:03]
+  Carson Molina equipped Wrench
+[02/08/2021 20:43:05]
+  terc: has arcs on i
+[02/08/2021 20:43:06]
+  sylv: oh my god
+[02/08/2021 20:43:09]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 20:43:13]
+  Carson Molina unequipped Wrench
+[02/08/2021 20:43:13]
+  Carson Molina equipped Screwdriver
+[02/08/2021 20:43:15]
+  Console command "control "Carson Molina"" executed by sylv.
+[02/08/2021 20:43:16]
+  Carson Molina set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 20:43:29]
+  Carson Molina equipped Wrench
+[02/08/2021 20:44:09]
+  superhands: Endworm
+[02/08/2021 20:44:11]
+  sylv: i have no idea whats wrong, its having trouble with doors apparently
+[02/08/2021 20:44:15]
+  Console command "control sylv" executed by sylv.
+[02/08/2021 20:44:17]
+  sylv set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 20:44:26]
+  sylv: aughhhh metaphysical, man
+[02/08/2021 20:44:27]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:44:31]
+  Carson Molina started repairing Battery
+[02/08/2021 20:44:36]
+  sylv: smoking too much pipe tobacoo
+[02/08/2021 20:44:40]
+  terc: i need more autocannon ammo
+[02/08/2021 20:44:46]
+  sylv: shifting bodies
+[02/08/2021 20:44:49]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:44:53]
+  sylv: eckied
+[02/08/2021 20:45:07]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:45:12]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:45:12]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:45:24]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:45:34]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:45:48]
+  superhands: what
+[02/08/2021 20:46:18]
+  tomacatx1 equipped Hand Truck
+[02/08/2021 20:46:20]
+  terc launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:46:20]
+  Crawler attacked by terc. Lacerations: 16 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 20:46:20]
+  Crawler attacked by terc. Lacerations: 16 Deep tissue injury: 8 Bleeding: 2
+[02/08/2021 20:46:20]
+  Crawler has died (Cause of death: Lacerations)
+[02/08/2021 20:46:23]
+  tomacatx1 dropped Hand Truck
+[02/08/2021 20:46:32]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:46:32]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:46:34]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:34]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:34]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:34]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:35]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:35]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:35]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:35]
+  superhands launched Depth Charge Tube (projectile: Cyanide Depth Charge)
+[02/08/2021 20:46:35]
+  Carson Molina started repairing Battery
+[02/08/2021 20:46:35]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:35]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:35]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:36]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:36]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:36]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:37]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:37]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:37]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:38]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:38]
+  sylv: oh no
+[02/08/2021 20:46:38]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:38]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:38]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:39]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:39]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:39]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:39]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:39]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:39]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:40]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:40]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:40]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:40]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:40]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:40]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:40]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:41]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:41]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:41]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:41]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:41]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:41]
+  superhands: hit
+[02/08/2021 20:46:41]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:42]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:42]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:42]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:42]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:42]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:42]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:43]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:43]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:43]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:43]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:43]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:43]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:44]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:44]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:44]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:44]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:44]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:44]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:45]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:45]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:45]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:45]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:45]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:45]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:45]
+  tomacatx1 equipped Depth Decoy Shell
+[02/08/2021 20:46:45]
+  tomacatx1 picked up Depth Decoy Shell
+[02/08/2021 20:46:46]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:46]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:46]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:46]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:47]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:47]
+  tomacatx1 placed Depth Decoy Shell in Depth Charge Loader (ID: 698)
+[02/08/2021 20:46:47]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:47]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:48]
+  tomacatx1 launched Depth Charge Tube (projectile: Depth Decoy Shell, contained items: C-4 Block)
+[02/08/2021 20:46:50]
+  terc equipped Autocannon Ammunition Box
+[02/08/2021 20:46:50]
+  terc picked up Autocannon Ammunition Box
+[02/08/2021 20:46:52]
+  terc removed Autocannon Ammunition Box from Autocannon Loader (ID: 76)
+[02/08/2021 20:46:52]
+  sylv: nuke
+[02/08/2021 20:46:53]
+  Endworm attacked by tomacatx1. Blunt force trauma: 10
+[02/08/2021 20:46:53]
+  terc placed Autocannon Ammunition Box in Autocannon Loader (ID: 76)
+[02/08/2021 20:46:56]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:57]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:57]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:57]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:57]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:57]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:58]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:58]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:58]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:58]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:58]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:58]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:58]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:59]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:46:59]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:59]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:46:59]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:59]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:46:59]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:46:59]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:46:59]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:00]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:00]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:00]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:00]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:00]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:00]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:01]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:01]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:01]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:02]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:02]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:02]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:02]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:02]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:02]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:04]
+  tomacatx1 equipped Depth Charge Shell
+[02/08/2021 20:47:04]
+  tomacatx1 picked up Depth Charge Shell
+[02/08/2021 20:47:05]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:47:07]
+  tomacatx1 placed Depth Charge Shell in Depth Charge Loader (ID: 698)
+[02/08/2021 20:47:08]
+  tomacatx1 launched Depth Charge Tube (projectile: Depth Charge Shell, contained items: IC-4 Block)
+[02/08/2021 20:47:11]
+  Carson Molina started repairing Battery
+[02/08/2021 20:47:15]
+  sylv dropped Calyxanide
+[02/08/2021 20:47:17]
+  terc: SOMEONE CRAFT ME AUTOCANNON AMMO
+[02/08/2021 20:47:22]
+  Carson Molina started repairing Junction Bus
+[02/08/2021 20:47:25]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:47:25]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:47:27]
+  Endworm attacked by tomacatx1. Blunt force trauma: 10
+[02/08/2021 20:47:27]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:27]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:27]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:27]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:28]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:28]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:28]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:28]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:28]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:28]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:28]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:29]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:29]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:29]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:29]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:29]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:29]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:29]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:30]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:30]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:30]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:30]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:30]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:30]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:31]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:31]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:31]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:31]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:31]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:31]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:31]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:32]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:32]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:32]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:32]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:32]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:32]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:33]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:33]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:33]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:33]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:33]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:33]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:33]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:34]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:34]
+  Outer wall breached by Endworm
+[02/08/2021 20:47:34]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:34]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:34]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:34]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:35]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:35]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:35]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:35]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:35]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:35]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:35]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:35]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:36]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:36]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:36]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:36]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:36]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:36]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:37]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:37]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:37]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:37]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:37]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:37]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:38]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:38]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:38]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:38]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:38]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:38]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:38]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:39]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:39]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:39]
+  superhands removed Reinforced Oxygen Tank from Military Mk-II Hardsuit (Bandit) (ID: 3792)
+[02/08/2021 20:47:39]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:39]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:39]
+  Endworm attacked by terc. Lacerations: 24 Gunshot wound: 12 Bleeding: 4
+[02/08/2021 20:47:39]
+  terc launched Autocannon (projectile: Autocannon Turret Round)
+[02/08/2021 20:47:40]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:40]
+  Endworm attacked by terc. Lacerations: 2.4 Gunshot wound: 1.2
+[02/08/2021 20:47:40]
+  superhands placed Reinforced Oxygen Tank in Military Mk-II Hardsuit (Bandit) (ID: 3792)
+[02/08/2021 20:47:43]
+  terc: OUT OF AMMO
+[02/08/2021 20:47:46]
+  sylv: where is steel
+[02/08/2021 20:47:46]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:47:46]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:47:49]
+  sylv picked up Steel Bar
+[02/08/2021 20:47:49]
+  sylv picked up Steel Bar
+[02/08/2021 20:47:49]
+  sylv picked up Steel Bar
+[02/08/2021 20:47:49]
+  sylv picked up Steel Bar
+[02/08/2021 20:47:50]
+  terc: WHERE
+[02/08/2021 20:47:52]
+  tomacatx1 equipped Physicorium Autocannon Ammunition Box
+[02/08/2021 20:47:52]
+  tomacatx1 picked up Physicorium Autocannon Ammunition Box
+[02/08/2021 20:47:54]
+  tomacatx1 dropped Physicorium Autocannon Ammunition Box
+[02/08/2021 20:47:55]
+  terc dropped Rolling Cart
+[02/08/2021 20:47:57]
+  sylv placed Steel Bar in Fabricator (ID: 229)
+[02/08/2021 20:47:57]
+  sylv placed Steel Bar in Fabricator (ID: 229)
+[02/08/2021 20:47:57]
+  sylv placed Steel Bar in Fabricator (ID: 229)
+[02/08/2021 20:47:57]
+  sylv placed Steel Bar in Fabricator (ID: 229)
+[02/08/2021 20:47:57]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:48:01]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:48:04]
+  sylv: CRAFT IT YOU DO IT FASTER
+[02/08/2021 20:48:09]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:48:12]
+  sylv started fabricating Autocannon Ammunition Box in Fabricator
+[02/08/2021 20:48:12]
+  terc removed Autocannon Ammunition Box from Autocannon Loader (ID: 76)
+[02/08/2021 20:48:13]
+  terc dropped Autocannon Ammunition Box
+[02/08/2021 20:48:14]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:48:16]
+  Endworm has died (Cause of death: Cyanide poisoning)
+[02/08/2021 20:48:16]
+  Mission info: Target terminated - The Abyss creature is now dead and the passageway safer to traverse.
+[02/08/2021 20:48:24]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:48:24]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:48:26]
+  tomacatx1 equipped Autocannon Ammunition Box
+[02/08/2021 20:48:28]
+  Carson Molina started repairing Battery
+[02/08/2021 20:48:31]
+  terc: sylv
+[02/08/2021 20:48:34]
+  terc: fix your medbay
+[02/08/2021 20:48:35]
+  tomacatx1 placed Autocannon Ammunition Box in Deconstructor (ID: 230)
+[02/08/2021 20:48:36]
+  tomacatx1 picked up Lead
+[02/08/2021 20:48:36]
+  tomacatx1 picked up Steel Bar
+[02/08/2021 20:48:37]
+  tomacatx1 picked up Tin
+[02/08/2021 20:48:37]
+  tomacatx1 activated Deconstructor
+[02/08/2021 20:48:38]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:48:41]
+  tomacatx1 placed Tin in Large Steel Cabinet (ID: 231)
+[02/08/2021 20:48:41]
+  sylv: I WAS MAKING YOUR FUCKING AMMO
+[02/08/2021 20:48:41]
+  tomacatx1 placed Steel Bar in Large Steel Cabinet (ID: 231)
+[02/08/2021 20:48:42]
+  tomacatx1 placed Lead in Large Steel Cabinet (ID: 231)
+[02/08/2021 20:48:47]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 20:48:50]
+  tomacatx1 equipped Autocannon Ammunition Box
+[02/08/2021 20:48:50]
+  terc started fabricating Autocannon Ammunition Box in Fabricator
+[02/08/2021 20:48:51]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:48:51]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:48:57]
+  tomacatx1 placed Autocannon Ammunition Box in Deconstructor (ID: 230)
+[02/08/2021 20:48:58]
+  tomacatx1 activated Deconstructor
+[02/08/2021 20:49:02]
+  Carson Molina started repairing Pump
+[02/08/2021 20:49:03]
+  terc equipped Autocannon Ammunition Box
+[02/08/2021 20:49:03]
+  terc picked up Autocannon Ammunition Box
+[02/08/2021 20:49:04]
+  terc started fabricating Autocannon Ammunition Box in Fabricator
+[02/08/2021 20:49:06]
+  sylv: med is fine
+[02/08/2021 20:49:11]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:49:15]
+  tomacatx1 placed Physicorium Autocannon Ammunition Box in Deconstructor (ID: 230)
+[02/08/2021 20:49:16]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:49:16]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:49:16]
+  tomacatx1 activated Deconstructor
+[02/08/2021 20:49:19]
+  terc placed Autocannon Ammunition Box in Autocannon Loader (ID: 76)
+[02/08/2021 20:49:20]
+  tomacatx1 equipped Welding Tool
+[02/08/2021 20:49:27]
+  terc equipped Autocannon Ammunition Box
+[02/08/2021 20:49:27]
+  terc picked up Autocannon Ammunition Box
+[02/08/2021 20:49:33]
+  Outer wall repaired by tomacatx1
+[02/08/2021 20:49:34]
+  Carson Molina started repairing Large Engine
+[02/08/2021 20:49:38]
+  terc started fabricating Physicorium Autocannon Ammunition Box in Fabricator
+[02/08/2021 20:49:39]
+  superhands placed Military Mk-II Hardsuit (Bandit) in Diving Suit Locker (ID: 1745)
+[02/08/2021 20:49:48]
+  sylv picked up Toxin Specialist Uniform
+[02/08/2021 20:49:51]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:49:52]
+  terc placed Autocannon Ammunition Box in Ammunition Shelf (ID: 186)
+[02/08/2021 20:49:59]
+  terc equipped Physicorium Autocannon Ammunition Box
+[02/08/2021 20:49:59]
+  terc picked up Physicorium Autocannon Ammunition Box
+[02/08/2021 20:50:02]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:50:06]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:50:06]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:50:10]
+  sylv placed Toxin Specialist Uniform in Toxin Cabinet (ID: 1226)
+[02/08/2021 20:50:20]
+  sylv picked up Blinding Mask
+[02/08/2021 20:50:23]
+  superhands: trying to play this with ben screaming in my ear what kind of rice krispy are you
+[02/08/2021 20:50:23]
+  terc placed Physicorium Autocannon Ammunition Box in Ammunition Shelf (ID: 186)
+[02/08/2021 20:50:37]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:50:41]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:50:41]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:50:45]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:45]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:45]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:45]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:45]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:45]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:45]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  sylv: i dont think ben cares at
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:46]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:47]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:50:48]
+  sylv: all
+[02/08/2021 20:50:49]
+  terc removed Piercing Micro SSL Ammunition Box from Micro SSL Loader (ID: 99)
+[02/08/2021 20:50:53]
+  terc equipped Piercing Micro SSL Ammunition Box
+[02/08/2021 20:50:55]
+  superhands placed Reinforced Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 20:50:56]
+  terc placed Piercing Micro SSL Ammunition Box in Micro SSL Loader (ID: 99)
+[02/08/2021 20:50:58]
+  superhands picked up Reinforced Oxygen Tank
+[02/08/2021 20:50:59]
+  superhands picked up Reinforced Oxygen Tank
+[02/08/2021 20:50:59]
+  superhands picked up Reinforced Oxygen Tank
+[02/08/2021 20:51:01]
+  terc equipped Piercing Micro SSL Ammunition Box
+[02/08/2021 20:51:05]
+  terc placed Piercing Micro SSL Ammunition Box in Rolling Cart (ID: 3656)
+[02/08/2021 20:51:05]
+  sylv: terc ragdoll for a sec
+[02/08/2021 20:51:07]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:51:11]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:51:11]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 20:51:13]
+  sylv picked up Military Helmet with NVG
+[02/08/2021 20:51:13]
+  sylv dropped Blinding Mask
+[02/08/2021 20:51:13]
+  sylv placed Blinding Mask in terc
+[02/08/2021 20:51:18]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:51:19]
+  sylv: lol
+[02/08/2021 20:51:19]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 959)
+[02/08/2021 20:51:20]
+  superhands dropped Poop
+[02/08/2021 20:51:21]
+  sylv attacked by terc. Gunshot wound: 3.572
+[02/08/2021 20:51:21]
+  sylv attacked by terc. Bleeding: 15.96 Gunshot wound: 3.572
+[02/08/2021 20:51:21]
+  sylv attacked by terc. Gunshot wound: 3.572
+[02/08/2021 20:51:21]
+  sylv attacked by terc. Bleeding: 15.96 Gunshot wound: 3.572
+[02/08/2021 20:51:23]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 1471)
+[02/08/2021 20:51:27]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 1471)
+[02/08/2021 20:51:27]
+  superhands placed Reinforced Oxygen Tank in Oxygen Tank Shelf (ID: 1471)
+[02/08/2021 20:51:29]
+  sylv: ok ragdoll again
+[02/08/2021 20:51:29]
+  terc: I CANT
+[02/08/2021 20:51:31]
+  terc: SEE SHIT
+[02/08/2021 20:51:31]
+  sylv: ahahah
+[02/08/2021 20:51:39]
+  sylv picked up Blinding Mask
+[02/08/2021 20:51:39]
+  sylv dropped Military Helmet with NVG
+[02/08/2021 20:51:39]
+  sylv placed Military Helmet with NVG in terc
+[02/08/2021 20:51:45]
+  sylv: gimped
+[02/08/2021 20:51:52]
+  tomacatx1 equipped Piercing Micro SSL Ammunition Box
+[02/08/2021 20:51:56]
+  tomacatx1 placed Piercing Micro SSL Ammunition Box in Deconstructor (ID: 230)
+[02/08/2021 20:51:56]
+  tomacatx1 activated Deconstructor
+[02/08/2021 20:51:58]
+  sylv used item Plastiseal
+[02/08/2021 20:52:02]
+  sylv used item Plastiseal
+[02/08/2021 20:52:05]
+  tomacatx1 equipped Rolling Cart
+[02/08/2021 20:52:06]
+  sylv used item Blood Pack
+[02/08/2021 20:52:22]
+  sylv: i put the fucking, bondage sex mask on him so he was blind
+[02/08/2021 20:52:25]
+  tomacatx1 placed Extended Hybrid Piercing Ammunition Box in Ammunition Shelf (ID: 97)
+[02/08/2021 20:52:28]
+  tomacatx1 placed Extended Hybrid Piercing Ammunition Box in Ammunition Shelf (ID: 1668)
+[02/08/2021 20:52:31]
+  tomacatx1 placed Depth Decoy Shell in Rolling Cart (ID: 3656)
+[02/08/2021 20:52:32]
+  tomacatx1 placed Depth Decoy Shell in Rolling Cart (ID: 3656)
+[02/08/2021 20:52:33]
+  tomacatx1 placed Depth Charge Shell in Rolling Cart (ID: 3656)
+[02/08/2021 20:52:40]
+  tomacatx1 placed Depth Decoy Shell in Crate Rack (ID: 3348)
+[02/08/2021 20:52:41]
+  tomacatx1 placed Depth Decoy Shell in Crate Rack (ID: 3348)
+[02/08/2021 20:52:41]
+  tomacatx1 placed Depth Charge Shell in Crate Rack (ID: 3348)
+[02/08/2021 20:52:51]
+  tomacatx1 placed Flare Depth Charge in Rolling Cart (ID: 3656)
+[02/08/2021 20:52:56]
+  sylv: TERC YOU ALSO COULD HAVE JUST, TAKEN IT OFF lol
+[02/08/2021 20:53:01]
+  tomacatx1 placed Flare Depth Charge in Depth Charge Loader (ID: 698)
+[02/08/2021 20:53:02]
+  terc: i didnt see
+[02/08/2021 20:53:07]
+  sylv placed Blinding Mask in Toxin Cabinet (ID: 1226)
+[02/08/2021 20:53:07]
+  tomacatx1 dropped Rolling Cart
+[02/08/2021 20:53:07]
+  terc: literally anything
+[02/08/2021 20:53:10]
+  terc: even my screen
+[02/08/2021 20:53:13]
+  terc: just the chat
+[02/08/2021 20:53:32]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:53:36]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:53:36]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:53:39]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 20:53:41]
+  sylv: ur just built different (in the band way)
+[02/08/2021 20:53:46]
+  sylv: (*bad)
+[02/08/2021 20:53:47]
+  terc equipped Extended Hybrid Piercing Ammunition Box
+[02/08/2021 20:53:47]
+  terc picked up Extended Hybrid Piercing Ammunition Box
+[02/08/2021 20:53:50]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:53:57]
+  terc placed Extended Hybrid Piercing Ammunition Box in Deconstructor (ID: 230)
+[02/08/2021 20:54:00]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 20:54:01]
+  terc: yeah cause its a pussy
+[02/08/2021 20:54:03]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 20:54:10]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:10]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:10]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:10]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:11]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:11]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:11]
+  Tigerthresher attacked by terc. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 20:54:11]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:11]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:11]
+  Tigerthresher attacked by terc. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 20:54:11]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:11]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:11]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:11]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:12]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:12]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:12]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:12]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:12]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:12]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:12]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:13]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:13]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:13]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:13]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:13]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:13]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:13]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:13]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:14]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:14]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:14]
+  Tigerthresher attacked by terc. Gunshot wound: 16 Bleeding: 1
+[02/08/2021 20:54:14]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:14]
+  terc launched Micro SSL Turret (projectile: Micro SSL Turret Piercing Round)
+[02/08/2021 20:54:17]
+  terc: thresher fart
+[02/08/2021 20:54:27]
+  Leucocyte has died (Cause of death: Oxygen low)
+[02/08/2021 20:54:36]
+  Leucocyte has died (Cause of death: Oxygen low)
+[02/08/2021 20:54:45]
+  Leucocyte has died (Cause of death: Oxygen low)
+[02/08/2021 20:54:48]
+  terc: can i.
+[02/08/2021 20:54:57]
+  terc: fiiine
+[02/08/2021 20:55:04]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 20:55:04]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 20:55:09]
+  terc equipped Military Mk-II Hardsuit (Bandit)
+[02/08/2021 20:55:09]
+  terc picked up Military Mk-II Hardsuit (Bandit)
+[02/08/2021 20:55:10]
+  Carson Molina started repairing Battery
+[02/08/2021 20:55:12]
+  terc picked up Reinforced Oxygen Tank
+[02/08/2021 20:55:13]
+  terc picked up Reinforced Oxygen Tank
+[02/08/2021 20:55:13]
+  terc picked up Reinforced Oxygen Tank
+[02/08/2021 20:55:21]
+  terc dropped Military Mk-II Hardsuit (Bandit)
+[02/08/2021 20:55:25]
+  terc picked up Military Mk-II Hardsuit (Bandit)
+[02/08/2021 20:55:28]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:29]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:29]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:29]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)

@@ -1,0 +1,1380 @@
+﻿[02/08/2021 21:50:17]
+  Saving client permissions
+[02/08/2021 21:50:18]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:50:18]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:50:24]
+  sylv: is that the end of today
+[02/08/2021 21:50:25]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:50:26]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:50:26]
+  Carson Molina equipped Wrench
+[02/08/2021 21:50:27]
+  Console command "teleport superhands" executed by tomacatx1.
+[02/08/2021 21:50:29]
+  Console command "teleport terc" executed by tomacatx1.
+[02/08/2021 21:50:30]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:50:30]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:50:31]
+  Console command "teleport sylv" executed by tomacatx1.
+[02/08/2021 21:50:33]
+  superhands: i still gotta do some tings
+[02/08/2021 21:50:34]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:50:34]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:50:34]
+  Carson Molina equipped Wrench
+[02/08/2021 21:50:57]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:50:57]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:50:57]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:50:57]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:50:57]
+  Carson Molina equipped Wrench
+[02/08/2021 21:50:57]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:50:57]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:50:57]
+  tomacatx1 placed ID Card in Psilotoad
+[02/08/2021 21:50:57]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:50:57]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:50:57]
+  Carson Molina equipped Wrench
+[02/08/2021 21:50:57]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:50:57]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:51:01]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:51:01]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:51:01]
+  Carson Molina equipped Wrench
+[02/08/2021 21:51:01]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 21:51:05]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:51:05]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:51:07]
+  superhands: why am i in the engine room
+[02/08/2021 21:51:09]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:51:09]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:51:09]
+  Carson Molina equipped Wrench
+[02/08/2021 21:51:11]
+  superhands: battery room
+[02/08/2021 21:51:14]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:51:14]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:51:17]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:51:18]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:51:18]
+  Carson Molina equipped Wrench
+[02/08/2021 21:51:22]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:51:22]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:51:24]
+  sylv: i gotta sort
+[02/08/2021 21:51:26]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:51:26]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:51:26]
+  Carson Molina equipped Wrench
+[02/08/2021 21:51:27]
+  superhands: you are mental
+[02/08/2021 21:51:28]
+  sylv: and crapft
+[02/08/2021 21:51:30]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:51:30]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:51:33]
+  tomacatx1 equipped Piercing Micro SSL Ammunition Box
+[02/08/2021 21:51:34]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:51:34]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:51:34]
+  Carson Molina equipped Wrench
+[02/08/2021 21:51:37]
+  tomacatx1 placed Piercing Micro SSL Ammunition Box in Deconstructor (ID: 230)
+[02/08/2021 21:51:38]
+  tomacatx1 activated Deconstructor
+[02/08/2021 21:51:38]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:51:38]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:51:38]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:51:42]
+  tomacatx1 equipped Welding Tool
+[02/08/2021 21:51:42]
+  Inner wall repaired by tomacatx1
+[02/08/2021 21:51:43]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:51:44]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:51:44]
+  Carson Molina equipped Wrench
+[02/08/2021 21:51:45]
+  terc has joined the server.
+[02/08/2021 21:51:45]
+  Saving client permissions
+[02/08/2021 21:51:48]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:51:48]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:51:48]
+  superhands: sylv do you have organic fiber
+[02/08/2021 21:51:49]
+  sylv threw Poop
+[02/08/2021 21:51:51]
+  sylv equipped Poop
+[02/08/2021 21:51:51]
+  superhands equipped Medic Crate
+[02/08/2021 21:51:51]
+  superhands picked up Medic Crate
+[02/08/2021 21:51:52]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:51:52]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:51:52]
+  Carson Molina equipped Wrench
+[02/08/2021 21:51:52]
+  sylv threw Poop
+[02/08/2021 21:51:53]
+  superhands placed Medic Crate in Tall Crate Rack (ID: 1671)
+[02/08/2021 21:51:53]
+  sylv equipped Poop
+[02/08/2021 21:51:54]
+  sylv threw Poop
+[02/08/2021 21:51:55]
+  superhands equipped Medic Crate
+[02/08/2021 21:51:55]
+  superhands picked up Medic Crate
+[02/08/2021 21:51:56]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:51:56]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:51:57]
+  sylv equipped Poop
+[02/08/2021 21:51:59]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:52:00]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:52:00]
+  Carson Molina equipped Wrench
+[02/08/2021 21:52:01]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:52:04]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:52:04]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:52:05]
+  superhands placed Medic Crate in Tall Crate Rack (ID: 1671)
+[02/08/2021 21:52:08]
+  sylv threw Poop
+[02/08/2021 21:52:08]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:52:08]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:52:08]
+  Carson Molina equipped Wrench
+[02/08/2021 21:52:10]
+  superhands equipped Chemical Crate
+[02/08/2021 21:52:10]
+  superhands picked up Chemical Crate
+[02/08/2021 21:52:10]
+  sylv equipped Raptor Bane
+[02/08/2021 21:52:10]
+  sylv equipped Raptor Bane
+[02/08/2021 21:52:11]
+  sylv equipped Poop
+[02/08/2021 21:52:11]
+  superhands placed Chemical Crate in Climate-Controlled Crate Rack (ID: 2245)
+[02/08/2021 21:52:11]
+  sylv threw Poop
+[02/08/2021 21:52:12]
+  superhands equipped Chemical Crate
+[02/08/2021 21:52:12]
+  superhands picked up Chemical Crate
+[02/08/2021 21:52:12]
+  sylv equipped Poop
+[02/08/2021 21:52:12]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:52:12]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:52:13]
+  sylv threw Poop
+[02/08/2021 21:52:13]
+  superhands placed Chemical Crate in Climate-Controlled Crate Rack (ID: 2245)
+[02/08/2021 21:52:16]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:52:17]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:52:17]
+  Carson Molina equipped Wrench
+[02/08/2021 21:52:21]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:52:21]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:52:25]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:52:25]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:52:25]
+  Carson Molina equipped Wrench
+[02/08/2021 21:52:30]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:52:30]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:52:34]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:52:34]
+  sylv: i deconstructed my hud and i dont know why
+[02/08/2021 21:52:34]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:52:34]
+  Carson Molina equipped Wrench
+[02/08/2021 21:52:39]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:52:39]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:52:40]
+  Console command "spawnitem "Hawaiian Shirt" inventory" executed by superhands.
+[02/08/2021 21:52:43]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:52:43]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:52:43]
+  Carson Molina equipped Wrench
+[02/08/2021 21:52:48]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:52:48]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:52:48]
+  sylv: i have 2 more but, still
+[02/08/2021 21:52:51]
+  sylv picked up Health Scanner HUD
+[02/08/2021 21:52:55]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:52:55]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:52:55]
+  Carson Molina equipped Wrench
+[02/08/2021 21:52:56]
+  sylv placed Health Scanner HUD in Medical Backpack (ID: 6739)
+[02/08/2021 21:52:59]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:52:59]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:53:01]
+  sylv placed Watering Can in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:53:06]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:53:06]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:53:06]
+  Carson Molina equipped Wrench
+[02/08/2021 21:53:10]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:53:10]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:53:13]
+  sylv picked up Raptor Bane Extract
+[02/08/2021 21:53:16]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:53:17]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:53:17]
+  Carson Molina equipped Wrench
+[02/08/2021 21:53:17]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:53:17]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:53:17]
+  superhands picked up Steel Bar
+[02/08/2021 21:53:19]
+  sylv started fabricating Bandage in Medical Fabricator
+[02/08/2021 21:53:21]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:53:21]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:53:21]
+  superhands placed Steel Bar in Fabricator (ID: 229)
+[02/08/2021 21:53:22]
+  superhands placed Hawaiian Shirt in Fabricator (ID: 229)
+[02/08/2021 21:53:23]
+  superhands started fabricating Armored Hawaiian Shirt in Fabricator
+[02/08/2021 21:53:26]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:53:27]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:53:27]
+  Carson Molina equipped Wrench
+[02/08/2021 21:53:27]
+  superhands picked up Armored Hawaiian Shirt
+[02/08/2021 21:53:28]
+  Disconnecting client terc. Syncing the client with the server took too long.
+[02/08/2021 21:53:28]
+  terc has left the server. Reason: SyncTimeoutYou have been disconnected because syncing your client with the server took too long.
+[02/08/2021 21:53:28]
+  terc has left the server.
+[02/08/2021 21:53:31]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:53:31]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:53:37]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:53:37]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:53:37]
+  Carson Molina equipped Wrench
+[02/08/2021 21:53:39]
+  Console command "teleport terc" executed by tomacatx1.
+[02/08/2021 21:53:41]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:53:41]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:53:45]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:53:45]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:53:45]
+  Carson Molina equipped Wrench
+[02/08/2021 21:53:49]
+  terc has died (Cause of death: Disconnected)
+[02/08/2021 21:53:50]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:53:50]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:53:50]
+  superhands placed Armored Hawaiian Shirt in Deconstructor (ID: 230)
+[02/08/2021 21:53:50]
+  superhands activated Deconstructor
+[02/08/2021 21:53:53]
+  superhands picked up Armored Hawaiian Shirt
+[02/08/2021 21:53:55]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:53:56]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:53:56]
+  Carson Molina equipped Wrench
+[02/08/2021 21:54:00]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:54:00]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:54:05]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:54:05]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:54:05]
+  Carson Molina equipped Wrench
+[02/08/2021 21:54:09]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:54:09]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:54:10]
+  terc has joined the server.
+[02/08/2021 21:54:10]
+  Saving client permissions
+[02/08/2021 21:54:12]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:54:13]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:54:13]
+  Carson Molina equipped Wrench
+[02/08/2021 21:54:14]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:54:16]
+  terc has left the server. Reason: terc has disconnected.
+[02/08/2021 21:54:17]
+  superhands: armored hawaiian
+[02/08/2021 21:54:17]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:54:17]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:54:20]
+  superhands picked up Flashlight
+[02/08/2021 21:54:20]
+  sylv picked up Ethanol
+[02/08/2021 21:54:20]
+  sylv picked up Ethanol
+[02/08/2021 21:54:20]
+  sylv picked up Ethanol
+[02/08/2021 21:54:20]
+  sylv picked up Ethanol
+[02/08/2021 21:54:20]
+  sylv picked up Ethanol
+[02/08/2021 21:54:20]
+  sylv picked up Ethanol
+[02/08/2021 21:54:20]
+  sylv picked up Ethanol
+[02/08/2021 21:54:20]
+  sylv picked up Ethanol
+[02/08/2021 21:54:21]
+  superhands equipped Flashlight
+[02/08/2021 21:54:21]
+  sylv picked up Ethanol
+[02/08/2021 21:54:21]
+  sylv picked up Ethanol
+[02/08/2021 21:54:21]
+  sylv picked up Ethanol
+[02/08/2021 21:54:21]
+  sylv picked up Ethanol
+[02/08/2021 21:54:21]
+  sylv picked up Ethanol
+[02/08/2021 21:54:21]
+  sylv picked up Ethanol
+[02/08/2021 21:54:21]
+  sylv picked up Ethanol
+[02/08/2021 21:54:21]
+  sylv picked up Ethanol
+[02/08/2021 21:54:23]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:54:25]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:54:26]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:54:26]
+  Carson Molina equipped Wrench
+[02/08/2021 21:54:28]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:28]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:28]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:28]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:28]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:28]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:28]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:28]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:29]
+  superhands placed Flashlight in Secure Steel Cabinet (ID: 1167)
+[02/08/2021 21:54:30]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:30]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:30]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:30]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:30]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:30]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:30]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:30]
+  sylv placed Ethanol in Fabricator (ID: 229)
+[02/08/2021 21:54:30]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:54:30]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:54:31]
+  sylv started fabricating Beer in Fabricator
+[02/08/2021 21:54:34]
+  sylv picked up Beer
+[02/08/2021 21:54:35]
+  sylv started fabricating Beer in Fabricator
+[02/08/2021 21:54:40]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:54:40]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:54:40]
+  Carson Molina equipped Wrench
+[02/08/2021 21:54:45]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:54:45]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:54:46]
+  sylv placed Beer in Shelf (ID: 1568)
+[02/08/2021 21:54:47]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:54:48]
+  superhands placed Armored Hawaiian Shirt in Deconstructor (ID: 230)
+[02/08/2021 21:54:48]
+  superhands activated Deconstructor
+[02/08/2021 21:54:50]
+  sylv picked up Beer
+[02/08/2021 21:54:51]
+  sylv started fabricating Beer in Fabricator
+[02/08/2021 21:54:51]
+  superhands picked up Armored Hawaiian Shirt
+[02/08/2021 21:54:52]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:54:53]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:54:53]
+  Carson Molina equipped Wrench
+[02/08/2021 21:54:53]
+  sylv picked up Beer
+[02/08/2021 21:54:54]
+  sylv started fabricating Beer in Fabricator
+[02/08/2021 21:54:57]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:54:57]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:54:58]
+  superhands placed Armored Hawaiian Shirt in Deconstructor (ID: 230)
+[02/08/2021 21:54:58]
+  sylv equipped Beer
+[02/08/2021 21:54:58]
+  sylv picked up Beer
+[02/08/2021 21:54:58]
+  superhands activated Deconstructor
+[02/08/2021 21:55:00]
+  sylv started fabricating Beer in Fabricator
+[02/08/2021 21:55:01]
+  superhands picked up Armored Hawaiian Shirt
+[02/08/2021 21:55:02]
+  sylv equipped Beer
+[02/08/2021 21:55:02]
+  sylv picked up Beer
+[02/08/2021 21:55:04]
+  sylv started fabricating Beer in Fabricator
+[02/08/2021 21:55:07]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:07]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:55:07]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:07]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:55:07]
+  Carson Molina equipped Wrench
+[02/08/2021 21:55:08]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:08]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:08]
+  superhands placed Armored Hawaiian Shirt in Deconstructor (ID: 230)
+[02/08/2021 21:55:08]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:08]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:08]
+  superhands activated Deconstructor
+[02/08/2021 21:55:09]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:09]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:09]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:10]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:10]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:10]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:11]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:11]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:11]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:11]
+  superhands picked up Armored Hawaiian Shirt
+[02/08/2021 21:55:12]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:12]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:55:12]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:55:12]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:12]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:13]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:13]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:13]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:13]
+  sylv placed Beer in Shelf (ID: 1568)
+[02/08/2021 21:55:14]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:14]
+  sylv placed Beer in Shelf (ID: 1568)
+[02/08/2021 21:55:14]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:14]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:14]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:15]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:15]
+  sylv placed Beer in Shelf (ID: 1568)
+[02/08/2021 21:55:15]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:15]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:16]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:16]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:16]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:16]
+  sylv placed Beer in Shelf (ID: 1568)
+[02/08/2021 21:55:16]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:17]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:17]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:17]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:55:17]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:18]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:18]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:55:18]
+  Carson Molina equipped Wrench
+[02/08/2021 21:55:18]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:18]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 21:55:19]
+  superhands placed Armored Hawaiian Shirt in Deconstructor (ID: 230)
+[02/08/2021 21:55:19]
+  superhands activated Deconstructor
+[02/08/2021 21:55:21]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:55:22]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:55:22]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:55:23]
+  superhands picked up Armored Hawaiian Shirt
+[02/08/2021 21:55:23]
+  tomacatx1 equipped Heavy Ammunition Box
+[02/08/2021 21:55:23]
+  tomacatx1 picked up Heavy Ammunition Box
+[02/08/2021 21:55:23]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:55:28]
+  superhands placed Armored Hawaiian Shirt in Deconstructor (ID: 230)
+[02/08/2021 21:55:28]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:55:29]
+  superhands activated Deconstructor
+[02/08/2021 21:55:29]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:55:29]
+  Carson Molina equipped Wrench
+[02/08/2021 21:55:31]
+  superhands placed Armored Hawaiian Shirt in Deconstructor (ID: 230)
+[02/08/2021 21:55:31]
+  superhands activated Deconstructor
+[02/08/2021 21:55:33]
+  tomacatx1 placed Heavy Ammunition Box in Deconstructor (ID: 230)
+[02/08/2021 21:55:34]
+  superhands picked up Armored Hawaiian Shirt
+[02/08/2021 21:55:38]
+  Carson Molina started repairing Deconstructor
+[02/08/2021 21:55:42]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:55:42]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:55:43]
+  superhands: yes
+[02/08/2021 21:55:44]
+  sylv equipped Chemical Crate
+[02/08/2021 21:55:44]
+  sylv picked up Chemical Crate
+[02/08/2021 21:55:47]
+  tomacatx1 equipped Hybrid Ammunition Box
+[02/08/2021 21:55:47]
+  tomacatx1 picked up Hybrid Ammunition Box
+[02/08/2021 21:55:49]
+  sylv picked up Cyanide
+[02/08/2021 21:55:49]
+  tomacatx1 placed Hybrid Ammunition Box in Coilgun Loader (ID: 93)
+[02/08/2021 21:55:51]
+  sylv placed Chemical Crate in Climate-Controlled Crate Rack (ID: 2245)
+[02/08/2021 21:55:53]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:55:55]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:55:56]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:55:56]
+  Carson Molina equipped Wrench
+[02/08/2021 21:55:58]
+  sylv picked up Beer
+[02/08/2021 21:56:00]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:56:00]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:56:01]
+  sylv placed Cyanide in Fabricator (ID: 229)
+[02/08/2021 21:56:04]
+  sylv started fabricating Corona Beer in Fabricator
+[02/08/2021 21:56:07]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:56:07]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:56:07]
+  Carson Molina equipped Wrench
+[02/08/2021 21:56:07]
+  superhands picked up Cigarette
+[02/08/2021 21:56:08]
+  superhands equipped Cigarette
+[02/08/2021 21:56:11]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:56:11]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:56:22]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:56:22]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:56:22]
+  Carson Molina equipped Wrench
+[02/08/2021 21:56:27]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:56:27]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:56:29]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:56:30]
+  sylv: since i control the ethanol i also control the beer
+[02/08/2021 21:56:30]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:56:30]
+  Carson Molina equipped Wrench
+[02/08/2021 21:56:35]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:56:35]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:56:35]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:56:36]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:56:36]
+  Carson Molina equipped Wrench
+[02/08/2021 21:56:39]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:41]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:56:41]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:56:41]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:56:42]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:56:42]
+  Carson Molina equipped Wrench
+[02/08/2021 21:56:47]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:56:47]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:56:48]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:56:48]
+  sylv: whatever you do dont check logs
+[02/08/2021 21:56:48]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:56:48]
+  Carson Molina equipped Wrench
+[02/08/2021 21:56:51]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:51]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:51]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:51]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:52]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:52]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:52]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:52]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:52]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:52]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:53]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:53]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:53]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:53]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:53]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:54]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:54]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:54]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:54]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:54]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:54]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:54]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:56:54]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:56:55]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:55]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:55]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:55]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:55]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:55]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:56]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:56:59]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:57:00]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:57:00]
+  Carson Molina equipped Wrench
+[02/08/2021 21:57:04]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:57:04]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:57:08]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:57:09]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:57:09]
+  Carson Molina equipped Wrench
+[02/08/2021 21:57:10]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:10]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:10]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:10]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:11]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:11]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:11]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:11]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:11]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:11]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:12]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:12]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:12]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:13]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:13]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:13]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:13]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:57:13]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:57:13]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:13]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:14]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:14]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:14]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:14]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:14]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:15]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:15]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:15]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:15]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:15]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:16]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:16]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:16]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:16]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:16]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:57:16]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:17]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:17]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:17]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:17]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:57:17]
+  Carson Molina equipped Wrench
+[02/08/2021 21:57:17]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:20]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:20]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:20]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:20]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:20]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:20]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:21]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:21]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:21]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:21]
+  Console command "teleport" executed by sylv.
+[02/08/2021 21:57:21]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:57:21]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:57:25]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:57:25]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:57:25]
+  Carson Molina equipped Wrench
+[02/08/2021 21:57:28]
+  sylv: just tped out the sub and shat myself
+[02/08/2021 21:57:28]
+  Saving client permissions
+[02/08/2021 21:57:30]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:57:30]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:57:33]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:57:34]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:57:34]
+  Carson Molina equipped Wrench
+[02/08/2021 21:57:47]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 21:57:51]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:57:51]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:57:56]
+  superhands placed Cigarette in Trash Can (ID: 1552)
+[02/08/2021 21:57:56]
+  superhands picked up Logbook
+[02/08/2021 21:57:57]
+  superhands equipped Logbook
+[02/08/2021 21:57:59]
+  sylv placed Flare in Cabinets (ID: 284)
+[02/08/2021 21:58:01]
+  sylv picked up Flare
+[02/08/2021 21:58:03]
+  sylv placed Beer in Cabinets (ID: 284)
+[02/08/2021 21:58:03]
+  superhands placed Logbook in Trash Can (ID: 1552)
+[02/08/2021 21:58:04]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:58:05]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:58:05]
+  Carson Molina equipped Wrench
+[02/08/2021 21:58:08]
+  superhands: Show me your logbook.
+[02/08/2021 21:58:09]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:58:09]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:58:10]
+  sylv picked up Corona Beer
+[02/08/2021 21:58:13]
+  sylv started fabricating Beer in Fabricator
+[02/08/2021 21:58:15]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:58:16]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:58:16]
+  Carson Molina equipped Wrench
+[02/08/2021 21:58:16]
+  tomacatx1 picked up Logbook
+[02/08/2021 21:58:17]
+  tomacatx1 equipped Logbook
+[02/08/2021 21:58:19]
+  sylv picked up Beer
+[02/08/2021 21:58:20]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:58:20]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:58:20]
+  tomacatx1 dropped Logbook
+[02/08/2021 21:58:22]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:58:22]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:58:22]
+  Carson Molina equipped Wrench
+[02/08/2021 21:58:23]
+  superhands unequipped Logbook
+[02/08/2021 21:58:27]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:58:27]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:58:28]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:58:29]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:58:29]
+  Carson Molina equipped Wrench
+[02/08/2021 21:58:34]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:58:34]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:58:34]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:58:35]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:58:35]
+  Carson Molina equipped Wrench
+[02/08/2021 21:58:38]
+  tomacatx1: Carson Molina, repair damaged systems!
+[02/08/2021 21:58:39]
+  Carson Molina: Aye!
+[02/08/2021 21:58:40]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:58:40]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:58:41]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:58:43]
+  tomacatx1: Carson Molina, you are dismissed!
+[02/08/2021 21:58:44]
+  Carson Molina: Sure thing!
+[02/08/2021 21:58:44]
+  sylv placed Beer in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:58:47]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:58:51]
+  sylv placed Syringe Gun in Storage Container (ID: 1747)
+[02/08/2021 21:58:52]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:58:59]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:59:03]
+  sylv picked up Seed Bag
+[02/08/2021 21:59:05]
+  sylv placed Seed Bag in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:07]
+  sylv equipped Storage Container
+[02/08/2021 21:59:07]
+  sylv picked up Storage Container
+[02/08/2021 21:59:07]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:59:10]
+  sylv placed Seed Bag in Storage Container (ID: 2029)
+[02/08/2021 21:59:10]
+  sylv removed Salt Bulb from Storage Container (ID: 2029)
+[02/08/2021 21:59:10]
+  sylv removed Salt Bulb from Storage Container (ID: 2029)
+[02/08/2021 21:59:10]
+  sylv removed Salt Bulb from Storage Container (ID: 2029)
+[02/08/2021 21:59:10]
+  sylv removed Salt Bulb from Storage Container (ID: 2029)
+[02/08/2021 21:59:10]
+  sylv removed Salt Bulb from Storage Container (ID: 2029)
+[02/08/2021 21:59:10]
+  sylv removed Salt Bulb from Storage Container (ID: 2029)
+[02/08/2021 21:59:10]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:10]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:10]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:10]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:10]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:10]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:11]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:59:12]
+  sylv placed Seed Bag in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:14]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:59:15]
+  sylv placed Storage Container in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:17]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:59:18]
+  sylv placed Red Wire in Storage Container (ID: 1747)
+[02/08/2021 21:59:21]
+  Carson Molina started repairing Battery
+[02/08/2021 21:59:24]
+  sylv placed Medical Officer's Outfit in Storage Container (ID: 1747)
+[02/08/2021 21:59:26]
+  sylv placed Logbook in Storage Container (ID: 1747)
+[02/08/2021 21:59:26]
+  Carson Molina started repairing Battery
+[02/08/2021 21:59:32]
+  sylv equipped Medical Backpack
+[02/08/2021 21:59:32]
+  sylv picked up Medical Backpack
+[02/08/2021 21:59:37]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:59:40]
+  sylv placed Medical Backpack in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:42]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:59:43]
+  sylv picked up Grenade Launcher
+[02/08/2021 21:59:46]
+  sylv placed Dart Gun in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:46]
+  sylv removed Grenade Launcher from Large Steel Cabinet (ID: 291)
+[02/08/2021 21:59:46]
+  sylv picked up Grenade Launcher
+[02/08/2021 21:59:49]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:59:56]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:59:56]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:59:59]
+  Carson Molina started repairing Junction Box
+[02/08/2021 22:00:03]
+  Carson Molina started repairing Battery
+[02/08/2021 22:00:08]
+  Carson Molina: Have any of you heard of labor unions?
+[02/08/2021 22:00:10]
+  sylv: are grenade launchers needed
+[02/08/2021 22:00:12]
+  superhands dropped Logbook
+[02/08/2021 22:00:13]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 22:00:16]
+  sylv placed Grenade Launcher in Deconstructor (ID: 230)
+[02/08/2021 22:00:19]
+  sylv placed Grenade Launcher in Deconstructor (ID: 230)
+[02/08/2021 22:00:20]
+  tomacatx1 placed Logbook in Secure Steel Cabinet (ID: 215)
+[02/08/2021 22:00:25]
+  Carson Molina started repairing Battery Assembly
+[02/08/2021 22:00:27]
+  sylv: i have four
+[02/08/2021 22:00:30]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 22:00:33]
+  sylv activated Deconstructor
+[02/08/2021 22:00:36]
+  superhands: Piezo zapping us there
+[02/08/2021 22:00:36]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 22:00:51]
+  Carson Molina started repairing Battery
+[02/08/2021 22:00:53]
+  superhands: the ordovicia wins once again
+[02/08/2021 22:00:53]
+  sylv placed Raptor Bane Extract in Large Steel Cabinet (ID: 292)
+[02/08/2021 22:00:56]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:00:56]
+  Carson Molina equipped Wrench
+[02/08/2021 22:01:00]
+  sylv picked up Steel Bar
+[02/08/2021 22:01:00]
+  sylv picked up Steel Bar
+[02/08/2021 22:01:01]
+  Carson Molina unequipped Wrench
+[02/08/2021 22:01:20]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 22:01:20]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 22:01:20]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 22:01:20]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 22:01:20]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 22:01:20]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 22:01:20]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 22:01:20]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 22:01:26]
+  Carson Molina equipped Autocannon Ammunition Box
+[02/08/2021 22:01:26]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:01:26]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:01:26]
+  Carson Molina equipped Wrench
+[02/08/2021 22:01:27]
+  Carson Molina unequipped Wrench
+[02/08/2021 22:01:27]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[02/08/2021 22:01:27]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[02/08/2021 22:01:31]
+  sylv equipped Tactical Backpack
+[02/08/2021 22:01:31]
+  sylv picked up Tactical Backpack
+[02/08/2021 22:01:34]
+  sylv placed Tactical Backpack in Large Steel Cabinet (ID: 291)
+[02/08/2021 22:01:34]
+  sylv removed Storage Container from Large Steel Cabinet (ID: 291)
+[02/08/2021 22:01:34]
+  sylv equipped Storage Container
+[02/08/2021 22:01:34]
+  sylv picked up Storage Container
+[02/08/2021 22:01:52]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:01:54]
+  sylv placed Syringe Gun in Deconstructor (ID: 230)
+[02/08/2021 22:01:55]
+  sylv activated Deconstructor
+[02/08/2021 22:02:00]
+  Carson Molina started repairing Junction Box
+[02/08/2021 22:02:03]
+  Carson Molina started repairing Junction Box
+[02/08/2021 22:02:06]
+  Carson Molina started repairing Junction Box
+[02/08/2021 22:02:10]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 22:02:10]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 22:02:10]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:02:10]
+  Carson Molina equipped Wrench
+[02/08/2021 22:02:11]
+  sylv placed Red Wire in Material Storage Locker (ID: 1709)
+[02/08/2021 22:02:14]
+  Carson Molina unequipped Wrench
+[02/08/2021 22:02:39]
+  sylv picked up Medical Officer's Outfit
+[02/08/2021 22:02:41]
+  sylv picked up Logbook
+[02/08/2021 22:02:42]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:02:44]
+  sylv placed Storage Container in Material Storage Locker (ID: 1709)
+[02/08/2021 22:02:47]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 22:02:47]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 22:02:47]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:02:47]
+  Carson Molina equipped Wrench
+[02/08/2021 22:02:50]
+  Carson Molina unequipped Wrench
+[02/08/2021 22:02:50]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:02:52]
+  sylv equipped Logbook
+[02/08/2021 22:03:00]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 22:03:11]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:03:14]
+  sylv: fin what do you want done with ur logbook
+[02/08/2021 22:03:15]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:03:19]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 22:03:19]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 22:03:28]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 22:03:30]
+  sylv: idk
+[02/08/2021 22:03:31]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 22:03:35]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:03:35]
+  Carson Molina equipped Wrench
+[02/08/2021 22:03:39]
+  Carson Molina unequipped Wrench
+[02/08/2021 22:03:41]
+  sylv placed Logbook in Supplies Cabinet (ID: 665)
+[02/08/2021 22:03:42]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:03:45]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:03:45]
+  Carson Molina equipped Wrench
+[02/08/2021 22:03:46]
+  Carson Molina started repairing Large Engine
+[02/08/2021 22:03:54]
+  Carson Molina unequipped Wrench
+[02/08/2021 22:03:54]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:03:57]
+  sylv picked up Fishbowler
+[02/08/2021 22:04:04]
+  sylv placed Fishbowler in Toxin Cabinet (ID: 1225)
+[02/08/2021 22:04:07]
+  Ending the round...
+[02/08/2021 22:04:07]
+  Round ended.
+[02/08/2021 22:04:09]
+  Starting a new round...

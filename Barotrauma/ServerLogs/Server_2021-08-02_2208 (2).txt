@@ -1,0 +1,86 @@
+﻿[02/08/2021 22:05:20]
+  Saving client permissions
+[02/08/2021 22:05:33]
+  Carson Molina: Do you ever feel...flat?
+[02/08/2021 22:05:35]
+  sylv has joined the server.
+[02/08/2021 22:05:35]
+  Saving client permissions
+[02/08/2021 22:06:39]
+  sylv: i must sort
+[02/08/2021 22:06:43]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:06:44]
+  superhands picked up Logbook
+[02/08/2021 22:06:45]
+  superhands equipped Logbook
+[02/08/2021 22:06:47]
+  sylv equipped Storage Container
+[02/08/2021 22:06:47]
+  sylv picked up Storage Container
+[02/08/2021 22:06:47]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 22:06:47]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 22:06:53]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 22:06:55]
+  superhands placed Logbook in Trash Can (ID: 1550)
+[02/08/2021 22:06:57]
+  superhands: did someone say
+[02/08/2021 22:07:00]
+  superhands: they have my logbook
+[02/08/2021 22:07:05]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 22:07:08]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:07:08]
+  Carson Molina equipped Wrench
+[02/08/2021 22:07:09]
+  tomacatx1 picked up Logbook
+[02/08/2021 22:07:10]
+  tomacatx1 equipped Logbook
+[02/08/2021 22:07:12]
+  superhands: i thought i lost it forever
+[02/08/2021 22:07:12]
+  Carson Molina unequipped Wrench
+[02/08/2021 22:07:15]
+  tomacatx1 dropped Logbook
+[02/08/2021 22:07:17]
+  tomacatx1 unequipped Logbook
+[02/08/2021 22:07:17]
+  sylv: i had it
+[02/08/2021 22:07:19]
+  tomacatx1 placed Logbook in Trash Can (ID: 1550)
+[02/08/2021 22:07:20]
+  sylv placed Seed Bag in Deconstructor (ID: 230)
+[02/08/2021 22:07:21]
+  sylv placed Seed Bag in Deconstructor (ID: 230)
+[02/08/2021 22:07:22]
+  sylv placed Seed Bag in Deconstructor (ID: 230)
+[02/08/2021 22:07:22]
+  superhands: where is it now
+[02/08/2021 22:07:23]
+  sylv activated Deconstructor
+[02/08/2021 22:07:32]
+  Carson Molina equipped Screwdriver
+[02/08/2021 22:07:33]
+  sylv: toms supply cabinet (command)
+[02/08/2021 22:07:37]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 22:07:40]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 22:07:40]
+  Carson Molina equipped Wrench
+[02/08/2021 22:07:44]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 22:07:44]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 22:07:44]
+  Carson Molina unequipped Wrench
+[02/08/2021 22:07:50]
+  sylv placed Storage Container in Material Storage Locker (ID: 1707)
+[02/08/2021 22:08:10]
+  superhands: goodbye everyone i love you all
+[02/08/2021 22:08:12]
+  sylv: uaughhhh

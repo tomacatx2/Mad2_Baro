@@ -1,0 +1,1602 @@
+﻿[02/08/2021 20:55:29]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:30]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:30]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:30]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:30]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:30]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:30]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:30]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:31]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:31]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:31]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:31]
+  superhands equipped Welding Tool
+[02/08/2021 20:55:31]
+  tomacatx1 launched Coilgun (projectile: Heavy Coilgun Bolt)
+[02/08/2021 20:55:32]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:33]
+  Tigerthresher attacked by terc. Bleeding: 21 Gunshot wound: 10
+[02/08/2021 20:55:35]
+  terc dropped Military Mk-II Hardsuit (Bandit)
+[02/08/2021 20:55:37]
+  superhands: was that
+[02/08/2021 20:55:39]
+  Carson Molina: Need to find a diving suit!
+[02/08/2021 20:55:39]
+  Carson Molina: Leak in ballast tank a!
+[02/08/2021 20:55:40]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:40]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:40]
+  terc has died (Cause of death: Barotrauma)
+[02/08/2021 20:55:40]
+  sylv: water
+[02/08/2021 20:55:43]
+  superhands: oh jesus christ
+[02/08/2021 20:55:45]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:47]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:51]
+  superhands picked up Abyss Diving Suit
+[02/08/2021 20:55:52]
+  tomacatx1 equipped Utility Mk-I Hardsuit
+[02/08/2021 20:55:52]
+  tomacatx1 picked up Utility Mk-I Hardsuit
+[02/08/2021 20:55:53]
+  superhands picked up Oxygen Tank
+[02/08/2021 20:55:54]
+  superhands picked up Oxygen Tank
+[02/08/2021 20:55:54]
+  superhands picked up Oxygen Tank
+[02/08/2021 20:55:55]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:55]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:56]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:57]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:57]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:55:57]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:01]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:02]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:02]
+  terc: ARE
+[02/08/2021 20:56:03]
+  terc: YOU
+[02/08/2021 20:56:04]
+  tomacatx1 placed Mercenary Combat Armor in Large Steel Cabinet (ID: 373)
+[02/08/2021 20:56:04]
+  terc: FUCKING
+[02/08/2021 20:56:06]
+  terc: KIDDING
+[02/08/2021 20:56:06]
+  Carson Molina: Uh-oh.
+[02/08/2021 20:56:06]
+  terc: ME
+[02/08/2021 20:56:09]
+  Carson Molina started repairing Junction Bus
+[02/08/2021 20:56:09]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:10]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:11]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:11]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:12]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:13]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:14]
+  Outer wall repaired by tomacatx1
+[02/08/2021 20:56:15]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:17]
+  tomacatx1 equipped .357 Revolver
+[02/08/2021 20:56:18]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:56:19]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:20]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:25]
+  Terminalcell has died (Cause of death: Gunshot wound)
+[02/08/2021 20:56:25]
+  Terminalcell attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:56:26]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:29]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:30]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:30]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:33]
+  Terminalcell has died (Cause of death: Gunshot wound)
+[02/08/2021 20:56:33]
+  Terminalcell attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:56:33]
+  Terminalcell has died (Cause of death: Gunshot wound)
+[02/08/2021 20:56:33]
+  Terminalcell attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:56:36]
+  superhands equipped Gauss Pistol
+[02/08/2021 20:56:36]
+  Carson Molina: Leak in gunnery compartment!
+[02/08/2021 20:56:37]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:40]
+  Carson Molina: Hull breach in gunnery compartment!
+[02/08/2021 20:56:40]
+  Terminalcell has died (Cause of death: Gunshot wound)
+[02/08/2021 20:56:40]
+  Terminalcell attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:56:40]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:41]
+  Terminalcell has died (Cause of death: Gunshot wound)
+[02/08/2021 20:56:41]
+  Terminalcell attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:56:41]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:44]
+  tomacatx1 equipped .357 Revolver
+[02/08/2021 20:56:44]
+  Terminalcell has died (Cause of death: Gunshot wound)
+[02/08/2021 20:56:44]
+  Terminalcell attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[02/08/2021 20:56:46]
+  Terminalcell has died (Cause of death: Gunshot wound)
+[02/08/2021 20:56:46]
+  Terminalcell attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:56:51]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:56:51]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:56:51]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:56:51]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:56:51]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:56:51]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:56:51]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:51]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:52]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:53]
+  Leucocyte has died (Cause of death: Internal damage)
+[02/08/2021 20:56:54]
+  Terminalcell has died (Cause of death: Internal damage)
+[02/08/2021 20:56:56]
+  Terminalcell has died (Cause of death: Gunshot wound)
+[02/08/2021 20:56:56]
+  Terminalcell attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:56:59]
+  terc was kicked because they were expecting a very old network event (53190 (created 10.08 s ago, 10.03 s older than last event sent to anyone) Events queued: 1467, last sent to all: 53189
+[02/08/2021 20:56:59]
+  terc has left the server. Reason: ExcessiveDesyncOldEventYou have been disconnected because your client was expecting a very old network event.
+[02/08/2021 20:56:59]
+  terc has left the server.
+[02/08/2021 20:57:02]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 20:57:02]
+  Leucocyte attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:57:07]
+  sylv picked up Anaparalyzant
+[02/08/2021 20:57:07]
+  sylv picked up Anaparalyzant
+[02/08/2021 20:57:07]
+  sylv picked up Anaparalyzant
+[02/08/2021 20:57:07]
+  sylv picked up Anaparalyzant
+[02/08/2021 20:57:08]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 20:57:19]
+  superhands attacked by tomacatx1. Bleeding: 8.9175 Gunshot wound: 6.24375 Stun: 0.3
+[02/08/2021 20:57:21]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 20:57:21]
+  Leucocyte attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:57:24]
+  sylv equipped SMG
+[02/08/2021 20:57:25]
+  Leucocyte attacked by sylv. Bleeding: 15 Gunshot wound: 15
+[02/08/2021 20:57:25]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 20:57:25]
+  Leucocyte attacked by sylv. Bleeding: 15 Gunshot wound: 15
+[02/08/2021 20:57:26]
+  Leucocyte attacked by sylv. Bleeding: 15 Gunshot wound: 15
+[02/08/2021 20:57:27]
+  superhands equipped Ion Pulse Cutter
+[02/08/2021 20:57:32]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 20:57:32]
+  Leucocyte attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:57:35]
+  Leucocyte attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 20:57:35]
+  Carson Molina started repairing Small Pump
+[02/08/2021 20:57:43]
+  Inner wall breached by superhands
+[02/08/2021 20:57:47]
+  terc has joined the server.
+[02/08/2021 20:57:47]
+  Saving client permissions
+[02/08/2021 20:57:47]
+  sylv used item Anaparalyzant
+[02/08/2021 20:57:47]
+  terc was kicked because they were expecting a removed network event (53190, last available is 57313)
+[02/08/2021 20:57:47]
+  terc has left the server. Reason: ExcessiveDesyncRemovedEventYou have been disconnected because your client was expecting a removed network event.
+[02/08/2021 20:57:47]
+  terc has left the server.
+[02/08/2021 20:57:59]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:58:04]
+  terc has joined the server.
+[02/08/2021 20:58:04]
+  Saving client permissions
+[02/08/2021 20:58:08]
+  tomacatx1 picked up Underwater Scooter
+[02/08/2021 20:58:08]
+  tomacatx1 equipped Underwater Scooter
+[02/08/2021 20:58:10]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7346)
+[02/08/2021 20:58:10]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7346)
+[02/08/2021 20:58:12]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:58:12]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:58:12]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:58:13]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:58:19]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:58:19]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:58:19]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7339)
+[02/08/2021 20:58:20]
+  tomacatx1 placed .357 Revolver Round in Tactical Backpack (ID: 7291)
+[02/08/2021 20:58:21]
+  tomacatx1 picked up Handgun (Flashlight)
+[02/08/2021 20:58:25]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 20:58:25]
+  Leucocyte attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[02/08/2021 20:58:29]
+  superhands equipped Wrench
+[02/08/2021 20:58:30]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:58:30]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:58:32]
+  superhands placed Battery Cell in Headset (ID: 7251)
+[02/08/2021 20:58:32]
+  superhands removed Battery Cell from Headset (ID: 7251)
+[02/08/2021 20:58:32]
+  superhands placed Battery Cell in Ion Pulse Cutter (ID: 7266)
+[02/08/2021 20:58:44]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:58:50]
+  tomacatx1 unequipped Underwater Scooter
+[02/08/2021 20:58:50]
+  superhands: cant find it yet
+[02/08/2021 20:58:52]
+  tomacatx1 dropped Underwater Scooter
+[02/08/2021 20:58:58]
+  tomacatx1 picked up Military Mk-II Hardsuit (Bandit)
+[02/08/2021 20:58:58]
+  tomacatx1 dropped Utility Mk-I Hardsuit
+[02/08/2021 20:58:59]
+  superhands placed Gauss Pistol Magazine in SEAL Uniform (ID: 7254)
+[02/08/2021 20:58:59]
+  superhands removed Gauss Pistol Magazine from SEAL Uniform (ID: 7254)
+[02/08/2021 20:58:59]
+  superhands placed Gauss Pistol Magazine in Gauss Pistol (ID: 7271)
+[02/08/2021 20:59:00]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 20:59:00]
+  Leucocyte attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[02/08/2021 20:59:00]
+  Leucocyte attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[02/08/2021 20:59:02]
+  Carson Molina: Hull breach in ballast tank a!
+[02/08/2021 20:59:08]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:59:11]
+  Inner wall repaired by sylv
+[02/08/2021 20:59:15]
+  tomacatx1 placed Utility Mk-I Hardsuit in Diving Suit Locker (ID: 1082)
+[02/08/2021 20:59:21]
+  sylv placed Oxygen Tank in Medical Backpack (ID: 7368)
+[02/08/2021 20:59:21]
+  sylv removed Oxygen Tank from Medical Backpack (ID: 7368)
+[02/08/2021 20:59:21]
+  sylv placed Oxygen Tank in Shearclaw Helmet (ID: 3766)
+[02/08/2021 20:59:21]
+  Carson Molina started repairing Junction Box
+[02/08/2021 20:59:30]
+  sylv equipped Wrench
+[02/08/2021 20:59:34]
+  sylv failed to repair Pump
+[02/08/2021 20:59:42]
+  sylv started repairing Pump
+[02/08/2021 20:59:44]
+  Carson Molina failed to repair Nuclear Reactor
+[02/08/2021 20:59:48]
+  Inner wall breached by superhands
+[02/08/2021 20:59:49]
+  terc is ready to start the game.
+[02/08/2021 20:59:50]
+  Carson Molina failed to repair Nuclear Reactor
+[02/08/2021 20:59:53]
+  terc: hi
+[02/08/2021 20:59:55]
+  Carson Molina started repairing Nuclear Reactor
+[02/08/2021 20:59:59]
+  terc is not ready to start the game.
+[02/08/2021 20:59:59]
+  Carson Molina started repairing Nuclear Reactor
+[02/08/2021 21:00:04]
+  tomacatx1 used item Bandage
+[02/08/2021 21:00:05]
+  Carson Molina started repairing Nuclear Reactor
+[02/08/2021 21:00:06]
+  tomacatx1 used item Bandage
+[02/08/2021 21:00:08]
+  tomacatx1 used item Anabolic Steroids
+[02/08/2021 21:00:10]
+  superhands: i cant find the brain
+[02/08/2021 21:00:11]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 21:00:11]
+  Leucocyte attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 21:00:16]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:00:25]
+  terc is ready to start the game.
+[02/08/2021 21:00:27]
+  Inner wall repaired by sylv
+[02/08/2021 21:00:34]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:00:40]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 21:00:40]
+  Leucocyte attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 21:00:49]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 21:00:49]
+  Leucocyte attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[02/08/2021 21:00:52]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:00:56]
+  superhands: where the fuck
+[02/08/2021 21:01:02]
+  Inner wall repaired by sylv
+[02/08/2021 21:01:10]
+  sylv started repairing Junction Box
+[02/08/2021 21:01:10]
+  Carson Molina: Hull breach in central access shaft!
+[02/08/2021 21:01:14]
+  superhands placed Battery Cell in Headset (ID: 7138)
+[02/08/2021 21:01:14]
+  superhands removed Battery Cell from Headset (ID: 7138)
+[02/08/2021 21:01:14]
+  superhands placed Battery Cell in Ion Pulse Cutter (ID: 7266)
+[02/08/2021 21:01:17]
+  Leucocyte attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25
+[02/08/2021 21:01:20]
+  Azul Mcdowell attacked by tomacatx1. Bleeding: 20 Gunshot wound: 12.5 Stun: 0.3
+[02/08/2021 21:01:23]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:01:23]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:01:24]
+  Carson Molina: Need to find a diving suit!
+[02/08/2021 21:01:25]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 21:01:25]
+  Leucocyte attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[02/08/2021 21:01:26]
+  sylv started repairing Junction Box
+[02/08/2021 21:01:37]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 7346)
+[02/08/2021 21:01:48]
+  Console command "freecam" executed by tomacatx1.
+[02/08/2021 21:01:49]
+  sylv: this fucking retard mechanic opens the battery door when im trying to fix shit and i get flushed out
+[02/08/2021 21:01:51]
+  superhands: its just a dugong it has to be here
+[02/08/2021 21:01:56]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:01:57]
+  Carson Molina: I need diving gear!
+[02/08/2021 21:02:00]
+  sylv started repairing Junction Box
+[02/08/2021 21:02:04]
+  Console command "control tomacatx1" executed by tomacatx1.
+[02/08/2021 21:02:14]
+  tomacatx1 picked up Crowbar
+[02/08/2021 21:02:15]
+  tomacatx1 equipped Handgun (Flashlight)
+[02/08/2021 21:02:15]
+  tomacatx1 equipped Crowbar
+[02/08/2021 21:02:17]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:02:17]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:02:28]
+  superhands equipped Torpedo Rifle
+[02/08/2021 21:02:28]
+  Leucocyte attacked by tomacatx1. Bleeding: 14 Gunshot wound: 15
+[02/08/2021 21:02:29]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 21:02:29]
+  Leucocyte attacked by tomacatx1. Bleeding: 14 Gunshot wound: 15
+[02/08/2021 21:02:29]
+  Leucocyte attacked by tomacatx1. Bleeding: 14 Gunshot wound: 15
+[02/08/2021 21:02:30]
+  Leucocyte attacked by tomacatx1. Bleeding: 14 Gunshot wound: 15
+[02/08/2021 21:02:30]
+  Leucocyte has died (Cause of death: Gunshot wound)
+[02/08/2021 21:02:30]
+  Leucocyte attacked by tomacatx1. Bleeding: 14 Gunshot wound: 15
+[02/08/2021 21:02:31]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:02:35]
+  sylv placed Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:02:35]
+  sylv removed Reinforced Oxygen Tank from Oxygen Generator (ID: 871)
+[02/08/2021 21:02:35]
+  sylv placed Reinforced Oxygen Tank in Shearclaw Helmet (ID: 3766)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:39]
+  Leucocyte has died (Cause of death: Unknown)
+[02/08/2021 21:02:44]
+  sylv: I HEAR TERMINALS
+[02/08/2021 21:02:46]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:02:47]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:02:55]
+  superhands: that was just a regular torpedo
+[02/08/2021 21:03:02]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:03:10]
+  superhands: grab me
+[02/08/2021 21:03:12]
+  superhands: oh
+[02/08/2021 21:03:19]
+  sylv: FOUND THE CAUSE OF ALL THE WATER, airlocks open7
+[02/08/2021 21:03:21]
+  terc (0) couldn't join the server (name too similar to the name of the client "terc").
+[02/08/2021 21:03:22]
+  Carson Molina: Leak in engineering!
+[02/08/2021 21:03:28]
+  Carson Molina started repairing Nuclear Reactor
+[02/08/2021 21:03:29]
+  terc has left the server. Reason: terc has disconnected.
+[02/08/2021 21:03:30]
+  superhands: hammerheads incoming
+[02/08/2021 21:03:33]
+  sylv: someone didnt close it
+[02/08/2021 21:03:39]
+  terc has joined the server.
+[02/08/2021 21:03:39]
+  Saving client permissions
+[02/08/2021 21:03:47]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:03:48]
+  Mudraptor attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[02/08/2021 21:03:49]
+  Mudraptor attacked by tomacatx1. Bleeding: 40 Gunshot wound: 50 Stun: 0.3
+[02/08/2021 21:03:49]
+  Mudraptor attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[02/08/2021 21:03:50]
+  Mudraptor attacked by tomacatx1. Gunshot wound: 1.5
+[02/08/2021 21:03:57]
+  tomacatx1 picked up .357 Revolver
+[02/08/2021 21:03:58]
+  tomacatx1 equipped .357 Revolver
+[02/08/2021 21:03:58]
+  Mudraptor has died (Cause of death: Gunshot wound)
+[02/08/2021 21:03:58]
+  sylv equipped Anaparalyzant
+[02/08/2021 21:03:58]
+  Mudraptor attacked by tomacatx1. Bleeding: 12.5 Gunshot wound: 26.400002 Stun: 0.3
+[02/08/2021 21:04:00]
+  Carson Molina: I need diving gear!
+[02/08/2021 21:04:14]
+  Inner wall repaired by sylv
+[02/08/2021 21:04:16]
+  Inner wall repaired by superhands
+[02/08/2021 21:04:20]
+  Outer wall repaired by superhands
+[02/08/2021 21:04:27]
+  sylv started repairing Junction Box
+[02/08/2021 21:04:28]
+  Inner wall repaired by tomacatx1
+[02/08/2021 21:04:30]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:04:31]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:04:36]
+  tomacatx1 placed .357 Revolver in Pioneer Uniform (ID: 7282)
+[02/08/2021 21:04:36]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:04:37]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:04:41]
+  Carson Molina started repairing Pump
+[02/08/2021 21:04:43]
+  sylv started repairing Junction Box
+[02/08/2021 21:04:47]
+  Outer wall repaired by tomacatx1
+[02/08/2021 21:04:48]
+  Inner wall repaired by superhands
+[02/08/2021 21:04:56]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:04:59]
+  sylv started repairing Battery
+[02/08/2021 21:05:03]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:05:03]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:05:09]
+  tomacatx1 placed Reinforced Oxygen Tank in Tactical Backpack (ID: 7291)
+[02/08/2021 21:05:09]
+  tomacatx1 removed Oxygen Tank from Tactical Backpack (ID: 7291)
+[02/08/2021 21:05:09]
+  tomacatx1 placed Oxygen Tank in Military Mk-II Hardsuit (Bandit) (ID: 3792)
+[02/08/2021 21:05:10]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:05:14]
+  tomacatx1 dropped Underwater Scooter
+[02/08/2021 21:05:20]
+  superhands: i just want to say the way this submarine defloods and how water is drawn away from reactor and junction boxes is my most amazing feat of architectural design ok thank you
+[02/08/2021 21:05:20]
+  sylv started repairing Junction Bus
+[02/08/2021 21:05:24]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:05:30]
+  tomacatx1 placed Military Mk-II Hardsuit (Bandit) in Diving Suit Locker (ID: 1745)
+[02/08/2021 21:05:32]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:05:37]
+  Inner wall repaired by tomacatx1
+[02/08/2021 21:05:39]
+  superhands: reason we have power still and deflooded so quickly
+[02/08/2021 21:05:45]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:05:48]
+  sylv picked up Hydroxyapatite
+[02/08/2021 21:05:55]
+  superhands picked up Oxygen Tank
+[02/08/2021 21:05:55]
+  superhands dropped Oxygen Tank
+[02/08/2021 21:05:55]
+  superhands placed Oxygen Tank in Abyss Diving Suit (ID: 2217)
+[02/08/2021 21:05:57]
+  sylv equipped Hand Truck
+[02/08/2021 21:05:57]
+  superhands placed Abyss Diving Suit in Diving Suit Locker (ID: 1092)
+[02/08/2021 21:05:57]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:05:59]
+  superhands placed Oxygen Tank in Oxygen Tank Shelf (ID: 1091)
+[02/08/2021 21:06:02]
+  sylv dropped Hand Truck
+[02/08/2021 21:06:03]
+  superhands placed Oxygen Tank in Oxygen Tank Shelf (ID: 1091)
+[02/08/2021 21:06:04]
+  sylv placed Hydroxyapatite in Deconstructor (ID: 230)
+[02/08/2021 21:06:04]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:06:05]
+  sylv activated Deconstructor
+[02/08/2021 21:06:12]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:06:15]
+  sylv: mmm paralyxsis
+[02/08/2021 21:06:19]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:06:21]
+  tomacatx1 picked up Fuel Rod
+[02/08/2021 21:06:25]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:06:25]
+  tomacatx1 picked up Fuel Rod
+[02/08/2021 21:06:25]
+  tomacatx1 dropped Fuel Rod
+[02/08/2021 21:06:25]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 228)
+[02/08/2021 21:06:25]
+  Outer wall repaired by superhands
+[02/08/2021 21:06:25]
+  sylv: oh is that why
+[02/08/2021 21:06:27]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[02/08/2021 21:06:28]
+  Inner wall repaired by tomacatx1
+[02/08/2021 21:06:30]
+  Carson Molina started repairing Battery
+[02/08/2021 21:06:31]
+  sylv: he just screams
+[02/08/2021 21:06:40]
+  sylv picked up Paralyxis
+[02/08/2021 21:06:44]
+  sylv picked up Paralyxis
+[02/08/2021 21:06:44]
+  Carson Molina started repairing Battery
+[02/08/2021 21:06:54]
+  superhands placed Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:06:57]
+  Console command "respawnnow" executed by tomacatx1.
+[02/08/2021 21:06:58]
+  Carson Molina started repairing Battery
+[02/08/2021 21:07:12]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:07:16]
+  tomacatx1 picked up 9mm Magazine
+[02/08/2021 21:07:20]
+  tomacatx1 placed 9mm Magazine in Tactical Backpack (ID: 7291)
+[02/08/2021 21:07:28]
+  sylv placed Paralyxis in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:07:28]
+  sylv placed Paralyxis in Large Steel Cabinet (ID: 291)
+[02/08/2021 21:07:29]
+  Carson Molina started repairing Large Engine
+[02/08/2021 21:07:31]
+  tomacatx1 equipped Storage Container
+[02/08/2021 21:07:31]
+  tomacatx1 picked up Storage Container
+[02/08/2021 21:07:34]
+  tomacatx1 placed 9mm Magazine (High-Capacity) in Handgun (Flashlight) (ID: 3743)
+[02/08/2021 21:07:38]
+  tomacatx1 placed Storage Container in Large Steel Cabinet (ID: 213)
+[02/08/2021 21:07:46]
+  Carson Molina started repairing Deconstructor
+[02/08/2021 21:07:47]
+  tomacatx1 placed Physicorium .357 Revolver Round in .357 Revolver (ID: 7283)
+[02/08/2021 21:07:49]
+  tomacatx1 placed .357 Revolver in Secure Steel Cabinet (ID: 215)
+[02/08/2021 21:07:50]
+  tomacatx1 placed .357 Revolver in Secure Steel Cabinet (ID: 215)
+[02/08/2021 21:07:50]
+  sylv placed Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:07:53]
+  sylv placed Oxygen Tank in Shearclaw Helmet (ID: 3766)
+[02/08/2021 21:07:53]
+  sylv removed Reinforced Oxygen Tank from Shearclaw Helmet (ID: 3766)
+[02/08/2021 21:07:53]
+  sylv placed Reinforced Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:07:58]
+  sylv placed Shearclaw Helmet in Medical Backpack (ID: 7368)
+[02/08/2021 21:07:58]
+  tomacatx1 equipped Wrench
+[02/08/2021 21:07:58]
+  tomacatx1 equipped Screwdriver
+[02/08/2021 21:07:59]
+  tomacatx1 started repairing Status Monitor
+[02/08/2021 21:08:02]
+  Carson Molina started repairing Battery Assembly
+[02/08/2021 21:08:09]
+  Carson Molina started repairing Micro SSL Loader
+[02/08/2021 21:08:10]
+  Console command "freecam" executed by tomacatx1.
+[02/08/2021 21:08:19]
+  Console command "respawnnow" executed by tomacatx1.
+[02/08/2021 21:08:23]
+  sylv equipped Biofoam Sprayer
+[02/08/2021 21:08:26]
+  Carson Molina started repairing Coilgun Loader
+[02/08/2021 21:08:31]
+  sylv: Carson Molina, wait there!
+[02/08/2021 21:08:32]
+  Carson Molina: Sure thing!
+[02/08/2021 21:08:38]
+  sylv: Carson Molina, you are dismissed!
+[02/08/2021 21:08:39]
+  Carson Molina: Sure thing!
+[02/08/2021 21:08:43]
+  Carson Molina started repairing Autocannon Loader
+[02/08/2021 21:08:43]
+  Console command "setclientcharacter terc terc" executed by tomacatx1.
+[02/08/2021 21:08:50]
+  Console command "revive terc" executed by tomacatx1.
+[02/08/2021 21:08:55]
+  Carson Molina started repairing Railgun Loader
+[02/08/2021 21:08:56]
+  sylv placed Medical Backpack in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:08:56]
+  sylv removed Toolbelt from Large Steel Cabinet (ID: 292)
+[02/08/2021 21:09:01]
+  Console command "giveaffliction "Burn " 1000 terc" executed by tomacatx1.
+[02/08/2021 21:09:01]
+  terc: god im so mad
+[02/08/2021 21:09:02]
+  Carson Molina: Her work has begun!
+[02/08/2021 21:09:03]
+  terc: im so mad
+[02/08/2021 21:09:06]
+  sylv picked up Toolbelt
+[02/08/2021 21:09:08]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:09:16]
+  sylv used item Body Scanner
+[02/08/2021 21:09:19]
+  sylv used item Scalpel
+[02/08/2021 21:09:20]
+  sylv used item Retractor
+[02/08/2021 21:09:22]
+  sylv used item Biofoam Injector (contained items: Biofoam Tank)
+[02/08/2021 21:09:26]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 21:09:26]
+  sylv used item Europan Worm
+[02/08/2021 21:09:28]
+  sylv used item Biofoam Injector (contained items: Biofoam Tank)
+[02/08/2021 21:09:33]
+  Console command "giveaffliction "Burn " 10000 terc" executed by tomacatx1.
+[02/08/2021 21:09:36]
+  terc: hi
+[02/08/2021 21:09:36]
+  sylv picked up Plastiseal
+[02/08/2021 21:09:36]
+  sylv picked up Plastiseal
+[02/08/2021 21:09:36]
+  sylv picked up Plastiseal
+[02/08/2021 21:09:36]
+  sylv picked up Plastiseal
+[02/08/2021 21:09:36]
+  sylv picked up Plastiseal
+[02/08/2021 21:09:36]
+  sylv picked up Plastiseal
+[02/08/2021 21:09:36]
+  sylv picked up Plastiseal
+[02/08/2021 21:09:36]
+  sylv picked up Plastiseal
+[02/08/2021 21:09:42]
+  Console command "control tomacatx1" executed by tomacatx1.
+[02/08/2021 21:09:50]
+  sylv used item Plastiseal
+[02/08/2021 21:09:59]
+  Inner wall repaired by tomacatx1
+[02/08/2021 21:09:59]
+  sylv used item Plastiseal
+[02/08/2021 21:10:02]
+  sylv used item Plastiseal
+[02/08/2021 21:10:11]
+  terc has died (Cause of death: Internal damage)
+[02/08/2021 21:10:16]
+  sylv: how
+[02/08/2021 21:10:17]
+  Console command "respawnnow" executed by tomacatx1.
+[02/08/2021 21:10:26]
+  sylv placed Toolbelt in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:10:28]
+  Console command "respawnnow" executed by tomacatx1.
+[02/08/2021 21:10:28]
+  Dispatching the respawn shuttle.
+[02/08/2021 21:10:28]
+  Respawning terc (82.118.14.16) as Explorer
+[02/08/2021 21:10:29]
+  terc set the value "Channel" of the item "Headset" to "0".
+[02/08/2021 21:10:34]
+  sylv picked up Medical Backpack
+[02/08/2021 21:10:37]
+  tomacatx1 equipped Duffel Bag
+[02/08/2021 21:10:38]
+  sylv placed Plastiseal in Medical Backpack (ID: 7368)
+[02/08/2021 21:10:38]
+  sylv placed Plastiseal in Medical Backpack (ID: 7368)
+[02/08/2021 21:10:38]
+  sylv placed Plastiseal in Medical Backpack (ID: 7368)
+[02/08/2021 21:10:38]
+  sylv placed Plastiseal in Medical Backpack (ID: 7368)
+[02/08/2021 21:10:38]
+  sylv placed Plastiseal in Medical Backpack (ID: 7368)
+[02/08/2021 21:10:42]
+  tomacatx1 dropped Duffel Bag
+[02/08/2021 21:10:43]
+  tomacatx1 unequipped 'Beast' SSL (Flashlight)
+[02/08/2021 21:10:45]
+  tomacatx1 dropped 'Beast' SSL (Flashlight)
+[02/08/2021 21:10:47]
+  sylv: Need someone to repair devices in medbay!
+[02/08/2021 21:10:47]
+  tomacatx1 equipped Crate Transport Mule
+[02/08/2021 21:10:49]
+  tomacatx1 dropped Crate Transport Mule
+[02/08/2021 21:10:56]
+  sylv: Carson Molina, repair mechanical systems!
+[02/08/2021 21:10:57]
+  Carson Molina: Copy that.
+[02/08/2021 21:10:57]
+  Console command "spawnitem "Tactical Backpack" inventory" executed by tomacatx1.
+[02/08/2021 21:10:57]
+  tomacatx1 equipped Tactical Backpack
+[02/08/2021 21:10:58]
+  Carson Molina started repairing Deconstructor
+[02/08/2021 21:11:00]
+  tomacatx1 dropped Tactical Backpack
+[02/08/2021 21:11:00]
+  terc equipped Abyss Diving Suit
+[02/08/2021 21:11:13]
+  Carson Molina started repairing Duct Block
+[02/08/2021 21:11:26]
+  Carson Molina started repairing Hatch with Buttons
+[02/08/2021 21:11:40]
+  sylv detached Surgery Bed from a wall
+[02/08/2021 21:11:40]
+  tomacatx1 placed Underwater Scooter in Tactical Backpack (ID: 7291)
+[02/08/2021 21:11:41]
+  sylv equipped Surgery Bed
+[02/08/2021 21:11:41]
+  terc equipped Flare Gun
+[02/08/2021 21:11:43]
+  sylv attached Surgery Bed to a wall
+[02/08/2021 21:11:43]
+  superhands attacked by sylv. Blunt force trauma: 2
+[02/08/2021 21:11:43]
+  sylv used Wrench on superhands.
+[02/08/2021 21:11:50]
+  tomacatx1 unequipped Surgery Bed
+[02/08/2021 21:11:50]
+  tomacatx1 detached Surgery Bed from a wall
+[02/08/2021 21:11:50]
+  tomacatx1 detached Surgery Bed from a wall
+[02/08/2021 21:11:50]
+  sylv: get on the bed :3
+[02/08/2021 21:11:52]
+  tomacatx1 equipped Surgery Bed
+[02/08/2021 21:11:52]
+  Carson Molina started repairing Pump
+[02/08/2021 21:11:54]
+  tomacatx1 attached Surgery Bed to a wall
+[02/08/2021 21:12:02]
+  superhands: silence
+[02/08/2021 21:12:03]
+  sylv placed Medical Backpack in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:12:03]
+  sylv removed Toolbelt from Large Steel Cabinet (ID: 292)
+[02/08/2021 21:12:04]
+  Carson Molina started repairing Fabricator
+[02/08/2021 21:12:21]
+  Carson Molina started repairing Pump
+[02/08/2021 21:12:30]
+  sylv picked up Plastiseal
+[02/08/2021 21:12:30]
+  sylv picked up Plastiseal
+[02/08/2021 21:12:32]
+  sylv picked up Splinting Kit
+[02/08/2021 21:12:32]
+  sylv picked up Splinting Kit
+[02/08/2021 21:12:32]
+  sylv picked up Splinting Kit
+[02/08/2021 21:12:32]
+  sylv picked up Splinting Kit
+[02/08/2021 21:12:32]
+  sylv picked up Splinting Kit
+[02/08/2021 21:12:36]
+  Carson Molina started repairing Fabricator
+[02/08/2021 21:12:37]
+  sylv used item Plastiseal
+[02/08/2021 21:12:40]
+  sylv used item Splinting Kit
+[02/08/2021 21:12:41]
+  terc equipped Underwater Scooter
+[02/08/2021 21:12:43]
+  terc opened Custom Windowed Door
+[02/08/2021 21:12:46]
+  The respawn shuttle is leaving.
+[02/08/2021 21:12:47]
+  sylv used item Plastiseal
+[02/08/2021 21:12:52]
+  Carson Molina started repairing Medical Fabricator
+[02/08/2021 21:13:08]
+  sylv picked up Toolbelt
+[02/08/2021 21:13:11]
+  sylv placed Toolbelt in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:13:14]
+  sylv picked up Medical Backpack
+[02/08/2021 21:13:17]
+  Carson Molina started repairing Door with Buttons
+[02/08/2021 21:13:27]
+  sylv placed Splinting Kit in Medicine Cabinet (ID: 280)
+[02/08/2021 21:13:28]
+  terc placed Battery Cell in Long Range Radio (ID: 3015)
+[02/08/2021 21:13:28]
+  terc placed Battery Cell in Long Range Radio (ID: 3015)
+[02/08/2021 21:13:31]
+  terc: HI GUYS
+[02/08/2021 21:13:34]
+  Carson Molina started repairing Door with Buttons
+[02/08/2021 21:13:34]
+  terc: IM IN THE VOID
+[02/08/2021 21:13:37]
+  sylv: someone took all my plastiseal
+[02/08/2021 21:13:39]
+  Carson Molina started repairing Door with Buttons
+[02/08/2021 21:13:46]
+  Carson Molina started repairing Door with Buttons
+[02/08/2021 21:13:51]
+  sylv: like 16 plasti, gone.
+[02/08/2021 21:13:54]
+  Carson Molina started repairing Duct Block
+[02/08/2021 21:14:00]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:14:00]
+  terc: explorer.
+[02/08/2021 21:14:02]
+  terc: no.
+[02/08/2021 21:14:12]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:14:15]
+  terc: but i was set up
+[02/08/2021 21:14:20]
+  The respawn shuttle has left.
+[02/08/2021 21:14:21]
+  terc: i had my deafult things
+[02/08/2021 21:14:22]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:14:27]
+  terc: security guard- engineer- mechanic
+[02/08/2021 21:14:32]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:14:33]
+  terc placed Abyss Diving Suit in Diving Suit Locker (ID: 1099)
+[02/08/2021 21:14:44]
+  terc: ill wait
+[02/08/2021 21:14:47]
+  terc: hghghgh
+[02/08/2021 21:14:53]
+  Carson Molina started repairing Oxygen Generator
+[02/08/2021 21:14:54]
+  terc dropped Underwater Scooter
+[02/08/2021 21:14:57]
+  sylv: get a sachel thing and kill yourself
+[02/08/2021 21:14:59]
+  tomacatx1 unequipped Underwater Scooter
+[02/08/2021 21:15:10]
+  tomacatx1 placed Underwater Scooter in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:15:12]
+  tomacatx1 placed Underwater Scooter in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:15:13]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:15:18]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:15:19]
+  terc picked up Tactical Backpack
+[02/08/2021 21:15:24]
+  tomacatx1 dropped Crate Transport Mule
+[02/08/2021 21:15:25]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:15:28]
+  terc: ALL OF IT DESPAAAAAAAAAAAWNED
+[02/08/2021 21:15:31]
+  terc: I HAD LIKE 2
+[02/08/2021 21:15:32]
+  tomacatx1 placed Underwater Scooter in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:15:32]
+  terc: I
+[02/08/2021 21:15:33]
+  terc: H
+[02/08/2021 21:15:34]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:15:34]
+  terc: HI
+[02/08/2021 21:15:40]
+  sylv placed Splinting Kit in Medicine Cabinet (ID: 280)
+[02/08/2021 21:15:40]
+  sylv placed Splinting Kit in Medicine Cabinet (ID: 280)
+[02/08/2021 21:15:40]
+  sylv placed Splinting Kit in Medicine Cabinet (ID: 280)
+[02/08/2021 21:15:40]
+  sylv placed Splinting Kit in Medicine Cabinet (ID: 280)
+[02/08/2021 21:15:41]
+  terc: fffffffffffgggggggggggg
+[02/08/2021 21:15:41]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:15:47]
+  sylv placed Anaparalyzant in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:15:47]
+  sylv placed Anaparalyzant in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:15:47]
+  sylv placed Anaparalyzant in Large Steel Cabinet (ID: 292)
+[02/08/2021 21:15:48]
+  terc: i took off my suit
+[02/08/2021 21:15:48]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:15:51]
+  terc: cause of a fucking killbind
+[02/08/2021 21:15:53]
+  terc: out in the open
+[02/08/2021 21:15:55]
+  terc: i didnt mean to
+[02/08/2021 21:15:56]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:16:01]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:16:02]
+  terc: i dont
+[02/08/2021 21:16:08]
+  terc: theres just a sequence of buttons
+[02/08/2021 21:16:10]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:16:11]
+  terc: i pressed in order
+[02/08/2021 21:16:17]
+  sylv picked up Sprayer
+[02/08/2021 21:16:18]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:16:20]
+  terc: that stripped the suit off of me
+[02/08/2021 21:16:22]
+  terc: and dropped it
+[02/08/2021 21:16:23]
+  tomacatx1 picked up Battery Cell
+[02/08/2021 21:16:23]
+  tomacatx1 picked up Battery Cell
+[02/08/2021 21:16:23]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:16:23]
+  sylv placed Sprayer in Material Storage Locker (ID: 1712)
+[02/08/2021 21:16:27]
+  tomacatx1 picked up Battery Cell
+[02/08/2021 21:16:27]
+  tomacatx1 dropped Battery Cell
+[02/08/2021 21:16:27]
+  tomacatx1 placed Battery Cell in Underwater Scooter (ID: 7494)
+[02/08/2021 21:16:30]
+  tomacatx1 placed Battery Cell in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:16:30]
+  tomacatx1 removed Battery Cell from Large Steel Cabinet (ID: 373)
+[02/08/2021 21:16:30]
+  tomacatx1 placed Battery Cell in Underwater Scooter (ID: 3402)
+[02/08/2021 21:16:31]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:16:32]
+  tomacatx1 placed Battery Cell in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:16:32]
+  tomacatx1 removed Battery Cell from Large Steel Cabinet (ID: 373)
+[02/08/2021 21:16:32]
+  tomacatx1 placed Battery Cell in Underwater Scooter (ID: 3402)
+[02/08/2021 21:16:33]
+  terc picked up Abyss Diving Suit
+[02/08/2021 21:16:34]
+  tomacatx1 placed Battery Cell in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:16:34]
+  tomacatx1 removed Battery Cell from Large Steel Cabinet (ID: 373)
+[02/08/2021 21:16:34]
+  tomacatx1 placed Battery Cell in Underwater Scooter (ID: 7284)
+[02/08/2021 21:16:36]
+  tomacatx1 picked up Battery Cell
+[02/08/2021 21:16:37]
+  tomacatx1 picked up Battery Cell
+[02/08/2021 21:16:37]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:16:46]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:16:52]
+  tomacatx1 placed Battery Cell in Battery (ID: 486)
+[02/08/2021 21:16:52]
+  tomacatx1 placed Battery Cell in Battery (ID: 486)
+[02/08/2021 21:16:53]
+  tomacatx1 placed Battery Cell in Battery (ID: 486)
+[02/08/2021 21:16:53]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:16:55]
+  tomacatx1 placed Battery Cell in Battery (ID: 484)
+[02/08/2021 21:16:56]
+  tomacatx1 picked up Battery Cell
+[02/08/2021 21:17:00]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:17:01]
+  tomacatx1 picked up Battery Cell
+[02/08/2021 21:17:01]
+  tomacatx1 picked up Battery Cell
+[02/08/2021 21:17:05]
+  sylv: i told the mechanic to fix shit and my fabricator is still fucked
+[02/08/2021 21:17:06]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:17:09]
+  sylv started repairing Medical Fabricator
+[02/08/2021 21:17:13]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:17:21]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:17:21]
+  tomacatx1 equipped Hand Truck
+[02/08/2021 21:17:23]
+  tomacatx1 dropped Hand Truck
+[02/08/2021 21:17:25]
+  tomacatx1 equipped Artifact Container
+[02/08/2021 21:17:28]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:17:29]
+  terc dropped Abyss Diving Suit
+[02/08/2021 21:17:31]
+  terc equipped 'Beast' SSL (Flashlight)
+[02/08/2021 21:17:34]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:34]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:34]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:34]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:34]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:34]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:34]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:34]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:35]
+  terc: 1 sec
+[02/08/2021 21:17:35]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:35]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:35]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:35]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:35]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:35]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:35]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:35]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:36]
+  sylv picked up Alien Blood
+[02/08/2021 21:17:36]
+  sylv picked up Alien Blood
+[02/08/2021 21:17:38]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:38]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:38]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:38]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:38]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:38]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:38]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:38]
+  sylv placed Raptor Bane in Medical Fabricator (ID: 281)
+[02/08/2021 21:17:40]
+  sylv picked up Opium
+[02/08/2021 21:17:41]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:17:42]
+  terc placed 'Beast' SSL (Flashlight) in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:17:45]
+  terc: i had like
+[02/08/2021 21:17:47]
+  tomacatx1 dropped Artifact Container
+[02/08/2021 21:17:47]
+  terc: so many stacks
+[02/08/2021 21:17:50]
+  terc: of fc clips
+[02/08/2021 21:17:50]
+  sylv equipped Storage Container
+[02/08/2021 21:17:50]
+  sylv picked up Storage Container
+[02/08/2021 21:17:51]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:17:51]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[02/08/2021 21:17:51]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[02/08/2021 21:17:51]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[02/08/2021 21:17:51]
+  sylv placed Bandage in Medicine Cabinet (ID: 280)
+[02/08/2021 21:17:52]
+  terc: in my backpack
+[02/08/2021 21:17:52]
+  sylv placed Storage Container in Medicine Cabinet (ID: 280)
+[02/08/2021 21:17:53]
+  terc: and suit
+[02/08/2021 21:17:58]
+  sylv picked up Bandage
+[02/08/2021 21:17:58]
+  sylv picked up Bandage
+[02/08/2021 21:17:58]
+  sylv picked up Bandage
+[02/08/2021 21:17:58]
+  sylv picked up Bandage
+[02/08/2021 21:17:59]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:17:59]
+  terc: i had so much 
+[02/08/2021 21:17:59]
+  tomacatx1 picked up Abyss Diving Suit
+[02/08/2021 21:18:06]
+  Carson Molina: Ever seen one of those things that guard the ruins?
+[02/08/2021 21:18:07]
+  sylv: dont have so much shit
+[02/08/2021 21:18:09]
+  terc picked up Ion Pulse Cutter
+[02/08/2021 21:18:10]
+  terc equipped Ion Pulse Cutter
+[02/08/2021 21:18:15]
+  sylv placed Bandage in Medical Fabricator (ID: 281)
+[02/08/2021 21:18:15]
+  sylv placed Bandage in Medical Fabricator (ID: 281)
+[02/08/2021 21:18:15]
+  sylv placed Bandage in Medical Fabricator (ID: 281)
+[02/08/2021 21:18:15]
+  sylv placed Bandage in Medical Fabricator (ID: 281)
+[02/08/2021 21:18:15]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:18:16]
+  tomacatx1 placed Abyss Diving Suit in Diving Suit Locker (ID: 1099)
+[02/08/2021 21:18:16]
+  terc placed Ion Pulse Cutter in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:18:17]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:18:18]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:18:18]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:18:20]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:18:20]
+  tomacatx1 dropped Oxygen Tank
+[02/08/2021 21:18:20]
+  tomacatx1 placed Oxygen Tank in Abyss Diving Suit (ID: 2476)
+[02/08/2021 21:18:21]
+  sylv started fabricating Plastiseal in Medical Fabricator
+[02/08/2021 21:18:22]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:18:22]
+  tomacatx1 dropped Oxygen Tank
+[02/08/2021 21:18:22]
+  tomacatx1 placed Oxygen Tank in Abyss Diving Suit (ID: 3067)
+[02/08/2021 21:18:23]
+  terc: welp
+[02/08/2021 21:18:24]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:18:26]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:18:26]
+  tomacatx1 dropped Oxygen Tank
+[02/08/2021 21:18:26]
+  tomacatx1 placed Oxygen Tank in Utility Mk-I Hardsuit (ID: 1472)
+[02/08/2021 21:18:29]
+  terc: off to kill myself
+[02/08/2021 21:18:40]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:18:43]
+  tomacatx1 placed Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:18:43]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:18:43]
+  tomacatx1 dropped Oxygen Tank
+[02/08/2021 21:18:43]
+  tomacatx1 placed Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:18:45]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:18:45]
+  tomacatx1 dropped Oxygen Tank
+[02/08/2021 21:18:45]
+  tomacatx1 placed Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:18:46]
+  terc has died (Cause of death: Barotrauma)
+[02/08/2021 21:18:46]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:18:47]
+  tomacatx1 placed Oxygen Tank in Tactical Backpack (ID: 7291)
+[02/08/2021 21:18:47]
+  tomacatx1 removed Reinforced Oxygen Tank from Tactical Backpack (ID: 7291)
+[02/08/2021 21:18:47]
+  tomacatx1 placed Reinforced Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:18:55]
+  Carson Molina started repairing Battery
+[02/08/2021 21:19:03]
+  sylv picked up Plastiseal
+[02/08/2021 21:19:03]
+  sylv picked up Plastiseal
+[02/08/2021 21:19:04]
+  sylv started fabricating Plastiseal in Medical Fabricator
+[02/08/2021 21:19:05]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 1098)
+[02/08/2021 21:19:05]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 1098)
+[02/08/2021 21:19:07]
+  Carson Molina started repairing Battery
+[02/08/2021 21:19:07]
+  tomacatx1 picked up Abyss Diving Suit
+[02/08/2021 21:19:09]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 21:19:09]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 21:19:15]
+  Carson Molina started repairing Battery
+[02/08/2021 21:19:16]
+  sylv placed Opium in Toxin Cabinet (ID: 944)
+[02/08/2021 21:19:16]
+  terc has left the server. Reason: terc has disconnected.
+[02/08/2021 21:19:22]
+  Carson Molina started repairing Battery
+[02/08/2021 21:19:30]
+  sylv: i wonder what raw opium tastes like
+[02/08/2021 21:19:31]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:19:31]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:19:36]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:19:37]
+  sylv picked up Plastiseal
+[02/08/2021 21:19:37]
+  sylv picked up Plastiseal
+[02/08/2021 21:19:42]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 21:19:42]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 280)
+[02/08/2021 21:19:44]
+  tomacatx1 picked up Diving Suit
+[02/08/2021 21:19:44]
+  tomacatx1 dropped Abyss Diving Suit
+[02/08/2021 21:19:44]
+  tomacatx1 placed Abyss Diving Suit in Diving Suit Locker (ID: 958)
+[02/08/2021 21:19:44]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:19:50]
+  sylv: swag
+[02/08/2021 21:19:53]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:20:03]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:20:10]
+  terc has joined the server.
+[02/08/2021 21:20:10]
+  Saving client permissions
+[02/08/2021 21:20:15]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:20:15]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:20:22]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:20:22]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:20:22]
+  Carson Molina equipped Welding Tool
+[02/08/2021 21:20:22]
+  Outer wall repaired by Carson Molina
+[02/08/2021 21:20:23]
+  sylv: gonna move the suit to upper med
+[02/08/2021 21:20:23]
+  sylv unequipped Wrench
+[02/08/2021 21:20:23]
+  sylv equipped Diving Suit Locker
+[02/08/2021 21:20:23]
+  sylv detached Diving Suit Locker from a wall
+[02/08/2021 21:20:25]
+  tomacatx1 dropped Diving Suit
+[02/08/2021 21:20:28]
+  Carson Molina unequipped Welding Tool
+[02/08/2021 21:20:28]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:20:32]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:20:37]
+  tomacatx1 placed Battery Cell in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:20:37]
+  tomacatx1 placed Battery Cell in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:20:37]
+  tomacatx1 placed Battery Cell in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:20:39]
+  Carson Molina started repairing LRS Monitor
+[02/08/2021 21:20:42]
+  sylv attached Diving Suit Locker to a wall
+[02/08/2021 21:20:51]
+  sylv equipped Wrench
+[02/08/2021 21:20:54]
+  Carson Molina started repairing Navigation Terminal
+[02/08/2021 21:20:55]
+  tomacatx1 dropped Duffel Bag
+[02/08/2021 21:21:02]
+  sylv unequipped Wrench
+[02/08/2021 21:21:02]
+  sylv equipped Oxygen Tank Shelf
+[02/08/2021 21:21:02]
+  sylv detached Oxygen Tank Shelf from a wall
+[02/08/2021 21:21:05]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:21:11]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:21:11]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:21:12]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:21:12]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:21:15]
+  sylv attached Oxygen Tank Shelf to a wall
+[02/08/2021 21:21:19]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:21:19]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:21:31]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:21:40]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:21:40]
+  Carson Molina: Can't find the tools to do the repairs!
+[02/08/2021 21:21:44]
+  tomacatx1 placed Strange Egg in Material Storage Locker (ID: 1493)
+[02/08/2021 21:21:48]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:21:48]
+  Carson Molina equipped Welding Tool
+[02/08/2021 21:21:48]
+  Outer wall repaired by Carson Molina
+[02/08/2021 21:21:54]
+  sylv detached Switch from a wall
+[02/08/2021 21:21:56]
+  Carson Molina unequipped Welding Tool
+[02/08/2021 21:22:03]
+  sylv picked up Red Wire
+[02/08/2021 21:22:03]
+  sylv picked up Red Wire
+[02/08/2021 21:22:03]
+  sylv picked up Red Wire
+[02/08/2021 21:22:03]
+  tomacatx1 placed Oxygen Tank in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:22:03]
+  tomacatx1 placed Oxygen Tank in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:22:03]
+  tomacatx1 placed Oxygen Tank in Large Steel Cabinet (ID: 373)
+[02/08/2021 21:22:08]
+  sylv equipped Switch
+[02/08/2021 21:22:11]
+  Carson Molina equipped Reinforced Oxygen Tank
+[02/08/2021 21:22:15]
+  Carson Molina unequipped Reinforced Oxygen Tank
+[02/08/2021 21:22:15]
+  Carson Molina equipped Wrench
+[02/08/2021 21:22:15]
+  Carson Molina unequipped Wrench
+[02/08/2021 21:22:15]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:22:15]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:22:15]
+  Carson Molina equipped Welding Tool
+[02/08/2021 21:22:16]
+  Carson Molina unequipped Welding Tool
+[02/08/2021 21:22:16]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 1098)
+[02/08/2021 21:22:16]
+  tomacatx1 removed Oxygen Tank from Oxygen Tank Shelf (ID: 1098)
+[02/08/2021 21:22:16]
+  tomacatx1 placed Oxygen Tank in Diving Mask (ID: 7357)
+[02/08/2021 21:22:16]
+  sylv attached Switch to a wall
+[02/08/2021 21:22:20]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 1098)
+[02/08/2021 21:22:20]
+  tomacatx1 picked up Oxygen Tank
+[02/08/2021 21:22:23]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 1091)
+[02/08/2021 21:22:26]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 1079)
+[02/08/2021 21:22:28]
+  tomacatx1 placed Oxygen Tank in Oxygen Tank Shelf (ID: 1098)
+[02/08/2021 21:22:29]
+  tomacatx1 picked up 9mm Magazine
+[02/08/2021 21:22:30]
+  sylv equipped Red Wire
+[02/08/2021 21:22:34]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:22:40]
+  tomacatx1 placed Oxygen Tank in Oxygen Generator (ID: 871)
+[02/08/2021 21:22:41]
+  sylv connected a wire to Diving Suit Locker (power_in)
+[02/08/2021 21:22:42]
+  Carson Molina started repairing Junction Box
+[02/08/2021 21:22:49]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:22:49]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:23:01]
+  Carson Molina started repairing Status Monitor
+[02/08/2021 21:23:08]
+  tomacatx1 placed Oxygen Tank in Tactical Backpack (ID: 7291)
+[02/08/2021 21:23:08]
+  Carson Molina started repairing Sonar Monitor
+[02/08/2021 21:23:17]
+  Carson Molina: I can't find the item I need.
+[02/08/2021 21:23:17]
+  Carson Molina: I don't have the tools for the repairs!
+[02/08/2021 21:23:18]
+  Carson Molina unequipped Screwdriver
+[02/08/2021 21:23:27]
+  Console command "freecam" executed by tomacatx1.
+[02/08/2021 21:23:30]
+  Carson Molina equipped Screwdriver
+[02/08/2021 21:23:38]
+  Carson Molina started repairing Supercapacitor
+[02/08/2021 21:23:45]
+  Console command "setclientcharacter terc terc" executed by tomacatx1.
+[02/08/2021 21:23:48]
+  Carson Molina started repairing LRS Monitor

@@ -20,7 +20,7 @@
   aimassistamount="0.49999997"
   enablemouselook="true"
   radialdistortion="true"
-  chatopen="false"
+  chatopen="true"
   crewmenuopen="true"
   campaigndisclaimershown="true"
   editordisclaimershown="true"
@@ -49,7 +49,7 @@
     usedirectionalvoicechat="true"
     voicesetting="PushToTalk"
     audiooutputdevice="OpenAL_x0020_Soft_x0020_on_x0020_Speakers_x0020__x0028_High_x0020_Definition_x0020_Audio_x0020_Device_x0029_"
-    voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_Microphone_x0020__x0028_Yeti_x0020_Stereo_x0020_Microphone_x0029_"
+    voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_CABLE_x0020_Output_x0020__x0028_VB-Audio_x0020_Virtual_x0020_Cable_x0029_"
     noisegatethreshold="-45"
     uselocalvoicebydefault="false" />
   <graphicssettings
@@ -248,7 +248,11 @@
     modded="Any" />
   <editorimages />
   <gameplay>
-    <jobpreferences />
+    <jobpreferences>
+      <job
+        identifier="officer"
+        variant="0" />
+    </jobpreferences>
   </gameplay>
   <player
     name="superhands"
@@ -263,7 +267,7 @@
   <ignoredhints
     identifiers="onstartedinteracting.item.gunloader,onafflictiondisplayed,onadjacenthull.highpressure,onadjacenthull.highwaterpercentage,onstartedinteracting.turretperiscope,onsonarspottedenemy,onstartedinteracting.item.navterminal,reminder.tabmenu,onshootwithoutaiming,onstartedcontrolling.job.securityofficer,onstartedcontrolling.job.assistant,onrepairfailed,onstartedinteracting.item.fabricator,reminder.commandinterface,onstartedinteracting.item.reactor,oncharacterunconscious,onstartedcontrolling.job.engineer,onstartedcontrolling.job.mechanic,onstartedinteracting.item.deconstructor,onstartedinteracting.lootingisstealing,onstartedinteracting.brokenitem" />
   <encountered
-    creatures="human,mudraptor,spineling,crawler,mudraptor_hatchling,swarmcrawler,husk,humanhusk,gundrone,ekdronerallybeacon,humanapostle,humanhive,ramblin,maggot,watcher,crawlerhusk,hammerheadgold,hammerhead,mudraptor_unarmored,peanut,terminalcell,moloch,endworm,moloch_m,charybdis,tigerthresher,bonethresher,crawler_hatchling,hammerheadmatriarch,hammerheadspawn,leucocyte" />
+    creatures="human,mudraptor,spineling,crawler,mudraptor_hatchling,swarmcrawler,husk,humanhusk,gundrone,ekdronerallybeacon,humanapostle,humanhive,ramblin,maggot,watcher,crawlerhusk,hammerheadgold,hammerhead,mudraptor_unarmored,peanut,terminalcell,moloch,endworm,moloch_m,charybdis,tigerthresher,bonethresher,crawler_hatchling,hammerheadmatriarch,hammerheadspawn,leucocyte,walkerdrone" />
   <killed
-    creatures="human,crawler,husk,humanapostle,humanhive,ramblin,maggot,moloch,moloch_m,hammerhead,spineling,mudraptor,tigerthresher,bonethresher" />
+    creatures="human,crawler,husk,humanapostle,humanhive,ramblin,maggot,moloch,moloch_m,hammerhead,spineling,mudraptor,tigerthresher,bonethresher,terminalcell" />
 </config>

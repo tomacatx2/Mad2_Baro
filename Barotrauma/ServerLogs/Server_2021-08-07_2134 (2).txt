@@ -1,0 +1,1600 @@
+﻿[07/08/2021 21:15:55]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:15:55]
+  tomacatx1 equipped Welding Tool
+[07/08/2021 21:15:56]
+  sylv placed Armored Hawaiian Shirt in Tactical Backpack (ID: 2490)
+[07/08/2021 21:15:59]
+  sylv placed Armored Hawaiian Shirt in Tactical Backpack (ID: 2490)
+[07/08/2021 21:16:00]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:16:03]
+  sylv placed Face Mask in Tactical Backpack (ID: 2490)
+[07/08/2021 21:16:03]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:16:03]
+  Carson Molina equipped Wrench
+[07/08/2021 21:16:05]
+  sylv placed Face Mask in Tactical Backpack (ID: 2490)
+[07/08/2021 21:16:06]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:16:06]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:16:07]
+  sylv equipped SMG
+[07/08/2021 21:16:11]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:16:12]
+  sylv unequipped SMG
+[07/08/2021 21:16:12]
+  sylv equipped Mk-I Walker Drone
+[07/08/2021 21:16:15]
+  terc: amognus
+[07/08/2021 21:16:25]
+  sylv attacked by terc. Internal damage: 5 Lacerations: 5.46875 Stun: 0.1
+[07/08/2021 21:16:25]
+  terc used Captain's Sabre on sylv.
+[07/08/2021 21:16:25]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 21:16:26]
+  tomacatx1 equipped Screwdriver
+[07/08/2021 21:16:29]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 21:16:33]
+  terc equipped Rubber Chicken
+[07/08/2021 21:16:34]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:16:40]
+  terc dropped Captain's Sabre
+[07/08/2021 21:16:41]
+  terc picked up Rubber Chicken
+[07/08/2021 21:16:42]
+  terc equipped Rubber Chicken
+[07/08/2021 21:16:42]
+  sylv dropped Mk-I Walker Drone
+[07/08/2021 21:16:58]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:17:01]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:17:01]
+  Carson Molina equipped Wrench
+[07/08/2021 21:17:02]
+  sylv dropped Mk-I Walker Drone
+[07/08/2021 21:17:05]
+  sylv equipped Storage Container
+[07/08/2021 21:17:05]
+  sylv picked up Storage Container
+[07/08/2021 21:17:07]
+  sylv placed Welding Fuel Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:07]
+  sylv placed Welding Fuel Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:07]
+  sylv placed Welding Fuel Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:07]
+  sylv placed Welding Fuel Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:07]
+  sylv placed Welding Fuel Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:07]
+  sylv placed Welding Fuel Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:07]
+  sylv placed Welding Fuel Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:07]
+  sylv placed Welding Fuel Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:08]
+  Inner wall repaired by terc
+[07/08/2021 21:17:10]
+  Carson Molina started repairing Oxygen Generator
+[07/08/2021 21:17:10]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:10]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:10]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:10]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:10]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:10]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:10]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:10]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:12]
+  tomacatx1 picked up Plasma Cutter
+[07/08/2021 21:17:12]
+  tomacatx1 equipped Plasma Cutter
+[07/08/2021 21:17:13]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:17:13]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:17:13]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:13]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:13]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:13]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:13]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:13]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:13]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:13]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:16]
+  sylv placed Storage Container in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:17:18]
+  sylv: so much shit
+[07/08/2021 21:17:22]
+  sylv equipped Seed Bag
+[07/08/2021 21:17:22]
+  sylv picked up Seed Bag
+[07/08/2021 21:17:26]
+  Carson Molina started repairing Battery
+[07/08/2021 21:17:26]
+  sylv: no...
+[07/08/2021 21:17:30]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:17:30]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:17:31]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:17:31]
+  Inner wall repaired by tomacatx1
+[07/08/2021 21:17:35]
+  sylv: i just want the shirts
+[07/08/2021 21:17:39]
+  sylv placed Salt Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:39]
+  sylv placed Salt Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:39]
+  sylv placed Salt Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:39]
+  sylv placed Salt Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:39]
+  sylv placed Salt Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:39]
+  sylv placed Salt Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:39]
+  sylv placed Salt Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:39]
+  sylv placed Salt Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:41]
+  sylv placed Seed Bag in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:17:42]
+  sylv equipped Seed Bag
+[07/08/2021 21:17:42]
+  sylv picked up Seed Bag
+[07/08/2021 21:17:46]
+  sylv placed Tobacco Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:46]
+  sylv placed Tobacco Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:46]
+  sylv placed Tobacco Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:46]
+  sylv placed Tobacco Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:46]
+  sylv placed Tobacco Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:46]
+  sylv placed Tobacco Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:46]
+  sylv placed Tobacco Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:46]
+  sylv placed Tobacco Vine Seed in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:49]
+  sylv placed Seed Bag in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:17:49]
+  sylv equipped Seed Bag
+[07/08/2021 21:17:49]
+  sylv picked up Seed Bag
+[07/08/2021 21:17:54]
+  sylv placed Seed Bag in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:17:56]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:56]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:56]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:56]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:56]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:56]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:56]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:56]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:57]
+  Inner wall repaired by terc
+[07/08/2021 21:17:58]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:58]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:58]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:58]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:58]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:58]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:58]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:17:58]
+  sylv placed Fertilizer in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:00]
+  sylv removed Tobacco Vine Seed from Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:00]
+  sylv removed Tobacco Vine Seed from Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:00]
+  sylv removed Tobacco Vine Seed from Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:00]
+  sylv removed Tobacco Vine Seed from Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:00]
+  sylv removed Tobacco Vine Seed from Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:00]
+  sylv removed Tobacco Vine Seed from Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:00]
+  sylv removed Tobacco Vine Seed from Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:00]
+  sylv removed Tobacco Vine Seed from Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:20]
+  terc picked up Storage Container
+[07/08/2021 21:18:23]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 21:18:23]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 21:18:23]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 21:18:23]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 21:18:24]
+  terc placed Storage Container in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:18:25]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 5530)
+[07/08/2021 21:18:27]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 5592)
+[07/08/2021 21:18:27]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 5592)
+[07/08/2021 21:18:27]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 5592)
+[07/08/2021 21:18:29]
+  tomacatx1 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[07/08/2021 21:18:30]
+  tomacatx1 adjusted reactor settings: Temperature: 51, Fission rate: 2, Turbine output: 0, Autotemp ON
+[07/08/2021 21:18:32]
+  terc removed Oxygen Tank from Abyss Diving Suit (ID: 2451)
+[07/08/2021 21:18:34]
+  terc placed Oxygen Tank in Abyss Diving Suit (ID: 2451)
+[07/08/2021 21:18:34]
+  tomacatx1 equipped Wrench
+[07/08/2021 21:18:35]
+  tomacatx1 started repairing Pump
+[07/08/2021 21:18:41]
+  sylv placed Magic Hat in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:45]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:18:50]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:18:50]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 21:18:50]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:18:50]
+  Carson Molina equipped Wrench
+[07/08/2021 21:18:51]
+  sylv placed Steel Bar in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:51]
+  sylv placed Steel Bar in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:51]
+  sylv placed Steel Bar in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:51]
+  sylv placed Steel Bar in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:51]
+  sylv placed Steel Bar in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:51]
+  sylv placed Steel Bar in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:51]
+  sylv placed Steel Bar in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:53]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:18:53]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:18:54]
+  sylv placed Titanium-Aluminum Alloy in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:54]
+  sylv placed Titanium-Aluminum Alloy in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:54]
+  sylv placed Titanium-Aluminum Alloy in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:54]
+  sylv placed Titanium-Aluminum Alloy in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:54]
+  sylv placed Titanium-Aluminum Alloy in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:54]
+  sylv placed Titanium-Aluminum Alloy in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:54]
+  sylv placed Titanium-Aluminum Alloy in Tactical Backpack (ID: 2490)
+[07/08/2021 21:18:56]
+  tomacatx1 started repairing Pump
+[07/08/2021 21:18:56]
+  Carson Molina started repairing Battery
+[07/08/2021 21:18:59]
+  terc: hold on yeah let me just throw out my 20% oxy tank and replace it because i just happen to have 2 billion of the damn things
+[07/08/2021 21:19:03]
+  tomacatx1 dropped Wire
+[07/08/2021 21:19:03]
+  tomacatx1 connected a wire to Pump (power_in)
+[07/08/2021 21:19:07]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:19:16]
+  tomacatx1 started repairing Pump
+[07/08/2021 21:19:19]
+  superhands picked up Underwater Scooter
+[07/08/2021 21:19:19]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 21:19:26]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:19:26]
+  superhands: fucki9ng hellm
+[07/08/2021 21:19:29]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:19:35]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:19:39]
+  Outer wall repaired by terc
+[07/08/2021 21:19:40]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:19:40]
+  Outer wall repaired by terc
+[07/08/2021 21:19:45]
+  Outer wall repaired by terc
+[07/08/2021 21:19:47]
+  superhands picked up Abyss Diving Suit
+[07/08/2021 21:19:49]
+  superhands picked up Oxygen Tank
+[07/08/2021 21:19:49]
+  superhands picked up Oxygen Tank
+[07/08/2021 21:19:50]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 21:19:50]
+  Outer wall repaired by terc
+[07/08/2021 21:19:51]
+  superhands picked up Oxygen Tank
+[07/08/2021 21:19:51]
+  Outer wall repaired by terc
+[07/08/2021 21:19:52]
+  tomacatx1 started repairing Nuclear Reactor
+[07/08/2021 21:19:53]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:19:56]
+  superhands equipped Underwater Scooter
+[07/08/2021 21:20:05]
+  Outer wall repaired by terc
+[07/08/2021 21:20:05]
+  Outer wall repaired by terc
+[07/08/2021 21:20:18]
+  sylv dropped Oxygen Tank
+[07/08/2021 21:20:21]
+  sylv picked up Giant Dad Mask
+[07/08/2021 21:20:28]
+  Inner wall repaired by tomacatx1
+[07/08/2021 21:20:29]
+  terc unequipped Welding Tool
+[07/08/2021 21:20:29]
+  terc equipped Mk-I Walker Drone
+[07/08/2021 21:20:36]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:20:40]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:20:40]
+  Carson Molina equipped Wrench
+[07/08/2021 21:20:41]
+  sylv: what the fuck
+[07/08/2021 21:20:41]
+  terc: there it goes
+[07/08/2021 21:20:43]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:20:43]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:20:49]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 21:20:55]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:20:58]
+  Inner wall repaired by tomacatx1
+[07/08/2021 21:20:59]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:20:59]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:20:59]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:21:01]
+  Console command "freecam" executed by tomacatx1.
+[07/08/2021 21:21:02]
+  sylv equipped Storage Container
+[07/08/2021 21:21:02]
+  sylv picked up Storage Container
+[07/08/2021 21:21:05]
+  sylv placed Revolver in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:06]
+  Console command "control tomacatx1" executed by tomacatx1.
+[07/08/2021 21:21:09]
+  terc equipped Drone Attack Beacon
+[07/08/2021 21:21:09]
+  terc picked up Drone Attack Beacon
+[07/08/2021 21:21:10]
+  sylv placed Revolver Round in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:10]
+  sylv placed Revolver Round in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:10]
+  sylv placed Revolver Round in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:10]
+  sylv placed Revolver Round in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:10]
+  sylv placed Revolver Round in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:10]
+  sylv placed Revolver Round in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:10]
+  sylv placed Revolver Round in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:10]
+  sylv placed Revolver Round in Tactical Backpack (ID: 2490)
+[07/08/2021 21:21:13]
+  sylv placed Storage Container in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:21:14]
+  terc threw Drone Attack Beacon
+[07/08/2021 21:21:18]
+  Console command "teleport" executed by tomacatx1.
+[07/08/2021 21:21:20]
+  terc placed Rubber Chicken in Large Steel Cabinet (ID: 6513)
+[07/08/2021 21:21:20]
+  terc removed Captain's Sabre from Large Steel Cabinet (ID: 6513)
+[07/08/2021 21:21:20]
+  terc picked up Captain's Sabre
+[07/08/2021 21:21:21]
+  terc dropped Rubber Chicken
+[07/08/2021 21:21:23]
+  terc picked up Captain's Sabre
+[07/08/2021 21:21:28]
+  terc equipped Captain's Sabre
+[07/08/2021 21:21:29]
+  terc equipped Captain's Sabre
+[07/08/2021 21:21:41]
+  Outer wall repaired by tomacatx1
+[07/08/2021 21:21:42]
+  Outer wall repaired by tomacatx1
+[07/08/2021 21:21:42]
+  Outer wall repaired by tomacatx1
+[07/08/2021 21:21:43]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:21:46]
+  Carson Molina: Do you ever feel...flat?
+[07/08/2021 21:21:48]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:21:48]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:21:48]
+  Walkerdrone attacked by terc. Internal damage: 3.125 Lacerations: 15.625 Stun: 0.1
+[07/08/2021 21:21:48]
+  terc used Captain's Sabre on Walkerdrone.
+[07/08/2021 21:21:50]
+  sylv placed Oxygen Tank in Oxygen Generator (ID: 5607)
+[07/08/2021 21:21:51]
+  sylv placed Oxygen Tank in Oxygen Generator (ID: 5607)
+[07/08/2021 21:21:51]
+  Walkerdrone attacked by terc. Internal damage: 3.125 Lacerations: 15.625 Stun: 0.1
+[07/08/2021 21:21:51]
+  terc used Captain's Sabre on Walkerdrone.
+[07/08/2021 21:21:52]
+  Outer wall repaired by tomacatx1
+[07/08/2021 21:21:52]
+  Walkerdrone attacked by terc. Internal damage: 3.125 Lacerations: 15.625 Stun: 0.1
+[07/08/2021 21:21:52]
+  terc used Captain's Sabre on Walkerdrone.
+[07/08/2021 21:21:53]
+  Walkerdrone attacked by terc. Internal damage: 3.125 Lacerations: 15.625 Stun: 0.1
+[07/08/2021 21:21:53]
+  terc used Captain's Sabre on Walkerdrone.
+[07/08/2021 21:21:54]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:21:54]
+  Walkerdrone attacked by terc. Internal damage: 2.5 Lacerations: 12.5 Stun: 0.1
+[07/08/2021 21:21:54]
+  terc used Captain's Sabre on Walkerdrone.
+[07/08/2021 21:21:57]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:21:57]
+  Carson Molina equipped Wrench
+[07/08/2021 21:21:57]
+  Walkerdrone has died (Cause of death: Lacerations)
+[07/08/2021 21:21:57]
+  Walkerdrone attacked by terc. Internal damage: 3.125 Lacerations: 15.625 Stun: 0.1
+[07/08/2021 21:21:57]
+  terc used Captain's Sabre on Walkerdrone.
+[07/08/2021 21:22:00]
+  terc equipped Welding Tool
+[07/08/2021 21:22:00]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:22:00]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:22:08]
+  Console command "teleport" executed by tomacatx1.
+[07/08/2021 21:22:10]
+  terc: whys the drone dead.
+[07/08/2021 21:22:10]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 21:22:12]
+  Console command "teleport" executed by tomacatx1.
+[07/08/2021 21:22:15]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:22:21]
+  terc: ((((i kiled it))))
+[07/08/2021 21:22:33]
+  tomacatx1 dropped Wire
+[07/08/2021 21:22:33]
+  tomacatx1 connected a wire to Door with Buttons (toggle)
+[07/08/2021 21:22:36]
+  sylv picked up Tsarskaya vodka
+[07/08/2021 21:22:43]
+  Console command "teleport" executed by tomacatx1.
+[07/08/2021 21:22:45]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:22:45]
+  sylv: so much alcohol
+[07/08/2021 21:22:50]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 21:22:53]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:22:53]
+  Carson Molina equipped Wrench
+[07/08/2021 21:22:57]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:22:57]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:22:57]
+  tomacatx1 dropped Wire
+[07/08/2021 21:22:57]
+  tomacatx1 connected a wire to Door with Buttons (toggle)
+[07/08/2021 21:22:58]
+  sylv picked up Corona Beer
+[07/08/2021 21:22:58]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:23:23]
+  Inner wall breached by terc
+[07/08/2021 21:23:26]
+  tomacatx1 dropped Wire
+[07/08/2021 21:23:26]
+  tomacatx1 connected a wire to And Component (signal_out)
+[07/08/2021 21:23:27]
+  tomacatx1 dropped Wire
+[07/08/2021 21:23:27]
+  tomacatx1 connected a wire to And Component (signal_in1)
+[07/08/2021 21:23:27]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:23:34]
+  tomacatx1 dropped Abyss Diving Suit
+[07/08/2021 21:23:39]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:23:43]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:23:43]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 21:23:43]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:23:43]
+  Carson Molina equipped Wrench
+[07/08/2021 21:23:48]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:23:49]
+  tomacatx1 dropped Wire
+[07/08/2021 21:23:49]
+  tomacatx1 connected a wire to Junction Box (power)
+[07/08/2021 21:23:51]
+  tomacatx1 dropped Wire
+[07/08/2021 21:23:51]
+  tomacatx1 connected a wire to Junction Box (power)
+[07/08/2021 21:23:54]
+  superhands: have we fixed the beacon
+[07/08/2021 21:23:54]
+  sylv equipped Rubber Chicken
+[07/08/2021 21:23:58]
+  terc: repair whtat
+[07/08/2021 21:24:12]
+  sylv: how do you.... get out
+[07/08/2021 21:24:13]
+  superhands: the door is blocked off by rock
+[07/08/2021 21:24:16]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:24:22]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:24:23]
+  superhands placed Abyss Diving Suit in Diving Suit Locker (ID: 1094)
+[07/08/2021 21:24:26]
+  superhands placed Oxygen Tank in Oxygen Tank Shelf (ID: 1093)
+[07/08/2021 21:24:26]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:24:26]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 21:24:26]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:24:26]
+  Carson Molina equipped Wrench
+[07/08/2021 21:24:28]
+  superhands placed Oxygen Tank in Oxygen Tank Shelf (ID: 1093)
+[07/08/2021 21:24:29]
+  superhands placed Oxygen Tank in Oxygen Tank Shelf (ID: 1093)
+[07/08/2021 21:24:30]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:24:30]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:24:32]
+  terc: bruh it just leads to rock
+[07/08/2021 21:24:32]
+  tomacatx1 disconnected a wire from Door with Buttons (toggle)
+[07/08/2021 21:24:32]
+  tomacatx1 picked up Blue Wire
+[07/08/2021 21:24:35]
+  tomacatx1 equipped Blue Wire
+[07/08/2021 21:24:37]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:24:38]
+  tomacatx1 connected a wire to Door with Buttons (toggle)
+[07/08/2021 21:24:40]
+  sylv: it is indeed rock
+[07/08/2021 21:24:41]
+  tomacatx1 connected a wire from Door with Buttons (state_out) to Door with Buttons (toggle)
+[07/08/2021 21:24:49]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 21:24:52]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 21:24:55]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:24:59]
+  sylv: wont open fully
+[07/08/2021 21:25:00]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:25:03]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:25:03]
+  Carson Molina equipped Wrench
+[07/08/2021 21:25:05]
+  sylv: cut
+[07/08/2021 21:25:07]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:25:07]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:25:10]
+  tomacatx1 started repairing Junction Box
+[07/08/2021 21:25:12]
+  tomacatx1 dropped Wire
+[07/08/2021 21:25:12]
+  tomacatx1 connected a wire to Junction Box (power)
+[07/08/2021 21:25:13]
+  terc removed Reinforced Oxygen Tank from Plasma Cutter (ID: 8214)
+[07/08/2021 21:25:14]
+  sylv equipped Tsarskaya vodka
+[07/08/2021 21:25:15]
+  sylv equipped Corona Beer
+[07/08/2021 21:25:16]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:25:16]
+  terc placed Oxygen Tank in Plasma Cutter (ID: 8214)
+[07/08/2021 21:25:17]
+  tomacatx1 started repairing Junction Box
+[07/08/2021 21:25:18]
+  sylv equipped Plasma Cutter
+[07/08/2021 21:25:20]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:25:20]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:25:20]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:25:32]
+  tomacatx1 picked up Hawaiian Shirt
+[07/08/2021 21:25:33]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:25:34]
+  tomacatx1 dropped Hawaiian Shirt
+[07/08/2021 21:25:35]
+  tomacatx1 picked up Abyss Diving Suit
+[07/08/2021 21:25:38]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:25:42]
+  Carson Molina started repairing Battery
+[07/08/2021 21:25:44]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:25:44]
+  Carson Molina equipped Wrench
+[07/08/2021 21:25:48]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:25:48]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:25:48]
+  Carson Molina started repairing Battery
+[07/08/2021 21:25:51]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:25:54]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:25:54]
+  terc: idk how sylv got out
+[07/08/2021 21:25:56]
+  terc: magic man
+[07/08/2021 21:25:57]
+  Console command "teleport" executed by tomacatx1.
+[07/08/2021 21:26:04]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:26:08]
+  Carson Molina started repairing Junction Bus
+[07/08/2021 21:26:11]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:26:11]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 21:26:11]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:26:11]
+  Carson Molina equipped Wrench
+[07/08/2021 21:26:15]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:26:27]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:26:36]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:26:39]
+  sylv dropped Abyss Diving Suit
+[07/08/2021 21:26:42]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:26:45]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:26:45]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 21:26:49]
+  sylv dropped Plasma Cutter
+[07/08/2021 21:26:50]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:26:53]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:26:53]
+  Carson Molina equipped Wrench
+[07/08/2021 21:26:53]
+  sylv equipped Medic Crate
+[07/08/2021 21:26:53]
+  sylv picked up Medic Crate
+[07/08/2021 21:26:56]
+  sylv placed Medic Crate in Tall Crate Rack (ID: 1667)
+[07/08/2021 21:26:57]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:26:57]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:26:59]
+  sylv equipped Chemical Crate
+[07/08/2021 21:26:59]
+  sylv picked up Chemical Crate
+[07/08/2021 21:27:00]
+  Carson Molina started repairing Navigation Terminal
+[07/08/2021 21:27:02]
+  terc equipped Battery Cell
+[07/08/2021 21:27:03]
+  sylv placed Armored Hawaiian Shirt in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:03]
+  Outer wall breached by terc
+[07/08/2021 21:27:08]
+  sylv placed Armored Hawaiian Shirt in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:11]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 21:27:11]
+  sylv placed Armored Hawaiian Shirt in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:14]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:27:15]
+  sylv placed Armored Hawaiian Shirt in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:15]
+  Outer wall repaired by terc
+[07/08/2021 21:27:18]
+  sylv placed Armored Hawaiian Shirt in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:20]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:27:22]
+  sylv placed Armored Hawaiian Shirt in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:24]
+  sylv placed Captain's Sabre in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:25]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 21:27:28]
+  sylv placed Face Mask in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:33]
+  superhands: e
+[07/08/2021 21:27:33]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:27:36]
+  Carson Molina started repairing Battery
+[07/08/2021 21:27:40]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:27:40]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 21:27:44]
+  tomacatx1 placed Oxygen Tank in Oxygen Generator (ID: 5607)
+[07/08/2021 21:27:44]
+  tomacatx1 placed Oxygen Tank in Abyss Diving Suit (ID: 2203)
+[07/08/2021 21:27:46]
+  sylv placed Magic Hat in Chemical Crate (ID: 2524)
+[07/08/2021 21:27:46]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 21:27:47]
+  superhands: have you turned on the sonar
+[07/08/2021 21:27:49]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:27:49]
+  Carson Molina equipped Wrench
+[07/08/2021 21:27:53]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:27:53]
+  sylv placed Chemical Crate in Climate-Controlled Crate Rack (ID: 2238)
+[07/08/2021 21:27:55]
+  superhands picked up Abyss Diving Suit
+[07/08/2021 21:27:55]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:27:56]
+  superhands picked up Oxygen Tank
+[07/08/2021 21:27:57]
+  superhands picked up Oxygen Tank
+[07/08/2021 21:27:57]
+  tomacatx1 failed to repair Shuttle Navigation Terminal
+[07/08/2021 21:27:57]
+  superhands picked up Oxygen Tank
+[07/08/2021 21:28:00]
+  terc removed Oxygen Tank from Abyss Diving Suit (ID: 2451)
+[07/08/2021 21:28:00]
+  tomacatx1 started repairing Shuttle Navigation Terminal
+[07/08/2021 21:28:02]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:02]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:02]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:02]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:02]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:02]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:02]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:02]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:03]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:28:05]
+  terc placed Oxygen Tank in Abyss Diving Suit (ID: 2451)
+[07/08/2021 21:28:05]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:05]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:05]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:05]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:05]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:05]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:05]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:28:08]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv placed Oxygen Tank in Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv removed Steel Bar from Tactical Backpack (ID: 2490)
+[07/08/2021 21:28:08]
+  sylv placed Steel Bar in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:09]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:28:09]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 21:28:09]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:28:09]
+  Carson Molina equipped Wrench
+[07/08/2021 21:28:10]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:10]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:10]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:10]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:10]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:10]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:10]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:10]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:13]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:28:13]
+  sylv placed Welding Fuel Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:13]
+  sylv placed Welding Fuel Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:13]
+  sylv placed Welding Fuel Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:13]
+  sylv placed Welding Fuel Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:13]
+  sylv placed Welding Fuel Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:13]
+  sylv placed Welding Fuel Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:13]
+  sylv placed Welding Fuel Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:13]
+  sylv placed Welding Fuel Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:15]
+  terc placed Abyss Diving Suit in Diving Suit Locker (ID: 1090)
+[07/08/2021 21:28:18]
+  terc placed Oxygen Tank in Oxygen Tank Shelf (ID: 1093)
+[07/08/2021 21:28:18]
+  terc placed Oxygen Tank in Oxygen Tank Shelf (ID: 1093)
+[07/08/2021 21:28:18]
+  terc placed Oxygen Tank in Oxygen Tank Shelf (ID: 1093)
+[07/08/2021 21:28:18]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:18]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:18]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:18]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:18]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:18]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:18]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:18]
+  sylv placed Oxygen Tank in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:19]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:28:21]
+  terc placed Oxygen Tank in Oxygen Tank Shelf (ID: 1077)
+[07/08/2021 21:28:22]
+  sylv placed Revolver in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:24]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:28:24]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:28:24]
+  Carson Molina equipped Wrench
+[07/08/2021 21:28:25]
+  sylv placed Revolver Round in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:25]
+  sylv placed Revolver Round in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:25]
+  sylv placed Revolver Round in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:25]
+  sylv placed Revolver Round in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:25]
+  sylv placed Revolver Round in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:25]
+  sylv placed Revolver Round in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:25]
+  sylv placed Revolver Round in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:25]
+  sylv placed Revolver Round in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:28]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:28:28]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:28:28]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:28]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:28]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:28]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:28]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:28]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:28]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:28]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:30]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:30]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:30]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:30]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:30]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:30]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:30]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:30]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:33]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2047)
+[07/08/2021 21:28:33]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2047)
+[07/08/2021 21:28:33]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2047)
+[07/08/2021 21:28:33]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2047)
+[07/08/2021 21:28:33]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2047)
+[07/08/2021 21:28:33]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2047)
+[07/08/2021 21:28:33]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2047)
+[07/08/2021 21:28:33]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2047)
+[07/08/2021 21:28:36]
+  sylv placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:36]
+  sylv placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:36]
+  sylv placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:36]
+  sylv placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:36]
+  sylv placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:36]
+  sylv placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:36]
+  sylv placed Titanium-Aluminum Alloy in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:39]
+  tomacatx1 disconnected a wire from And Component (signal_out)
+[07/08/2021 21:28:39]
+  tomacatx1 picked up Blue Wire
+[07/08/2021 21:28:41]
+  sylv placed Tsarskaya vodka in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:42]
+  sylv placed Rubber Chicken in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:42]
+  Carson Molina started repairing Battery Assembly
+[07/08/2021 21:28:43]
+  sylv placed Corona Beer in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:44]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:28:44]
+  sylv placed Giant Dad Mask in Large Steel Cabinet (ID: 291)
+[07/08/2021 21:28:52]
+  Mission info: Beacon reactivated - The beacon station is back online.
+[07/08/2021 21:28:55]
+  sylv picked up Abyss Diving Suit
+[07/08/2021 21:28:57]
+  superhands: incredible
+[07/08/2021 21:28:57]
+  tomacatx1 dropped Blue Wire
+[07/08/2021 21:29:06]
+  sylv: i have more cosmetics to steal
+[07/08/2021 21:29:09]
+  tomacatx1 equipped .357 Revolver
+[07/08/2021 21:29:10]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:12]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:12]
+  sylv picked up Reinforced Oxygen Tank
+[07/08/2021 21:29:12]
+  Crawler has died (Cause of death: Gunshot wound)
+[07/08/2021 21:29:12]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:14]
+  tomacatx1 equipped .357 Revolver
+[07/08/2021 21:29:14]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:29:14]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:15]
+  Crawler has died (Cause of death: Gunshot wound)
+[07/08/2021 21:29:15]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:15]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:16]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:16]
+  sylv picked up Oxygen Tank
+[07/08/2021 21:29:16]
+  sylv dropped Reinforced Oxygen Tank
+[07/08/2021 21:29:16]
+  sylv placed Reinforced Oxygen Tank in Abyss Diving Suit (ID: 3710)
+[07/08/2021 21:29:17]
+  Crawler has died (Cause of death: Gunshot wound)
+[07/08/2021 21:29:17]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:17]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:18]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:29:18]
+  Carson Molina equipped Wrench
+[07/08/2021 21:29:18]
+  Crawler attacked by tomacatx1. Bleeding: 20 Gunshot wound: 25 Stun: 0.3
+[07/08/2021 21:29:18]
+  superhands equipped Compact SMG
+[07/08/2021 21:29:19]
+  Outer wall breached by Crawler
+[07/08/2021 21:29:21]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:29:21]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:29:21]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 21:29:22]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:22]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:22]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:22]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:22]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:23]
+  Crawler has died (Cause of death: Gunshot wound)
+[07/08/2021 21:29:23]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:23]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:23]
+  tomacatx1 picked up .357 Revolver
+[07/08/2021 21:29:23]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:23]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:24]
+  tomacatx1 equipped .357 Revolver
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler has died (Cause of death: Gunshot wound)
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:25]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:26]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:26]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:26]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:26]
+  Crawler attacked by superhands. Bleeding: 13 Gunshot wound: 10
+[07/08/2021 21:29:27]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:29:28]
+  superhands equipped Gauss Pistol
+[07/08/2021 21:29:28]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:29]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:29]
+  sylv equipped SMG
+[07/08/2021 21:29:29]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:29]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:29]
+  Crawler has died (Cause of death: Gunshot wound)
+[07/08/2021 21:29:29]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:30]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:30]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:32]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:29:34]
+  tomacatx1 placed .357 Revolver in Pioneer Uniform (ID: 8122)
+[07/08/2021 21:29:40]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:29:40]
+  tomacatx1 used item Bandage
+[07/08/2021 21:29:42]
+  superhands placed Gauss Pistol Magazine in SEAL Uniform (ID: 3799)
+[07/08/2021 21:29:42]
+  superhands removed Gauss Pistol Magazine from SEAL Uniform (ID: 3799)
+[07/08/2021 21:29:42]
+  superhands placed Gauss Pistol Magazine in Gauss Pistol (ID: 8346)
+[07/08/2021 21:29:43]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:44]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:44]
+  sylv: ive not got my meds on me
+[07/08/2021 21:29:44]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:29:44]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:29:46]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:46]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:46]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:47]
+  Crawler has died (Cause of death: Gunshot wound)
+[07/08/2021 21:29:47]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:47]
+  Crawler attacked by superhands. Gunshot wound: 30 Bleeding: 30
+[07/08/2021 21:29:49]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 21:29:52]
+  terc equipped Utility Mk-I Hardsuit
+[07/08/2021 21:29:52]
+  terc picked up Utility Mk-I Hardsuit
+[07/08/2021 21:29:53]
+  terc placed Utility Mk-I Hardsuit in Diving Suit Locker (ID: 1080)
+[07/08/2021 21:29:55]
+  terc equipped Utility Mk-I Hardsuit
+[07/08/2021 21:29:55]
+  terc picked up Utility Mk-I Hardsuit
+[07/08/2021 21:29:59]
+  Carson Molina started repairing Battery
+[07/08/2021 21:30:03]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:30:08]
+  sylv picked up Underwater Scooter
+[07/08/2021 21:30:08]
+  sylv equipped Underwater Scooter
+[07/08/2021 21:30:14]
+  terc used item Bandage
+[07/08/2021 21:30:31]
+  terc placed Utility Mk-I Hardsuit in Diving Suit Locker (ID: 1084)
+[07/08/2021 21:30:36]
+  tomacatx1 placed Abyss Diving Suit in Diving Suit Locker (ID: 1094)
+[07/08/2021 21:30:40]
+  tomacatx1 placed Underwater Scooter in Large Steel Cabinet (ID: 373)
+[07/08/2021 21:30:41]
+  tomacatx1 placed Battery Cell in Large Steel Cabinet (ID: 373)
+[07/08/2021 21:30:41]
+  tomacatx1 removed Battery Cell from Large Steel Cabinet (ID: 373)
+[07/08/2021 21:30:41]
+  tomacatx1 placed Battery Cell in Underwater Scooter (ID: 3763)
+[07/08/2021 21:30:42]
+  superhands picked up Oxygen Tank
+[07/08/2021 21:30:43]
+  tomacatx1 picked up Battery Cell
+[07/08/2021 21:30:43]
+  superhands placed Oxygen Tank in Abyss Diving Suit (ID: 2996)
+[07/08/2021 21:30:44]
+  superhands placed Abyss Diving Suit in Diving Suit Locker (ID: 1097)
+[07/08/2021 21:30:46]
+  Carson Molina: Second to sun, second to sun...
+[07/08/2021 21:30:48]
+  terc placed Saline in Deconstructor (ID: 230)
+[07/08/2021 21:30:48]
+  terc placed Saline in Deconstructor (ID: 230)
+[07/08/2021 21:30:48]
+  terc placed Saline in Deconstructor (ID: 230)
+[07/08/2021 21:30:48]
+  terc placed Saline in Deconstructor (ID: 230)
+[07/08/2021 21:30:49]
+  terc activated Deconstructor
+[07/08/2021 21:30:49]
+  Carson Molina: Like Jupiter, we are the ones...
+[07/08/2021 21:30:50]
+  superhands placed Oxygen Tank in Large Steel Cabinet (ID: 373)
+[07/08/2021 21:30:50]
+  superhands placed Oxygen Tank in Large Steel Cabinet (ID: 373)
+[07/08/2021 21:30:51]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:30:53]
+  tomacatx1 placed Battery Cell in Battery (ID: 486)
+[07/08/2021 21:30:56]
+  superhands picked up Logbook
+[07/08/2021 21:30:56]
+  superhands equipped Logbook
+[07/08/2021 21:31:00]
+  tomacatx1 placed Plasma Cutter in Tactical Backpack (ID: 8130)
+[07/08/2021 21:31:09]
+  Carson Molina started repairing Junction Box
+[07/08/2021 21:31:09]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8168)
+[07/08/2021 21:31:09]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8168)
+[07/08/2021 21:31:09]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8168)
+[07/08/2021 21:31:09]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8168)
+[07/08/2021 21:31:09]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8168)
+[07/08/2021 21:31:09]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8168)
+[07/08/2021 21:31:10]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8161)
+[07/08/2021 21:31:10]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8161)
+[07/08/2021 21:31:10]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8161)
+[07/08/2021 21:31:10]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8161)
+[07/08/2021 21:31:10]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8161)
+[07/08/2021 21:31:10]
+  tomacatx1 placed .357 Revolver Round in .357 Revolver (ID: 8161)
+[07/08/2021 21:31:12]
+  terc: 3 years to deconstruct something
+[07/08/2021 21:31:13]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:31:13]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:31:13]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:31:13]
+  Carson Molina equipped Wrench
+[07/08/2021 21:31:13]
+  terc: ok
+[07/08/2021 21:31:17]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:31:24]
+  superhands: Carson Molina, repair mechanical systems!
+[07/08/2021 21:31:25]
+  Carson Molina: Copy that.
+[07/08/2021 21:31:26]
+  terc: on da ship
+[07/08/2021 21:31:26]
+  Carson Molina equipped Wrench
+[07/08/2021 21:31:28]
+  superhands placed Logbook in Large Steel Cabinet (ID: 373)
+[07/08/2021 21:31:30]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:31:37]
+  sylv picked up Face Mask
+[07/08/2021 21:31:38]
+  sylv picked up Face Mask
+[07/08/2021 21:31:38]
+  terc used item Anabolic Steroids
+[07/08/2021 21:31:40]
+  superhands placed SEAL Uniform in Secure Steel Cabinet (ID: 1166)
+[07/08/2021 21:31:40]
+  superhands removed Armored Hawaiian Shirt from Secure Steel Cabinet (ID: 1166)
+[07/08/2021 21:31:40]
+  superhands picked up Armored Hawaiian Shirt
+[07/08/2021 21:31:42]
+  sylv placed Face Mask in Tactical Backpack (ID: 2490)
+[07/08/2021 21:31:43]
+  superhands placed Ancient Weapon in Secure Steel Cabinet (ID: 1166)
+[07/08/2021 21:31:43]
+  superhands removed Welding Tool from Secure Steel Cabinet (ID: 1166)
+[07/08/2021 21:31:43]
+  superhands picked up Welding Tool
+[07/08/2021 21:31:44]
+  sylv placed Face Mask in Tactical Backpack (ID: 2490)
+[07/08/2021 21:31:45]
+  superhands picked up Wrench
+[07/08/2021 21:31:47]
+  superhands placed Underwater Scooter in Secure Steel Cabinet (ID: 1166)
+[07/08/2021 21:31:47]
+  superhands removed Screwdriver from Secure Steel Cabinet (ID: 1166)
+[07/08/2021 21:31:47]
+  superhands picked up Screwdriver
+[07/08/2021 21:31:47]
+  sylv placed Face Mask in Tactical Backpack (ID: 2490)
+[07/08/2021 21:31:52]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:31:54]
+  tomacatx1 picked up Improvised Ballistic Armor
+[07/08/2021 21:31:57]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 21:31:57]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 21:31:57]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:31:57]
+  Carson Molina equipped Wrench
+[07/08/2021 21:32:00]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:32:00]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:32:02]
+  tomacatx1 equipped Cigarette
+[07/08/2021 21:32:04]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:32:04]
+  Carson Molina equipped Wrench
+[07/08/2021 21:32:04]
+  sylv equipped Storage Container
+[07/08/2021 21:32:04]
+  sylv picked up Storage Container
+[07/08/2021 21:32:06]
+  sylv placed Storage Container in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:32:07]
+  sylv equipped Storage Container
+[07/08/2021 21:32:07]
+  sylv picked up Storage Container
+[07/08/2021 21:32:09]
+  sylv placed Morphine in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:32:09]
+  sylv placed Morphine in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:32:09]
+  sylv placed Morphine in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:32:09]
+  sylv placed Morphine in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:32:09]
+  terc picked up Sodium
+[07/08/2021 21:32:09]
+  terc picked up Sodium
+[07/08/2021 21:32:09]
+  terc picked up Sodium
+[07/08/2021 21:32:09]
+  terc picked up Sodium
+[07/08/2021 21:32:10]
+  sylv placed Storage Container in Large Steel Cabinet (ID: 5591)
+[07/08/2021 21:32:14]
+  Carson Molina started repairing Oxygen Generator
+[07/08/2021 21:32:17]
+  terc deactivated Deconstructor
+[07/08/2021 21:32:17]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:32:17]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:32:22]
+  terc started fabricating UEX in Fabricator
+[07/08/2021 21:32:35]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:32:35]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:32:35]
+  Carson Molina equipped Wrench
+[07/08/2021 21:32:39]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:32:39]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:32:40]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:32:40]
+  Carson Molina equipped Wrench
+[07/08/2021 21:32:51]
+  Carson Molina started repairing Fabricator
+[07/08/2021 21:32:57]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:32:57]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:32:57]
+  terc equipped Poop
+[07/08/2021 21:32:58]
+  terc threw Poop
+[07/08/2021 21:33:11]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:33:12]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:33:12]
+  Carson Molina equipped Wrench
+[07/08/2021 21:33:15]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:33:15]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:33:18]
+  sylv: on
+[07/08/2021 21:33:19]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:33:19]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:33:19]
+  Carson Molina equipped Wrench
+[07/08/2021 21:33:24]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:33:24]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:33:25]
+  sylv placed Underwater Scooter in Large Steel Cabinet (ID: 373)
+[07/08/2021 21:33:27]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 21:33:28]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:33:28]
+  Carson Molina equipped Wrench
+[07/08/2021 21:33:32]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:33:32]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:33:35]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:33:36]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:33:36]
+  Carson Molina equipped Wrench
+[07/08/2021 21:33:40]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:33:40]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:33:44]
+  sylv: i didnt loot much beer
+[07/08/2021 21:33:44]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:33:44]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:33:44]
+  Carson Molina equipped Wrench
+[07/08/2021 21:33:48]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:33:48]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:33:49]
+  terc dropped Captain's Sabre
+[07/08/2021 21:33:49]
+  terc dropped Captain's Sabre
+[07/08/2021 21:33:52]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:33:52]
+  terc equipped Poop
+[07/08/2021 21:33:53]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:33:53]
+  Carson Molina equipped Wrench
+[07/08/2021 21:33:53]
+  terc threw Poop
+[07/08/2021 21:33:56]
+  sylv: even if i did its MINE
+[07/08/2021 21:33:56]
+  terc picked up UEX
+[07/08/2021 21:33:57]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:33:57]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:34:00]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:34:01]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:34:01]
+  Carson Molina equipped Wrench
+[07/08/2021 21:34:04]
+  sylv placed Abyss Diving Suit in Diving Suit Locker (ID: 957)
+[07/08/2021 21:34:06]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:34:06]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:34:09]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 21:34:10]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 21:34:10]
+  Carson Molina equipped Wrench
+[07/08/2021 21:34:14]
+  Carson Molina unequipped Wrench
+[07/08/2021 21:34:14]
+  Carson Molina equipped Screwdriver
+[07/08/2021 21:34:18]
+  Ending the round...
+[07/08/2021 21:34:18]
+  Round ended.
+[07/08/2021 21:34:20]
+  Starting a new round...

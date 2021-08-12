@@ -1,0 +1,1600 @@
+﻿[07/08/2021 20:10:02]
+  Saving client permissions
+[07/08/2021 20:10:06]
+  sylv: did you just try to make plasiseal yourself
+[07/08/2021 20:10:10]
+  Console command "spawn human cursor" executed by tomacatx1.
+[07/08/2021 20:10:11]
+  terc: ino
+[07/08/2021 20:10:13]
+  terc: no
+[07/08/2021 20:10:40]
+  Console command "disablecrewai" executed by tomacatx1.
+[07/08/2021 20:10:40]
+  terc: missclicked
+[07/08/2021 20:10:40]
+  sylv: you tried to make SOMETHING urself
+[07/08/2021 20:10:40]
+  sylv picked up Plastiseal
+[07/08/2021 20:10:40]
+  sylv picked up Plastiseal
+[07/08/2021 20:10:40]
+  Console command "setclientcharacter superhands "Joseph Gould"" executed by tomacatx1.
+[07/08/2021 20:10:40]
+  sylv started fabricating Plastiseal in Medical Fabricator
+[07/08/2021 20:10:40]
+  sylv placed Plastiseal in Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv placed Plastiseal in Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv placed Plastiseal in Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv placed Plastiseal in Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv placed Plastiseal in Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv placed Plastiseal in Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv placed Plastiseal in Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv placed Plastiseal in Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv removed Bandage from Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv removed Bandage from Medic's Fatigues (ID: 6044)
+[07/08/2021 20:10:40]
+  sylv picked up Bandage
+[07/08/2021 20:10:41]
+  sylv picked up Bandage
+[07/08/2021 20:10:41]
+  terc: well it was
+[07/08/2021 20:10:41]
+  terc: not intentional
+[07/08/2021 20:10:41]
+  sylv: so was
+[07/08/2021 20:10:43]
+  sylv: ur conception
+[07/08/2021 20:10:47]
+  sylv picked up Plastiseal
+[07/08/2021 20:10:47]
+  sylv picked up Plastiseal
+[07/08/2021 20:10:50]
+  Console command "respawnnow" executed by tomacatx1.
+[07/08/2021 20:10:50]
+  Dispatching the respawn shuttle.
+[07/08/2021 20:10:50]
+  Respawning superhands (82.43.188.224) as Security Officer
+[07/08/2021 20:10:51]
+  superhands set the value "Channel" of the item "Headset" to "0".
+[07/08/2021 20:10:53]
+  terc: alright fuck you
+[07/08/2021 20:10:53]
+  sylv started fabricating Bandage in Medical Fabricator
+[07/08/2021 20:11:01]
+  sylv: seethe
+[07/08/2021 20:11:05]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:11:05]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:11:06]
+  Console command "enablecrewai" executed by tomacatx1.
+[07/08/2021 20:11:07]
+  terc: i am seething.
+[07/08/2021 20:11:08]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:11:09]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:11:09]
+  Pirate Greaser started repairing Supercapacitor
+[07/08/2021 20:11:11]
+  sylv: whatre you gonna do
+[07/08/2021 20:11:12]
+  sylv: shoot me
+[07/08/2021 20:11:13]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:11:13]
+  Pirate Fuelboy equipped Wrench
+[07/08/2021 20:11:13]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:11:13]
+  Pirate Greaser equipped Wrench
+[07/08/2021 20:11:15]
+  sylv picked up Bandage
+[07/08/2021 20:11:15]
+  sylv picked up Bandage
+[07/08/2021 20:11:16]
+  sylv started fabricating Bandage in Medical Fabricator
+[07/08/2021 20:11:16]
+  terc equipped Gauss Pistol Magazine
+[07/08/2021 20:11:16]
+  tomacatx1: Joyce Lowe, repair damaged systems!
+[07/08/2021 20:11:17]
+  Joyce Lowe: Aye aye!
+[07/08/2021 20:11:19]
+  Pirate Greaser started repairing Oxygen Generator
+[07/08/2021 20:11:22]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:11:22]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:11:23]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:11:25]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 850)
+[07/08/2021 20:11:25]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 850)
+[07/08/2021 20:11:26]
+  Pirate Fuelboy unequipped Wrench
+[07/08/2021 20:11:27]
+  Joyce Lowe started repairing Supercapacitor
+[07/08/2021 20:11:27]
+  Pirate Greaser unequipped Wrench
+[07/08/2021 20:11:29]
+  terc: no im gonna strut around
+[07/08/2021 20:11:31]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 850)
+[07/08/2021 20:11:31]
+  sylv placed Plastiseal in Medicine Cabinet (ID: 850)
+[07/08/2021 20:11:34]
+  Joyce Lowe failed to repair Supercapacitor
+[07/08/2021 20:11:35]
+  superhands: auughh
+[07/08/2021 20:11:39]
+  Joyce Lowe started repairing Supercapacitor
+[07/08/2021 20:11:39]
+  sylv picked up Screwdriver
+[07/08/2021 20:11:41]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:11:42]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:11:43]
+  sylv equipped Screwdriver
+[07/08/2021 20:11:44]
+  Pirate Greaser started repairing Supercapacitor
+[07/08/2021 20:11:46]
+  Joyce Lowe started repairing Supercapacitor
+[07/08/2021 20:11:51]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:11:56]
+  sylv disconnected a wire from Door with Buttons (set_state) to Motion Detector (state_out)
+[07/08/2021 20:11:57]
+  Joyce Lowe started repairing Junction Box
+[07/08/2021 20:11:59]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:12:00]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:12:01]
+  sylv equipped Splinting Kit
+[07/08/2021 20:12:01]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:12:01]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:12:07]
+  Joyce Lowe failed to repair Small Pump
+[07/08/2021 20:12:07]
+  sylv disconnected a wire from Door with Buttons (set_state) to Motion Detector (state_out)
+[07/08/2021 20:12:09]
+  sylv disconnected a wire from Door with Buttons (set_state) to Motion Detector (state_out)
+[07/08/2021 20:12:12]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:12:16]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:12:16]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:12:17]
+  sylv: HAHAHAHA
+[07/08/2021 20:12:18]
+  Pirate Greaser started repairing Junction Box
+[07/08/2021 20:12:28]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:12:28]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:12:35]
+  terc placed C-4 Block in SEAL Uniform (ID: 6027)
+[07/08/2021 20:12:35]
+  terc placed C-4 Block in SEAL Uniform (ID: 6027)
+[07/08/2021 20:12:35]
+  terc placed C-4 Block in SEAL Uniform (ID: 6027)
+[07/08/2021 20:12:38]
+  sylv picked up Bandage
+[07/08/2021 20:12:38]
+  sylv picked up Bandage
+[07/08/2021 20:12:39]
+  sylv started fabricating Bandage in Medical Fabricator
+[07/08/2021 20:12:50]
+  terc picked up Diving Mask
+[07/08/2021 20:12:51]
+  terc placed Diving Mask in Supplies Cabinet (ID: 377)
+[07/08/2021 20:13:06]
+  sylv picked up Riot Shotgun
+[07/08/2021 20:13:08]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:13:09]
+  sylv picked up Shotgun Slug
+[07/08/2021 20:13:09]
+  sylv picked up Shotgun Slug
+[07/08/2021 20:13:09]
+  sylv picked up Shotgun Slug
+[07/08/2021 20:13:09]
+  sylv picked up Shotgun Slug
+[07/08/2021 20:13:09]
+  sylv picked up Shotgun Slug
+[07/08/2021 20:13:09]
+  sylv picked up Shotgun Slug
+[07/08/2021 20:13:09]
+  sylv picked up Shotgun Slug
+[07/08/2021 20:13:09]
+  sylv picked up Shotgun Slug
+[07/08/2021 20:13:09]
+  Joyce Lowe started repairing Small Pump
+[07/08/2021 20:13:17]
+  sylv picked up Bandage
+[07/08/2021 20:13:17]
+  sylv picked up Bandage
+[07/08/2021 20:13:18]
+  sylv picked up Bandage
+[07/08/2021 20:13:18]
+  sylv picked up Bandage
+[07/08/2021 20:13:19]
+  sylv started fabricating Bandage in Medical Fabricator
+[07/08/2021 20:13:21]
+  The respawn shuttle is leaving.
+[07/08/2021 20:13:23]
+  sylv equipped Bandage
+[07/08/2021 20:13:23]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:23]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:23]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:23]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:23]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:23]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:25]
+  Joyce Lowe started repairing Oxygen Generator
+[07/08/2021 20:13:29]
+  sylv equipped Broad-spectrum Antibiotics
+[07/08/2021 20:13:31]
+  superhands placed SMG in Supplies Cabinet (ID: 478)
+[07/08/2021 20:13:31]
+  superhands removed Welding Tool from Supplies Cabinet (ID: 478)
+[07/08/2021 20:13:31]
+  superhands picked up Welding Tool
+[07/08/2021 20:13:32]
+  sylv used Broad-spectrum Antibiotics on tomacatx1.
+[07/08/2021 20:13:32]
+  Joyce Lowe started repairing Medical Fabricator
+[07/08/2021 20:13:33]
+  superhands picked up SMG
+[07/08/2021 20:13:33]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:13:34]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:13:34]
+  superhands picked up Diving Mask
+[07/08/2021 20:13:37]
+  sylv picked up Bandage
+[07/08/2021 20:13:37]
+  sylv picked up Bandage
+[07/08/2021 20:13:38]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:13:39]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:39]
+  sylv placed Bandage in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:42]
+  Pirate Greaser failed to repair Junction Box
+[07/08/2021 20:13:43]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:13:44]
+  sylv equipped Crate of Ethanol
+[07/08/2021 20:13:44]
+  sylv picked up Crate of Ethanol
+[07/08/2021 20:13:47]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:13:48]
+  sylv placed Crate of Ethanol in Medicine Cabinet (ID: 850)
+[07/08/2021 20:13:48]
+  superhands placed Handcuffs in Material Storage Locker (ID: 198)
+[07/08/2021 20:13:50]
+  superhands picked up Stun Baton
+[07/08/2021 20:13:51]
+  superhands equipped Stun Baton
+[07/08/2021 20:13:51]
+  superhands equipped Stun Baton
+[07/08/2021 20:13:52]
+  The respawn shuttle has left.
+[07/08/2021 20:13:53]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:13:55]
+  sylv placed Anabolic Steroids in Syringe Gun (ID: 1095)
+[07/08/2021 20:13:55]
+  sylv placed Anabolic Steroids in Syringe Gun (ID: 1095)
+[07/08/2021 20:13:55]
+  sylv placed Anabolic Steroids in Syringe Gun (ID: 1095)
+[07/08/2021 20:13:55]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:13:55]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:13:58]
+  sylv picked up Syringe Gun
+[07/08/2021 20:13:58]
+  superhands: Strict europan law will now be enforced.
+[07/08/2021 20:14:02]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:14:02]
+  terc equipped Railgun Piercing Shell
+[07/08/2021 20:14:02]
+  terc picked up Railgun Piercing Shell
+[07/08/2021 20:14:03]
+  Pirate Fuelboy started repairing Battery
+[07/08/2021 20:14:07]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:14:08]
+  terc placed Railgun Piercing Shell in Railgun Loader (ID: 517)
+[07/08/2021 20:14:08]
+  terc removed Railgun Shell from Railgun Loader (ID: 517)
+[07/08/2021 20:14:08]
+  terc equipped Railgun Shell
+[07/08/2021 20:14:08]
+  terc picked up Railgun Shell
+[07/08/2021 20:14:12]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:14:12]
+  Joyce Lowe failed to repair Junction Box
+[07/08/2021 20:14:16]
+  Joyce Lowe started repairing Junction Box
+[07/08/2021 20:14:20]
+  terc placed Railgun Shell in Huge Railgun Shell Rack (ID: 218)
+[07/08/2021 20:14:21]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:14:23]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:14:23]
+  sylv attacked by superhands. Blunt force trauma: 2 Stun: 0.2
+[07/08/2021 20:14:23]
+  superhands used Stun Baton (Battery Cell) on sylv.
+[07/08/2021 20:14:23]
+  superhands has lost more than 25 karma in the past minute.
+[07/08/2021 20:14:23]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:14:27]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:14:28]
+  Pirate Greaser started repairing Junction Box
+[07/08/2021 20:14:29]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:14:34]
+  Joyce Lowe started repairing Junction Box
+[07/08/2021 20:14:35]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:35]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:35]
+  Bonethresher attacked by terc. Lacerations: 16 Bleeding: 1.5
+[07/08/2021 20:14:35]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:36]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:36]
+  Bonethresher attacked by terc. Lacerations: 16 Bleeding: 1.5
+[07/08/2021 20:14:36]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:36]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:36]
+  Pirate Greaser started repairing Battery
+[07/08/2021 20:14:37]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:37]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:37]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:38]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:38]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:38]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:38]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:39]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:14:39]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:39]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:39]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:39]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:39]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:39]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:39]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:39]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:39]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:39]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:39]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:40]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:40]
+  Pirate Fuelboy started repairing Battery
+[07/08/2021 20:14:40]
+  Bonethresher attacked by terc. Lacerations: 16 Bleeding: 1.5
+[07/08/2021 20:14:40]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:40]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:41]
+  Bonethresher attacked by terc. Lacerations: 16 Bleeding: 1.5
+[07/08/2021 20:14:41]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:41]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:41]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:41]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:41]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:41]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:41]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:42]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:42]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:42]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:42]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:42]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:42]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:42]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:42]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:42]
+  sylv: HOW
+[07/08/2021 20:14:42]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:42]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:42]
+  Bonethresher attacked by terc. Lacerations: 16 Bleeding: 1.5
+[07/08/2021 20:14:43]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:14:43]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:43]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:43]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:43]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:43]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:43]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:43]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:43]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:43]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:44]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:44]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:44]
+  Bonethresher attacked by terc. Lacerations: 16 Bleeding: 1.5
+[07/08/2021 20:14:44]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:44]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:44]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:44]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:45]
+  Bonethresher has died (Cause of death: Lacerations)
+[07/08/2021 20:14:45]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:45]
+  Bonethresher attacked by terc. Lacerations: 6.56 Bleeding: 1.23
+[07/08/2021 20:14:45]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:45]
+  Bonethresher attacked by terc. Lacerations: 16 Bleeding: 1.5
+[07/08/2021 20:14:45]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:45]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:14:45]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:45]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:46]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:46]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:14:46]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:46]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:47]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:47]
+  sylv: how did that almost kill you
+[07/08/2021 20:14:52]
+  Joyce Lowe started repairing Junction Box
+[07/08/2021 20:14:56]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:14:56]
+  Bonethresher attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:14:56]
+  Bonethresher attacked by terc. Lacerations: 16 Bleeding: 1.5
+[07/08/2021 20:14:56]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:15:00]
+  superhands equipped Welding Tool
+[07/08/2021 20:15:02]
+  Joyce Lowe: Her work has begun!
+[07/08/2021 20:15:04]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:15:09]
+  Joyce Lowe started repairing Junction Box
+[07/08/2021 20:15:11]
+  sylv: wacky
+[07/08/2021 20:15:14]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:15:14]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:15:15]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:15:17]
+  Pirate Greaser started repairing Battery
+[07/08/2021 20:15:19]
+  Pirate Fuelboy started repairing Supercapacitor
+[07/08/2021 20:15:22]
+  sylv picked up Toolbelt
+[07/08/2021 20:15:22]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:15:24]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:15:25]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:15:31]
+  Joyce Lowe started repairing Pump
+[07/08/2021 20:15:33]
+  tomacatx1 detached Surgery Bed from a wall
+[07/08/2021 20:15:35]
+  tomacatx1 equipped Surgery Bed
+[07/08/2021 20:15:36]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:15:37]
+  tomacatx1 attached Surgery Bed to a wall
+[07/08/2021 20:15:37]
+  sylv: why
+[07/08/2021 20:15:38]
+  superhands: Sylv has damaged someone
+[07/08/2021 20:15:41]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:15:41]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:15:42]
+  terc: we are in a poop cloud
+[07/08/2021 20:15:44]
+  sylv used item Body Scanner
+[07/08/2021 20:15:45]
+  Pirate Greaser started repairing Navigation Terminal
+[07/08/2021 20:15:46]
+  Pirate Fuelboy started repairing Navigation Terminal
+[07/08/2021 20:15:47]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:15:47]
+  sylv used item Scalpel
+[07/08/2021 20:15:48]
+  terc opened Custom Door
+[07/08/2021 20:15:48]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:15:49]
+  sylv used item Retractor
+[07/08/2021 20:15:49]
+  superhands picked up Medical Scanner
+[07/08/2021 20:15:50]
+  superhands equipped Medical Scanner
+[07/08/2021 20:15:51]
+  sylv used item Biofoam Injector (contained items: Biofoam Tank)
+[07/08/2021 20:15:53]
+  sylv used item Bandage
+[07/08/2021 20:15:57]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:15:58]
+  sylv used item Blood Pack
+[07/08/2021 20:15:58]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:15:59]
+  sylv used item Plastiseal
+[07/08/2021 20:16:00]
+  Pirate Fuelboy started repairing Battery
+[07/08/2021 20:16:00]
+  sylv used item Morphine
+[07/08/2021 20:16:05]
+  Pirate Captain: Pirate Gunner, man the guns!
+[07/08/2021 20:16:06]
+  superhands: do you wish for me to send sylv to sleepy go bye bye world
+[07/08/2021 20:16:08]
+  Outer wall breached by Mudraptor
+[07/08/2021 20:16:08]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:16:09]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:16:11]
+  Pirate Captain: Pirate Gunner, man the guns!
+[07/08/2021 20:16:11]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:12]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:12]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:12]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:12]
+  Mission info: Pirates detected - Neutralize the crew or make the submarine sink to the bottom of the sea!
+[07/08/2021 20:16:13]
+  sylv: why do you look like the half life guards
+[07/08/2021 20:16:13]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:13]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:13]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:14]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:14]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:14]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:14]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:15]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:15]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:15]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:16]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:16]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:16]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:16]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:17]
+  Pirate Captain: Pirate Gunner, man the weapons!
+[07/08/2021 20:16:17]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:17]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:17]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:18]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:20]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:20]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:20]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:21]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:21]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:21]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:22]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:22]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:22]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:22]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:23]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:23]
+  Pirate Captain: Pirate Gunner, man the weapons!
+[07/08/2021 20:16:23]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:25]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:25]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:25]
+  Outer wall breached by Mudraptor
+[07/08/2021 20:16:26]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:26]
+  Mudraptor has died (Cause of death: Unknown)
+[07/08/2021 20:16:26]
+  Pirate Gunner: Enemy down!
+[07/08/2021 20:16:27]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:27]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:27]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:28]
+  Pirate Greaser equipped Welding Tool
+[07/08/2021 20:16:28]
+  Pirate Captain: Pirate Gunner, man the guns!
+[07/08/2021 20:16:30]
+  Outer wall repaired by Pirate Greaser
+[07/08/2021 20:16:33]
+  Pirate Captain: Pirate Gunner, man the guns!
+[07/08/2021 20:16:36]
+  Pirate Greaser unequipped Welding Tool
+[07/08/2021 20:16:39]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:16:39]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:16:39]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:40]
+  Pirate Captain: Pirate Gunner, man the guns!
+[07/08/2021 20:16:43]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:16:44]
+  Outer wall breached by Mudraptor_unarmored
+[07/08/2021 20:16:45]
+  Pirate Greaser equipped Screwdriver
+[07/08/2021 20:16:45]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:16:45]
+  Pirate Captain: Pirate Gunner, man the guns!
+[07/08/2021 20:16:49]
+  sylv equipped Syringe Gun
+[07/08/2021 20:16:49]
+  Outer wall breached by Mudraptor_unarmored
+[07/08/2021 20:16:51]
+  Pirate Greaser started repairing Junction Box
+[07/08/2021 20:16:51]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:16:51]
+  Pirate Captain: Pirate Gunner, man the guns!
+[07/08/2021 20:16:51]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:52]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:16:52]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:53]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:53]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:53]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:53]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:53]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:53]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:54]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:54]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:54]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:54]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:54]
+  Pirate Greaser started repairing Junction Box
+[07/08/2021 20:16:54]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:54]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:55]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:55]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:55]
+  Outer wall breached by terc
+[07/08/2021 20:16:55]
+  Outer wall breached by terc
+[07/08/2021 20:16:55]
+  Outer wall breached by terc
+[07/08/2021 20:16:55]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:55]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:55]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:55]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:55]
+  Inner wall breached by terc
+[07/08/2021 20:16:55]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:55]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:56]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:56]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:56]
+  superhands launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[07/08/2021 20:16:56]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:56]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:56]
+  Inner wall breached by superhands
+[07/08/2021 20:16:56]
+  Outer wall breached by superhands
+[07/08/2021 20:16:56]
+  Outer wall breached by superhands
+[07/08/2021 20:16:56]
+  Outer wall breached by superhands
+[07/08/2021 20:16:56]
+  Outer wall breached by superhands
+[07/08/2021 20:16:56]
+  Outer wall breached by superhands
+[07/08/2021 20:16:56]
+  Outer wall breached by superhands
+[07/08/2021 20:16:56]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:56]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:56]
+  Pirate Captain: Pirate Greaser, take care of any leaks!
+[07/08/2021 20:16:56]
+  Pirate Gunner attacked by terc. Lacerations: 6.6 Bleeding: 3
+[07/08/2021 20:16:57]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:57]
+  Inner wall breached by terc
+[07/08/2021 20:16:57]
+  Outer wall breached by Pirate Gunner
+[07/08/2021 20:16:57]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:57]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:16:57]
+  Pirate Gunner attacked by terc. Lacerations: 6.6 Bleeding: 3
+[07/08/2021 20:16:57]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:57]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:57]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:57]
+  Outer wall breached by Pirate Gunner
+[07/08/2021 20:16:57]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:58]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:58]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:58]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:58]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:58]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:58]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:58]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:59]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:59]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:59]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:59]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:59]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:16:59]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:16:59]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:00]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:17:00]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:00]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:17:00]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:00]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:01]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:01]
+  Joyce Lowe started repairing Battery
+[07/08/2021 20:17:01]
+  superhands launched Railgun (projectile: Railgun Piercing Shell)
+[07/08/2021 20:17:01]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:01]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:17:01]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:01]
+  Pirate Gunner launched Coilgun (projectile: Coilgun Bolt)
+[07/08/2021 20:17:01]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:01]
+  Pirate Captain: Pirate Gunner, start fixing leaks!
+[07/08/2021 20:17:02]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:02]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:02]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:02]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:02]
+  Outer wall breached by Pirate Gunner
+[07/08/2021 20:17:03]
+  terc launched Coilgun (projectile: High-Velocity Coilgun Bolt)
+[07/08/2021 20:17:07]
+  Pirate Captain: Pirate Gunner, repair damaged systems!
+[07/08/2021 20:17:07]
+  Joyce Lowe started repairing Supercapacitor
+[07/08/2021 20:17:12]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[07/08/2021 20:17:13]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:17:13]
+  Pirate Fuelboy equipped Wrench
+[07/08/2021 20:17:14]
+  Joyce Lowe failed to repair Junction Box
+[07/08/2021 20:17:14]
+  Pirate Captain: Pirate Gunner, you are dismissed!
+[07/08/2021 20:17:14]
+  Pirate Fuelboy unequipped Wrench
+[07/08/2021 20:17:14]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:17:15]
+  Outer wall repaired by superhands
+[07/08/2021 20:17:15]
+  sylv dropped Syringe Gun
+[07/08/2021 20:17:16]
+  Outer wall repaired by superhands
+[07/08/2021 20:17:18]
+  Joyce Lowe started repairing Junction Box
+[07/08/2021 20:17:18]
+  sylv equipped Syringe Gun
+[07/08/2021 20:17:20]
+  Pirate Captain: Pirate Gunner, you are dismissed!
+[07/08/2021 20:17:20]
+  Outer wall repaired by superhands
+[07/08/2021 20:17:22]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:17:22]
+  Pirate Fuelboy equipped Wrench
+[07/08/2021 20:17:23]
+  Pirate Gunner closed Custom Door
+[07/08/2021 20:17:23]
+  Pirate Gunner opened Custom Door
+[07/08/2021 20:17:23]
+  terc: well
+[07/08/2021 20:17:25]
+  Pirate Gunner opened Custom Door
+[07/08/2021 20:17:25]
+  Pirate Gunner closed Custom Door
+[07/08/2021 20:17:27]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:17:27]
+  Pirate Fuelboy started repairing Large Engine
+[07/08/2021 20:17:29]
+  Pirate Gunner equipped Screwdriver
+[07/08/2021 20:17:30]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:17:31]
+  terc: holy shit youre right
+[07/08/2021 20:17:32]
+  Joyce Lowe started repairing Supercapacitor
+[07/08/2021 20:17:32]
+  Pirate Greaser unequipped Screwdriver
+[07/08/2021 20:17:32]
+  Pirate Greaser equipped Welding Tool
+[07/08/2021 20:17:33]
+  Pirate Fuelboy unequipped Wrench
+[07/08/2021 20:17:33]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:17:36]
+  Pirate Captain has died (Cause of death: Barotrauma)
+[07/08/2021 20:17:37]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:17:43]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:17:49]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:17:49]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:17:49]
+  Mudraptor attacked by terc. Lacerations: 6.56 Bleeding: 1.2
+[07/08/2021 20:17:49]
+  Mudraptor attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:17:50]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:17:50]
+  sylv picked up Stabilozine
+[07/08/2021 20:17:50]
+  sylv picked up Stabilozine
+[07/08/2021 20:17:50]
+  sylv picked up Stabilozine
+[07/08/2021 20:17:51]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:17:52]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:17:52]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:17:52]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:17:53]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:17:53]
+  terc launched Coilgun (projectile: Piercing Coilgun Bolt)
+[07/08/2021 20:17:53]
+  Mudraptor attacked by terc. Lacerations: 4 Bleeding: 0.75
+[07/08/2021 20:17:53]
+  Mudraptor attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:17:53]
+  Mudraptor attacked by terc. Lacerations: 8 Bleeding: 1.5
+[07/08/2021 20:17:54]
+  Mudraptor attacked by terc. Lacerations: 16 Bleeding: 3
+[07/08/2021 20:17:54]
+  Mudraptor attacked by terc. Lacerations: 6.56 Bleeding: 1.2
+[07/08/2021 20:17:54]
+  Pirate Gunner started repairing Junction Box
+[07/08/2021 20:17:59]
+  Outer wall repaired by Pirate Greaser
+[07/08/2021 20:18:00]
+  sylv started fabricating Naloxone in Medical Fabricator
+[07/08/2021 20:18:02]
+  Outer wall repaired by Pirate Greaser
+[07/08/2021 20:18:02]
+  Outer wall repaired by Pirate Greaser
+[07/08/2021 20:18:04]
+  Pirate Gunner failed to repair Navigation Terminal
+[07/08/2021 20:18:11]
+  Pirate Fuelboy started repairing Navigation Terminal
+[07/08/2021 20:18:13]
+  sylv picked up Anabolic Steroids
+[07/08/2021 20:18:13]
+  sylv picked up Anabolic Steroids
+[07/08/2021 20:18:16]
+  Pirate Gunner failed to repair Supercapacitor
+[07/08/2021 20:18:19]
+  terc: i can fire straight down
+[07/08/2021 20:18:23]
+  Pirate Fuelboy started repairing Supercapacitor
+[07/08/2021 20:18:33]
+  sylv placed Naloxone in Syringe Gun (ID: 1095)
+[07/08/2021 20:18:35]
+  Pirate Gunner opened Custom Hatch
+[07/08/2021 20:18:35]
+  Pirate Fuelboy started repairing Supercapacitor
+[07/08/2021 20:18:36]
+  Pirate Gunner closed Custom Door
+[07/08/2021 20:18:36]
+  Pirate Gunner opened Custom Door
+[07/08/2021 20:18:36]
+  tomacatx1 equipped Depth Decoy Shell
+[07/08/2021 20:18:36]
+  tomacatx1 picked up Depth Decoy Shell
+[07/08/2021 20:18:37]
+  Pirate Gunner unequipped Screwdriver
+[07/08/2021 20:18:37]
+  Pirate Gunner equipped Wrench
+[07/08/2021 20:18:37]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:18:38]
+  Pirate Gunner opened Custom Door
+[07/08/2021 20:18:38]
+  Pirate Gunner closed Custom Door
+[07/08/2021 20:18:39]
+  terc: didnt knnow that could happen
+[07/08/2021 20:18:39]
+  Pirate Gunner closed Custom Door
+[07/08/2021 20:18:39]
+  Pirate Gunner opened Custom Door
+[07/08/2021 20:18:40]
+  Pirate Gunner started repairing Nuclear Reactor
+[07/08/2021 20:18:41]
+  superhands: they disappeared off the sonar
+[07/08/2021 20:18:41]
+  Pirate Gunner has died (Cause of death: Barotrauma)
+[07/08/2021 20:18:42]
+  tomacatx1 placed Depth Decoy Shell in Depth Charge Loader (ID: 979)
+[07/08/2021 20:18:45]
+  Pirate Gunner opened Custom Door
+[07/08/2021 20:18:45]
+  Pirate Gunner closed Custom Door
+[07/08/2021 20:18:47]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:18:47]
+  Joyce Lowe started repairing Supercapacitor
+[07/08/2021 20:18:47]
+  Pirate Fuelboy started repairing Supercapacitor
+[07/08/2021 20:18:49]
+  Pirate Gunner unequipped Wrench
+[07/08/2021 20:18:49]
+  Pirate Gunner equipped Screwdriver
+[07/08/2021 20:18:51]
+  superhands placed Battery Cell in Medium Steel Cabinet (ID: 897)
+[07/08/2021 20:18:51]
+  superhands removed Fuel Rod from Medium Steel Cabinet (ID: 897)
+[07/08/2021 20:18:51]
+  superhands removed Fuel Rod from Medium Steel Cabinet (ID: 897)
+[07/08/2021 20:18:51]
+  superhands removed Fuel Rod from Medium Steel Cabinet (ID: 897)
+[07/08/2021 20:18:51]
+  superhands removed Fuel Rod from Medium Steel Cabinet (ID: 897)
+[07/08/2021 20:18:51]
+  superhands removed Fuel Rod from Medium Steel Cabinet (ID: 897)
+[07/08/2021 20:18:51]
+  superhands picked up Fuel Rod
+[07/08/2021 20:18:51]
+  superhands picked up Fuel Rod
+[07/08/2021 20:18:51]
+  superhands picked up Fuel Rod
+[07/08/2021 20:18:51]
+  superhands picked up Fuel Rod
+[07/08/2021 20:18:51]
+  superhands picked up Fuel Rod
+[07/08/2021 20:18:51]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:18:53]
+  superhands placed Fuel Rod in Nuclear Reactor (ID: 879)
+[07/08/2021 20:18:55]
+  superhands adjusted reactor settings: Temperature: 0, Fission rate: 10, Turbine output: 44, Autotemp OFF
+[07/08/2021 20:18:56]
+  superhands adjusted reactor settings: Temperature: 0, Fission rate: 23, Turbine output: 44, Autotemp OFF
+[07/08/2021 20:18:56]
+  Pirate Fuelboy started repairing Supercapacitor
+[07/08/2021 20:18:57]
+  superhands adjusted reactor settings: Temperature: 350, Fission rate: 56, Turbine output: 44, Autotemp OFF
+[07/08/2021 20:18:58]
+  superhands adjusted reactor settings: Temperature: 1350, Fission rate: 53, Turbine output: 44, Autotemp ON
+[07/08/2021 20:18:59]
+  Outer wall repaired by Pirate Greaser
+[07/08/2021 20:18:59]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:19:01]
+  Joyce Lowe started repairing Junction Box
+[07/08/2021 20:19:02]
+  terc picked up Railgun Shell
+[07/08/2021 20:19:03]
+  Outer wall repaired by Pirate Greaser
+[07/08/2021 20:19:05]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:19:05]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:19:05]
+  Joyce Lowe: I need diving gear!
+[07/08/2021 20:19:05]
+  terc dropped Railgun Shell
+[07/08/2021 20:19:08]
+  terc placed Railgun Shell in Railgun Loader (ID: 517)
+[07/08/2021 20:19:09]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:19:09]
+  Pirate Fuelboy equipped Wrench
+[07/08/2021 20:19:09]
+  Pirate Fuelboy unequipped Wrench
+[07/08/2021 20:19:09]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:19:11]
+  Pirate Gunner started repairing Junction Box
+[07/08/2021 20:19:12]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:19:12]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:19:13]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:19:13]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:19:13]
+  Joyce Lowe failed to repair Small Pump
+[07/08/2021 20:19:14]
+  terc: try going above em a little
+[07/08/2021 20:19:17]
+  terc: i wanna blast a shell
+[07/08/2021 20:19:17]
+  sylv picked up Diving Suit
+[07/08/2021 20:19:18]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:19:18]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:19:18]
+  superhands equipped Utility Mk-I Hardsuit
+[07/08/2021 20:19:18]
+  superhands picked up Utility Mk-I Hardsuit
+[07/08/2021 20:19:20]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:19:20]
+  Pirate Fuelboy equipped Wrench
+[07/08/2021 20:19:20]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:19:20]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:19:20]
+  Joyce Lowe started repairing Small Pump
+[07/08/2021 20:19:21]
+  Pirate Fuelboy unequipped Wrench
+[07/08/2021 20:19:21]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:19:22]
+  Pirate Gunner started repairing Junction Box
+[07/08/2021 20:19:23]
+  superhands placed Body Armor in Medium Steel Cabinet (ID: 1198)
+[07/08/2021 20:19:26]
+  superhands equipped Oxygen Tank
+[07/08/2021 20:19:26]
+  superhands picked up Oxygen Tank
+[07/08/2021 20:19:26]
+  superhands equipped Oxygen Tank
+[07/08/2021 20:19:26]
+  superhands picked up Oxygen Tank
+[07/08/2021 20:19:27]
+  Pirate Gunner unequipped Screwdriver
+[07/08/2021 20:19:27]
+  Pirate Gunner equipped Screwdriver
+[07/08/2021 20:19:27]
+  Pirate Gunner unequipped Screwdriver
+[07/08/2021 20:19:27]
+  Pirate Gunner equipped Wrench
+[07/08/2021 20:19:27]
+  Pirate Gunner unequipped Wrench
+[07/08/2021 20:19:27]
+  Pirate Gunner equipped Screwdriver
+[07/08/2021 20:19:27]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:19:27]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:19:28]
+  superhands dropped Diving Knife
+[07/08/2021 20:19:29]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:19:29]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:19:29]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:19:29]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:19:30]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:19:30]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:19:30]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:19:30]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:19:31]
+  sylv picked up Oxygen Tank
+[07/08/2021 20:19:31]
+  superhands picked up Oxygen Tank
+[07/08/2021 20:19:31]
+  Outer wall repaired by Pirate Greaser
+[07/08/2021 20:19:31]
+  Pirate Gunner failed to repair Junction Box
+[07/08/2021 20:19:32]
+  sylv picked up Oxygen Tank
+[07/08/2021 20:19:32]
+  sylv picked up Oxygen Tank
+[07/08/2021 20:19:32]
+  terc: its to the left
+[07/08/2021 20:19:33]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:19:33]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:19:33]
+  superhands picked up Underwater Scooter
+[07/08/2021 20:19:33]
+  superhands dropped Bandage
+[07/08/2021 20:19:33]
+  superhands placed Bandage in Medium Steel Cabinet (ID: 1198)
+[07/08/2021 20:19:33]
+  tomacatx1 equipped Screwdriver
+[07/08/2021 20:19:35]
+  Outer wall repaired by Pirate Greaser
+[07/08/2021 20:19:36]
+  terc: you missed it i think
+[07/08/2021 20:19:36]
+  superhands placed Fuel Rod in Medium Steel Cabinet (ID: 1198)
+[07/08/2021 20:19:36]
+  superhands placed Fuel Rod in Medium Steel Cabinet (ID: 1198)
+[07/08/2021 20:19:36]
+  superhands placed Fuel Rod in Medium Steel Cabinet (ID: 1198)
+[07/08/2021 20:19:36]
+  superhands placed Fuel Rod in Medium Steel Cabinet (ID: 1198)
+[07/08/2021 20:19:36]
+  superhands removed Plasma Cutter from Medium Steel Cabinet (ID: 1198)
+[07/08/2021 20:19:36]
+  superhands picked up Plasma Cutter
+[07/08/2021 20:19:36]
+  Joyce Lowe started repairing Battery
+[07/08/2021 20:19:37]
+  Pirate Fuelboy started repairing Navigation Terminal
+[07/08/2021 20:19:38]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:19:38]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:19:39]
+  superhands equipped Plasma Cutter
+[07/08/2021 20:19:40]
+  Joyce Lowe failed to repair Battery
+[07/08/2021 20:19:42]
+  sylv placed Anabolic Steroids in Syringe Gun (ID: 1095)
+[07/08/2021 20:19:42]
+  sylv placed Anabolic Steroids in Syringe Gun (ID: 1095)
+[07/08/2021 20:19:45]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:19:46]
+  terc: go above
+[07/08/2021 20:19:46]
+  superhands closed Custom Door
+[07/08/2021 20:19:46]
+  superhands opened Custom Door
+[07/08/2021 20:19:47]
+  Pirate Gunner failed to repair Junction Box
+[07/08/2021 20:19:48]
+  terc: go up a little
+[07/08/2021 20:19:48]
+  superhands opened Custom Door
+[07/08/2021 20:19:48]
+  superhands closed Custom Door
+[07/08/2021 20:19:49]
+  superhands opened Custom Hatch
+[07/08/2021 20:19:50]
+  superhands equipped Underwater Scooter
+[07/08/2021 20:19:52]
+  Pirate Gunner unequipped Screwdriver
+[07/08/2021 20:19:52]
+  Pirate Gunner equipped Wrench
+[07/08/2021 20:19:58]
+  terc: it is
+[07/08/2021 20:19:59]
+  Pirate Gunner unequipped Wrench
+[07/08/2021 20:19:59]
+  Pirate Gunner equipped Screwdriver
+[07/08/2021 20:20:01]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:20:01]
+  Pirate Gunner started repairing Junction Box
+[07/08/2021 20:20:06]
+  Pirate Gunner unequipped Screwdriver
+[07/08/2021 20:20:06]
+  Pirate Gunner equipped Wrench
+[07/08/2021 20:20:06]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:20:07]
+  Pirate Fuelboy unequipped Screwdriver
+[07/08/2021 20:20:07]
+  Pirate Fuelboy equipped Wrench
+[07/08/2021 20:20:07]
+  Pirate Gunner unequipped Wrench
+[07/08/2021 20:20:07]
+  Pirate Gunner equipped Screwdriver
+[07/08/2021 20:20:08]
+  Pirate Fuelboy unequipped Wrench
+[07/08/2021 20:20:08]
+  Pirate Fuelboy equipped Screwdriver
+[07/08/2021 20:20:08]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:20:08]
+  Pirate Gunner failed to repair Junction Box
+[07/08/2021 20:20:09]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:20:11]
+  terc launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[07/08/2021 20:20:11]
+  Inner wall breached by terc
+[07/08/2021 20:20:11]
+  Outer wall breached by terc
+[07/08/2021 20:20:11]
+  Outer wall breached by terc
+[07/08/2021 20:20:11]
+  Outer wall breached by terc
+[07/08/2021 20:20:17]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:20:17]
+  terc launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[07/08/2021 20:20:17]
+  Pirate Gunner attacked by terc. Lacerations: 110 Bleeding: 50 Stun: 15
+[07/08/2021 20:20:17]
+  Pirate Gunner has died (Cause of death: Lacerations)
+[07/08/2021 20:20:17]
+  Pirate Greaser has died (Cause of death: Deep tissue injury)
+[07/08/2021 20:20:21]
+  sylv placed Cyanide in Syringe Gun (ID: 1095)
+[07/08/2021 20:20:21]
+  sylv placed Cyanide in Syringe Gun (ID: 1095)
+[07/08/2021 20:20:21]
+  sylv placed Cyanide in Syringe Gun (ID: 1095)
+[07/08/2021 20:20:22]
+  terc launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[07/08/2021 20:20:22]
+  Pirate Gunner attacked by terc. Lacerations: 88 Stun: 15
+[07/08/2021 20:20:22]
+  Pirate Gunner has died (Cause of death: Lacerations)
+[07/08/2021 20:20:26]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:20:27]
+  Outer wall breached by superhands
+[07/08/2021 20:20:28]
+  terc launched Railgun (projectile: Railgun Shell, contained items: C-4 Block)
+[07/08/2021 20:20:28]
+  Pirate Gunner has died (Cause of death: Lacerations)
+[07/08/2021 20:20:28]
+  Pirate Gunner attacked by terc. Lacerations: 100 Bleeding: 40 Stun: 15
+[07/08/2021 20:20:33]
+  Joyce Lowe started repairing Battery
+[07/08/2021 20:20:37]
+  Joyce Lowe started repairing Battery
+[07/08/2021 20:20:37]
+  terc equipped Railgun Shell
+[07/08/2021 20:20:37]
+  terc picked up Railgun Shell
+[07/08/2021 20:20:37]
+  tomacatx1 picked up Underwater Scooter
+[07/08/2021 20:20:39]
+  tomacatx1 picked up Diving Suit
+[07/08/2021 20:20:39]
+  Pirate Fuelboy started repairing Junction Box
+[07/08/2021 20:20:40]
+  terc dropped Railgun Shell
+[07/08/2021 20:20:41]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:20:41]
+  tomacatx1 dropped Body Armor
+[07/08/2021 20:20:42]
+  tomacatx1 picked up Oxygen Tank
+[07/08/2021 20:20:42]
+  tomacatx1 picked up Oxygen Tank
+[07/08/2021 20:20:43]
+  tomacatx1 picked up Oxygen Tank
+[07/08/2021 20:20:43]
+  terc dropped Railgun Shell
+[07/08/2021 20:20:43]
+  sylv unequipped Syringe Gun
+[07/08/2021 20:20:43]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 1142)
+[07/08/2021 20:20:43]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 1142)
+[07/08/2021 20:20:43]
+  tomacatx1 placed Oxygen Tank in Toolbelt (ID: 1142)
+[07/08/2021 20:20:44]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:20:44]
+  superhands equipped SMG
+[07/08/2021 20:20:45]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:20:45]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:20:46]
+  terc placed Railgun Shell in Railgun Loader (ID: 517)
+[07/08/2021 20:20:46]
+  tomacatx1 opened Custom Door
+[07/08/2021 20:20:46]
+  tomacatx1 closed Custom Door
+[07/08/2021 20:20:46]
+  sylv dropped Syringe Gun
+[07/08/2021 20:20:47]
+  Joyce Lowe started repairing Status Monitor
+[07/08/2021 20:20:52]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:20:54]
+  terc picked up Underwater Scooter
+[07/08/2021 20:20:54]
+  tomacatx1 equipped Underwater Scooter
+[07/08/2021 20:20:55]
+  terc picked up Diving Suit
+[07/08/2021 20:20:57]
+  terc dropped Flashlight
+[07/08/2021 20:20:58]
+  terc closed Custom Door
+[07/08/2021 20:20:58]
+  terc opened Custom Door
+[07/08/2021 20:21:00]
+  terc equipped Underwater Scooter
+[07/08/2021 20:21:01]
+  Pirate Gunner attacked by superhands. Gunshot wound: 4.2 Stun: 0.15
+[07/08/2021 20:21:01]
+  Pirate Fuelboy attacked by superhands. Bleeding: 7.5 Gunshot wound: 4.8 Stun: 0.15
+[07/08/2021 20:21:01]
+  Pirate Fuelboy attacked by superhands. Bleeding: 7.5 Gunshot wound: 4.5 Stun: 0.15
+[07/08/2021 20:21:01]
+  terc closed Custom Hatch
+[07/08/2021 20:21:01]
+  Pirate Fuelboy attacked by superhands. Gunshot wound: 4.5 Stun: 0.15
+[07/08/2021 20:21:01]
+  Pirate Fuelboy attacked by superhands. Gunshot wound: 4.5 Stun: 0.15
+[07/08/2021 20:21:02]
+  Pirate Fuelboy attacked by superhands. Bleeding: 7.5 Gunshot wound: 4.5 Stun: 0.15
+[07/08/2021 20:21:02]
+  Pirate Fuelboy attacked by superhands. Bleeding: 7.5 Gunshot wound: 4.5 Stun: 0.15
+[07/08/2021 20:21:02]
+  Pirate Fuelboy attacked by superhands. Bleeding: 7.5 Gunshot wound: 4.5 Stun: 0.15
+[07/08/2021 20:21:02]
+  Pirate Fuelboy attacked by superhands. Bleeding: 7.5 Gunshot wound: 4.5 Stun: 0.15
+[07/08/2021 20:21:02]
+  Pirate Fuelboy attacked by superhands. Bleeding: 7.5 Gunshot wound: 4.8 Stun: 0.15
+[07/08/2021 20:21:11]
+  Joyce Lowe equipped Screwdriver
+[07/08/2021 20:21:12]
+  Pirate Fuelboy has died (Cause of death: Gunshot wound)
+[07/08/2021 20:21:12]
+  Mission info: Pirates eliminated - Navigate the submarine to Ino Linea Prospecting Outpost to claim your reward.
+[07/08/2021 20:21:12]
+  superhands removed Diving Suit from Pirate Fuelboy
+[07/08/2021 20:21:13]
+  sylv opened Custom Door
+[07/08/2021 20:21:13]
+  sylv closed Custom Door
+[07/08/2021 20:21:16]
+  Joyce Lowe failed to repair Junction Box
+[07/08/2021 20:21:16]
+  superhands picked up Pirate Costume
+[07/08/2021 20:21:16]
+  superhands dropped Commando's Fatigues
+[07/08/2021 20:21:16]
+  superhands placed Commando's Fatigues in Pirate Fuelboy
+[07/08/2021 20:21:16]
+  sylv closed Custom Door
+[07/08/2021 20:21:16]
+  sylv opened Custom Door
+[07/08/2021 20:21:18]
+  sylv opened Custom Hatch
+[07/08/2021 20:21:18]
+  sylv closed Custom Hatch
+[07/08/2021 20:21:18]
+  sylv opened Custom Hatch
+[07/08/2021 20:21:19]
+  superhands picked up Pirate Bandana
+[07/08/2021 20:21:19]
+  superhands dropped Ballistic Helmet
+[07/08/2021 20:21:19]
+  superhands placed Ballistic Helmet in Pirate Fuelboy
+[07/08/2021 20:21:20]
+  Joyce Lowe started repairing Junction Box
+[07/08/2021 20:21:23]
+  sylv closed Custom Hatch
+[07/08/2021 20:21:24]
+  Joyce Lowe unequipped Screwdriver
+[07/08/2021 20:21:24]
+  Joyce Lowe equipped Wrench
+[07/08/2021 20:21:25]
+  Joyce Lowe failed to repair Oxygen Generator
+[07/08/2021 20:21:25]
+  terc picked up Diving Suit
+[07/08/2021 20:21:25]
+  terc dropped Diving Suit
+[07/08/2021 20:21:30]
+  Joyce Lowe unequipped Wrench
+[07/08/2021 20:21:31]
+  superhands placed Anabolic Steroids in Pirate Gunner
+[07/08/2021 20:21:31]
+  superhands removed Revolver from Pirate Gunner
+[07/08/2021 20:21:31]
+  superhands picked up Revolver

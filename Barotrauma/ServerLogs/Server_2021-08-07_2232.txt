@@ -1,0 +1,1602 @@
+﻿[07/08/2021 22:16:36]
+  tomacatx1 placed FPGA Circuit in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:36]
+  tomacatx1 placed FPGA Circuit in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:37]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:16:38]
+  tomacatx1 picked up FPGA Circuit
+[07/08/2021 22:16:39]
+  tomacatx1 placed FPGA Circuit in Material Storage Locker (ID: 958)
+[07/08/2021 22:16:41]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:16:41]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:16:44]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 22:16:48]
+  sylv: built different (has revive binded)
+[07/08/2021 22:16:52]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:52]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:52]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:52]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:52]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:52]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:52]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:52]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:52]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:16:54]
+  tomacatx1 placed Phosphorus in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:54]
+  tomacatx1 placed Phosphorus in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:54]
+  tomacatx1 placed Phosphorus in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:54]
+  tomacatx1 placed Phosphorus in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:54]
+  tomacatx1 placed Phosphorus in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:54]
+  tomacatx1 placed Phosphorus in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:54]
+  tomacatx1 placed Phosphorus in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:54]
+  tomacatx1 placed Phosphorus in Large Steel Cabinet (ID: 231)
+[07/08/2021 22:16:56]
+  Carson Molina started repairing Battery
+[07/08/2021 22:16:57]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:16:57]
+  tomacatx1 picked up Phosphorus
+[07/08/2021 22:17:01]
+  tomacatx1 placed Phosphorus in Material Storage Locker (ID: 958)
+[07/08/2021 22:17:01]
+  tomacatx1 placed Phosphorus in Material Storage Locker (ID: 958)
+[07/08/2021 22:17:02]
+  Carson Molina started repairing Battery
+[07/08/2021 22:17:04]
+  tomacatx1 started fabricating UEX in Fabricator
+[07/08/2021 22:17:08]
+  terc: i am at half heah.
+[07/08/2021 22:17:09]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:17:09]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:17:15]
+  sylv: i dont care at this point
+[07/08/2021 22:17:21]
+  tomacatx1 picked up UEX
+[07/08/2021 22:17:21]
+  tomacatx1 picked up UEX
+[07/08/2021 22:17:21]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 22:17:22]
+  sylv: you did that yourself
+[07/08/2021 22:17:25]
+  tomacatx1 started fabricating C-4 Block in Fabricator
+[07/08/2021 22:17:25]
+  sylv placed Toolbelt in Large Steel Cabinet (ID: 292)
+[07/08/2021 22:17:29]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:17:30]
+  terc: well technically
+[07/08/2021 22:17:31]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:17:31]
+  Carson Molina equipped Wrench
+[07/08/2021 22:17:32]
+  terc: fin did it
+[07/08/2021 22:17:34]
+  Carson Molina started repairing Fabricator
+[07/08/2021 22:17:37]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:17:37]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:17:41]
+  sylv: you volunteered
+[07/08/2021 22:17:43]
+  tomacatx1 started fabricating C-4 Block in Fabricator
+[07/08/2021 22:17:47]
+  tomacatx1 equipped Duffel Bag
+[07/08/2021 22:17:47]
+  tomacatx1 picked up Duffel Bag
+[07/08/2021 22:17:51]
+  Carson Molina started repairing Navigation Terminal
+[07/08/2021 22:17:51]
+  tomacatx1 placed Alien Power Cell in Metal Crate (ID: 2697)
+[07/08/2021 22:17:52]
+  tomacatx1 placed Duffel Bag in Tall Crate Rack (ID: 857)
+[07/08/2021 22:17:58]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:17:58]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:18:00]
+  tomacatx1 picked up C-4 Block
+[07/08/2021 22:18:00]
+  tomacatx1 picked up C-4 Block
+[07/08/2021 22:18:03]
+  Carson Molina started repairing Battery
+[07/08/2021 22:18:05]
+  sylv used item Morphine
+[07/08/2021 22:18:10]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:18:18]
+  tomacatx1 placed C-4 Block in Depth Charge Shell (ID: 3801)
+[07/08/2021 22:18:19]
+  tomacatx1 placed C-4 Block in Depth Charge Shell (ID: 3819)
+[07/08/2021 22:18:22]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:18:23]
+  tomacatx1 placed C-4 Block in Secure Steel Cabinet (ID: 180)
+[07/08/2021 22:18:23]
+  tomacatx1 placed C-4 Block in Secure Steel Cabinet (ID: 180)
+[07/08/2021 22:18:24]
+  terc picked up Biofoam Sprayer
+[07/08/2021 22:18:24]
+  terc equipped Biofoam Sprayer
+[07/08/2021 22:18:27]
+  sylv picked up Seed Bag
+[07/08/2021 22:18:29]
+  tomacatx1 equipped Hand Truck
+[07/08/2021 22:18:29]
+  sylv placed Salt Vine Seed in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:18:29]
+  sylv placed Salt Vine Seed in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:18:29]
+  sylv placed Salt Vine Seed in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:18:31]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:18:31]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:18:31]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:18:32]
+  sylv placed Seed Bag in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:18:34]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:18:34]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:18:34]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:18:35]
+  Carson Molina equipped Wrench
+[07/08/2021 22:18:38]
+  Carson Molina started repairing Oxygen Generator
+[07/08/2021 22:18:41]
+  sylv picked up Fertilizer
+[07/08/2021 22:18:41]
+  sylv picked up Fertilizer
+[07/08/2021 22:18:41]
+  sylv picked up Fertilizer
+[07/08/2021 22:18:41]
+  sylv picked up Fertilizer
+[07/08/2021 22:18:41]
+  sylv picked up Fertilizer
+[07/08/2021 22:18:41]
+  sylv picked up Fertilizer
+[07/08/2021 22:18:41]
+  sylv picked up Fertilizer
+[07/08/2021 22:18:41]
+  sylv picked up Fertilizer
+[07/08/2021 22:18:42]
+  tomacatx1 dropped Hand Truck
+[07/08/2021 22:18:43]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:18:43]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:18:43]
+  tomacatx1 equipped Package Honkmother
+[07/08/2021 22:18:55]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:18:57]
+  terc placed Biofoam Sprayer in Medicine Cabinet (ID: 280)
+[07/08/2021 22:18:59]
+  terc picked up Biofoam Sprayer
+[07/08/2021 22:19:01]
+  terc placed Biofoam Sprayer in Medicine Cabinet (ID: 280)
+[07/08/2021 22:19:02]
+  tomacatx1 dropped Package Honkmother
+[07/08/2021 22:19:03]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:19:03]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:19:05]
+  superhands equipped Package Honkmother
+[07/08/2021 22:19:06]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 22:19:14]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:19:15]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:19:16]
+  sylv dropped Fishbowler
+[07/08/2021 22:19:17]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:19:19]
+  Carson Molina attacked by superhands. Blunt force trauma: 0.9
+[07/08/2021 22:19:19]
+  superhands used Package Honkmother on Carson Molina.
+[07/08/2021 22:19:23]
+  terc was kicked because they were expecting a very old network event (29977 (created 10.15 s ago, 10.1 s older than last event sent to anyone) Events queued: 896, last sent to all: 29976
+[07/08/2021 22:19:23]
+  terc has left the server. Reason: ExcessiveDesyncOldEventYou have been disconnected because your client was expecting a very old network event.
+[07/08/2021 22:19:23]
+  terc has left the server.
+[07/08/2021 22:19:25]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:19:32]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:19:32]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:19:33]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:19:37]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:19:41]
+  Carson Molina started repairing Battery
+[07/08/2021 22:19:43]
+  Console command "teleport terc" executed by tomacatx1.
+[07/08/2021 22:19:44]
+  terc has joined the server.
+[07/08/2021 22:19:44]
+  Saving client permissions
+[07/08/2021 22:19:47]
+  sylv picked up Wrench
+[07/08/2021 22:19:47]
+  sylv picked up Wrench
+[07/08/2021 22:19:49]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:19:54]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:19:59]
+  sylv equipped Wrench
+[07/08/2021 22:20:00]
+  tomacatx1 equipped Crate of Steel Bars
+[07/08/2021 22:20:01]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:20:01]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:20:02]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:20:03]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:20:04]
+  tomacatx1 dropped Crate of Steel Bars
+[07/08/2021 22:20:06]
+  tomacatx1 equipped Railgun Shell
+[07/08/2021 22:20:08]
+  tomacatx1 placed Railgun Shell in Hand Truck (ID: 2549)
+[07/08/2021 22:20:08]
+  tomacatx1 equipped Railgun Shell
+[07/08/2021 22:20:10]
+  tomacatx1 placed Railgun Shell in Hand Truck (ID: 2549)
+[07/08/2021 22:20:11]
+  tomacatx1 equipped Railgun Shell
+[07/08/2021 22:20:18]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 22:20:18]
+  tomacatx1 placed Railgun Shell in Hand Truck (ID: 2549)
+[07/08/2021 22:20:19]
+  tomacatx1 equipped Crate of Bandages
+[07/08/2021 22:20:21]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:20:28]
+  tomacatx1 dropped Crate of Bandages
+[07/08/2021 22:20:28]
+  superhands placed Package Honkmother in Deconstructor (ID: 230)
+[07/08/2021 22:20:29]
+  superhands activated Deconstructor
+[07/08/2021 22:20:32]
+  Carson Molina equipped Crate of Steel Bars
+[07/08/2021 22:20:42]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:20:42]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:20:42]
+  Carson Molina equipped Wrench
+[07/08/2021 22:20:42]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:20:45]
+  superhands picked up Rubber Chicken
+[07/08/2021 22:20:46]
+  superhands picked up Servant's Mask
+[07/08/2021 22:20:47]
+  tomacatx1 dropped Hand Truck
+[07/08/2021 22:20:48]
+  superhands placed Ion Pulse Cutter in Deconstructor (ID: 230)
+[07/08/2021 22:20:48]
+  superhands removed Servant's Armor from Deconstructor (ID: 230)
+[07/08/2021 22:20:48]
+  superhands picked up Servant's Armor
+[07/08/2021 22:20:48]
+  sylv unequipped Wrench
+[07/08/2021 22:20:48]
+  sylv equipped Small Planter Box
+[07/08/2021 22:20:48]
+  sylv detached Small Planter Box from a wall
+[07/08/2021 22:20:49]
+  tomacatx1 equipped Crate of Steel Bars
+[07/08/2021 22:20:49]
+  tomacatx1 picked up Crate of Steel Bars
+[07/08/2021 22:20:50]
+  superhands placed Ion Pulse Cutter in Toolbelt (ID: 7463)
+[07/08/2021 22:20:51]
+  tomacatx1 placed Crate of Steel Bars in Material Storage Locker (ID: 958)
+[07/08/2021 22:20:52]
+  superhands: Oh my god.
+[07/08/2021 22:20:56]
+  superhands equipped Gauss Pistol
+[07/08/2021 22:20:59]
+  superhands equipped Rubber Chicken
+[07/08/2021 22:21:02]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:21:07]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:21:08]
+  sylv attached Small Planter Box to a wall
+[07/08/2021 22:21:10]
+  sylv equipped Fertilizer
+[07/08/2021 22:21:11]
+  sylv equipped Salt Vine Seed
+[07/08/2021 22:21:14]
+  terc set the value "Channel" of the item "Headset" to "0".
+[07/08/2021 22:21:17]
+  tomacatx1 placed Railgun Shell in Huge Railgun Shell Rack (ID: 2213)
+[07/08/2021 22:21:19]
+  tomacatx1 placed Railgun Shell in Huge Railgun Shell Rack (ID: 2213)
+[07/08/2021 22:21:20]
+  sylv equipped Fertilizer
+[07/08/2021 22:21:20]
+  tomacatx1 placed Railgun Shell in Huge Railgun Shell Rack (ID: 2213)
+[07/08/2021 22:21:21]
+  terc equipped Screwdriver
+[07/08/2021 22:21:21]
+  terc equipped Wrench
+[07/08/2021 22:21:22]
+  terc unequipped Wrench
+[07/08/2021 22:21:22]
+  terc unequipped Screwdriver
+[07/08/2021 22:21:22]
+  terc equipped Guitar
+[07/08/2021 22:21:22]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 22:21:28]
+  sylv equipped Salt Vine Seed
+[07/08/2021 22:21:29]
+  sylv equipped Salt Vine Seed
+[07/08/2021 22:21:30]
+  sylv dropped Fertilizer
+[07/08/2021 22:21:30]
+  terc dropped Guitar
+[07/08/2021 22:21:33]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:21:36]
+  tomacatx1 dropped Hand Truck
+[07/08/2021 22:21:41]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:21:41]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:21:42]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:21:44]
+  sylv equipped Fertilizer
+[07/08/2021 22:21:45]
+  sylv unequipped Fertilizer
+[07/08/2021 22:21:56]
+  terc picked up Fentanyl
+[07/08/2021 22:21:57]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:22:02]
+  terc used item Fentanyl
+[07/08/2021 22:22:04]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:22:12]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:22:12]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:22:12]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:22:14]
+  terc: what the fuck
+[07/08/2021 22:22:15]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:15]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:15]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:15]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:15]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:15]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:15]
+  sylv placed Fertilizer in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:23]
+  sylv placed Salt Vine Seed in Seed Bag (ID: 2030)
+[07/08/2021 22:22:24]
+  sylv picked up Watering Can
+[07/08/2021 22:22:32]
+  sylv picked up Seed Bag
+[07/08/2021 22:22:35]
+  sylv placed Salt Vine Seed in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:36]
+  sylv placed Seed Bag in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:22:40]
+  tomacatx1 picked up Stun Gun
+[07/08/2021 22:22:43]
+  tomacatx1 placed Stun Gun in Secure Steel Cabinet (ID: 215)
+[07/08/2021 22:22:43]
+  tomacatx1 picked up Micro Dart Gun
+[07/08/2021 22:22:44]
+  tomacatx1 equipped Micro Dart Gun
+[07/08/2021 22:22:45]
+  superhands attacked by tomacatx1.
+[07/08/2021 22:22:45]
+  terc equipped Hybrid Ammunition Box
+[07/08/2021 22:22:45]
+  terc picked up Hybrid Ammunition Box
+[07/08/2021 22:22:47]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:22:47]
+  tomacatx1 placed Micro Dart Gun in Secure Steel Cabinet (ID: 215)
+[07/08/2021 22:22:48]
+  tomacatx1 placed Dart (Raptorbane) in Micro Dart Gun (ID: 3143)
+[07/08/2021 22:22:49]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:22:53]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:22:53]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:22:53]
+  sylv equipped Watering Can
+[07/08/2021 22:22:55]
+  terc placed Hybrid Ammunition Box in Deconstructor (ID: 230)
+[07/08/2021 22:23:07]
+  tomacatx1 picked up Micro Dart Gun
+[07/08/2021 22:23:10]
+  superhands attacked by tomacatx1.
+[07/08/2021 22:23:12]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:23:13]
+  tomacatx1 placed Dart (Raptorbane) in Micro Dart Gun (ID: 3143)
+[07/08/2021 22:23:14]
+  tomacatx1 placed Micro Dart Gun in Secure Steel Cabinet (ID: 215)
+[07/08/2021 22:23:15]
+  terc equipped 'Beast' SSL (Flashlight)
+[07/08/2021 22:23:15]
+  sylv placed Salt Vine Seed in Small Planter Box (ID: 1501)
+[07/08/2021 22:23:22]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:23:28]
+  tomacatx1 equipped Captain's Sabre
+[07/08/2021 22:23:29]
+  tomacatx1 equipped Wrench
+[07/08/2021 22:23:30]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:23:30]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:23:30]
+  sylv equipped Medical Backpack
+[07/08/2021 22:23:30]
+  sylv picked up Medical Backpack
+[07/08/2021 22:23:32]
+  sylv placed Medical Backpack in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:23:32]
+  superhands attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:23:32]
+  tomacatx1 used Wrench on superhands.
+[07/08/2021 22:23:34]
+  sylv equipped Storage Container
+[07/08/2021 22:23:34]
+  sylv picked up Storage Container
+[07/08/2021 22:23:36]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:23:36]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:23:36]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:23:36]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:23:36]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:23:36]
+  sylv placed Salt Bulb in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:23:38]
+  sylv placed Storage Container in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:23:39]
+  sylv picked up Salt Bulb
+[07/08/2021 22:23:39]
+  sylv picked up Salt Bulb
+[07/08/2021 22:23:39]
+  sylv picked up Salt Bulb
+[07/08/2021 22:23:39]
+  sylv picked up Salt Bulb
+[07/08/2021 22:23:39]
+  sylv picked up Salt Bulb
+[07/08/2021 22:23:39]
+  sylv picked up Salt Bulb
+[07/08/2021 22:23:41]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 22:23:46]
+  tomacatx1 equipped Railgun Shell
+[07/08/2021 22:23:46]
+  tomacatx1 picked up Railgun Shell
+[07/08/2021 22:23:49]
+  tomacatx1 placed Railgun Shell in Huge Railgun Shell Rack (ID: 1436)
+[07/08/2021 22:23:49]
+  tomacatx1 equipped Nuclear Shell
+[07/08/2021 22:23:49]
+  tomacatx1 picked up Nuclear Shell
+[07/08/2021 22:23:50]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:23:51]
+  tomacatx1 placed Nuclear Shell in Railgun Loader (ID: 1520)
+[07/08/2021 22:23:51]
+  terc equipped Drum LMG
+[07/08/2021 22:24:00]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:24:00]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:24:00]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:24:00]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:24:00]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:24:00]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:24:01]
+  sylv activated Deconstructor
+[07/08/2021 22:24:02]
+  superhands: Terc.
+[07/08/2021 22:24:04]
+  superhands: Follow me.
+[07/08/2021 22:24:05]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:24:17]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:24:22]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:24:22]
+  Carson Molina equipped Wrench
+[07/08/2021 22:24:25]
+  superhands placed Rubber Chicken in Toolbelt (ID: 7463)
+[07/08/2021 22:24:27]
+  superhands picked up Steel Bar
+[07/08/2021 22:24:31]
+  superhands dropped Steel Bar
+[07/08/2021 22:24:31]
+  terc: whatsup
+[07/08/2021 22:24:31]
+  Carson Molina started repairing Deconstructor
+[07/08/2021 22:24:33]
+  terc: whats goin on
+[07/08/2021 22:24:37]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:24:37]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:24:39]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:24:48]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:48]
+  Carson Molina: Any of you remember the Earth?
+[07/08/2021 22:24:49]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:50]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:50]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:24:51]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[07/08/2021 22:24:51]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:55]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:55]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:56]
+  Mudraptor has died (Cause of death: Burn)
+[07/08/2021 22:24:56]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:57]
+  superhands equipped Storage Container
+[07/08/2021 22:24:57]
+  superhands picked up Storage Container
+[07/08/2021 22:24:57]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:59]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:24:59]
+  superhands placed Storage Container in Large Steel Cabinet (ID: 292)
+[07/08/2021 22:25:03]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 22:25:08]
+  sylv equipped Salt Vine Seed
+[07/08/2021 22:25:08]
+  superhands equipped Syringe Gun
+[07/08/2021 22:25:08]
+  superhands picked up Syringe Gun
+[07/08/2021 22:25:10]
+  superhands placed Syringe Gun in Cabinets (ID: 284)
+[07/08/2021 22:25:11]
+  superhands equipped Syringe Gun
+[07/08/2021 22:25:11]
+  superhands picked up Syringe Gun
+[07/08/2021 22:25:12]
+  superhands placed Syringe Gun in Cabinets (ID: 284)
+[07/08/2021 22:25:13]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:25:13]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:25:13]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:25:18]
+  superhands: Come.
+[07/08/2021 22:25:20]
+  terc picked up Stabilozine
+[07/08/2021 22:25:20]
+  terc picked up Stabilozine
+[07/08/2021 22:25:21]
+  terc placed Stabilozine in Large Steel Cabinet (ID: 292)
+[07/08/2021 22:25:21]
+  superhands: Come.
+[07/08/2021 22:25:24]
+  terc used item Stabilozine
+[07/08/2021 22:25:30]
+  sylv placed Salt Vine Seed in Small Planter Box (ID: 2599)
+[07/08/2021 22:25:35]
+  superhands placed Steel Bar in Fabricator (ID: 232)
+[07/08/2021 22:25:43]
+  superhands started fabricating Package Honkmother in Fabricator
+[07/08/2021 22:25:54]
+  sylv equipped Mutated Raptor Bane
+[07/08/2021 22:25:54]
+  sylv equipped Mutated Raptor Bane
+[07/08/2021 22:25:54]
+  sylv equipped Poop
+[07/08/2021 22:26:09]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:26:10]
+  sylv threw Mutated Raptor Bane
+[07/08/2021 22:26:10]
+  sylv threw Poop
+[07/08/2021 22:26:11]
+  superhands: come
+[07/08/2021 22:26:12]
+  terc: man where is that clow
+[07/08/2021 22:26:14]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:26:14]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:26:16]
+  Carson Molina started repairing Battery
+[07/08/2021 22:26:20]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:26:21]
+  superhands: Your package
+[07/08/2021 22:26:25]
+  superhands: will soon be ready.
+[07/08/2021 22:26:27]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:26:27]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:26:27]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:26:27]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:26:27]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:26:27]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:26:27]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:26:28]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:26:31]
+  terc: what???
+[07/08/2021 22:26:32]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:26:39]
+  superhands: One minute remaining.
+[07/08/2021 22:26:40]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:26:40]
+  Carson Molina equipped Wrench
+[07/08/2021 22:26:43]
+  Carson Molina started repairing Deconstructor
+[07/08/2021 22:26:47]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:26:47]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:26:48]
+  Outer wall breached by Mudraptor
+[07/08/2021 22:26:52]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:26:52]
+  Mudraptor_unarmored attacked by terc. Gunshot wound: 12 Lacerations: 10 Bleeding: 7
+[07/08/2021 22:26:52]
+  Mudraptor_unarmored attacked by terc. Gunshot wound: 12 Lacerations: 10 Bleeding: 7
+[07/08/2021 22:26:52]
+  Mudraptor_unarmored attacked by terc. Gunshot wound: 12 Lacerations: 10 Bleeding: 7
+[07/08/2021 22:26:52]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:26:53]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:26:54]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[07/08/2021 22:26:54]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:26:54]
+  Mudraptor has died (Cause of death: Burn)
+[07/08/2021 22:26:55]
+  terc launched Coilgun (projectile: Hybrid Flak Coilgun Bolt)
+[07/08/2021 22:27:01]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:27:08]
+  sylv equipped Salt Bulb
+[07/08/2021 22:27:08]
+  sylv equipped Salt Bulb
+[07/08/2021 22:27:09]
+  Carson Molina started repairing Battery
+[07/08/2021 22:27:10]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:27:20]
+  terc: how do i cure opiote addictuion
+[07/08/2021 22:27:23]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:27:23]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:27:23]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:27:23]
+  sylv picked up Salt Vine Seed
+[07/08/2021 22:27:25]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:27:30]
+  terc picked up Naloxone
+[07/08/2021 22:27:30]
+  terc picked up Naloxone
+[07/08/2021 22:27:30]
+  terc picked up Naloxone
+[07/08/2021 22:27:31]
+  terc placed Naloxone in Large Steel Cabinet (ID: 292)
+[07/08/2021 22:27:31]
+  terc placed Naloxone in Large Steel Cabinet (ID: 292)
+[07/08/2021 22:27:32]
+  sylv: jesus fucking christ 
+[07/08/2021 22:27:34]
+  sylv: how
+[07/08/2021 22:27:35]
+  terc used item Naloxone
+[07/08/2021 22:27:38]
+  Carson Molina started repairing Sonar Monitor
+[07/08/2021 22:27:44]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:27:44]
+  Carson Molina equipped Wrench
+[07/08/2021 22:27:44]
+  Carson Molina started repairing Fabricator
+[07/08/2021 22:27:47]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:27:47]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:27:48]
+  sylv: no hes a retard im tired of this
+[07/08/2021 22:27:50]
+  terc equipped Package Honkmother
+[07/08/2021 22:27:50]
+  terc picked up Package Honkmother
+[07/08/2021 22:27:50]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:27:54]
+  superhands: Take it to the deconstructor.
+[07/08/2021 22:27:56]
+  terc: uh
+[07/08/2021 22:27:58]
+  superhands: here.
+[07/08/2021 22:27:59]
+  Carson Molina started repairing Battery Assembly
+[07/08/2021 22:28:02]
+  terc placed 'Beast' SSL (Flashlight) in Deconstructor (ID: 1722)
+[07/08/2021 22:28:03]
+  terc picked up 'Beast' SSL (Flashlight)
+[07/08/2021 22:28:05]
+  terc placed Package Honkmother in Deconstructor (ID: 1722)
+[07/08/2021 22:28:05]
+  terc activated Deconstructor
+[07/08/2021 22:28:11]
+  superhands picked up Rubber Chicken
+[07/08/2021 22:28:14]
+  Carson Molina started repairing Junction Bus
+[07/08/2021 22:28:20]
+  Carson Molina started repairing Battery
+[07/08/2021 22:28:21]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 22:28:24]
+  tomacatx1 picked up Fuel Rod
+[07/08/2021 22:28:25]
+  tomacatx1 placed Fuel Rod in Medium Steel Cabinet (ID: 187)
+[07/08/2021 22:28:27]
+  tomacatx1 placed Fuel Rod in Nuclear Reactor (ID: 228)
+[07/08/2021 22:28:27]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:28:27]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:28:31]
+  sylv placed Salt Vine Seed in Medical Backpack (ID: 7378)
+[07/08/2021 22:28:31]
+  sylv placed Salt Vine Seed in Medical Backpack (ID: 7378)
+[07/08/2021 22:28:31]
+  sylv placed Salt Vine Seed in Medical Backpack (ID: 7378)
+[07/08/2021 22:28:31]
+  sylv placed Salt Vine Seed in Medical Backpack (ID: 7378)
+[07/08/2021 22:28:33]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 22:28:38]
+  terc picked up Servant's Armor
+[07/08/2021 22:28:39]
+  terc picked up Servant's Mask
+[07/08/2021 22:28:40]
+  terc picked up Rubber Chicken
+[07/08/2021 22:28:41]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:28:42]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:28:45]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:28:49]
+  terc placed Servant's Armor in Marine Combat Undershirt (ID: 7272)
+[07/08/2021 22:28:54]
+  terc placed Servant's Armor in Tactical Backpack (ID: 7280)
+[07/08/2021 22:28:54]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:28:56]
+  superhands: It must be done.
+[07/08/2021 22:28:57]
+  terc picked up Servant's Armor
+[07/08/2021 22:28:59]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:29:04]
+  terc equipped Rubber Chicken
+[07/08/2021 22:29:07]
+  Carson Molina started repairing Battery
+[07/08/2021 22:29:14]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:29:14]
+  Carson Molina: I don't have the tools for the repairs!
+[07/08/2021 22:29:15]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:29:16]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:29:16]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:29:16]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:29:16]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:29:16]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:29:16]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:29:16]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:29:16]
+  sylv placed Pomegrenade in Medical Fabricator (ID: 281)
+[07/08/2021 22:29:25]
+  sylv placed Watering Can in Large Steel Cabinet (ID: 292)
+[07/08/2021 22:29:25]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:29:29]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:29:36]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:29:37]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:29:37]
+  Carson Molina equipped Wrench
+[07/08/2021 22:29:38]
+  superhands attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:38]
+  tomacatx1 used Wrench on superhands.
+[07/08/2021 22:29:39]
+  terc attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:39]
+  tomacatx1 used Wrench on terc.
+[07/08/2021 22:29:40]
+  terc attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:40]
+  tomacatx1 used Wrench on terc.
+[07/08/2021 22:29:42]
+  terc attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:42]
+  tomacatx1 used Wrench on terc.
+[07/08/2021 22:29:43]
+  superhands attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:43]
+  tomacatx1 used Wrench on superhands.
+[07/08/2021 22:29:44]
+  superhands attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:44]
+  tomacatx1 used Wrench on superhands.
+[07/08/2021 22:29:45]
+  sylv placed Plasma Cutter in Supplies Cabinet (ID: 655)
+[07/08/2021 22:29:46]
+  sylv placed Wrench in Supplies Cabinet (ID: 655)
+[07/08/2021 22:29:46]
+  sylv placed Wrench in Supplies Cabinet (ID: 655)
+[07/08/2021 22:29:47]
+  Carson Molina started repairing Oxygen Generator
+[07/08/2021 22:29:47]
+  superhands attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:47]
+  tomacatx1 used Wrench on superhands.
+[07/08/2021 22:29:49]
+  superhands attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:49]
+  tomacatx1 used Wrench on superhands.
+[07/08/2021 22:29:50]
+  superhands attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:50]
+  tomacatx1 used Wrench on superhands.
+[07/08/2021 22:29:50]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:29:50]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:29:51]
+  sylv equipped Crate of Bandages
+[07/08/2021 22:29:52]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[07/08/2021 22:29:52]
+  terc attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:52]
+  tomacatx1 used Wrench on terc.
+[07/08/2021 22:29:53]
+  terc attacked by tomacatx1. Blunt force trauma: 2
+[07/08/2021 22:29:53]
+  tomacatx1 used Wrench on terc.
+[07/08/2021 22:30:03]
+  sylv equipped Metal Crate
+[07/08/2021 22:30:03]
+  sylv picked up Metal Crate
+[07/08/2021 22:30:05]
+  terc equipped Hybrid Toxin Ammunition Box
+[07/08/2021 22:30:05]
+  terc picked up Hybrid Toxin Ammunition Box
+[07/08/2021 22:30:05]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:30:05]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:30:05]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:30:05]
+  Carson Molina equipped Wrench
+[07/08/2021 22:30:05]
+  sylv placed Metal Crate in Tall Crate Rack (ID: 1659)
+[07/08/2021 22:30:07]
+  superhands: endworm
+[07/08/2021 22:30:07]
+  terc removed Hybrid Flak Ammunition Box from Coilgun Loader (ID: 93)
+[07/08/2021 22:30:07]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:30:07]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:30:08]
+  terc placed Hybrid Toxin Ammunition Box in Coilgun Loader (ID: 93)
+[07/08/2021 22:30:10]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:30:10]
+  Carson Molina equipped Wrench
+[07/08/2021 22:30:12]
+  sylv placed Salt Vine Seed in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:30:12]
+  sylv placed Salt Vine Seed in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:30:12]
+  sylv placed Salt Vine Seed in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:30:12]
+  sylv placed Salt Vine Seed in Large Steel Cabinet (ID: 291)
+[07/08/2021 22:30:13]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:30:13]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:30:17]
+  tomacatx1 launched Depth Charge Tube (projectile: Depth Decoy Shell, contained items: IC-4 Block)
+[07/08/2021 22:30:21]
+  terc equipped Physicorium Autocannon Ammunition Box
+[07/08/2021 22:30:21]
+  terc picked up Physicorium Autocannon Ammunition Box
+[07/08/2021 22:30:23]
+  Endworm attacked by tomacatx1. Blunt force trauma: 1
+[07/08/2021 22:30:24]
+  terc removed Autocannon Ammunition Box from Autocannon Loader (ID: 76)
+[07/08/2021 22:30:25]
+  terc placed Physicorium Autocannon Ammunition Box in Autocannon Loader (ID: 76)
+[07/08/2021 22:30:25]
+  Carson Molina started repairing Navigation Terminal
+[07/08/2021 22:30:26]
+  tomacatx1 equipped Nuclear Depth Decoy
+[07/08/2021 22:30:26]
+  tomacatx1 picked up Nuclear Depth Decoy
+[07/08/2021 22:30:27]
+  tomacatx1 placed Nuclear Depth Decoy in Depth Charge Loader (ID: 696)
+[07/08/2021 22:30:28]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:29]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:29]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:29]
+  tomacatx1 launched Depth Charge Tube (projectile: Nuclear Depth Decoy, contained items: IC-4 Block)
+[07/08/2021 22:30:29]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:29]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:29]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:29]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:30]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:30]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:30]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:30]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:30]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:30]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:30]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:31]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:31]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:31]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:31]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:31]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:31]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:31]
+  Endworm attacked by tomacatx1. Blunt force trauma: 10
+[07/08/2021 22:30:32]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:32]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:32]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:32]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:32]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:32]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:32]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:32]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:33]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:33]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:33]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:33]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:33]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:33]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:34]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:34]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:34]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:34]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:34]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:34]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:35]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:35]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:35]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:35]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:35]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:30:36]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:36]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:36]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:36]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:36]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:36]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:37]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:37]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:37]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:37]
+  Endworm attacked by terc. Lacerations: 28 Gunshot wound: 18 Bleeding: 4
+[07/08/2021 22:30:37]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:37]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:38]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:38]
+  Endworm attacked by terc. Lacerations: 2.8 Gunshot wound: 1.8000001
+[07/08/2021 22:30:38]
+  terc launched Autocannon (projectile: Physicorium Autocannon Turret Round)
+[07/08/2021 22:30:40]
+  tomacatx1 equipped Depth Decoy Shell
+[07/08/2021 22:30:40]
+  tomacatx1 picked up Depth Decoy Shell
+[07/08/2021 22:30:41]
+  tomacatx1 placed Depth Decoy Shell in Depth Charge Loader (ID: 696)
+[07/08/2021 22:30:44]
+  Carson Molina started repairing Junction Box
+[07/08/2021 22:30:48]
+  sylv picked up Welding Tool
+[07/08/2021 22:30:54]
+  terc equipped Rolling Cart
+[07/08/2021 22:30:56]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:30:59]
+  sylv picked up Abyss Diving Suit
+[07/08/2021 22:31:01]
+  terc dropped Rolling Cart
+[07/08/2021 22:31:05]
+  superhands launched Railgun C (projectile: Railgun Shell, contained items: IC-4 Block)
+[07/08/2021 22:31:05]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:31:09]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:09]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:09]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:10]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:10]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:10]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:10]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:11]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:11]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:11]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:11]
+  superhands launched Railgun C (projectile: Railgun Shell, contained items: IC-4 Block)
+[07/08/2021 22:31:11]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:11]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:11]
+  Endworm attacked by superhands. Lacerations: 160.00002 Bleeding: 30.000002 Stun: 15
+[07/08/2021 22:31:12]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:12]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:12]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:12]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:12]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:12]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:13]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:13]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:13]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:13]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:14]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:14]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:14]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:14]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:14]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:15]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:15]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:15]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:15]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:31:15]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:15]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:15]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:16]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:16]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:16]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:16]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:17]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:17]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:17]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:17]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:17]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:17]
+  superhands launched Railgun C (projectile: Railgun Piercing Shell)
+[07/08/2021 22:31:17]
+  Outer wall breached by superhands
+[07/08/2021 22:31:17]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:18]
+  Endworm attacked by superhands. Gunshot wound: 73 Lacerations: 146 Internal damage: 54.75 Bleeding: 17.5 Stun: 12
+[07/08/2021 22:31:18]
+  Endworm attacked by superhands. Gunshot wound: 100 Lacerations: 200 Internal damage: 75 Bleeding: 25 Stun: 12
+[07/08/2021 22:31:18]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:18]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:18]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:18]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:18]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:19]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:19]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:19]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:19]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:20]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:20]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:23]
+  Carson Molina: I can't find the item I need.
+[07/08/2021 22:31:23]
+  Carson Molina: Can't find the tools to do the repairs!
+[07/08/2021 22:31:23]
+  Carson Molina started repairing LRS Monitor
+[07/08/2021 22:31:27]
+  tomacatx1 equipped Railgun Piercing Shell
+[07/08/2021 22:31:27]
+  tomacatx1 picked up Railgun Piercing Shell
+[07/08/2021 22:31:29]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:31:29]
+  Carson Molina equipped Wrench
+[07/08/2021 22:31:29]
+  tomacatx1 placed Railgun Piercing Shell in Railgun Loader (ID: 1520)
+[07/08/2021 22:31:31]
+  tomacatx1 picked up Railgun Shell
+[07/08/2021 22:31:33]
+  tomacatx1 placed Railgun Shell in Railgun Loader (ID: 1520)
+[07/08/2021 22:31:33]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:31:33]
+  Carson Molina equipped Wrench
+[07/08/2021 22:31:33]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:31:33]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:31:37]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:31:37]
+  Carson Molina equipped Wrench
+[07/08/2021 22:31:37]
+  Carson Molina started repairing Pump
+[07/08/2021 22:31:38]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:31:38]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:31:38]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:31:38]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:31:39]
+  sylv picked up Salt Bulb
+[07/08/2021 22:31:40]
+  sylv placed Salt Bulb in Deconstructor (ID: 230)
+[07/08/2021 22:31:41]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:31:41]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:31:42]
+  sylv activated Deconstructor
+[07/08/2021 22:31:44]
+  Carson Molina: I need diving gear!
+[07/08/2021 22:31:44]
+  superhands launched Railgun C (projectile: Railgun Piercing Shell)
+[07/08/2021 22:31:45]
+  Moloch attacked by superhands. Gunshot wound: 25 Lacerations: 50 Internal damage: 18.75 Bleeding: 6.25 Stun: 12
+[07/08/2021 22:31:45]
+  Moloch attacked by superhands. Gunshot wound: 25 Lacerations: 50 Internal damage: 18.75 Bleeding: 6.25 Stun: 12
+[07/08/2021 22:31:45]
+  Moloch attacked by superhands. Gunshot wound: 25 Lacerations: 50 Internal damage: 18.75 Bleeding: 6.25 Stun: 12
+[07/08/2021 22:31:45]
+  Moloch attacked by superhands. Gunshot wound: 25 Lacerations: 50 Internal damage: 18.75 Bleeding: 6.25 Stun: 12
+[07/08/2021 22:31:45]
+  Moloch attacked by superhands. Gunshot wound: 25 Lacerations: 50 Internal damage: 18.75 Bleeding: 6.25 Stun: 12
+[07/08/2021 22:31:47]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:48]
+  Moloch attacked by terc. Gunshot wound: 2.5 Lacerations: 1.25 Bleeding: 1.25 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:48]
+  Moloch attacked by terc. Gunshot wound: 2.5 Lacerations: 1.25 Bleeding: 1.25 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:49]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:49]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:49]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:49]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:50]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:50]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:50]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:50]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:50]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:50]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:51]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:51]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:51]
+  superhands launched Railgun C (projectile: Railgun Shell, contained items: IC-4 Block)
+[07/08/2021 22:31:51]
+  Endworm attacked by superhands. Lacerations: 160.00002 Bleeding: 30.000002 Stun: 15
+[07/08/2021 22:31:51]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:51]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:51]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:52]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:52]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:52]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:52]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:52]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:52]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:53]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:53]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:53]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:53]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:53]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:54]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:54]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:54]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:54]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:55]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:55]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:55]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:55]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:55]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:55]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:56]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:56]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:56]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:56]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:56]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:57]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:57]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:57]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:57]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:58]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:58]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:58]
+  Endworm attacked by terc. Gunshot wound: 10 Lacerations: 5 Bleeding: 5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:58]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:31:58]
+  Carson Molina equipped Wrench
+[07/08/2021 22:31:58]
+  Carson Molina started repairing Pump
+[07/08/2021 22:31:58]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:58]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:58]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:59]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:31:59]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:31:59]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:32:00]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:32:00]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:32:00]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:32:00]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:32:00]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:32:00]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:32:01]
+  terc launched Coilgun (projectile: Hybrid Toxin Bolt)
+[07/08/2021 22:32:01]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:32:01]
+  Endworm attacked by terc. Gunshot wound: 5.5 Lacerations: 2.75 Bleeding: 2.5 Cyanide poisoning: 2 Sufforin poisoning: 2
+[07/08/2021 22:32:03]
+  Outer wall breached by Moloch
+[07/08/2021 22:32:03]
+  Outer wall breached by Moloch
+[07/08/2021 22:32:03]
+  Outer wall breached by Moloch
+[07/08/2021 22:32:03]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:32:03]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:32:05]
+  terc removed Hybrid Toxin Ammunition Box from Coilgun Loader (ID: 93)
+[07/08/2021 22:32:07]
+  terc equipped Extended Physicorium Ammunition Box
+[07/08/2021 22:32:07]
+  terc picked up Extended Physicorium Ammunition Box
+[07/08/2021 22:32:07]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:32:07]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:32:07]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:32:07]
+  Carson Molina equipped Wrench
+[07/08/2021 22:32:08]
+  superhands launched Railgun C (projectile: Nuclear Shell, contained items: C-4 Block)
+[07/08/2021 22:32:08]
+  Moloch attacked by superhands. Lacerations: 125 Bleeding: 25 Stun: 15
+[07/08/2021 22:32:08]
+  Moloch has died (Cause of death: Lacerations)
+[07/08/2021 22:32:08]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:32:08]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:32:10]
+  terc placed Extended Physicorium Ammunition Box in Coilgun Loader (ID: 93)
+[07/08/2021 22:32:10]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:32:10]
+  Carson Molina equipped Wrench
+[07/08/2021 22:32:15]
+  Carson Molina started repairing Pump
+[07/08/2021 22:32:15]
+  tomacatx1 equipped Screwdriver
+[07/08/2021 22:32:16]
+  tomacatx1 started repairing LRS Monitor
+[07/08/2021 22:32:20]
+  Carson Molina started repairing Pump
+[07/08/2021 22:32:23]
+  tomacatx1 started repairing Navigation Terminal
+[07/08/2021 22:32:24]
+  Endworm has died (Cause of death: Cyanide poisoning)
+[07/08/2021 22:32:24]
+  Mission info: Target terminated - The Abyss creature is now dead and the passageway safer to traverse.
+[07/08/2021 22:32:25]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:32:25]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:32:28]
+  Carson Molina: Hull breach in ballast tank b!
+[07/08/2021 22:32:31]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:32:31]
+  Carson Molina equipped Wrench
+[07/08/2021 22:32:31]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:32:31]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:32:33]
+  Carson Molina started repairing Supercapacitor
+[07/08/2021 22:32:33]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:32:33]
+  Carson Molina equipped Wrench
+[07/08/2021 22:32:37]
+  superhands equipped Screwdriver
+[07/08/2021 22:32:38]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:32:38]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:32:39]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:32:39]
+  Carson Molina unequipped Screwdriver
+[07/08/2021 22:32:39]
+  Carson Molina equipped Wrench
+[07/08/2021 22:32:41]
+  superhands started repairing Supercapacitor
+[07/08/2021 22:32:45]
+  Carson Molina unequipped Wrench
+[07/08/2021 22:32:45]
+  Carson Molina equipped Screwdriver
+[07/08/2021 22:32:45]
+  Carson Molina started repairing Status Monitor
+[07/08/2021 22:32:46]
+  Carson Molina unequipped Screwdriver

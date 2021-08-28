@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="[BOS]Muisc" path="Mods/[BOS]Muisc/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2479751877" installtime="1621269725">
+<contentpackage name="[BOS]Muisc" path="Mods/[BOS]Muisc/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2479751877" installtime="1627461652">
   <None file="Mods/[BOS]Muisc/Misc.png" />
   <Item file="Mods/[BOS]Muisc/misc.xml" />
   <None file="Mods/[BOS]Muisc/Speaker.png" />

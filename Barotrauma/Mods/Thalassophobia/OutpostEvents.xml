@@ -66,8 +66,9 @@
 		initiates events on outposts by using an autofill item to nondestructively (in the override sense) guarantee this event triggers. used for existing locations like cities and so on that may have other mods with other event sets. xml for the item can be found in Thalassophobia/Items/Jobgear/misc.xml.
 		-->
     <ScriptedEvent identifier="thal_eventmaster">
-      <CheckDataAction identifier="campaign.location.type" condition="eq Abandoned" forcestring="true" >
-        <!-- don't trigger these events at abaandoned outposts -->
+      <!--<CheckDataAction identifier="campaign.location.type" condition="eq Abandoned" >-->
+      <CheckMoneyAction amount="10,000" >
+        <!-- don't trigger these events if players are richer than they should be -->
         <Failure>
           <!-- try to ensure only one of eventmaster is running because we don't want multiple eventmasters assigning loads and loads of events -->
           <RNGAction chance="0.1">
@@ -117,7 +118,7 @@
             </Failure>
           </CheckDataAction>
         </Failure>
-      </CheckDataAction>
+      </CheckMoneyAction>
     </ScriptedEvent>
     <!-- CAMPAIGN INTRO
 		Choose your crews background as captain.

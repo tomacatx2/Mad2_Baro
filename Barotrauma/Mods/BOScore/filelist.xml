@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="BOScore" path="Mods/BOScore/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2480065186" installtime="1621269668">
+<contentpackage name="BOScore" path="Mods/BOScore/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2480065186" installtime="1627462301">
   <Submarine file="Mods/BOScore/[BOS]Core.sub" />
   <None file="Mods/BOScore/music/AccordionLoop.ogg" />
   <None file="Mods/BOScore/music/adlms.ogg" />
@@ -23,7 +23,5 @@
   <None file="Mods/BOScore/music/bws.ogg" />
   <None file="Mods/BOScore/music/ftsq.ogg" />
   <None file="Mods/BOScore/music/lpg.ogg" />
-  <Character file="Mods/BOScore/Characters/Characterx/Characterx.xml" />
-  <Character file="Mods/BOScore/Characters/Test02/Test02.xml" />
-  <Character file="Mods/BOScore/Characters/Abyssalhorror/Abyssalhorror.xml" />
+  <None file="Mods/BOScore/music/ntox.ogg" />
 </contentpackage>

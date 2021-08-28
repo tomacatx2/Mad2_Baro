@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="IntoTheAbyss" path="Mods/IntoTheAbyss/filelist.xml" corepackage="false" gameversion="0.13.3.11" steamworkshopid="2005463692" installtime="1624229380">
+<contentpackage name="IntoTheAbyss" path="Mods/IntoTheAbyss/filelist.xml" corepackage="false" gameversion="0.14.9.0" steamworkshopid="2005463692" installtime="1629913569">
   <Text file="Mods/IntoTheAbyss/Content/Texts/ita_English.xml" />
   <UIStyle file="Mods/IntoTheAbyss/Content/ita_style.xml" />
   <EventManagerSettings file="Mods/IntoTheAbyss/Content/ita_eventmanagersettings.xml" />
@@ -10,6 +10,8 @@
   <Text file="Mods/IntoTheAbyss/Content/Texts/ita_CastillianSpanish.xml" />
   <Text file="Mods/IntoTheAbyss/Content/Texts/ita_Japanese.xml" />
   <Text file="Mods/IntoTheAbyss/Content/Texts/ita_Russian.xml" />
+  <Text file="Mods/IntoTheAbyss/Content/Texts/ita_TraditionalChinese.xml" />
+  <Text file="Mods/IntoTheAbyss/Content/Texts/ita_SimplifiedChinese.xml" />
   <Sounds file="Mods/IntoTheAbyss/Content/ita_sounds.xml" />
   <Jobs file="Mods/IntoTheAbyss/Content/ita_jobs.xml" />
   <LocationTypes file="Mods/IntoTheAbyss/Content/Map/ita_locationtypes.xml" />
@@ -37,7 +39,6 @@
   <Character file="Mods/IntoTheAbyss/Content/Characters/Mudraptor_racing/Mudraptorblue.xml" />
   <Character file="Mods/IntoTheAbyss/Content/Characters/Mudraptor_racing/Mudraptorcave.xml" />
   <Character file="Mods/IntoTheAbyss/Content/Characters/OutpostOrangeBoy/OutpostOrangeboy.xml" />
-  <BeaconStation file="Mods/IntoTheAbyss/Content/Subs/ita_beacon_1a.sub" />
   <Structure file="Mods/IntoTheAbyss/Content/Map/ita_prefabs_generic.xml" />
   <Structure file="Mods/IntoTheAbyss/Content/Map/ita_prefabs_caves.xml" />
   <Structure file="Mods/IntoTheAbyss/Content/Map/ita_prefabs_ruins.xml" />
@@ -98,6 +99,8 @@
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_armory_bluechest2.xml" />
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_armory_redchest1.xml" />
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_armory_redchest2.xml" />
+  <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_alienturret.xml" />
+  <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_alienhatch3.xml" />
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_vaults_1a.xml" />
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_vaults_1b.xml" />
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_genericb_trap1a.xml" />
@@ -109,7 +112,8 @@
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_genericb_spawner1a.xml" />
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_infight1.xml" />
   <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_infight2.xml" />
-  <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_infight3.xml" />
+  <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_infight_3.1.xml" />
+  <ItemAssembly file="Mods/IntoTheAbyss/Content/Assemblies/ita_infight_3.2.xml" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_city_dock1.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_city_generic.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_engineering2.sub" />
@@ -146,7 +150,7 @@
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_mine_dock1.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_canteen.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_Hall4wayModule_Hab_02.sub" />
-  <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_hab_dock3.sub" />
+  <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_city_dock3.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_cave3.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_shop_bar1R.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_shop_electrician1.sub" />
@@ -173,6 +177,12 @@
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_shop_climber1R.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_shop_bank1R.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_milengineering.sub" />
-  <Submarine file="Mods/IntoTheAbyss/Content/Subs/BeaconStation1amodded.sub" />
+  <Submarine file="Mods/IntoTheAbyss/Content/Subs/ita_beacon_sep1a.sub" />
   <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_research_ancient1.sub" />
+  <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_hab_dock1.sub" />
+  <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_hab_crewquarters.sub" />
+  <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_hab_engineering.sub" />
+  <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_hab_office.sub" />
+  <OutpostModule file="Mods/IntoTheAbyss/Content/Subs/ita_outpost_hab_crewquarters2.sub" />
+  <None file="Mods/IntoTheAbyss/ita_titletext.png" />
 </contentpackage>

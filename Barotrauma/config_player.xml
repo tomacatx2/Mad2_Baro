@@ -48,7 +48,7 @@
     voipattenuationenabled="true"
     usedirectionalvoicechat="true"
     voicesetting="PushToTalk"
-    audiooutputdevice="OpenAL_x0020_Soft_x0020_on_x0020_Speakers_x0020__x0028_High_x0020_Definition_x0020_Audio_x0020_Device_x0029_"
+    audiooutputdevice="OpenAL_x0020_Soft_x0020_on_x0020_Speakers_x0020__x0028_Realtek_x0020_High_x0020_Definition_x0020_Audio_x0029_"
     voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_CABLE_x0020_Output_x0020__x0028_VB-Audio_x0020_Virtual_x0020_Cable_x0029_"
     noisegatethreshold="-45"
     uselocalvoicebydefault="false" />
@@ -65,19 +65,16 @@
       name="Vanilla 0.9" />
     <regular>
       <package
-        name="Extra Clothes"
+        name="EK Armory REBALANCED"
         enabled="true" />
       <package
-        name="EK Gunnery"
+        name="EK Gunnery REBALANCED"
         enabled="true" />
       <package
         name="Jobs++"
         enabled="true" />
       <package
         name="EK Utilities"
-        enabled="true" />
-      <package
-        name="EK Armory"
         enabled="true" />
       <package
         name="EK Dockyard"
@@ -104,31 +101,16 @@
         name="BetterCharacterHeadFixed"
         enabled="true" />
       <package
-        name="ChessSet"
-        enabled="true" />
-      <package
         name="MedOverhaul"
         enabled="true" />
       <package
         name="CheckersSet"
         enabled="true" />
       <package
-        name="[BOS]Muisc"
-        enabled="true" />
-      <package
-        name="Remora-Pirate"
-        enabled="true" />
-      <package
         name="FreddyMod"
         enabled="true" />
       <package
-        name="BOScore"
-        enabled="true" />
-      <package
         name="abysswalker"
-        enabled="true" />
-      <package
-        name="The Box 2"
         enabled="true" />
       <package
         name="EK Marauder Mk-II" />
@@ -173,13 +155,25 @@
       <package
         name="EK_Kira_Mk-II" />
       <package
-        name="IntoTheAbyss" />
-      <package
-        name="Thalassophobia" />
-      <package
         name="Pirate Kastrull" />
       <package
         name="Berilia pirate" />
+      <package
+        name="ChessSet"
+        enabled="true" />
+      <package
+        name="Remora-Pirate"
+        enabled="true" />
+      <package
+        name="BOScore"
+        enabled="true" />
+      <package
+        name="[BOS]Muisc"
+        enabled="true" />
+      <package
+        name="IntoTheAbyss" />
+      <package
+        name="Thalassophobia" />
     </regular>
   </contentpackages>
   <keymapping

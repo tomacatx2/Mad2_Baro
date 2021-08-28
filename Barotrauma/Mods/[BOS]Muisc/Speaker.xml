@@ -22,6 +22,7 @@
 		  <sound file="Mods/BOScore/music/ftsq.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
 		  <sound file="Mods/BOScore/music/bws.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
 		  <sound file="Mods/BOScore/music/bro.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
+		  <sound file="Mods/BOScore/music/ntox.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
       </StatusEffect>
       <StatusEffect type="OnUse" target="Contained" Condition="-0.125">
         <RequiredItem items="fulguriumbatterycell" type="Contained" />
@@ -32,6 +33,7 @@
 		  <sound file="Mods/BOScore/music/ftsq.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
 		  <sound file="Mods/BOScore/music/bws.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
 		  <sound file="Mods/BOScore/music/bro.ogg" type="OnUse" selectionmode="CharacterSpecific" range="2000" loop="true" />
+		  <sound file="Mods/BOScore/music/ntox.ogg" type="OnUse" selectionmode="CharacterSpecific" range="1500" loop="true" />
       </StatusEffect>
 	</Holdable>
 	 <ItemContainer capacity="1" maxstacksize="1" hideitems="true" containedstateindicatorstyle="battery">

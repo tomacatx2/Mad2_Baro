@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="EK Armory" path="Mods/EK Armory/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="1769403760" installtime="1623945712">
+<contentpackage name="EK Armory REBALANCED" path="Mods/EK Armory/filelist.xml" corepackage="false" gameversion="0.14.6.0">
   <Afflictions file="Mods/EK Armory/Afflictions.xml" />
   <Item file="Mods/EK Armory/Items/Weapons/ek_weapons.xml" />
   <Item file="Mods/EK Armory/Items/Weapons/ek_weapons_melee.xml" />

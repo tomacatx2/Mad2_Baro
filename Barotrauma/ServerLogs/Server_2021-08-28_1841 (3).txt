@@ -1,0 +1,334 @@
+﻿[8/28/2021 6:28:04 PM]
+  Starting the server...
+[8/28/2021 6:28:04 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[8/28/2021 6:28:09 PM]
+  Server started
+[8/28/2021 6:29:00 PM]
+  tomacatx1 has joined the server.
+[8/28/2021 6:29:00 PM]
+  Saving client permissions
+[8/28/2021 6:29:51 PM]
+  Gamemode changed to Mission
+[8/28/2021 6:29:56 PM]
+  Client "tomacatx1" started the round.
+[8/28/2021 6:29:56 PM]
+  Starting a new round...
+[8/28/2021 6:30:04 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 6:30:04 PM]
+  A mudraptor nest was recently discovered in a cave near Falga Facility. A reward of 5,000 marks has been promised to any crew that can get rid of the nest.
+[8/28/2021 6:30:04 PM]
+  Game mode: Mission
+[8/28/2021 6:30:04 PM]
+  Submarine: Humpback v3.0 re-2
+[8/28/2021 6:30:04 PM]
+  Level seed: P9BtQItm
+[8/28/2021 6:30:04 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 6:30:05 PM]
+  Round started.
+[8/28/2021 6:30:45 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 6:30:50 PM]
+  tomacatx1 equipped Revolver
+[8/28/2021 6:30:57 PM]
+  Client "tomacatx1" ended the round.
+[8/28/2021 6:30:57 PM]
+  Ending the round...
+[8/28/2021 6:30:58 PM]
+  Round ended.
+[8/28/2021 6:36:50 PM]
+  terc has joined the server.
+[8/28/2021 6:36:50 PM]
+  Saving client permissions
+[8/28/2021 6:36:55 PM]
+  tomacatx1: hello
+[8/28/2021 6:36:58 PM]
+  tomacatx1: lets test if it launches
+[8/28/2021 6:37:04 PM]
+  tomacatx1: tell me if it gives you an weird behaviour 
+[8/28/2021 6:37:06 PM]
+  tomacatx1: during launch
+[8/28/2021 6:37:07 PM]
+  tomacatx1 is ready to start the game.
+[8/28/2021 6:37:08 PM]
+  terc: alright
+[8/28/2021 6:37:10 PM]
+  Client "tomacatx1" started the round.
+[8/28/2021 6:37:10 PM]
+  Starting a new round...
+[8/28/2021 6:37:12 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 6:37:12 PM]
+  A mudraptor nest was recently discovered in a cave near Thaw Habitation Outpost. A reward of 5,000 marks has been promised to any crew that can get rid of the nest.
+[8/28/2021 6:37:12 PM]
+  Game mode: Mission
+[8/28/2021 6:37:12 PM]
+  Submarine: Humpback v3.0 re-2
+[8/28/2021 6:37:12 PM]
+  Level seed: 4pAytkgq
+[8/28/2021 6:37:12 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 6:37:13 PM]
+  terc is ready to start the game.
+[8/28/2021 6:37:13 PM]
+  Round started.
+[8/28/2021 6:37:34 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 6:37:36 PM]
+  tomacatx1: there we go
+[8/28/2021 6:37:40 PM]
+  tomacatx1: im in
+[8/28/2021 6:37:41 PM]
+  tomacatx1 equipped Revolver
+[8/28/2021 6:37:50 PM]
+  tomacatx1: great
+[8/28/2021 6:38:05 PM]
+  tomacatx1 picked up Body Armor
+[8/28/2021 6:38:06 PM]
+  tomacatx1 picked up Riot Shotgun
+[8/28/2021 6:38:08 PM]
+  tomacatx1 equipped Riot Shotgun
+[8/28/2021 6:38:15 PM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 6:38:19 PM]
+  terc: hello
+[8/28/2021 6:38:19 PM]
+  terc equipped Gauss Pistol
+[8/28/2021 6:38:20 PM]
+  tomacatx1 attacked by terc. Gunshot wound: 13.8 Bleeding: 30
+[8/28/2021 6:38:21 PM]
+  tomacatx1 attacked by terc. Gunshot wound: 9.384001 Bleeding: 19.2
+[8/28/2021 6:38:21 PM]
+  tomacatx1 attacked by terc. Gunshot wound: 9.384001 Bleeding: 19.2
+[8/28/2021 6:38:25 PM]
+  tomacatx1: so...
+[8/28/2021 6:38:25 PM]
+  terc: you are dying now
+[8/28/2021 6:38:26 PM]
+  terc attacked by tomacatx1. Bleeding: 25 Gunshot wound: 12.5 Lacerations: 12.5
+[8/28/2021 6:38:27 PM]
+  terc attacked by tomacatx1. Bleeding: 25 Gunshot wound: 12.5 Lacerations: 12.5
+[8/28/2021 6:38:29 PM]
+  terc attacked by tomacatx1. Bleeding: 25 Gunshot wound: 12.5 Lacerations: 12.5
+[8/28/2021 6:38:30 PM]
+  terc attacked by tomacatx1. Bleeding: 25 Gunshot wound: 12.5 Lacerations: 12.5
+[8/28/2021 6:38:31 PM]
+  terc: you will die
+[8/28/2021 6:38:33 PM]
+  terc attacked by tomacatx1. Bleeding: 25 Gunshot wound: 12.5 Lacerations: 12.5
+[8/28/2021 6:38:34 PM]
+  terc attacked by tomacatx1. Bleeding: 25 Gunshot wound: 12.5 Lacerations: 12.5
+[8/28/2021 6:38:36 PM]
+  Client "tomacatx1" ended the round.
+[8/28/2021 6:38:36 PM]
+  Ending the round...
+[8/28/2021 6:38:37 PM]
+  Round ended.
+[8/28/2021 6:38:50 PM]
+  tomacatx1: well
+[8/28/2021 6:38:52 PM]
+  tomacatx1: theres one problem
+[8/28/2021 6:38:52 PM]
+  terc: it worked
+[8/28/2021 6:38:55 PM]
+  tomacatx1: the officer spawns nude
+[8/28/2021 6:39:01 PM]
+  terc: thats uhhh
+[8/28/2021 6:39:04 PM]
+  tomacatx1: can you test mercenary role?
+[8/28/2021 6:39:05 PM]
+  terc: that can be fixed easily right
+[8/28/2021 6:39:08 PM]
+  tomacatx1: yeah
+[8/28/2021 6:39:13 PM]
+  tomacatx1: i just need to scour the code
+[8/28/2021 6:39:20 PM]
+  tomacatx1: the dev of the clothing probably changed a name somewhere
+[8/28/2021 6:39:22 PM]
+  tomacatx1: just to spite me
+[8/28/2021 6:39:24 PM]
+  tomacatx1: fucking cunt
+[8/28/2021 6:39:25 PM]
+  Client "tomacatx1" started the round.
+[8/28/2021 6:39:25 PM]
+  Starting a new round...
+[8/28/2021 6:39:27 PM]
+  Mission: Destroy a Tiger Thresher nest
+[8/28/2021 6:39:27 PM]
+  A thresher nest was recently discovered in a cave near Worm Cave Outpost. A reward of 6,000 marks has been promised to any crew that can get rid of the nest.
+[8/28/2021 6:39:27 PM]
+  Game mode: Mission
+[8/28/2021 6:39:27 PM]
+  Submarine: Humpback v3.0 re-2
+[8/28/2021 6:39:27 PM]
+  Level seed: 7pYp90JS
+[8/28/2021 6:39:27 PM]
+  Mission: Destroy a Tiger Thresher nest
+[8/28/2021 6:39:28 PM]
+  Round started.
+[8/28/2021 6:39:46 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 6:39:56 PM]
+  tomacatx1 picked up Body Armor
+[8/28/2021 6:39:58 PM]
+  tomacatx1 picked up Riot Shotgun
+[8/28/2021 6:40:03 PM]
+  tomacatx1 picked up Handgun
+[8/28/2021 6:40:03 PM]
+  terc set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 6:40:05 PM]
+  tomacatx1 placed Captain's Pipe in Material Storage Locker (ID: 198)
+[8/28/2021 6:40:07 PM]
+  tomacatx1 picked up Stun Gun
+[8/28/2021 6:40:07 PM]
+  tomacatx1 equipped Stun Gun
+[8/28/2021 6:40:08 PM]
+  terc attacked by tomacatx1. Lacerations: 0.21124998 Stun: 0.1 ProgressiveStun: 1
+[8/28/2021 6:40:08 PM]
+  tomacatx1 equipped Revolver
+[8/28/2021 6:40:09 PM]
+  tomacatx1 equipped Handgun
+[8/28/2021 6:40:09 PM]
+  terc attacked by tomacatx1. Bleeding: 2.8 Gunshot wound: 2.5349998
+[8/28/2021 6:40:09 PM]
+  terc attacked by tomacatx1. Bleeding: 2.8 Gunshot wound: 2.5349998
+[8/28/2021 6:40:10 PM]
+  terc attacked by tomacatx1. Bleeding: 8 Gunshot wound: 5.0699997 Stun: 0.4
+[8/28/2021 6:40:10 PM]
+  terc attacked by tomacatx1. Bleeding: 2.8 Gunshot wound: 2.5349998
+[8/28/2021 6:40:10 PM]
+  terc equipped Marine SMG
+[8/28/2021 6:40:10 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:10 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:10 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:10 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:10 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:11 PM]
+  terc attacked by tomacatx1. Bleeding: 10 Gunshot wound: 6.337499 Stun: 0.4
+[8/28/2021 6:40:11 PM]
+  terc attacked by tomacatx1. Bleeding: 3.5 Gunshot wound: 3.1687496
+[8/28/2021 6:40:11 PM]
+  tomacatx1 attacked by terc. Bleeding: 3.2900002 Gunshot wound: 1.5936
+[8/28/2021 6:40:11 PM]
+  tomacatx1 attacked by terc. Bleeding: 3.2900002 Gunshot wound: 1.5936
+[8/28/2021 6:40:11 PM]
+  tomacatx1 attacked by terc. Bleeding: 3.2900002 Gunshot wound: 1.5936
+[8/28/2021 6:40:11 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:11 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 3.2900002 Gunshot wound: 1.5936
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:12 PM]
+  tomacatx1 attacked by terc. Bleeding: 3.2900002 Gunshot wound: 1.5936
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 3.2900002 Gunshot wound: 1.5936
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 3.2900002 Gunshot wound: 1.5936
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:13 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 4.98
+[8/28/2021 6:40:15 PM]
+  terc equipped Handgun
+[8/28/2021 6:40:15 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:16 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:16 PM]
+  tomacatx1 has died (Cause of death: Gunshot wound)
+[8/28/2021 6:40:16 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:17 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:17 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:18 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:19 PM]
+  terc picked up 9mm Magazine
+[8/28/2021 6:40:19 PM]
+  terc dropped 9mm Magazine
+[8/28/2021 6:40:19 PM]
+  terc placed 9mm Magazine in Handgun (ID: 4213)
+[8/28/2021 6:40:20 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:20 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:21 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:21 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:21 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:22 PM]
+  tomacatx1 attacked by terc. Bleeding: 14 Gunshot wound: 6
+[8/28/2021 6:40:22 PM]
+  Client "tomacatx1" ended the round.
+[8/28/2021 6:40:22 PM]
+  Ending the round...
+[8/28/2021 6:40:22 PM]
+  Round ended.
+[8/28/2021 6:40:36 PM]
+  tomacatx1: okay
+[8/28/2021 6:40:40 PM]
+  tomacatx1: i think its only the clothing mod
+[8/28/2021 6:40:43 PM]
+  tomacatx1: thats fucked currently
+[8/28/2021 6:40:50 PM]
+  tomacatx1: yeah
+[8/28/2021 6:40:52 PM]
+  terc: nothing too bad
+[8/28/2021 6:40:53 PM]
+  tomacatx1: ill have to go fix that
+[8/28/2021 6:40:53 PM]
+  terc: probably
+[8/28/2021 6:40:56 PM]
+  tomacatx1: thanks for tetsing terc
+[8/28/2021 6:41:00 PM]
+  terc: no problem
+[8/28/2021 6:41:01 PM]
+  tomacatx1: gonna see you in like
+[8/28/2021 6:41:03 PM]
+  tomacatx1: 2 hours or something
+[8/28/2021 6:41:07 PM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[8/28/2021 6:41:07 PM]
+  terc: ight seeya
+[8/28/2021 6:41:08 PM]
+  terc has left the server. Reason: terc has disconnected.
+[8/28/2021 6:41:13 PM]
+  Saving banlist
+[8/28/2021 6:41:13 PM]
+  Shutting down the server...

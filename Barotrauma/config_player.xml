@@ -20,8 +20,8 @@
   aimassistamount="0.49999997"
   enablemouselook="true"
   radialdistortion="true"
-  chatopen="true"
-  crewmenuopen="true"
+  chatopen="false"
+  crewmenuopen="false"
   campaigndisclaimershown="true"
   editordisclaimershown="true"
   tutorialskipwarning="false"
@@ -113,6 +113,15 @@
         name="abysswalker"
         enabled="true" />
       <package
+        name="ChessSet"
+        enabled="true" />
+      <package
+        name="Remora-Pirate"
+        enabled="true" />
+      <package
+        name="[BOS]Muisc"
+        enabled="true" />
+      <package
         name="EK Marauder Mk-II" />
       <package
         name="EK NurseShark Mk-I" />
@@ -159,16 +168,7 @@
       <package
         name="Berilia pirate" />
       <package
-        name="ChessSet"
-        enabled="true" />
-      <package
-        name="Remora-Pirate"
-        enabled="true" />
-      <package
         name="BOScore"
-        enabled="true" />
-      <package
-        name="[BOS]Muisc"
         enabled="true" />
       <package
         name="IntoTheAbyss" />
@@ -244,15 +244,15 @@
   <gameplay>
     <jobpreferences>
       <job
-        identifier="officer"
+        identifier="captain"
         variant="0" />
     </jobpreferences>
   </gameplay>
   <player
-    name="superhands"
-    headindex="6"
-    gender="Female"
-    race="Asian"
+    name="tomacatx1"
+    headindex="3"
+    gender="Male"
+    race="White"
     hairindex="1"
     beardindex="0"
     moustacheindex="0"

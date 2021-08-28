@@ -1,0 +1,38 @@
+﻿[8/28/2021 6:28:04 PM]
+  Starting the server...
+[8/28/2021 6:28:04 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[8/28/2021 6:28:09 PM]
+  Server started
+[8/28/2021 6:29:00 PM]
+  tomacatx1 has joined the server.
+[8/28/2021 6:29:00 PM]
+  Saving client permissions
+[8/28/2021 6:29:51 PM]
+  Gamemode changed to Mission
+[8/28/2021 6:29:56 PM]
+  Client "tomacatx1" started the round.
+[8/28/2021 6:29:56 PM]
+  Starting a new round...
+[8/28/2021 6:30:04 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 6:30:04 PM]
+  A mudraptor nest was recently discovered in a cave near Falga Facility. A reward of 5,000 marks has been promised to any crew that can get rid of the nest.
+[8/28/2021 6:30:04 PM]
+  Game mode: Mission
+[8/28/2021 6:30:04 PM]
+  Submarine: Humpback v3.0 re-2
+[8/28/2021 6:30:04 PM]
+  Level seed: P9BtQItm
+[8/28/2021 6:30:04 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 6:30:05 PM]
+  Round started.
+[8/28/2021 6:30:45 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 6:30:50 PM]
+  tomacatx1 equipped Revolver
+[8/28/2021 6:30:57 PM]
+  Client "tomacatx1" ended the round.
+[8/28/2021 6:30:57 PM]
+  Ending the round...

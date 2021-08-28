@@ -1,0 +1,80 @@
+﻿[8/28/2021 7:15:36 PM]
+  Starting the server...
+[8/28/2021 7:15:36 PM]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).
+[8/28/2021 7:15:39 PM]
+  Server started
+[8/28/2021 7:16:16 PM]
+  tomacatx1 has joined the server.
+[8/28/2021 7:16:16 PM]
+  Saving client permissions
+[8/28/2021 7:16:20 PM]
+  Client "tomacatx1" started the round.
+[8/28/2021 7:16:20 PM]
+  Starting a new round...
+[8/28/2021 7:16:24 PM]
+  Mission: Destroy a Tiger Thresher nest
+[8/28/2021 7:16:24 PM]
+  A thresher nest was recently discovered in a cave near Minos Linea Station. A reward of 6,000 marks has been promised to any crew that can get rid of the nest.
+[8/28/2021 7:16:24 PM]
+  Game mode: Mission
+[8/28/2021 7:16:24 PM]
+  Submarine: Humpback v3.0 re-2
+[8/28/2021 7:16:24 PM]
+  Level seed: 4YYYuRZN
+[8/28/2021 7:16:24 PM]
+  Mission: Destroy a Tiger Thresher nest
+[8/28/2021 7:16:25 PM]
+  Round started.
+[8/28/2021 7:16:53 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 7:16:59 PM]
+  Console command "spawn officer cursor" executed by tomacatx1.
+[8/28/2021 7:17:02 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[8/28/2021 7:17:05 PM]
+  Console command "spawn officer cursor" executed by tomacatx1.
+[8/28/2021 7:17:07 PM]
+  tomacatx1 equipped Revolver
+[8/28/2021 7:17:12 PM]
+  Phoenix Craig attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:17:14 PM]
+  Phoenix Craig attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:17:14 PM]
+  Phoenix Craig: Security! Security!
+[8/28/2021 7:17:15 PM]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[8/28/2021 7:17:15 PM]
+  Phoenix Craig attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:17:16 PM]
+  Phoenix Craig attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:17:16 PM]
+  Phoenix Craig: I'm losing blood!
+[8/28/2021 7:17:16 PM]
+  Phoenix Craig equipped Gauss Pistol
+[8/28/2021 7:17:20 PM]
+  Console command "heal tomacatx1" executed by tomacatx1.
+[8/28/2021 7:17:25 PM]
+  Console command "spawn officer cursor ą" executed by tomacatx1.
+[8/28/2021 7:17:27 PM]
+  Console command "spawn officer cursor 1" executed by tomacatx1.
+[8/28/2021 7:17:28 PM]
+  Console command "spawn officer cursor 2" executed by tomacatx1.
+[8/28/2021 7:17:28 PM]
+  Bell Larsen equipped Gauss Pistol
+[8/28/2021 7:17:29 PM]
+  Bell Larsen attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:17:31 PM]
+  Ruthie Cork equipped Gauss Pistol
+[8/28/2021 7:17:31 PM]
+  Client "tomacatx1" ended the round.
+[8/28/2021 7:17:31 PM]
+  Ending the round...
+[8/28/2021 7:17:32 PM]
+  Round ended.
+[8/28/2021 7:17:47 PM]
+  tomacatx1 has left the server. Reason: tomacatx1 has disconnected.
+[8/28/2021 7:17:59 PM]
+  Saving banlist
+[8/28/2021 7:17:59 PM]
+  Shutting down the server...

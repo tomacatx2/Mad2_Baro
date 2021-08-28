@@ -1,0 +1,84 @@
+﻿[8/28/2021 7:18:49 PM]
+  Saving client permissions
+[8/28/2021 7:18:54 PM]
+  Client "tomacatx1" started the round.
+[8/28/2021 7:18:54 PM]
+  Starting a new round...
+[8/28/2021 7:19:24 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 7:19:24 PM]
+  A mudraptor nest was recently discovered in a cave near Kury City. A reward of 5,000 marks has been promised to any crew that can get rid of the nest.
+[8/28/2021 7:19:24 PM]
+  Game mode: Mission
+[8/28/2021 7:19:24 PM]
+  Submarine: Humpback v3.0 re-2
+[8/28/2021 7:19:24 PM]
+  Level seed: h74mhbiN
+[8/28/2021 7:19:24 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 7:19:24 PM]
+  Round started.
+[8/28/2021 7:19:30 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 7:19:32 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[8/28/2021 7:19:39 PM]
+  Console command "spawn officer cursor" executed by tomacatx1.
+[8/28/2021 7:19:48 PM]
+  Console command "spawn officer cursor 0" executed by tomacatx1.
+[8/28/2021 7:19:48 PM]
+  Abe Hurley equipped Gauss Pistol
+[8/28/2021 7:19:49 PM]
+  Ahmed Harp equipped Gauss Pistol
+[8/28/2021 7:19:49 PM]
+  tomacatx1 equipped Revolver
+[8/28/2021 7:19:50 PM]
+  Ahmed Harp attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:19:51 PM]
+  Ahmed Harp attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:19:52 PM]
+  Abe Hurley attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:19:55 PM]
+  Ahmed Harp has died (Cause of death: Gunshot wound)
+[8/28/2021 7:20:01 PM]
+  tomacatx1 picked up Blood Pack
+[8/28/2021 7:20:01 PM]
+  tomacatx1 picked up Bandage
+[8/28/2021 7:20:03 PM]
+  Abe Hurley unequipped Gauss Pistol
+[8/28/2021 7:20:06 PM]
+  Console command "heal tomacatx1" executed by tomacatx1.
+[8/28/2021 7:20:09 PM]
+  tomacatx1 dropped Revolver
+[8/28/2021 7:20:12 PM]
+  tomacatx1 picked up Gauss Pistol Magazine
+[8/28/2021 7:20:12 PM]
+  tomacatx1 picked up Gauss Pistol Magazine
+[8/28/2021 7:20:12 PM]
+  tomacatx1 picked up Gauss Pistol Magazine
+[8/28/2021 7:20:15 PM]
+  tomacatx1 unequipped Gauss Pistol
+[8/28/2021 7:20:16 PM]
+  tomacatx1 equipped Gauss Pistol
+[8/28/2021 7:20:31 PM]
+  Console command "spawn mechanic cursor 0" executed by tomacatx1.
+[8/28/2021 7:20:33 PM]
+  Barton Bushman attacked by tomacatx1. Gunshot wound: 15 Bleeding: 30
+[8/28/2021 7:20:35 PM]
+  Barton Bushman attacked by tomacatx1. Gunshot wound: 15 Bleeding: 30
+[8/28/2021 7:20:36 PM]
+  Barton Bushman attacked by tomacatx1. Gunshot wound: 15 Bleeding: 30
+[8/28/2021 7:20:36 PM]
+  Barton Bushman attacked by tomacatx1. Gunshot wound: 15 Bleeding: 30
+[8/28/2021 7:20:36 PM]
+  Barton Bushman attacked by tomacatx1. Gunshot wound: 15 Bleeding: 30
+[8/28/2021 7:20:37 PM]
+  Barton Bushman attacked by tomacatx1. Gunshot wound: 15 Bleeding: 30
+[8/28/2021 7:20:41 PM]
+  Barton Bushman attacked by tomacatx1. Gunshot wound: 15 Bleeding: 30
+[8/28/2021 7:20:45 PM]
+  Client "tomacatx1" ended the round.
+[8/28/2021 7:20:45 PM]
+  Ending the round...
+[8/28/2021 7:20:45 PM]
+  Round ended.

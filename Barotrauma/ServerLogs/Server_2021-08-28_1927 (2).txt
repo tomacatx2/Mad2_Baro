@@ -1,0 +1,54 @@
+﻿[8/28/2021 7:25:27 PM]
+  Saving client permissions
+[8/28/2021 7:25:30 PM]
+  Client "tomacatx1" started the round.
+[8/28/2021 7:25:30 PM]
+  Starting a new round...
+[8/28/2021 7:26:07 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 7:26:07 PM]
+  A mudraptor nest was recently discovered in a cave near Kennet Linea Mining Claim. A reward of 5,000 marks has been promised to any crew that can get rid of the nest.
+[8/28/2021 7:26:07 PM]
+  Game mode: Mission
+[8/28/2021 7:26:07 PM]
+  Submarine: Humpback v3.0 re-2
+[8/28/2021 7:26:07 PM]
+  Level seed: ESGcQh0A
+[8/28/2021 7:26:07 PM]
+  Mission: Destroy a Mudraptor nest
+[8/28/2021 7:26:07 PM]
+  Round started.
+[8/28/2021 7:26:11 PM]
+  tomacatx1 set the value "Channel" of the item "Headset" to "0".
+[8/28/2021 7:26:19 PM]
+  Console command "spawn officer cursor" executed by tomacatx1.
+[8/28/2021 7:26:22 PM]
+  Console command "enablecheats" executed by tomacatx1.
+[8/28/2021 7:26:26 PM]
+  Console command "spawn officer cursor" executed by tomacatx1.
+[8/28/2021 7:26:28 PM]
+  tomacatx1 equipped Revolver
+[8/28/2021 7:26:30 PM]
+  Dewitt Pool attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:26:32 PM]
+  Dewitt Pool attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:26:32 PM]
+  Dewitt Pool: Please, no!
+[8/28/2021 7:26:33 PM]
+  tomacatx1 has lost more than 25 karma in the past minute.
+[8/28/2021 7:26:33 PM]
+  Dewitt Pool attacked by tomacatx1. Bleeding: 40 Gunshot wound: 15 Stun: 0.4
+[8/28/2021 7:26:34 PM]
+  Dewitt Pool attacked by tomacatx1. Bleeding: 32 Gunshot wound: 9 Stun: 0.4
+[8/28/2021 7:26:34 PM]
+  Dewitt Pool equipped Gauss Pistol
+[8/28/2021 7:26:35 PM]
+  Dewitt Pool attacked by tomacatx1. Bleeding: 32 Gunshot wound: 9 Stun: 0.4
+[8/28/2021 7:26:35 PM]
+  Dewitt Pool: I'm losing blood!
+[8/28/2021 7:26:51 PM]
+  Client "tomacatx1" ended the round.
+[8/28/2021 7:26:51 PM]
+  Ending the round...
+[8/28/2021 7:26:51 PM]
+  Round ended.

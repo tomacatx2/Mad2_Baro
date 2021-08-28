@@ -122,6 +122,9 @@
         name="[BOS]Muisc"
         enabled="true" />
       <package
+        name="Extra Clothes"
+        enabled="true" />
+      <package
         name="EK Marauder Mk-II" />
       <package
         name="EK NurseShark Mk-I" />

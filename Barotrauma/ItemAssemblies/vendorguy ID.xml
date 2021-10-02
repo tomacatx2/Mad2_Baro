@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemAssembly name="vendorguy ID" description="" hideinmenus="false">
+  <Item name="" identifier="idcard" ID="228" rect="-16,8,16,16" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="1" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,idcard,id_vendorguy" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.8" hiddeningame="False">
+    <IdCard pickingtime="0" canbepicked="True" allowingameediting="True" msg="This seems to be a vending machine maintenace ID..." />
+  </Item>
+</ItemAssembly>
